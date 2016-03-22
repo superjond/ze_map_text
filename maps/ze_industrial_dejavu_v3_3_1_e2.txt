@@ -92,4 +92,64 @@
 	{
 		"chi"		"** **"
 	}
+	"*** CURRENT MODE: NORMAL ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIE WEAPONS & NORMAL INFECTION ***"
+	{
+		"chi"		"** **"
+	}
+	"*** EXIT HELP PUSH ACTIVATED ON NORMAL MODE ***"
+	{
+		"chi"		"** **"
+	}
+	"*Laser wall generator has been picked up. Press +USE (E) to activate.*"
+	{
+		"chi"		"** **"
+	}
+	"*It has a 60 seconds cooldown.*"
+	{
+		"chi"		"** **"
+	}
+	"* Vortex zombie has been summoned. Press +USE (E) to activate.*"
+	{
+		"chi"		"** **"
+	}
+	"*It has a 120 seconds cooldown.*"
+	{
+		"chi"		"** **"
+	}
+	"*** OH NOES!!! IT'S A BOSS WITH STRANGELY FAMILIAR LOOKS!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The boss has been defeated! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD! The door opens in 15 seconds!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO! GO! GO! LET'S LEAVE THIS PLACE! ***"
+	{
+		"chi"		"** **"
+	}
+	"* Zombie rage has been picked up. Press +USE (E) to activate.*"
+	{
+		"chi"		"** **"
+	}
+	"*** Helicopter comes in 30 seconds. ***"
+	{
+		"chi"		"** **"
+	}
+	"***Evacuate!!!***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIES DETECTED - INVALID VICTORY ***"
+	{
+		"chi"		"** **"
+	}
 }
