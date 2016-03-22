@@ -2,15 +2,18 @@
 {
 	"***30 seconds for pressing button!!!***"
 	{
-		"chi"		"** 30秒按下按钮 **"
+		"chi"		"** 30秒内按下按钮 **"
+		"DoorCountdown"		"30"
 	}
 	"***30 second for pressing button!!!***"
 	{
-		"chi"		"** 30秒按下按钮 **"
+		"chi"		"** 30秒内按下按钮 **"
+		"DoorCountdown"		"30"
 	}
 	"***30 seconds for pressing right button!!!***"
 	{
-		"chi"		"** 30秒，请按下右边按钮 **"
+		"chi"		"** 30秒内，请按下右边按钮 **"
+		"DoorCountdown"		"30"
 	}
 	"map made by -sang-. helper: V1KT0P"
 	{
@@ -18,34 +21,34 @@
 	}
 	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图测试服务器： Sakura[CS:S],POSSESSION[CS:GO] **"
 	}
 	"*** map created by thas ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 创建地图 by：thas **"
 	}
 	"*** CURRENT STAGE IS 1: Overworld ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 阶段1：上流社会 **"
 	}
 	"ZE Sunlight"
 	{
-		"chi"		"** **"
+		"chi"		"** ZE 日光（谜？） **"
 	}
 	">>>Respawn wall break in 20 sec<<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 20秒后墙壁将会破坏 **"
 	}
 	"** ZE_CHRISTMAS_INFECTION **"
 	{
-		"chi"		"** **"
+		"chi"		"** ZE_CHRISTMAS_INFECTION **"
 	}
 	"** LEVEL: NOT TOO ROUGH **"
 	{
-		"chi"		"** **"
+		"chi"		"** 难度：不太粗暴 **"
 	}
 	"+++  MAP MADE BY GARGANTUA +++"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作者 By：GARGANTUA **"
 	}
 }
