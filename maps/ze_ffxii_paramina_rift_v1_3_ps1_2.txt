@@ -6,7 +6,7 @@
 	}
 	"** [STAGE 1] PARAMINA RIFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**第一幕 帕拉米娅高原 **"
 	}
 	"Stage 1 - Find a way through Paramina Rift and locate the Stilshrine of Miriam.."
 	{
@@ -14,23 +14,23 @@
 	}
 	"** [DIFFICULTY] NORMAL **"
 	{
-		"chi"		"** **"
+		"chi"		"**难度 正常 **"
 	}
 	"** COLLECT 500 GIL BY FINDING TREASURE CHESTS OR BY DESTROYING TOWERS => REWARD - POTIONS IN STAGE 2"
 	{
-		"chi"		"**找到财宝达到500分即可在第二幕开启药水奖励！**"
+		"chi"		"**找到财宝达到500GIL即可在第二幕开启药水奖励！**"
 	}
 	"** MAP BY SLAYERDRAGON **"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：SLAYERDRAGON **"
 	}
 	"** SIDEQUEST Collect 500 gil STARTED **"
 	{
-		"chi"		"**在两边总共获得500GIL**"
+		"chi"		"**一共需要获得500GIL**"
 	}
 	"** 35 GIL OBTAINED BY DEACTIVATING A TOWER **"
 	{
-		"chi"		"** **"
+		"chi"		"**破坏水晶塔能得到35GIL **"
 	}
 	"** GATE OPENS IN 15 SECONDS **"
 	{
@@ -42,7 +42,7 @@
 	}
 	"** Player has learned FIRE (fire lvl1) **"
 	{
-		"chi"		"**玩家拿到了火！（火LV1）**"
+		"chi"		"**玩家拿到了点燃！（火LV1）**"
 	}
 	"** GATES OPEN IN 30 SECONDS **"
 	{
@@ -63,7 +63,7 @@
 	}
 	"** DESTROY ALL ENEMY TOWERS BY SHOOTING THE CRYSTALS ON TOP OF THEM => REWARD - POTIONS IN STAGE 2"
 	{
-		"chi"		"**射击敌人的塔楼上的水晶能在第二幕开启药水奖励！**"
+		"chi"		"**射击并破坏所有敌人的塔楼上的水晶能在第二幕开启药水奖励！**"
 	}
 	"** SIDEQUEST Destroy enemy towers STARTED **"
 	{
@@ -75,7 +75,7 @@
 	}
 	"** Player has learned AERO (wind lvl2) **"
 	{
-		"chi"		"**玩家学会了风！（风LV1）**"
+		"chi"		"**玩家学会了吹息！（风LV1）**"
 	}
 	"** Player has learned POISONA (damage lvl3) **"
 	{
@@ -83,7 +83,7 @@
 	}
 	"** Player has learned CURE (heal lvl2) **"
 	{
-		"chi"		"**玩家学会了治疗魔法（治疗LV2）**"
+		"chi"		"**玩家学会了恢复术！（治疗LV2）**"
 	}
 	"** 25 TOWERS DESTROYED! **"
 	{
@@ -120,7 +120,7 @@
 	}
 	"** Player has learned POISON (damage lvl1) **"
 	{
-		"chi"		"**玩家学会了毒药魔法！（伤害LV1）**"
+		"chi"		"**玩家学会了毒魔法！（伤害LV1）**"
 	}
 	"** Player has learned AERO (wind lvl1) **"
 	{
@@ -164,7 +164,7 @@
 	}
 	"** YOU COULD USE FIRE TO MELT IT FASTER.. **"
 	{
-		"chi"		"**你们可以使用火来让他融化的快些**"
+		"chi"		"**你们可以使用火来让冰块融化的快些**"
 	}
 	"** THE ICE IS MELTED - DOOR SHOULD BE OPEN SOON **"
 	{
@@ -253,11 +253,11 @@
 	}
 	"** Congratulations - you won STAGE 1 NORMAL **"
 	{
-		"chi"		"** **"
+		"chi"		"**祝贺！你们通过了第一幕！ **"
 	}
 	"Stage 2 - Find the hidden treasures and defeat the Esper Mateus in Stilshrine of Miriam.."
 	{
-		"chi"		"**第二幕，找到隐藏的宝藏并几百BOSS**"
+		"chi"		"**第二幕，找到隐藏的宝藏并击败BOSS**"
 	}
 	"** [STAGE 2] STILSHRINE OF MIRIAM **"
 	{
@@ -269,7 +269,7 @@
 	}
 	"** SOLVE THE STATUE PUZZLE **"
 	{
-		"chi"		"**解决石像谜题！**"
+		"chi"		"**解决石像谜题！（转动石像至正确的位置！）**"
 	}
 	"** ALL STATUES HAVE BEEN ALIGNED.. **"
 	{
@@ -289,7 +289,7 @@
 	}
 	"** BARRIER 1 OPENS IN 15 SECS **"
 	{
-		"chi"		"**障碍15秒后打开！**"
+		"chi"		"**障碍1号15秒后打开！**"
 	}
 	"** BARRIER 2 OPENS IN 15 SECS"
 	{
@@ -305,11 +305,11 @@
 	}
 	"** COVER AND WAIT FOR SOMETHING TO HAPPEN **"
 	{
-		"chi"		"**将有什么事情会发生....**"
+		"chi"		"**在这儿坚守，似乎将有什么事情会发生....**"
 	}
 	"** THE SWORD WILL OPEN THE WAY SOON **"
 	{
-		"chi"		"**巨剑即将挪动！**"
+		"chi"		"**巨剑即将挪动！出口出现了！**"
 	}
 	"** Player has acquired a HOLY-POTION **"
 	{
@@ -391,35 +391,35 @@
 	}
 	"55 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 55 **"
 	}
 	"53 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 53 **"
 	}
 	"50 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 50 **"
 	}
 	"48 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 48 **"
 	}
 	"45 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 45 **"
 	}
 	"43 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 43 **"
 	}
 	"65 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 65 **"
 	}
 	"63 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 63 **"
 	}
 	"** BOSS MATEUS CHARGES HIS LAST ATTACK!  **"
 	{
@@ -427,31 +427,31 @@
 	}
 	"** 15 SECONDS BEFORE EVERYONE FREEZES TO DEATH!  **"
 	{
-		"chi"		"**还有15秒最终冲击就要到来！**"
+		"chi"		"**还有15秒极寒冲击（终极）就要到来！**"
 	}
 	"60 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 60 **"
 	}
 	"83 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 83 **"
 	}
 	"80 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 80 **"
 	}
 	"78 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 78 **"
 	}
 	"75 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 75 **"
 	}
 	"73 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 73 **"
 	}
 	"** MATEUS IS CHARGING FOR SUPERATTACK **"
 	{
@@ -459,11 +459,11 @@
 	}
 	"15 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 15 **"
 	}
 	"58 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 58 **"
 	}
 	"** BOSS HAS BEEN STAGGERED **"
 	{
@@ -479,7 +479,7 @@
 	}
 	"85 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 85 **"
 	}
 	"** Player has acquired the esper MATEUS **"
 	{
@@ -508,47 +508,47 @@
 	}
 	"13 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 13 **"
 	}
 	"10 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 10 **"
 	}
 	"8 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 8 **"
 	}
 	"5 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 5 **"
 	}
 	"3 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 3 **"
 	}
 	"33 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 33 **"
 	}
 	"30 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 30 **"
 	}
 	"28 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 28 **"
 	}
 	"25 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 25 **"
 	}
 	"70 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 70 **"
 	}
 	"68 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 68 **"
 	}
 	"** LIFT IS LEAVING IN 5 SECONDS **"
 	{
@@ -568,7 +568,7 @@
 	}
 	"** Congratulations - you won STAGE 2 NORMAL **"
 	{
-		"chi"		"** **"
+		"chi"		"**祝贺！你们在第二幕获得了胜利！ **"
 	}
 	"** [DIFFICULTY] INSANE **"
 	{
@@ -584,15 +584,15 @@
 	}
 	"** OH NO - THEY SUMMONED CHAOS **"
 	{
-		"chi"		"** **"
+		"chi"		"**OH！不！他们唤醒了卡奥斯！ **"
 	}
 	"** CHAOS IS CASTING RAINS OF TERROR **"
 	{
-		"chi"		"** **"
+		"chi"		"**卡奥斯在召唤陨石雨！ **"
 	}
 	"** TREASURE +87 GIL FOUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**找到宝藏！+87GIL **"
 	}
 	"** Player has learned AEROGA (wind lvl4) **"
 	{
@@ -600,19 +600,19 @@
 	}
 	"95 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 95 **"
 	}
 	"93 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 93 **"
 	}
 	"90 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 90 **"
 	}
 	"88 '. STAGGER"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS虚弱度 88 **"
 	}
 	"** The esper MATEUS is killed in action **"
 	{
@@ -628,7 +628,7 @@
 	}
 	"** TREASURE +64 GIL FOUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**找到宝藏！+64GIL **"
 	}
 	"** CHAOS IS DEFEATED ONCE AND FOR ALL **"
 	{
@@ -672,7 +672,7 @@
 	}
 	"** TREASURE +120 GIL FOUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**找到宝藏！+120GIL **"
 	}
 	"** [ADMIN] LEVEL CHANGED TO STAGE 2 NORMAL **"
 	{
@@ -680,18 +680,18 @@
 	}
 	"** TREASURE +100 GIL FOUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**找到宝藏！+100GIL **"
 	}
 	"** TREASURE +1 GIL FOUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**找到宝藏！+1GIL **"
 	}
 	"** TREASURE +71 GIL FOUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**找到宝藏！+71GIL **"
 	}
 	"** TREASURE +113 GIL FOUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**找到宝藏！+113GIL **"
 	}
 }
