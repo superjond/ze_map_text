@@ -1,9 +1,5 @@
 "Console_T"
 {
-	"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
-	{
-		"chi"		"** **"
-	}
 	"***Map ported by 單純***"
 	{
 		"chi"		"** **"
@@ -17,6 +13,10 @@
 		"chi"		"** **"
 	}
 	"*** HELPING PUSHES ACTIVATED ON EASY MODE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
 	{
 		"chi"		"** **"
 	}

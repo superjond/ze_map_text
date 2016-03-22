@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"*The zombies are trying to get on our elevator. Shoot!!!*"
+	{
+		"chi"		"** **"
+	}
+	"*Offensive module loaded: Laser meat slasher*"
+	{
+		"chi"		"** **"
+	}
+	"*Offensive module loaded: Napalm shower module.*"
+	{
+		"chi"		"** **"
+	}
+	"*Last offensive module activated: Plasma cannon module loaded*"
+	{
+		"chi"		"** **"
+	}
+}
