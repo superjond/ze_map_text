@@ -2,7 +2,7 @@
 {
 	"** CURRENT LEVEL: EASY **"
 	{
-		"chi"		"** **"
+		"chi"		"**当前难度:简单**"
 	}
 	"** TIP: You can pick up special items from the spinning presents randomly placed in the map. **"
 	{
