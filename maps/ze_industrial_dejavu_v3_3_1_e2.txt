@@ -88,4 +88,8 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Strangely near door opens in 12 seconds. ***"
+	{
+		"chi"		"** **"
+	}
 }

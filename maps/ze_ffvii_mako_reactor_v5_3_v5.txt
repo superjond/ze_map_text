@@ -197,7 +197,7 @@
 	}
 	"** A player has adquired ELECTRO MATERIA **"
 	{
-		"chi"		"**>>一位玩家拾起了电神器<<**"
+		"chi"		"**>>一位玩家拾起了电元素<<**"
 	}
 	"**Nice done! You interrumped Sephiroth s attack**"
 	{
