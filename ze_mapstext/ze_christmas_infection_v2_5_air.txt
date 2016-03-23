@@ -34,7 +34,7 @@
 	}
 	"*** The door opens in 5 seconds. RESIST!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门在5秒后打开.防御!!!**"
 	}
 	"** Well done! The door will open in 15 seconds! **"
 	{

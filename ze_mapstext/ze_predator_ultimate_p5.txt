@@ -21,7 +21,7 @@
 		"chi"		"**守住50秒**"
 		"DoorCountdown"		"50"
 	}
-	"***Fall Back***"
+	"***FALL BACK***"
 	{
 		"chi"		"**撤退！**"
 	}
@@ -96,6 +96,7 @@
 	"***HOLD FOR 30 seconds***"
 	{
 		"chi"		"**守住30秒！**"
+		"DoorCountdown"		"30"
 	}
 	"***TELEPORTING EVERYONE TO CLIFF HIDEOUT***"
 	{

@@ -239,7 +239,7 @@
 	{
 		"chi"		"**warning:20 seconds left!!!**"
 	}
-	"** 10 seconds left **"
+	"** 10 SECONDS LEFT **"
 	{
 		"chi"		"**warning:10 seconds left!!!**"
 	}
