@@ -1,0 +1,215 @@
+"Console_T"
+{
+	"@[Map] Map by Blogger(Dog)"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] The Chain Gang of 1974 - Sleepwalking"
+	{
+		"chi"		"** **"
+	}
+	"@[Map]  AFK TIMER in 30 sec"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Find the Pieces - A Minecraft Original Music"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Haddaway What is love"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Sky Knife"
+	{
+		"chi"		"** **"
+	}
+	"@[Security] Step away from the box, you do not have the right to take the gun"
+	{
+		"chi"		"** **"
+	}
+	"@[Security] Stand back or be killed"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Hook N Sling & Nervo - Reason (Vicetone Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] SURVIVAL"
+	{
+		"chi"		"** **"
+	}
+	"@[Time] 3 minute before the knifes"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] The Colourist - We Won't Go Home (The Jane Doze Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] AWP"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Bridge open"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Long Jump"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Tobu Seven"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Hunger Games Labyrinth"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 30 Seconds Before the battle"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 20 Seconds Before the battle"
+	{
+		"chi"		"** **"
+	}
+	"@[Creeper] BOOOMMM!!!"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 10 Seconds Before the battle"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 5 Seconds Before the battle"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Battle"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] AFK TIMER in 10 sec"
+	{
+		"chi"		"** **"
+	}
+	"@[Time] 2 minute before the knifes"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Kanye West - POWER Lyrics"
+	{
+		"chi"		"** **"
+	}
+	"@[Time] 1 minute before the knifes"
+	{
+		"chi"		"** **"
+	}
+	"@[Time] 10 seconds before the knifes"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Spawn fight"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Random Weapon"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Weapon Deagle"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Smoke Battle"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Boss Battle"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Easy mod"
+	{
+		"chi"		"** **"
+	}
+	"@[Hp] 15000Hp"
+	{
+		"chi"		"** **"
+	}
+	"@[Time] 3 minute 30 seconds before the arrival of the main ghast"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] AFK TIMER activated"
+	{
+		"chi"		"** **"
+	}
+	"@[Time] 2 minute 30 seconds before the arrival of the main ghast"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Weapon P90"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Weapon M4A1"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] RANDOM GAME WILL BE CHOSEN"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Weapon Knife"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Hard mod"
+	{
+		"chi"		"** **"
+	}
+	"@[Hp] 40000 HP"
+	{
+		"chi"		"** **"
+	}
+	"@[Time] 5 minute 30 seconds before the arrival of the main ghast"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Weapon Awp"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Medium mod"
+	{
+		"chi"		"** **"
+	}
+	"@[Hp] 25000HP"
+	{
+		"chi"		"** **"
+	}
+	"@[Time] 4 minute 30 seconds before the arrival of the main ghast"
+	{
+		"chi"		"** **"
+	}
+	"@[Time] 1 minute 30 seconds before the arrival of the main ghast"
+	{
+		"chi"		"** **"
+	}
+	"@[Time] 30 seconds before the arrival of the main ghast"
+	{
+		"chi"		"** **"
+	}
+	"@[Time] People lost"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Weapon Nova"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,267 @@
+"Console_T"
+{
+	"@[Map] Map by Blogger(Dog)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Player selected"
+	{
+		"chi"		"** **"
+	}
+	"@[Map]  AFK TIMER in 30 sec"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Climb"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 3 MINUTES REMAINING"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Arman Cekin - Hold On Ft. BR-VE"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Skate"
+	{
+		"chi"		"** **"
+	}
+	"@[Mod] Normal nod"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Calvin Harris ft. Ellie Goulding - Outside (Anevo Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Grenades"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Sander van Doorn, Martin Garrix, DVBBS ft. Aleesia - Gold Skies (Justin Caruso Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Randomly selection"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Falling Boxes"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Dope Arcade - Ascension (MitiS Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Random Timer Enabled"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Refire Time - 3 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Refire Time - 2 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Refire Time -  1 second"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Refire Time -  0.5 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Arena fight"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Random Weapon"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Weapon Awp"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] PISTOLS"
+	{
+		"chi"		"** **"
+	}
+	"@[Mod] Headshot mod"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] AFK KILLER"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] FOOTBALL"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 5 MINUTES REMAINING"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Matisyahu - Live Like A Warrior (Richello Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 4 MINUTES REMAINING"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 2 MINUTES REMAINING"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] GOAL!!!!"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] CT give weapons"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Weapon AK-47"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Krewella - Come And Get It (Razihel Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 1 MINUTES REMAINING"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] BhopBattle"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 60 seconds before the battle"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 5"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 4"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 3"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 2"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 1"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Battle"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Holes"
+	{
+		"chi"		"** **"
+	}
+	"@[Time] TimeLimit"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Random Timer Disabled"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Refire Time -  0.3 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Refire Time - 0.2 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] AFK TIMER in 10 sec"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] AFK TIMER activated"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] RANDOM GAME WILL BE CHOSEN"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Imagine Dragons - On Top of the World - Lyrics"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] T Win"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Weapon Scout"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Surf Battle"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] TimeLimit"
+	{
+		"chi"		"** **"
+	}
+	"@[Mod] BackStab mod"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] T give weapons"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] MASTER CHIEF MODE ENABLED"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Admins can activate this by noclipping to the admin room."
+	{
+		"chi"		"** **"
+	}
+	"@[Map] CT Win"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] AIM"
+	{
+		"chi"		"** **"
+	}
+	"Music : Just Jack - Basement"
+	{
+		"chi"		"** **"
+	}
+	"Map made by Mathijs"
+	{
+		"chi"		"** **"
+	}
+	"Map ported by sG | Waffles"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Weapon Deagle"
+	{
+		"chi"		"** **"
+	}
+}

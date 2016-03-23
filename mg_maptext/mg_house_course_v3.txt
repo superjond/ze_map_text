@@ -1,0 +1,35 @@
+"Console_T"
+{
+	"AFK Killer in 30 Secends!"
+	{
+		"chi"		"**挂机处死将在30秒内生效**"
+	}
+	"Map by Ice and Fire Steam 1:0:52362682"
+	{
+		"chi"		"** **"
+	}
+	"如果发现BUG请联系我"
+	{
+		"chi"		"** **"
+	}
+	"--> Spawn Protection in 30 Seconds <--"
+	{
+		"chi"		"** **"
+	}
+	"Map by Darnias"
+	{
+		"chi"		"** **"
+	}
+	"--> Spawn Protection in 40 Seconds <--"
+	{
+		"chi"		"** **"
+	}
+	"*** Map made by ProfessorOak ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Made for Tweakgaming.com ***"
+	{
+		"chi"		"** **"
+	}
+}

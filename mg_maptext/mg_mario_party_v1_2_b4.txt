@@ -1,0 +1,291 @@
+"Console_T"
+{
+	"By I'm the new guy STEAM_0:1:14214794"
+	{
+		"chi"		"** **"
+	}
+	"and Andr0iid^ STEAM_0:1:605215"
+	{
+		"chi"		"** **"
+	}
+	"***Platform Peril Selected***"
+	{
+		"chi"		"** **"
+	}
+	"***Auto Select in 40 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Map by DTK Development Team***"
+	{
+		"chi"		"** **"
+	}
+	"***Random weapon fight in spawn!***"
+	{
+		"chi"		"** **"
+	}
+	"***Fight Yard Selected***"
+	{
+		"chi"		"** **"
+	}
+	"***Hunger Games Selected***"
+	{
+		"chi"		"** **"
+	}
+	"Game Starting in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"***Hunger Games is Free for all***"
+	{
+		"chi"		"** **"
+	}
+	"Hunger Games Started!"
+	{
+		"chi"		"** **"
+	}
+	"***ScoutzKnivez Selected***"
+	{
+		"chi"		"** **"
+	}
+	"***Pirate Climb Selected***"
+	{
+		"chi"		"** **"
+	}
+	"Race in 3..."
+	{
+		"chi"		"** **"
+	}
+	"2..."
+	{
+		"chi"		"** **"
+	}
+	"1..."
+	{
+		"chi"		"** **"
+	}
+	"Go!"
+	{
+		"chi"		"** **"
+	}
+	"***Knife Arena Selected***"
+	{
+		"chi"		"** **"
+	}
+	"***Mario Says Selected***"
+	{
+		"chi"		"** **"
+	}
+	"Get onto a platform. Game starting in 15 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Game starting in 3 Seconds..."
+	{
+		"chi"		"** **"
+	}
+	"***Speed SMGs Selected***"
+	{
+		"chi"		"** **"
+	}
+	"***Chain Chomp Selected***"
+	{
+		"chi"		"** **"
+	}
+	"***Obstacle Selected***"
+	{
+		"chi"		"** **"
+	}
+	"AFK Killer enabling in 10 seconds."
+	{
+		"chi"		"** **"
+	}
+	"***Box Game Selected***"
+	{
+		"chi"		"** **"
+	}
+	"***Block Game Timer - 90 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Block Game Timer - 60 seconds left***"
+	{
+		"chi"		"** **"
+	}
+	"***Hexagon Heat Selected***"
+	{
+		"chi"		"** **"
+	}
+	"***Hexagon Heat Starting in 10 seconds...***"
+	{
+		"chi"		"** **"
+	}
+	"***Start!***"
+	{
+		"chi"		"** **"
+	}
+	"***King of the hill Selected***"
+	{
+		"chi"		"** **"
+	}
+	"CTs have captured the center!"
+	{
+		"chi"		"** **"
+	}
+	"CTs have 15 seconds left on timer!"
+	{
+		"chi"		"** **"
+	}
+	"CTs have 10 seconds left on timer!"
+	{
+		"chi"		"** **"
+	}
+	"CTs have 5 seconds left on timer!"
+	{
+		"chi"		"** **"
+	}
+	"CTs have 4 seconds left on timer!"
+	{
+		"chi"		"** **"
+	}
+	"CTs have 3 seconds left on timer!"
+	{
+		"chi"		"** **"
+	}
+	"CTs have 2 seconds left on timer!"
+	{
+		"chi"		"** **"
+	}
+	"CTs have 1 seconds left on timer!"
+	{
+		"chi"		"** **"
+	}
+	"CTs win!"
+	{
+		"chi"		"** **"
+	}
+	"***Pirate Island Selected***"
+	{
+		"chi"		"** **"
+	}
+	"***Game Starting in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Knives have spawned***"
+	{
+		"chi"		"** **"
+	}
+	"***Random Selected***"
+	{
+		"chi"		"** **"
+	}
+	"Ts have captured the center!"
+	{
+		"chi"		"** **"
+	}
+	"Ts have 15 seconds left on timer!"
+	{
+		"chi"		"** **"
+	}
+	"Ts have 10 seconds left on timer!"
+	{
+		"chi"		"** **"
+	}
+	"Ts have 5 seconds left on timer!"
+	{
+		"chi"		"** **"
+	}
+	"Ts have 4 seconds left on timer!"
+	{
+		"chi"		"** **"
+	}
+	"Ts have 3 seconds left on timer!"
+	{
+		"chi"		"** **"
+	}
+	"Ts have 2 seconds left on timer!"
+	{
+		"chi"		"** **"
+	}
+	"Ts have 1 seconds left on timer!"
+	{
+		"chi"		"** **"
+	}
+	"Ts win!"
+	{
+		"chi"		"** **"
+	}
+	"Race Starting in Five seconds"
+	{
+		"chi"		"** **"
+	}
+	"Three..."
+	{
+		"chi"		"** **"
+	}
+	"Two..."
+	{
+		"chi"		"** **"
+	}
+	"One..."
+	{
+		"chi"		"** **"
+	}
+	"Go!!"
+	{
+		"chi"		"** **"
+	}
+	"***Skipping Selected***"
+	{
+		"chi"		"** **"
+	}
+	"Game Starting in 10 seconds..."
+	{
+		"chi"		"** **"
+	}
+	"***Knives spawning in 2minutes***"
+	{
+		"chi"		"** **"
+	}
+	"***Skipping Starting***"
+	{
+		"chi"		"** **"
+	}
+	"***Sniper Thwomps Selected***"
+	{
+		"chi"		"** **"
+	}
+	"***Auto Kill Trigger in 90 seconds...***"
+	{
+		"chi"		"** **"
+	}
+	"***Auto Kill Trigger in 60 seconds...***"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] MASTER CHIEF MODE ENABLED"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Admins can activate this by noclipping to the admin room."
+	{
+		"chi"		"** **"
+	}
+	"***Auto Kill Trigger in 30 seconds...***"
+	{
+		"chi"		"** **"
+	}
+	"***Block Game Timer - 30 seconds left***"
+	{
+		"chi"		"** **"
+	}
+	"***Block Game Timer - 10 seconds left***"
+	{
+		"chi"		"** **"
+	}
+	"***Block Game Over***"
+	{
+		"chi"		"** **"
+	}
+}

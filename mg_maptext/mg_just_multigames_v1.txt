@@ -1,0 +1,203 @@
+"Console_T"
+{
+	"@[Map] Map by Blogger(Dog)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map]  AFK TIMER in 30 sec"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] FOOTBALL"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] PISTOLS"
+	{
+		"chi"		"** **"
+	}
+	"@[Mod] Headshot mod"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] AFK KILLER"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Falling Boxes"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Random Timer Enabled"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Refire Time - 3 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Refire Time - 2 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Refire Time -  1 second"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Refire Time -  0.5 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] AWP"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Arena fight"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Random Weapon"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Weapon AK-47"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Random Timer Disabled"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Refire Time -  0.3 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Winners Get 10 Points"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] BhopBattle"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 60 seconds before the battle"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 5"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 4"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 3"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 2"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 1"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Battle"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] AFK TIMER in 10 sec"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] AFK TIMER activated"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] RANDOM GAME WILL BE CHOSEN"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Grenades"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Randomly selection"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Fight Spawn Knife 200HP"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Surf Battle"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] GOAL!!!!"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] TimeLimit"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Skate"
+	{
+		"chi"		"** **"
+	}
+	"@[Mod] BackStab"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Weapon Deagle"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] AIM"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Climb"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 3 MINUTES REMAINING"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 2 MINUTES REMAINING"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 1 MINUTES REMAINING"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Weapon Scout"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] This map does not work with bots..."
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Map by [SG] Paul"
+	{
+		"chi"		"** **"
+	}
+	"***Auto Select in 40 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Map by DTK Development Team***"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 30 Seconds"
+	{
+		"chi"		"** **"
+	}
+}

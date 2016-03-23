@@ -1,0 +1,27 @@
+"Console_T"
+{
+	"Map Build By Pilot"
+	{
+		"chi"		"** **"
+	}
+	"AFK Killer in 30 Secends!"
+	{
+		"chi"		"** **"
+	}
+	"AFK Killer ON!"
+	{
+		"chi"		"** **"
+	}
+	">>Map made by Jenz and Onederp<<"
+	{
+		"chi"		"** **"
+	}
+	"Map by Darnias"
+	{
+		"chi"		"** **"
+	}
+	"--> Spawn Protection in 40 Seconds <--"
+	{
+		"chi"		"** **"
+	}
+}

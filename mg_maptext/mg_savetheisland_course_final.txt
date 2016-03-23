@@ -1,0 +1,35 @@
+"Console_T"
+{
+	"*** Map made by ProfessorOak ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Made for Tweakgaming.com ***"
+	{
+		"chi"		"** **"
+	}
+	"--> Spawn Protection in 30 Seconds <--"
+	{
+		"chi"		"** **"
+	}
+	"Map by Darnias"
+	{
+		"chi"		"** **"
+	}
+	"AFK Killer in 30 Secends!"
+	{
+		"chi"		"** **"
+	}
+	"Map by Ice and Fire Steam 1:0:52362682"
+	{
+		"chi"		"** **"
+	}
+	"如果发现BUG请联系我"
+	{
+		"chi"		"** **"
+	}
+	"--> Spawn Protection in 40 Seconds <--"
+	{
+		"chi"		"** **"
+	}
+}

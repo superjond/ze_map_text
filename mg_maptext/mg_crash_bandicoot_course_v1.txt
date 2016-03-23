@@ -1,0 +1,15 @@
+"Console_T"
+{
+	"GLaDOS: Welcome to Sodan-Science laboratories."
+	{
+		"chi"		"** **"
+	}
+	"--> Spawn Protection in 20 Seconds <--"
+	{
+		"chi"		"** **"
+	}
+	">>Map made by Jenz and Onederp<<"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,55 @@
+"Console_T"
+{
+	"*** Bunker has been chosen ***"
+	{
+		"chi"		"** **"
+	}
+	"Map made by Cloud for Extreme Network"
+	{
+		"chi"		"** **"
+	}
+	"*** Blinddoge has been chosen ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Maze has been chosen ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Centre of maze has been reached ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Maze wall will break in 60 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Breakcastle has been chosen ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Spawn has been chosen ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Island has been chosen ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Bank has been chosen ***"
+	{
+		"chi"		"** **"
+	}
+	"[Ported for SteamGamers by [SG] Punky]"
+	{
+		"chi"		"** **"
+	}
+	"[Map made by Kirby]"
+	{
+		"chi"		"** **"
+	}
+	"C4 Activated"
+	{
+		"chi"		"** **"
+	}
+}

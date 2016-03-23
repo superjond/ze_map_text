@@ -1,0 +1,447 @@
+"Console_T"
+{
+	">>Shoot Option to Vote<<"
+	{
+		"chi"		"** **"
+	}
+	">>Vote Now!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Keep Shooting at your Option!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Nigthcore - Whistle is now playing<<"
+	{
+		"chi"		"** **"
+	}
+	">>Map by Ghost X - DeadFire19<<"
+	{
+		"chi"		"** **"
+	}
+	">>Nightcore - Angel with a Shotgun is now playing<<"
+	{
+		"chi"		"** **"
+	}
+	">>Nightcore - Welcome to the Club is now playing<<"
+	{
+		"chi"		"** **"
+	}
+	">>Knife Wars Has Been Selected<<"
+	{
+		"chi"		"** **"
+	}
+	">>Vote for Map in 5<<"
+	{
+		"chi"		"** **"
+	}
+	">>Vote for Map in 4<<"
+	{
+		"chi"		"** **"
+	}
+	">>Vote for Map in 3<<"
+	{
+		"chi"		"** **"
+	}
+	">>Vote for Map in 2<<"
+	{
+		"chi"		"** **"
+	}
+	">>Vote for Map in 1<<"
+	{
+		"chi"		"** **"
+	}
+	">>Vote for Map Now<<"
+	{
+		"chi"		"** **"
+	}
+	">>This map is a temporary fix<<"
+	{
+		"chi"		"** **"
+	}
+	">>If you like my maps join my steam group at<<"
+	{
+		"chi"		"** **"
+	}
+	">>steamcommunity.comgroupsghosts_group<<"
+	{
+		"chi"		"** **"
+	}
+	">>Nightcore - Ravers Fantasy is now playing<<"
+	{
+		"chi"		"** **"
+	}
+	">>Team Games Has Been Selected<<"
+	{
+		"chi"		"** **"
+	}
+	">>Vengaboys - Boom Boom is now playing<<"
+	{
+		"chi"		"** **"
+	}
+	">>Nightcore - Disturbia is now playing<<"
+	{
+		"chi"		"** **"
+	}
+	">>Push Knife Has Been Chosen<<"
+	{
+		"chi"		"** **"
+	}
+	">>Warning - You will be pushed into the enemy<<"
+	{
+		"chi"		"** **"
+	}
+	">>5<<"
+	{
+		"chi"		"** **"
+	}
+	">>4<<"
+	{
+		"chi"		"** **"
+	}
+	">>3<<"
+	{
+		"chi"		"** **"
+	}
+	">>2<<"
+	{
+		"chi"		"** **"
+	}
+	">>1<<"
+	{
+		"chi"		"** **"
+	}
+	">>Molotovs spawned<<"
+	{
+		"chi"		"** **"
+	}
+	">>Pro Skills Have Been Selected<<"
+	{
+		"chi"		"** **"
+	}
+	">>Bhop has been Chosen<<"
+	{
+		"chi"		"** **"
+	}
+	">>Race to the end<<"
+	{
+		"chi"		"** **"
+	}
+	">>Hard Arena Selected<<"
+	{
+		"chi"		"** **"
+	}
+	">>Player Has Finished<<"
+	{
+		"chi"		"** **"
+	}
+	">>Low-Grav Knife has been Chosen<<"
+	{
+		"chi"		"** **"
+	}
+	">>Knife it out!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Nightcore - Dont leave me Alone is now playing<<"
+	{
+		"chi"		"** **"
+	}
+	">>Football has been Chosen<<"
+	{
+		"chi"		"** **"
+	}
+	">>Try and score<<"
+	{
+		"chi"		"** **"
+	}
+	">>Alternativly try to kill people with the ball<<"
+	{
+		"chi"		"** **"
+	}
+	">>New Ball Added<<"
+	{
+		"chi"		"** **"
+	}
+	">>Hide and Seek Knife has been Chosen<<"
+	{
+		"chi"		"** **"
+	}
+	">>Easy Arena Selected<<"
+	{
+		"chi"		"** **"
+	}
+	">>Alright im bored<<"
+	{
+		"chi"		"** **"
+	}
+	">>M4s Spawned!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Flashbang Race has been Chosen<<"
+	{
+		"chi"		"** **"
+	}
+	">>Use you Flashbang Wisely<<"
+	{
+		"chi"		"** **"
+	}
+	">>I bet you cant see now<<"
+	{
+		"chi"		"** **"
+	}
+	">>If you arnt past the ladder yet then give up<<"
+	{
+		"chi"		"** **"
+	}
+	"Player has Finished"
+	{
+		"chi"		"** **"
+	}
+	">>Pac Man has been Chosen<<"
+	{
+		"chi"		"** **"
+	}
+	">>Ghost 1 will be released in 5 seconds<<"
+	{
+		"chi"		"** **"
+	}
+	">>The Ghosts eat you...<<"
+	{
+		"chi"		"** **"
+	}
+	">>Ghost 1 is released<<"
+	{
+		"chi"		"** **"
+	}
+	">> CT have Won<<"
+	{
+		"chi"		"** **"
+	}
+	">> T have Won<<"
+	{
+		"chi"		"** **"
+	}
+	">>Strafe Jump has been Chosen<<"
+	{
+		"chi"		"** **"
+	}
+	">>Jump on the platform in front at the sound of each buzzer<<"
+	{
+		"chi"		"** **"
+	}
+	">>You have 7 seconds to do so!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Jump Now<<"
+	{
+		"chi"		"** **"
+	}
+	">>Counter-Terrorists have Won<<"
+	{
+		"chi"		"** **"
+	}
+	">>Ghost 2 is released<<"
+	{
+		"chi"		"** **"
+	}
+	">>Ghost 3 is released<<"
+	{
+		"chi"		"** **"
+	}
+	">>Ghost 4 is released<<"
+	{
+		"chi"		"** **"
+	}
+	">>and increasing Ghost speed<<"
+	{
+		"chi"		"** **"
+	}
+	">>and giving out free knives<<"
+	{
+		"chi"		"** **"
+	}
+	">>Underwater Knife has been Chosen<<"
+	{
+		"chi"		"** **"
+	}
+	">>Old School Has Been Selected<<"
+	{
+		"chi"		"** **"
+	}
+	">>Knife Tournament has been Chosen<<"
+	{
+		"chi"		"** **"
+	}
+	">>Wall Hack has been Chosen<<"
+	{
+		"chi"		"** **"
+	}
+	">>You will be Released in 2<<"
+	{
+		"chi"		"** **"
+	}
+	">>You will be Released in 1<<"
+	{
+		"chi"		"** **"
+	}
+	">>Awp Will Be Given in 5<<"
+	{
+		"chi"		"** **"
+	}
+	">>Awp Will Be Given in 4<<"
+	{
+		"chi"		"** **"
+	}
+	">>Arrows Indicate a Player is There<<"
+	{
+		"chi"		"** **"
+	}
+	">>Awp Will Be Given in 2<<"
+	{
+		"chi"		"** **"
+	}
+	">>Awp Will Be Given in 1<<"
+	{
+		"chi"		"** **"
+	}
+	">>Shoot the Enemy<<"
+	{
+		"chi"		"** **"
+	}
+	">>Both teams are hidden equally<<"
+	{
+		"chi"		"** **"
+	}
+	">>Try and aim at the lower part of the wall to hit people<<"
+	{
+		"chi"		"** **"
+	}
+	">>Terrorists have Won<<"
+	{
+		"chi"		"** **"
+	}
+	"[Ported for SteamGamers by [SG] Punky]"
+	{
+		"chi"		"** **"
+	}
+	"[Map made by Kirby]"
+	{
+		"chi"		"** **"
+	}
+	"BBS.93X.NeT"
+	{
+		"chi"		"** **"
+	}
+	">>Jail was killed to prevent free kills. Sorry!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Jump Rope has been Chosen<<"
+	{
+		"chi"		"** **"
+	}
+	">>You will have to start jumping soon<<"
+	{
+		"chi"		"** **"
+	}
+	">>Beam Moves in 3<<"
+	{
+		"chi"		"** **"
+	}
+	">>Beam Moves in 2<<"
+	{
+		"chi"		"** **"
+	}
+	">>Beam Moves in 1<<"
+	{
+		"chi"		"** **"
+	}
+	">>JUMP<<"
+	{
+		"chi"		"** **"
+	}
+	">>Rope will gradually speed up<<"
+	{
+		"chi"		"** **"
+	}
+	">>T have won!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>CT have won!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Giving Everyone Knife<<"
+	{
+		"chi"		"** **"
+	}
+	">>Re-made by kind permision of SG Paul<<"
+	{
+		"chi"		"** **"
+	}
+	">>Smash-cannon re-make has been chosen<<"
+	{
+		"chi"		"** **"
+	}
+	">>Survive as long as possible<<"
+	{
+		"chi"		"** **"
+	}
+	">>Original Mode<<"
+	{
+		"chi"		"** **"
+	}
+	">>Get to the middle to win<<"
+	{
+		"chi"		"** **"
+	}
+	">>Increasing Difficulty<<"
+	{
+		"chi"		"** **"
+	}
+	">>This is getting boring now...<<"
+	{
+		"chi"		"** **"
+	}
+	">>Lets make it interesting<<"
+	{
+		"chi"		"** **"
+	}
+	">>Remade by Kind Permission of Warmcup Edwin<<"
+	{
+		"chi"		"** **"
+	}
+	">>RunBitchRun Has Been Chosen<<"
+	{
+		"chi"		"** **"
+	}
+	">>Climb has been Chosen<<"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] This map does not work with bots..."
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Map by [SG] Paul"
+	{
+		"chi"		"** **"
+	}
+	">>T have Scored!!!<<"
+	{
+		"chi"		"** **"
+	}
+	"Music : M83 - Midnight city"
+	{
+		"chi"		"** **"
+	}
+	"Music : PSY - Gangnam Style"
+	{
+		"chi"		"** **"
+	}
+}

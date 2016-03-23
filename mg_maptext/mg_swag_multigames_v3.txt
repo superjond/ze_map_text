@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"[MAP] SLIDE"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Avicii ft. Robbie Williams - The Days"
+	{
+		"chi"		"** **"
+	}
+	"[MAP] SMOKEWARS"
+	{
+		"chi"		"** **"
+	}
+	"[MAP] You may now cross-over"
+	{
+		"chi"		"** **"
+	}
+}

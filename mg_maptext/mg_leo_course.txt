@@ -1,0 +1,23 @@
+"Console_T"
+{
+	"GLaDOS: Welcome to Sodan-Science laboratories."
+	{
+		"chi"		"** **"
+	}
+	"AFK Killer in 30 Secends!"
+	{
+		"chi"		"** **"
+	}
+	"*** Map made by ProfessorOak ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Made for Tweakgaming.com ***"
+	{
+		"chi"		"** **"
+	}
+	">>Map made by Jenz and Onederp<<"
+	{
+		"chi"		"** **"
+	}
+}

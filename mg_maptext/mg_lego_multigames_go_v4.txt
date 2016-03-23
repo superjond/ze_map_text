@@ -1,0 +1,251 @@
+"Console_T"
+{
+	"@[Map] Map by TheProdigy"
+	{
+		"chi"		"**地图制作：TheProdigy 地图翻译：Ex_cKot**"
+	}
+	"@[Map] Map ported by Blogger(Dog)"
+	{
+		"chi"		"**地图搬运：Blogger(Dog)**"
+	}
+	"@[Map] Special thanks to DexKekcuk"
+	{
+		"chi"		"**特别感谢：DexKeKcuk**"
+	}
+	"@[Map] Secret room Disable"
+	{
+		"chi"		"**密室关闭**"
+	}
+	"@[Map] Secret room Enable"
+	{
+		"chi"		"**密室开启**"
+	}
+	"@[Map] Many Rooms"
+	{
+		"chi"		"**多间房**"
+	}
+	"@[Music] Imagine Dragons - Demons (Dzeko & Torres Remix)"
+	{
+		"chi"		"**音乐：Imagine Dragons - Demons (Dzeko & Torres Remix)**"
+	}
+	"@[Map] 2Rooms"
+	{
+		"chi"		"**两间房**"
+	}
+	"@[Music] Diplo - Revolution (Unlike Pluto Remix)"
+	{
+		"chi"		"**音乐：Diplo - Revolution (Unlike Pluto Remix)**"
+	}
+	"@[Map] Labyrinth"
+	{
+		"chi"		"**迷宫**"
+	}
+	"@[Music] Charlie Clouser - Dead Silence Theme (Extended version)"
+	{
+		"chi"		"**音乐：Charlie Clouser - Dead Silence Theme (Extended version)**"
+	}
+	"@[Map] Blind Deagle v2"
+	{
+		"chi"		"**盲眼沙鹰 2.0**"
+	}
+	"@[Music] Arman Cekin & Larcy - Taste"
+	{
+		"chi"		"**音乐：Arman Cekin & Larcy - Taste**"
+	}
+	"@[Map] Scout"
+	{
+		"chi"		"**鸟狙**"
+	}
+	"@[Gravity] Random gravity"
+	{
+		"chi"		"**随机重力**"
+	}
+	"@[Gravity] Normal gravity"
+	{
+		"chi"		"**普通重力**"
+	}
+	"@[Map] Bhop"
+	{
+		"chi"		"**连跳**"
+	}
+	"@[Music] Mark Ronson - Uptown Funk ft. Bruno Mars"
+	{
+		"chi"		"**音乐：Mark Ronson - Uptown Funk ft. Bruno Mars**"
+	}
+	"@[Map] 25 Second"
+	{
+		"chi"		"**25秒**"
+	}
+	"@[Map] Spawn fight"
+	{
+		"chi"		"**出生点大战！**"
+	}
+	"@[Music] Imagine Dragons - It's Time"
+	{
+		"chi"		"**音乐：Imagine Dragons - It's Time**"
+	}
+	"@[Map] Knife 65HP"
+	{
+		"chi"		"**65血 刀战**"
+	}
+	"@[Music] Dropout - Slowly (Two Friends Remix)"
+	{
+		"chi"		"**音乐：Dropout - Slowly (Two Friends Remix)**"
+	}
+	"@[Map] AWP v2"
+	{
+		"chi"		"**AWP 2.0**"
+	}
+	"@[Map] Blind Deagle"
+	{
+		"chi"		"**盲眼沙鹰**"
+	}
+	"@[Map] Skate"
+	{
+		"chi"		"**滑冰**"
+	}
+	"@[Map] Shotgun"
+	{
+		"chi"		"**喷子**"
+	}
+	"@[Map] Long Jump v2"
+	{
+		"chi"		"**长跳 2.0**"
+	}
+	"@[Music] Krewella - Alive"
+	{
+		"chi"		"**音乐：Krewella - Alive**"
+	}
+	"@[Music] JayKode - Release (feat. Tima Dee)"
+	{
+		"chi"		"**音乐：JayKode - Release (feat. Tima Dee)**"
+	}
+	"@[Map] Skate v2"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Speed Jumps"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Football 1HP"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 30 seconds slay"
+	{
+		"chi"		"** **"
+	}
+	"@ TimeLimit!"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Skipping Rope"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >5<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >4<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >3<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >2<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >1<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >Go!<"
+	{
+		"chi"		"** **"
+	}
+	"@[Gravity] High gravity"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Long Jump"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Football 100HP"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] T Win"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] AWP"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Grenades"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] CT Win"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Scout v2"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] TimeLimit"
+	{
+		"chi"		"** **"
+	}
+	"Music : Just Jack - Basement"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] RandomGame..."
+	{
+		"chi"		"** **"
+	}
+	"@[Gravity] Low gravity"
+	{
+		"chi"		"** **"
+	}
+	"[Ported for SteamGamers by [SG] Punky]"
+	{
+		"chi"		"** **"
+	}
+	"[Map made by Kirby]"
+	{
+		"chi"		"** **"
+	}
+	"**Map Made by [SG] Paul**"
+	{
+		"chi"		"** **"
+	}
+	"**Remake by FreeDOM**"
+	{
+		"chi"		"** **"
+	}
+	"[LaoZhongYi]Thank UA and Kirby , HZM654321 and diaolingtyp"
+	{
+		"chi"		"** **"
+	}
+	"[UA]If You Not Select Map I am Select In 30 sec"
+	{
+		"chi"		"** **"
+	}
+	"WebSite:BBS.93X.NeT"
+	{
+		"chi"		"** **"
+	}
+	"[LaoZhongYi]Fall Damage Disable"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,39 @@
+"Console_T"
+{
+	"AFK Killer in 30 Secends!"
+	{
+		"chi"		"** **"
+	}
+	"*** Map made by ProfessorOak ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Made for Tweakgaming.com ***"
+	{
+		"chi"		"** **"
+	}
+	"Map by Darnias"
+	{
+		"chi"		"** **"
+	}
+	"--> Spawn Protection in 30 Seconds <--"
+	{
+		"chi"		"** **"
+	}
+	"--> Spawn Protection in 40 Seconds <--"
+	{
+		"chi"		"** **"
+	}
+	"Map made by Dyuj"
+	{
+		"chi"		"** **"
+	}
+	">>Map made by Jenz and Onederp<<"
+	{
+		"chi"		"** **"
+	}
+	"Spawn Protection in 25 Seconds!!"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,31 @@
+"Console_T"
+{
+	"---Map init---"
+	{
+		"chi"		"** **"
+	}
+	"---Done---"
+	{
+		"chi"		"** **"
+	}
+	">>MG_GRUBER_MULTIGAMES<<"
+	{
+		"chi"		"** **"
+	}
+	"***Map By: Lt.| iPod***"
+	{
+		"chi"		"** **"
+	}
+	"***Music Must Be Picked Before You Can Choose A LvL***"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Map made by Struse!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Special thanks to NickMaps"
+	{
+		"chi"		"** **"
+	}
+}

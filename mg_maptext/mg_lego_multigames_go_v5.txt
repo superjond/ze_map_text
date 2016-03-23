@@ -1,0 +1,259 @@
+"Console_T"
+{
+	"@[Map] Map by TheProdigy"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Map ported by Blogger(Dog)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Special thanks to DexKekcuk"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Secret room Enable"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Secret room Disable"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Skate"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Diplo - Revolution (Unlike Pluto Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Long Jump v2"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Krewella - Alive"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Labyrinth"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Bhop"
+	{
+		"chi"		"** **"
+	}
+	"@[Plugin] Bhop plugin Enable"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Imagine Dragons - Demons (Dzeko & Torres Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Arman Cekin & Larcy - Taste"
+	{
+		"chi"		"** **"
+	}
+	"@[Plugin] Bhop plugin Disable"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 25 Second"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Football 1HP"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Skipping Rope"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >5<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >4<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >3<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >2<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >1<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] >Go!<"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Skate v2"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Dropout - Slowly (Two Friends Remix)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] CT Win"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] JayKode - Release (feat. Tima Dee)"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Shotgun"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Blind Deagle v2"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Knife 65HP"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Speed Jumps"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Archie - Back Again"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Mark Ronson - Uptown Funk ft. Bruno Mars"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Grenades"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] AWP v2"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 2Rooms"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Many Rooms"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Spawn fight"
+	{
+		"chi"		"** **"
+	}
+	"@[Weapon] Knife"
+	{
+		"chi"		"** **"
+	}
+	"@[Hp] 250"
+	{
+		"chi"		"** **"
+	}
+	"@[Music] Charlie Clouser - Dead Silence Theme (Extended version)"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] AWP"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] T Win"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Blind Deagle"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Football 100HP"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Long Jump"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] TimeLimit"
+	{
+		"chi"		"** **"
+	}
+	"@[Weapon] M4A1"
+	{
+		"chi"		"** **"
+	}
+	"@[Hp] 300"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Scout"
+	{
+		"chi"		"** **"
+	}
+	"@[Gravity] Random gravity"
+	{
+		"chi"		"** **"
+	}
+	"@[Gravity] Normal gravity"
+	{
+		"chi"		"** **"
+	}
+	"@[Weapon] Deagle"
+	{
+		"chi"		"** **"
+	}
+	"@[Hp] 150"
+	{
+		"chi"		"** **"
+	}
+	"@[Weapon] Awp"
+	{
+		"chi"		"** **"
+	}
+	"@[Hp] 200"
+	{
+		"chi"		"** **"
+	}
+	"@[Gravity] Low gravity"
+	{
+		"chi"		"** **"
+	}
+	"@[Weapon] AK-47"
+	{
+		"chi"		"** **"
+	}
+	"@[Hp] 500"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 30 seconds slay"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"@ TimeLimit!"
+	{
+		"chi"		"** **"
+	}
+	"@[Gravity] High gravity"
+	{
+		"chi"		"** **"
+	}
+}

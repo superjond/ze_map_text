@@ -1,0 +1,39 @@
+"Console_T"
+{
+	"Map by Ice and Fire Steam 1:0:52362682"
+	{
+		"chi"		"** **"
+	}
+	"如果发现BUG请联系我"
+	{
+		"chi"		"** **"
+	}
+	"如果你有好的建议 也可以联系我"
+	{
+		"chi"		"** **"
+	}
+	"QQ:1205281301"
+	{
+		"chi"		"** **"
+	}
+	"恭喜一位玩家通关!"
+	{
+		"chi"		"** **"
+	}
+	"*** Map made by ProfessorOak ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Made for Tweakgaming.com ***"
+	{
+		"chi"		"** **"
+	}
+	"Map by Darnias"
+	{
+		"chi"		"** **"
+	}
+	">>Map made by Jenz and Onederp<<"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,31 @@
+"Console_T"
+{
+	"AFK Killer in 30 Secends!"
+	{
+		"chi"		"** **"
+	}
+	"@Made by Kirby"
+	{
+		"chi"		"** **"
+	}
+	"Map made by Dyuj"
+	{
+		"chi"		"** **"
+	}
+	"*** Map made by ProfessorOak ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Made for Tweakgaming.com ***"
+	{
+		"chi"		"** **"
+	}
+	"Map by Ice and Fire Steam 1:0:52362682"
+	{
+		"chi"		"** **"
+	}
+	"如果发现BUG请联系我"
+	{
+		"chi"		"** **"
+	}
+}

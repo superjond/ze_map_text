@@ -1,0 +1,107 @@
+"Console_T"
+{
+	"Map made by Mathijs"
+	{
+		"chi"		"**地图制作：Mathijs 地图翻译：Ex_cKot**"
+	}
+	"Map ported by sG | Waffles"
+	{
+		"chi"		"**地图开发：sG | Waffles**"
+	}
+	"[LaoZhongYi]Thank UA and Kirby , HZM654321 and diaolingtyp"
+	{
+		"chi"		"**老中医：感谢UA,Kirby , HZM654321 以及 diaolingtyp**"
+	}
+	"[UA]If You Not Select Map I am Select In 30 sec"
+	{
+		"chi"		"** **"
+	}
+	"WebSite:BBS.93X.NeT"
+	{
+		"chi"		"** **"
+	}
+	"[LaoZhongYi]Fall Damage Disable"
+	{
+		"chi"		"** **"
+	}
+	"Map By Charli =)"
+	{
+		"chi"		"** **"
+	}
+	"***Auto Select in 40 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Map by DTK Development Team***"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] This map does not work with bots..."
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Map by [SG] Paul"
+	{
+		"chi"		"** **"
+	}
+	"BBS.93X.NeT"
+	{
+		"chi"		"** **"
+	}
+	"Music : Just Jack - Basement"
+	{
+		"chi"		"** **"
+	}
+	"Music : PSY - Gangnam Style"
+	{
+		"chi"		"** **"
+	}
+	"Music : Poperotiq - Bitch plz"
+	{
+		"chi"		"** **"
+	}
+	"***Normal Round***"
+	{
+		"chi"		"** **"
+	}
+	"Music : M83 - Midnight city"
+	{
+		"chi"		"** **"
+	}
+	"[Ported for SteamGamers by [SG] Punky]"
+	{
+		"chi"		"** **"
+	}
+	"[Map made by Kirby]"
+	{
+		"chi"		"** **"
+	}
+	">>Map by Ghost X - DeadFire19<<"
+	{
+		"chi"		"** **"
+	}
+	">>Shoot Option to Vote<<"
+	{
+		"chi"		"** **"
+	}
+	"Map by Phoenix"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Map made by Struse!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Special thanks to NickMaps"
+	{
+		"chi"		"** **"
+	}
+	"**Map Made by [SG] Paul**"
+	{
+		"chi"		"** **"
+	}
+	"**Remake by FreeDOM**"
+	{
+		"chi"		"** **"
+	}
+}

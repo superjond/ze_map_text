@@ -1,0 +1,23 @@
+"Console_T"
+{
+	"Music : Just Jack - Basement"
+	{
+		"chi"		"** **"
+	}
+	"Music : M83 - Midnight city"
+	{
+		"chi"		"** **"
+	}
+	"Music : Poperotiq - Bitch plz"
+	{
+		"chi"		"** **"
+	}
+	"Music : PSY - Gangnam Style"
+	{
+		"chi"		"** **"
+	}
+	"No music"
+	{
+		"chi"		"** **"
+	}
+}

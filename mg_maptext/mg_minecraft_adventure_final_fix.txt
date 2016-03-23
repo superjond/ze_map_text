@@ -1,0 +1,47 @@
+"Console_T"
+{
+	">>Map made by Jenz and Onederp<<"
+	{
+		"chi"		"** **"
+	}
+	"Map by Ice and Fire Steam 1:0:52362682"
+	{
+		"chi"		"** **"
+	}
+	"如果发现BUG请联系我"
+	{
+		"chi"		"** **"
+	}
+	"Map by Darnias"
+	{
+		"chi"		"** **"
+	}
+	"*** Map made by ProfessorOak ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Made for Tweakgaming.com ***"
+	{
+		"chi"		"** **"
+	}
+	"GLaDOS: Welcome to Sodan-Science laboratories."
+	{
+		"chi"		"** **"
+	}
+	"--> Spawn Protection in 30 Seconds <--"
+	{
+		"chi"		"** **"
+	}
+	"AFK Killer in 30 Secends!"
+	{
+		"chi"		"** **"
+	}
+	"Spawn Protection in 25 Seconds!!"
+	{
+		"chi"		"** **"
+	}
+	"@Made by Kirby"
+	{
+		"chi"		"** **"
+	}
+}

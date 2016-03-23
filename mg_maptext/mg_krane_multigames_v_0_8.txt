@@ -1,0 +1,163 @@
+"Console_T"
+{
+	"Song: Barracuda - Heart"
+	{
+		"chi"		"** **"
+	}
+	"Song: Heartbreaker - Pat Benatar"
+	{
+		"chi"		"** **"
+	}
+	"Game: DO IT"
+	{
+		"chi"		"** **"
+	}
+	"Song: Spirit In The Sky - Norman Breenbaum"
+	{
+		"chi"		"** **"
+	}
+	"Game: Skate"
+	{
+		"chi"		"** **"
+	}
+	"Outer area disabled in 30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Outer area disabled in 15 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Song: Rebel Yell - Billy Idol"
+	{
+		"chi"		"** **"
+	}
+	"Game: Bhop"
+	{
+		"chi"		"** **"
+	}
+	"Song: Pinball Wizard - The Who"
+	{
+		"chi"		"** **"
+	}
+	"Song: My Sharona - The Knack"
+	{
+		"chi"		"** **"
+	}
+	"Game: Knife"
+	{
+		"chi"		"** **"
+	}
+	"Song: La Grange - ZZ Top"
+	{
+		"chi"		"** **"
+	}
+	"Song: Sweet Child O' Mine - Guns N' Roses"
+	{
+		"chi"		"** **"
+	}
+	"Game: SMGs"
+	{
+		"chi"		"** **"
+	}
+	"AFK-Killer enabling in 10 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Song: Lay It Down - Journey"
+	{
+		"chi"		"** **"
+	}
+	"Game: de_krane"
+	{
+		"chi"		"** **"
+	}
+	"Song: Jukebox Hero - Foreigner"
+	{
+		"chi"		"** **"
+	}
+	"Game: Rifles"
+	{
+		"chi"		"** **"
+	}
+	"Game: AWP Ghosts"
+	{
+		"chi"		"** **"
+	}
+	"Game: Headshot Deagle"
+	{
+		"chi"		"** **"
+	}
+	"Game: Headshot Pistols"
+	{
+		"chi"		"** **"
+	}
+	"Song: 3's & 7's - Queens of the Stone Age"
+	{
+		"chi"		"** **"
+	}
+	"Outer area disabled in 5 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Game: Tower Defense"
+	{
+		"chi"		"** **"
+	}
+	"Game: Bieber Nadeout"
+	{
+		"chi"		"** **"
+	}
+	"Terrorists win!"
+	{
+		"chi"		"** **"
+	}
+	"Game: Jump Rope"
+	{
+		"chi"		"** **"
+	}
+	"Game: Deagle"
+	{
+		"chi"		"** **"
+	}
+	"Song: Carry On Wayward Son - Kansas"
+	{
+		"chi"		"** **"
+	}
+	"Game: Dodgeball"
+	{
+		"chi"		"** **"
+	}
+	"Game: Pistols"
+	{
+		"chi"		"** **"
+	}
+	"Outer area disabled"
+	{
+		"chi"		"** **"
+	}
+	"Counter-Terrorists win!"
+	{
+		"chi"		"** **"
+	}
+	"Middle area disabled in 30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Middle area disabled in 15 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Middle area disabled in 5 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Middle area disabled"
+	{
+		"chi"		"** **"
+	}
+	"Game: Shotguns"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,99 @@
+"Console_T"
+{
+	"mg_crash_bandicoot_party_csgo"
+	{
+		"chi"		"** **"
+	}
+	"by 93sunderland"
+	{
+		"chi"		"** **"
+	}
+	"Phantommunity.it"
+	{
+		"chi"		"** **"
+	}
+	"Tech Course"
+	{
+		"chi"		"** **"
+	}
+	"You have 5 minutes left"
+	{
+		"chi"		"** **"
+	}
+	"Knife Waders"
+	{
+		"chi"		"** **"
+	}
+	"Tomb Deagle"
+	{
+		"chi"		"** **"
+	}
+	"River Bhop"
+	{
+		"chi"		"** **"
+	}
+	"Someone won"
+	{
+		"chi"		"** **"
+	}
+	"Jump & Jump"
+	{
+		"chi"		"** **"
+	}
+	"Dark Castle Course"
+	{
+		"chi"		"** **"
+	}
+	"Flashlight disabled"
+	{
+		"chi"		"** **"
+	}
+	"Purple Gem obtained"
+	{
+		"chi"		"** **"
+	}
+	"Slippery Course"
+	{
+		"chi"		"** **"
+	}
+	"Air Knife"
+	{
+		"chi"		"** **"
+	}
+	"Low Gravity War"
+	{
+		"chi"		"** **"
+	}
+	"Shop closes in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"LET'S KILL"
+	{
+		"chi"		"** **"
+	}
+	"Blue Gem obtained"
+	{
+		"chi"		"** **"
+	}
+	"Futuristic Awp"
+	{
+		"chi"		"** **"
+	}
+	"Search & Kill"
+	{
+		"chi"		"** **"
+	}
+	"You only have 1 minute left"
+	{
+		"chi"		"** **"
+	}
+	"TIME IS OVER"
+	{
+		"chi"		"** **"
+	}
+	"Everyone got a knife"
+	{
+		"chi"		"** **"
+	}
+}
