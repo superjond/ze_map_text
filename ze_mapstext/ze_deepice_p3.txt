@@ -2,7 +2,7 @@
 {
 	"*** Co-Mapper: starbucks ***"
 	{
-		"chi"		"** **"
+		"chi"		"**移植作者 starbucks 翻译BAKA_Miku  **"
 	}
 	"*** STEAMGAMERS.COM ***"
 	{
@@ -10,15 +10,15 @@
 	}
 	"*** Mapper: yardy ***"
 	{
-		"chi"		"** **"
+		"chi"		"**作者 yardy **"
 	}
 	"*** Lift 2 is leaving soon ***"
 	{
-		"chi"		"** **"
+		"chi"		"**2号电梯将要启动 **"
 	}
 	"*** Door is being fixed defend yourself ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防御!这扇门会很快被修好 **"
 	}
 	"*** ALIEN shield has been activated ***"
 	{
@@ -30,51 +30,51 @@
 	}
 	"*** Train is leaving soon ***"
 	{
-		"chi"		"** **"
+		"chi"		"**火车将要启动 **"
 	}
 	"*** Defend the area until train leaves ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守这里直到火车启动 **"
 	}
 	"*** Train departing ***"
 	{
-		"chi"		"** **"
+		"chi"		"**火车启动 **"
 	}
 	"*** Oh my god jump off the train before it squeezes you ***"
 	{
-		"chi"		"** **"
+		"chi"		"**快跳车!别让火车压死你![路线是大坝方向] **"
 	}
 	"*** Gate opens soon defend yourself ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防御!大门会很快打开 **"
 	}
 	"*** Hold back the ALIENS while calling the chopper ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守这里直到直升机到达 **"
 	}
 	"*** Second gate stuck ***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二扇门卡住了 **"
 	}
 	"*** Defend yourself until we get it open ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防御!直到大门打开 **"
 	}
 	"*** Sea Hawk arrival soon ***"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机将很快到达 **"
 	}
 	"*** Alien Reactor Overload 50% ***"
 	{
-		"chi"		"** **"
+		"chi"		"**外星人反应堆负载50% **"
 	}
 	"*** Sea Hawk arrival immediately ***"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机马上到达 **"
 	}
 	"*** Alien Reactor Overload 100% ***"
 	{
-		"chi"		"** **"
+		"chi"		"**外星人反应堆负载100% **"
 	}
 	"*** TO BE CONTINUED ***"
 	{
@@ -82,6 +82,6 @@
 	}
 	"*** Lift 1 is leaving soon ***"
 	{
-		"chi"		"** **"
+		"chi"		"**1号电梯将要启动 **"
 	}
 }
