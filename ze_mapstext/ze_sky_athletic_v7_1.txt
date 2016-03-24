@@ -740,4 +740,16 @@
 	{
 		"chi"		"** **"
 	}
+	"CAPTAIN CLOUD :You made me angry...."
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :Look the my full power !!!!!!!!!!!!!"
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :YOU MUST DIE !!!!"
+	{
+		"chi"		"** **"
+	}
 }

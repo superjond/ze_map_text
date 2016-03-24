@@ -1,0 +1,103 @@
+"Console_T"
+{
+	"***DIFFICULTY --- NORMAL***"
+	{
+		"chi"		"** **"
+	}
+	"***INFILTRATE AND DEFEND THE GUERILLA COMPOUND***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD FOR 50 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FALL BACK***"
+	{
+		"chi"		"** **"
+	}
+	"***5 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***4 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***3 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***2 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***1 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***RUN***"
+	{
+		"chi"		"** **"
+	}
+	"***TELEPORTING EVERYONE TO COMPOUND***"
+	{
+		"chi"		"** **"
+	}
+	"***FIRST AID PICKED UP***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD THIS AREA FOR 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***MOVE IT***"
+	{
+		"chi"		"** **"
+	}
+	"***ITS A PREDATOR!***"
+	{
+		"chi"		"** **"
+	}
+	"***KILL IT***"
+	{
+		"chi"		"** **"
+	}
+	"***DODGE THE LASERS***"
+	{
+		"chi"		"** **"
+	}
+	"***IT LOOKS LIKE IT'S PREPARING FOR ANOTHER GROUNDSTOMP***"
+	{
+		"chi"		"** **"
+	}
+	"***SHOOT IT BEFORE IT'S TOO LATE***"
+	{
+		"chi"		"** **"
+	}
+	"***OH NO!     WATCH OUT!***"
+	{
+		"chi"		"** **"
+	}
+	"***IT'S RUNNING AWAY***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU COULD HAVE STOPPED THE ATTACK THOUGH...***"
+	{
+		"chi"		"** **"
+	}
+	"***PLAYER PICKED UP PUSH GUN***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD FOR 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***PLAYER PICKED UP AMMO DISPENSER***"
+	{
+		"chi"		"** **"
+	}
+}
