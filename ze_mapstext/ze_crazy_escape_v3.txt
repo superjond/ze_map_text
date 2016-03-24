@@ -220,8 +220,5 @@
 	{
 		"chi"		"**灵感来源: Sienestaja**"
 	}
-	"[Load ShroomForest Config]"
-	{
-		"chi"		"** **"
-	}
+
 }
