@@ -1,0 +1,23 @@
+"Console_T"
+{
+	"Music : Poperotiq - Bitch plz"
+	{
+		"chi"		"** **"
+	}
+	"***Normal Round***"
+	{
+		"chi"		"** **"
+	}
+	"Map By Charli =)"
+	{
+		"chi"		"** **"
+	}
+	"***Auto Select in 40 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Map by DTK Development Team***"
+	{
+		"chi"		"** **"
+	}
+}

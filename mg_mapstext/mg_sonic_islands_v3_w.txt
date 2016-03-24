@@ -1,0 +1,11 @@
+"Console_T"
+{
+	"Spawn Protection in 25 Seconds!!"
+	{
+		"chi"		"** **"
+	}
+	"@Made by Kirby"
+	{
+		"chi"		"** **"
+	}
+}

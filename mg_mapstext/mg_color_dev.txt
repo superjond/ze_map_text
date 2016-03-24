@@ -1,0 +1,7 @@
+"Console_T"
+{
+	"GLaDOS: Welcome to Sodan-Science laboratories."
+	{
+		"chi"		"** **"
+	}
+}

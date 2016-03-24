@@ -1,0 +1,103 @@
+"Console_T"
+{
+	"[Map] Special thanks to NickMaps"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Map ported by Blogger(Dog)"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Map made by Struse!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Race !"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Race starts in:"
+	{
+		"chi"		"** **"
+	}
+	"[Map] 5"
+	{
+		"chi"		"** **"
+	}
+	"[Map] 4"
+	{
+		"chi"		"** **"
+	}
+	"[Map] 3"
+	{
+		"chi"		"** **"
+	}
+	"[Map] 2"
+	{
+		"chi"		"** **"
+	}
+	"[Map] 1"
+	{
+		"chi"		"** **"
+	}
+	"[Map] The race has started !"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Ice Skate !"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Knife !"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Random choice !"
+	{
+		"chi"		"** **"
+	}
+	"[Map] A player has finished the race!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] He !"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Shotgun !"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Bhop !"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Aim !"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Headshot !"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Awp !"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Football !"
+	{
+		"chi"		"** **"
+	}
+	"[Map] GOOOOOOL !"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Both teams can now enter in each other base !"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Slay in 10 seconds !"
+	{
+		"chi"		"** **"
+	}
+}

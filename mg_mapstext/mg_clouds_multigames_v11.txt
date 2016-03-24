@@ -1,0 +1,59 @@
+"Console_T"
+{
+	"*** Blinddoge has been chosen ***"
+	{
+		"chi"		"** **"
+	}
+	"Map made by Cloud for Extreme Network"
+	{
+		"chi"		"**对桌面的武器{red}按E来拾取武器**"
+	}
+	"*** Island has been chosen ***"
+	{
+		"chi"		"** **"
+	}
+	"C4 Activated"
+	{
+		"chi"		"** C4 激活 **"
+	}
+	"*** Bank has been chosen ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Bunker has been chosen ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Spawn has been chosen ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Maze has been chosen ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Centre of maze has been reached ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Maze wall will break in 60 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	">>Map by Ghost X - DeadFire19<<"
+	{
+		"chi"		"** **"
+	}
+	">>Shoot Option to Vote<<"
+	{
+		"chi"		"** **"
+	}
+	"BBS.93X.NeT"
+	{
+		"chi"		"** **"
+	}
+	"Map by Phoenix"
+	{
+		"chi"		"** **"
+	}
+}

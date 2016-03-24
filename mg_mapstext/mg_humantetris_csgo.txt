@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"BBS.93X.NeT"
+	{
+		"chi"		"** **"
+	}
+	"Music : PSY - Gangnam Style"
+	{
+		"chi"		"** **"
+	}
+	"***Auto Select in 40 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Map by DTK Development Team***"
+	{
+		"chi"		"** **"
+	}
+}

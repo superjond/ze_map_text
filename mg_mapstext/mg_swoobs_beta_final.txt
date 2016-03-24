@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"Welcome to mg_swoobs by Trollsys"
+	{
+		"chi"		"** **"
+	}
+	"My youtube channel is www.youtube.comuserOfficerTrollsys"
+	{
+		"chi"		"** **"
+	}
+	"<<<AFK Killer enabled in 30s>>>"
+	{
+		"chi"		"** **"
+	}
+	"Spawn Kill Enabled"
+	{
+		"chi"		"** **"
+	}
+}

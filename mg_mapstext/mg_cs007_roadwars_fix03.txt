@@ -1,0 +1,75 @@
+"Console_T"
+{
+	"BBS.93X.NeT"
+	{
+		"chi"		"**bbs.93x.net**"
+	}
+	"***Auto Select in 40 seconds***"
+	{
+		"chi"		"**40秒后自动选择**"
+	}
+	"***Map by DTK Development Team***"
+	{
+		"chi"		"** **"
+	}
+	"[LaoZhongYi]Thank UA and Kirby , HZM654321 and diaolingtyp"
+	{
+		"chi"		"** **"
+	}
+	"[UA]If You Not Select Map I am Select In 30 sec"
+	{
+		"chi"		"** **"
+	}
+	"WebSite:BBS.93X.NeT"
+	{
+		"chi"		"** **"
+	}
+	"[LaoZhongYi]Fall Damage Disable"
+	{
+		"chi"		"** **"
+	}
+	"Music : Poperotiq - Bitch plz"
+	{
+		"chi"		"** **"
+	}
+	"Map made by Mathijs"
+	{
+		"chi"		"** **"
+	}
+	"Map ported by sG | Waffles"
+	{
+		"chi"		"** **"
+	}
+	"***Map By: Lt.| iPod***"
+	{
+		"chi"		"** **"
+	}
+	"***Music Must Be Picked Before You Can Choose A LvL***"
+	{
+		"chi"		"** **"
+	}
+	"[Ported for SteamGamers by [SG] Punky]"
+	{
+		"chi"		"** **"
+	}
+	"[Map made by Kirby]"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] This map does not work with bots..."
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Map by [SG] Paul"
+	{
+		"chi"		"** **"
+	}
+	"Music : PSY - Gangnam Style"
+	{
+		"chi"		"** **"
+	}
+	"Music : Just Jack - Basement"
+	{
+		"chi"		"** **"
+	}
+}

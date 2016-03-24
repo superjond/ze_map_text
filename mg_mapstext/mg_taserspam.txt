@@ -1,0 +1,51 @@
+"Console_T"
+{
+	"BBS.93X.NeT"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] This map does not work with bots..."
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Map by [SG] Paul"
+	{
+		"chi"		"** **"
+	}
+	"Music : Poperotiq - Bitch plz"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Map made by Struse!"
+	{
+		"chi"		"** **"
+	}
+	"[Map] Special thanks to NickMaps"
+	{
+		"chi"		"** **"
+	}
+	"***Map By: Lt.| iPod***"
+	{
+		"chi"		"** **"
+	}
+	"***Music Must Be Picked Before You Can Choose A LvL***"
+	{
+		"chi"		"** **"
+	}
+	"[LaoZhongYi]Thank UA and Kirby , HZM654321 and diaolingtyp"
+	{
+		"chi"		"** **"
+	}
+	"[UA]If You Not Select Map I am Select In 30 sec"
+	{
+		"chi"		"** **"
+	}
+	"WebSite:BBS.93X.NeT"
+	{
+		"chi"		"** **"
+	}
+	"[LaoZhongYi]Fall Damage Disable"
+	{
+		"chi"		"** **"
+	}
+}

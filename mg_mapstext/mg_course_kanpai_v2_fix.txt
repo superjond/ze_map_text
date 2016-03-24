@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"Spawn Protection in 25 Seconds!!"
+	{
+		"chi"		"** **"
+	}
+	">>Map made by Jenz and Onederp<<"
+	{
+		"chi"		"** **"
+	}
+	"*** Map made by ProfessorOak ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Made for Tweakgaming.com ***"
+	{
+		"chi"		"** **"
+	}
+}

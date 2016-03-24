@@ -1,0 +1,11 @@
+"Console_T"
+{
+	"@[MAP] WTF? SCOUTS"
+	{
+		"chi"		"** **"
+	}
+	"@[MUSIC] Major Lazer & DJ Snake - Lean On"
+	{
+		"chi"		"** **"
+	}
+}

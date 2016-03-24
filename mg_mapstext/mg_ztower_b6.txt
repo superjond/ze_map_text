@@ -1,0 +1,27 @@
+"Console_T"
+{
+	"Map made by Mathijs"
+	{
+		"chi"		"** **"
+	}
+	"Map ported by sG | Waffles"
+	{
+		"chi"		"** **"
+	}
+	"BBS.93X.NeT"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] This map does not work with bots..."
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Map by [SG] Paul"
+	{
+		"chi"		"** **"
+	}
+	"Map By Charli =)"
+	{
+		"chi"		"** **"
+	}
+}

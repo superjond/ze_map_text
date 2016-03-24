@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"--> Spawn Protection in 20 Seconds <--"
+	{
+		"chi"		"** **"
+	}
+	"AFK Killer in 30 Secends!"
+	{
+		"chi"		"** **"
+	}
+	"GLaDOS: Welcome to Sodan-Science laboratories."
+	{
+		"chi"		"** **"
+	}
+	"Map by Darnias"
+	{
+		"chi"		"** **"
+	}
+}

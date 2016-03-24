@@ -1,0 +1,11 @@
+"Console_T"
+{
+	"AFK Killer in 30 Secends!"
+	{
+		"chi"		"** **"
+	}
+	"--> Spawn Protection in 30 Seconds <--"
+	{
+		"chi"		"** **"
+	}
+}

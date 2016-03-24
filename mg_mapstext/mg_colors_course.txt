@@ -1,0 +1,15 @@
+"Console_T"
+{
+	"Map by Darnias"
+	{
+		"chi"		"** **"
+	}
+	"AFK Killer in 30 Secends!"
+	{
+		"chi"		"** **"
+	}
+	"--> Spawn Protection in 40 Seconds <--"
+	{
+		"chi"		"** **"
+	}
+}
