@@ -2,15 +2,15 @@
 {
 	"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
 	{
-		"chi"		"** **"
+		"chi"		"**工业之城 **"
 	}
 	"***Map ported by 單純***"
 	{
-		"chi"		"** **"
+		"chi"		"**移植:單純 翻译:BAKA_Miku **"
 	}
 	"*** CURRENT MODE: EASY ***"
 	{
-		"chi"		"** **"
+		"chi"		"**难度等级 简单 **"
 	}
 	"*** NO ZOMBIE WEAPONS & SMALL INFECTION ***"
 	{
@@ -22,43 +22,43 @@
 	}
 	"*** Door opens in 20 seconds! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在20秒后打开 **"
 	}
 	"*** Resist for 30 seconds! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守30秒 **"
 	}
 	"*** Resist for 10 more seconds! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守10秒 **"
 	}
 	"*** GO! GO! GO! MOVE OUT! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退! **"
 	}
 	"*** Hold the house for 24 seconds! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守小屋24秒 **"
 	}
 	"*** Windows that don't have a wooden plank are breakable! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**没有木板的窗户可以打破 **"
 	}
 	"*** Pushgun has been taken. Press +USE (E) to activate. 60 seconds cooldown. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**推力枪已被拾起 按'E'来使用 60秒冷却 **"
 	}
 	"*** Freezegun has been picked up. Press +USE (E) to activate. 75 seconds cooldown."
 	{
-		"chi"		"** **"
+		"chi"		"**冰冻枪已被拾起 按'E'来使用 75秒冷却 **"
 	}
 	"*** Door closes in 8 seconds! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在8秒后关闭 **"
 	}
 	"**Flamethrower has been picked up. Press +Use (E) to activate**"
 	{
-		"chi"		"** **"
+		"chi"		"**喷火器已被拾起 按'E'来使用 [注意:此神器会造成服务器顿卡 慎用] **"
 	}
 	"**Fuel lasts about 10 seconds. **"
 	{
@@ -66,35 +66,35 @@
 	}
 	"*Ammo Box has been picked up. Press +USE (E) to activate.*"
 	{
-		"chi"		"** **"
+		"chi"		"**无限弹药已被拾起 按'E'来使用 **"
 	}
 	"*It has a 90 seconds cooldown.*"
 	{
-		"chi"		"** **"
+		"chi"		"**90秒的冷却时间 **"
 	}
 	"*** Bunker door opens in 15 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地堡大门将在15秒后打开 **"
 	}
 	"*** HOLD! The bunker will seal in 15 seconds! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防御!地堡大门将在15秒后关闭 **"
 	}
 	"*** We did it! Moving on to the NORMAL mode! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**简单难度通关 下一关普通难度 **"
 	}
 	"***Map ported by 單純!***"
 	{
-		"chi"		"** **"
+		"chi"		"**移植:單純 翻译:BAKA_Miku **"
 	}
 	"*** Strangely near door opens in 12 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在12后打开 **"
 	}
 	"*** CURRENT MODE: NORMAL ***"
 	{
-		"chi"		"** **"
+		"chi"		"**难度等级 普通 **"
 	}
 	"*** ZOMBIE WEAPONS & NORMAL INFECTION ***"
 	{
@@ -106,35 +106,35 @@
 	}
 	"*Laser wall generator has been picked up. Press +USE (E) to activate.*"
 	{
-		"chi"		"** **"
+		"chi"		"**墙已被拾起 按'E'来使用 **"
 	}
 	"*It has a 60 seconds cooldown.*"
 	{
-		"chi"		"** **"
+		"chi"		"**60秒冷却时间 **"
 	}
 	"* Vortex zombie has been summoned. Press +USE (E) to activate.*"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸黑洞已被拾起 按'E'来使用 **"
 	}
 	"*It has a 120 seconds cooldown.*"
 	{
-		"chi"		"** **"
+		"chi"		"**120秒冷却时间 **"
 	}
 	"*** OH NOES!!! IT'S A BOSS WITH STRANGELY FAMILIAR LOOKS!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**那是一只BOSS 看起来很奇怪 **"
 	}
 	"*** The boss has been defeated! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**已击败BOSS **"
 	}
 	"*** HOLD! The door opens in 15 seconds!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防御!门将在15秒后打开 **"
 	}
 	"*** GO! GO! GO! LET'S LEAVE THIS PLACE! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退!让我们离开这个鬼地方 **"
 	}
 	"* Zombie rage has been picked up. Press +USE (E) to activate.*"
 	{
@@ -142,7 +142,7 @@
 	}
 	"*** Helicopter comes in 30 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**直升飞机将在30秒后到达 **"
 	}
 	"***Evacuate!!!***"
 	{
