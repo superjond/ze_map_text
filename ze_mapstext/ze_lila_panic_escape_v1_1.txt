@@ -2,44 +2,44 @@
 {
 	"** MAP BY SLAYERDRAGON **"
 	{
-		"chi"		"** **"
+		"chi"		"**作者 SLAYERDRAGON 翻译BAKA_Miku**"
 	}
 	"** LEVEL 1 (EASY) **"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关 **"
 		"command"		"sm_cvar zr_infect_mzombie_ratio 6"
 	}
 	"** DOOR OPENS IN 10 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在10秒后打开 **"
 	}
 	"** HEAL GUN - 40 sec cooldown **"
 	{
-		"chi"		"** **"
+		"chi"		"**治疗枪 40秒冷却时间[神器等级需求:3] **"
 	}
 	"** LASER GUN - 60 sec cooldown **"
 	{
-		"chi"		"** **"
+		"chi"		"**激光墙 60秒冷却时间[神器等级需求:4] 放置一个墙 可以秒杀进入的僵尸 **"
 	}
 	"** FIRE BARREL - 50 sec cooldown **"
 	{
-		"chi"		"** **"
+		"chi"		"**炸药桶 50秒冷却时间[神器等级需求:1] **"
 	}
 	"** FREEZE BOTTLE - 50 sec cooldown **"
 	{
-		"chi"		"** **"
+		"chi"		"**冰冻枪 50秒冷却时间[神器等级需求:2] **"
 	}
 	"** AMMO GUN - 40 sec cooldown **"
 	{
-		"chi"		"** **"
+		"chi"		"**无限弹药 40秒冷却时间 **"
 	}
 	"** DOOR OPENS IN 15 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在15秒后打开 **"
 	}
 	"** 5 MORE SECONDS LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**还有5秒 **"
 	}
 	"** DJ IN DA HOUSE !! **"
 	{
@@ -47,23 +47,23 @@
 	}
 	"** Button A2 pressed **"
 	{
-		"chi"		"** **"
+		"chi"		"**A2按钮已被按下 **"
 	}
 	"** Button A3 Pressed **"
 	{
-		"chi"		"** **"
+		"chi"		"**A3按钮已被按下 **"
 	}
 	"** Button A1 pressed **"
 	{
-		"chi"		"** **"
+		"chi"		"**A1按钮已被按下 **"
 	}
 	"** ALL BUTTONS HAVE BEEN PRESSED **"
 	{
-		"chi"		"** **"
+		"chi"		"**所有按钮已被按下 **"
 	}
 	"** DEFEND 20 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**防御20秒 **"
 	}
 	"[MUSIC] NYAN CAT"
 	{
@@ -75,19 +75,19 @@
 	}
 	"** DEFEND 5 MORE SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**还要防御5秒 **"
 	}
 	"** Button B2 Pressed **"
 	{
-		"chi"		"** **"
+		"chi"		"**B2按钮已被按下 **"
 	}
 	"** Button B3 Pressed **"
 	{
-		"chi"		"** **"
+		"chi"		"**B3按钮已被按下 **"
 	}
 	"** Button B1 Pressed **"
 	{
-		"chi"		"** **"
+		"chi"		"**B1按钮已被按下 **"
 	}
 	"** SECRETS 1 of 5 FOUND **"
 	{
@@ -111,7 +111,7 @@
 	}
 	"** DEFEND 10 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**防御10秒 **"
 	}
 	"** SECRETS 2 of 5 FOUND **"
 	{
@@ -123,52 +123,52 @@
 	}
 	"** HOLD THIS POSITION FOR 60 SECONDS !! **"
 	{
-		"chi"		"** **"
+		"chi"		"**在这里防御60秒 **"
 	}
 	"** 50 SECONDS REMAINING **"
 	{
-		"chi"		"** **"
+		"chi"		"**还有50秒 **"
 	}
 	"** 40 SECONDS REMAINING **"
 	{
-		"chi"		"** **"
+		"chi"		"**还有40秒 **"
 	}
 	"** 30 SECONDS REMAINING **"
 	{
-		"chi"		"** **"
+		"chi"		"**还有30秒 **"
 	}
 	"** 20 SECONDS REMAINING **"
 	{
-		"chi"		"** **"
+		"chi"		"**还有20秒 **"
 	}
 	"** 10 SECONDS REMAINING **"
 	{
-		"chi"		"** **"
+		"chi"		"**还有10秒 **"
 	}
 	"** 5 SECONDS REMAINING **"
 	{
-		"chi"		"** **"
+		"chi"		"**还有5秒 **"
 	}
 	"** U WON LEVEL 1 (EASY) **"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关完成 **"
 	}
 	"** LEVEL 2 (BOSS) **"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关 **"
 		"command"		"sm_cvar zr_infect_mzombie_ratio 6"
 	}
 	"** GATE WILL OPEN IN 15 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在15秒后打开 **"
 	}
 	"** GATE WILL OPEN IN 5 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在5秒后打开 **"
 	}
 	"** GATE WILL CLOSE IN 10 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在10秒后关闭 **"
 	}
 	"[MUSIC] AQUA - BARBIE"
 	{
@@ -180,19 +180,19 @@
 	}
 	"** OH NOES! ITs PEDOBEAR !! **"
 	{
-		"chi"		"** **"
+		"chi"		"**哇! BOOS耶 **"
 	}
 	"** KILL IT BEFORE IT RAPES EVERYONE !! **"
 	{
-		"chi"		"** **"
+		"chi"		"**在他撸死你们前 杀死他 **"
 	}
 	"** NADES AND SPECIAL ITEMS DO MORE DAMAGE !! **"
 	{
-		"chi"		"** **"
+		"chi"		"**手雷和神器将对他造成大量伤害 **"
 	}
 	"** PEDOBEAR HAS BEEN DEFEATED **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOOS死亡 **"
 	}
 	"[MUSIC] EIFEL 65 - Blue"
 	{
@@ -224,19 +224,19 @@
 	}
 	"** ENEMY CHOPPER INBOUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**敌机进入 **"
 	}
 	"** YOU CAN KILL IT OR LEAVE IT !! **"
 	{
-		"chi"		"** **"
+		"chi"		"**你可以击毁它或者不管它 **"
 	}
 	"** U WON LEVEL 2 (BOSS) **"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关完成 **"
 	}
 	"** LEVEL 3 (HARD) **"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关 **"
 		"command"		"sm_cvar zr_infect_mzombie_ratio 5"
 	}
 	"** ALL SECRETS HAVE BEEN FOUND... **"
@@ -245,7 +245,7 @@
 	}
 	"** ...GRAVITY INBOUND AT THE ENDING !! **"
 	{
-		"chi"		"** **"
+		"chi"		"**低重力模式将打开 **"
 	}
 	"** SPECIAL SECRET ACTIVATED... **"
 	{
@@ -257,16 +257,16 @@
 	}
 	"** U WON LEVEL 3 (HARD) **"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关完成 **"
 	}
 	"** LEVEL 4 (BOSS) **"
 	{
-		"chi"		"** **"
+		"chi"		"**第四关 **"
 		"command"		"sm_cvar zr_infect_mzombie_ratio 5"
 	}
 	"** BOSS ATTACKS ENABLED **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS会开技能啦 **"
 	}
 	"[MUSIC] DAFT PUNK - One More Time"
 	{
@@ -278,16 +278,16 @@
 	}
 	"** U WON LEVEL 4 (BOSS) **"
 	{
-		"chi"		"** **"
+		"chi"		"**完成第四关 **"
 	}
 	"** LEVEL 5 (ZM ROUND) **"
 	{
-		"chi"		"** **"
+		"chi"		"**第五关[ZE] **"
 		"command"		"sm_cvar zr_infect_mzombie_ratio 6"
 	}
 	"** 180 SECONDS left until VICTORY **"
 	{
-		"chi"		"** **"
+		"chi"		"**离胜利还有180秒 **"
 	}
 	"[MUSIC] NUMA NUMA YODA"
 	{
@@ -299,7 +299,7 @@
 	}
 	"** 120 SECONDS left until VICTORY **"
 	{
-		"chi"		"** **"
+		"chi"		"**离胜利还有120秒 **"
 	}
 	"[MUSIC] CARAMELLDANSEN !!"
 	{
@@ -307,31 +307,31 @@
 	}
 	"** 60 SECONDS left until VICTORY **"
 	{
-		"chi"		"** **"
+		"chi"		"**离胜利还有60秒 **"
 	}
 	"** 30 SECONDS left until VICTORY **"
 	{
-		"chi"		"** **"
+		"chi"		"**离胜利还有30秒 **"
 	}
 	"** 20 SECONDS left until VICTORY **"
 	{
-		"chi"		"** **"
+		"chi"		"**离胜利还有20秒 **"
 	}
 	"** 10 SECONDS left until VICTORY **"
 	{
-		"chi"		"** **"
+		"chi"		"**离胜利还有10秒 **"
 	}
 	"** 5 SECONDS left until VICTORY **"
 	{
-		"chi"		"** **"
+		"chi"		"**离胜利还有5秒 **"
 	}
 	"** U WON LEVEL 5 (ZM ROUND) **"
 	{
-		"chi"		"** **"
+		"chi"		"**第五关完成 **"
 	}
 	"** LEVEL 6 (BOSS) **"
 	{
-		"chi"		"** **"
+		"chi"		"**第六关 **"
 		"command"		"sm_cvar zr_infect_mzombie_ratio 5"
 	}
 	"** ITEM COLLECTED - ALL HUMANS GET 250 HP **"
@@ -356,24 +356,24 @@
 	}
 	"** U WON LEVEL 6 (BOSS) **"
 	{
-		"chi"		"** **"
+		"chi"		"**第六关完成 **"
 	}
 	"** LEVEL 7 (EXTREME) **"
 	{
-		"chi"		"** **"
+		"chi"		"**第七关 **"
 		"command"		"sm_cvar zr_infect_mzombie_ratio 5"
 	}
 	"** SUICIDAL ZOMBIE INCOMING **"
 	{
-		"chi"		"** **"
+		"chi"		"**自杀僵尸来袭 **"
 	}
 	"** DOOR OPENS IN 20 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在20秒后打开 **"
 	}
 	"** DOOR OPENS IN 5 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在5秒后打开 **"
 	}
 	"** MISSION - PLANT THE BOMB AND ESCAPE! **"
 	{
@@ -393,11 +393,11 @@
 	}
 	"** 20 SECONDS BEFORE THE AIRLOCK OPENS **"
 	{
-		"chi"		"** **"
+		"chi"		"**气闸将在20秒后打开 **"
 	}
 	"** 5 SECONDS LEFT BEFORE THE AIRLOCK OPENS **"
 	{
-		"chi"		"** **"
+		"chi"		"**气闸将在5秒后打开 **"
 	}
 	"** WE ARE BACK IN THE COMPOUND ! **"
 	{
@@ -405,15 +405,15 @@
 	}
 	"** AFK wall will BREAK in 5 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机门将在5秒后打开 **"
 	}
 	"** 80 SECONDS REMAINING **"
 	{
-		"chi"		"** **"
+		"chi"		"**还有80秒 **"
 	}
 	"** 70 SECONDS REMAINING **"
 	{
-		"chi"		"** **"
+		"chi"		"**还有70秒 **"
 	}
 	"** LILA PANIC COMPOUND IS FALLING APART !! **"
 	{
@@ -421,24 +421,24 @@
 	}
 	"** ENEMY CHOPPER INBOUND !! **"
 	{
-		"chi"		"** **"
+		"chi"		"**敌机进入 **"
 	}
 	"** 60 SECONDS REMAINING **"
 	{
-		"chi"		"** **"
+		"chi"		"**还有60秒 **"
 	}
 	"** U WON LEVEL 7 (EXTREME) **"
 	{
-		"chi"		"** **"
+		"chi"		"**第七关完成 **"
 	}
 	"** LEVEL 8 (FINAL BOSS) **"
 	{
-		"chi"		"** **"
+		"chi"		"**第八关 **"
 		"command"		"sm_cvar zr_infect_mzombie_ratio 6"
 	}
 	"** U WON LEVEL 8 (FINAL BOSS) **"
 	{
-		"chi"		"** **"
+		"chi"		"**第八关完成 **"
 	}
 	"** CONGRATZ !! U WON THE MAP !! **"
 	{
@@ -446,11 +446,11 @@
 	}
 	"** LEVEL 9 (ZM ROUND) **"
 	{
-		"chi"		"** **"
+		"chi"		"**第九关 **"
 	}
 	"** ADMIN ROOM IS OPEN ! **"
 	{
-		"chi"		"** **"
+		"chi"		"**调关房已打开 **"
 	}
 	"** ADMIN gives EVERYONE LEVEL 5! ENJOY!**"
 	{
@@ -466,7 +466,7 @@
 	}
 	"** U WON LEVEL 9 (ZM ROUND) **"
 	{
-		"chi"		"** **"
+		"chi"		"**第九关完成 **"
 	}
 	"### WELCOME TO CRAZY ESCAPE ###"
 	{
