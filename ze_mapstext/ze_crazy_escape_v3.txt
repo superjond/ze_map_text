@@ -2,119 +2,119 @@
 {
 	"### MAP CREATED BY '' NARAKA (A.K.A SHIKA) '' ###"
 	{
-		"chi"		"** **"
+		"chi"		"**作者 NARAKA (A.K.A SHIKA) 翻译 BAKA_Miku **"
 	}
 	"### WELCOME TO CRAZY ESCAPE ###"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到疯狂逃跑 **"
 	}
 	"### HUMAN WILL BE TELEPORT IN 20 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**人类将在20秒后传送 **"
 	}
 	"### 10 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**还有10秒 **"
 	}
 	"### HIDE AND HOLD FOR 1:15 MINUTE ###"
 	{
-		"chi"		"** **"
+		"chi"		"**防守这里1:15分钟 **"
 	}
 	"### THE GREEN LIGHT ZONES ARE THE MOST SAFEST PLACE ###"
 	{
-		"chi"		"** **"
+		"chi"		"** 绿灯亮起的地方是最安全的地方**"
 	}
 	"### ZOMBIES WILL BE TELEPORT IN 30 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在30秒后传送 **"
 	}
 	"### 5 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**还有5秒 **"
 	}
 	"### ZOMBIES ARRIVED !! ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸到达 **"
 	}
 	"### 30 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**还有30秒 **"
 	}
 	"### TELEPORT IS COMING IN 5 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**离传送还有5秒 **"
 	}
 	"### GET TO THE TOP OF THE TOWER ###"
 	{
-		"chi"		"** **"
+		"chi"		"**登上塔顶!!! **"
 	}
 	"### THE TOWER IS GONNA EXPLODE !! ###"
 	{
-		"chi"		"** **"
+		"chi"		"**高塔将要爆炸了! **"
 	}
 	"### WARNING *** TOWER IS GONNA EXPLODE IN 30 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**警告!离高塔炸毁还有30秒 **"
 	}
 	"### HOLD HERE AND DEFEND 2 SIDES ###"
 	{
-		"chi"		"** **"
+		"chi"		"**防守这里 **"
 	}
 	"### FOR 50 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**还有50秒 **"
 	}
 	"### ZOMIES HAVE BEEN ARRIVED ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸已经到达 **"
 	}
 	"### 20 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**还有20秒 **"
 	}
 	"### TOWER EXPLODES IN 10 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**离高塔炸毁还有10秒 **"
 	}
 	"### KAABOOOMMMMM ###"
 	{
-		"chi"		"** **"
+		"chi"		"**booooooom shakalaka~~~~ **"
 	}
 	"### STAY IN THE GREEN LIGHT TO TELEPORT ###"
 	{
-		"chi"		"** **"
+		"chi"		"**待在绿光里以便于传送 **"
 	}
 	"### OTHERWISE YOU WILL BE TELEPORT TO JAIL ###"
 	{
-		"chi"		"** **"
+		"chi"		"**否则你将被传送至监狱 **"
 	}
 	"### WAIT HERE TO RACE WITH ZOMBIES IN 15 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**离人尸竞赛还有15秒 **"
 	}
 	"### ZOMBIES WILL BE TELEPORT TO JAIL IN 2 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**离僵尸传送还有2秒 **"
 	}
 	"### HUMANS BEWARE OF TRAPS !!! ###"
 	{
-		"chi"		"** **"
+		"chi"		"**人类当心陷阱!!! **"
 	}
 	"### ZOMBIES'S GATE BREAKS IN 20 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸墙将在20秒后打开 **"
 	}
 	"### ZOMBIES ARE COMING ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸来了! **"
 	}
 	"### HOLD FOR 40 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**防御这里40秒 **"
 	}
 	"### CROSS THE BRIDGE IN 20 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**在20秒内穿过大桥 **"
 	}
 	"### DONT DELAY OR FACE PUNISHMENT !! ###"
 	{
@@ -122,7 +122,7 @@
 	}
 	"### HUMANS AND ZOMBIES THAT NOT IN GREEN LIGHT ZONE ###"
 	{
-		"chi"		"** **"
+		"chi"		"**人类和僵尸不在绿光里 **"
 	}
 	"### WILL BE TELEPORT TO JAIL ###"
 	{
@@ -130,15 +130,15 @@
 	}
 	"### 5 SECONDS UNTL THE NEXT TELEPORT COMES ###"
 	{
-		"chi"		"** **"
+		"chi"		"**离下一次传送还有5秒 **"
 	}
 	"### WHEN YOU SEE SINNER ON THE CROSS JUST SHOOT IT !!###"
 	{
-		"chi"		"** **"
+		"chi"		"**向堕落之人射击!!! **"
 	}
 	"### SOMEONE TURNS ON THE RADIO !! ###"
 	{
-		"chi"		"** **"
+		"chi"		"**有人打开了收音机 **"
 	}
 	"### SLIPKNOT - KILLPOP IS PLAYING ###"
 	{
@@ -146,11 +146,11 @@
 	}
 	"### SINNER IS COMING IN 10 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**堕落之人将在10秒后到达 **"
 	}
 	"### DONT CROSS THE RED LINE THERE IS NOT A HOLY AREA ###"
 	{
-		"chi"		"** **"
+		"chi"		"**不要越过红线 **"
 	}
 	"### ARCHITECTS - BROKEN CROSS IS PLAYING ###"
 	{
@@ -158,35 +158,35 @@
 	}
 	"### THAT IS A SINNER KILL HIM ###"
 	{
-		"chi"		"** **"
+		"chi"		"**它是罪恶的人 杀死他! **"
 	}
 	"### BEFORE HE RELEASES THOSE ZOMBIES IN 1:30 MINTUES ###"
 	{
-		"chi"		"** **"
+		"chi"		"**堕落之人将在90秒后解放僵尸 **"
 	}
 	"### SINNER : YOUR SINS GONNA HURT YOU !! FACE IT ##"
 	{
-		"chi"		"** **"
+		"chi"		"**堕落之人:你的罪过会让你堕落! **"
 	}
 	"### DEFEND 2 DUCTS ZOMBIES CAN COME IN FROM DUCTS !! ###"
 	{
-		"chi"		"** **"
+		"chi"		"**注意防守两侧管道 **"
 	}
 	"## SINNER WILL RELEASES ZOMBIES IN 60 SECONDS ##"
 	{
-		"chi"		"** **"
+		"chi"		"**堕落之人在60秒后将解放僵尸 **"
 	}
 	"### SINNER IS DEAD ###"
 	{
-		"chi"		"** **"
+		"chi"		"**堕落之人已经死亡 **"
 	}
 	"### HUMAN WILL BE TELEPORT THE THE FINAL DESTINATION IN 10 SECONDS##"
 	{
-		"chi"		"** **"
+		"chi"		"**离传送至最后的目的地还有10秒 **"
 	}
 	"### HOLD THIS LAST PLACE FOR 1 MINUTE ###"
 	{
-		"chi"		"** **"
+		"chi"		"**防守这里1分钟 **"
 	}
 	"### SLIPKNOT - CUSTER IS NOW PLAYING ###"
 	{
@@ -194,31 +194,31 @@
 	}
 	"### BRIDGES ARE GOING TO BREAK BEFORE ZOMBIES TELEPORT ###"
 	{
-		"chi"		"** **"
+		"chi"		"**桥面将在僵尸传送前碎裂 **"
 	}
 	"### ZOMBIES COMING IN 20 SECONDS ###"
 	{
-		"chi"		"** **"
+		"chi"		"**离僵尸到达还有20秒 **"
 	}
 	"### ZOMBIES ARRIVED ###"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸到达 **"
 	}
 	"### CONGRATULATION YOU MADE IT !! ###"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜你 过关 **"
 	}
 	"---Feedback:noojeff@gmail.com---"
 	{
-		"chi"		"** **"
+		"chi"		"**作者邮箱:noojeff@gmail.com **"
 	}
 	"---Special Thank To:HZM654321 and JackBauer123---"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢:HZM654321 and JackBauer123 **"
 	}
 	">> IDEA: Sienestaja <<"
 	{
-		"chi"		"** **"
+		"chi"		"**灵感来源: Sienestaja**"
 	}
 	"[Load ShroomForest Config]"
 	{
