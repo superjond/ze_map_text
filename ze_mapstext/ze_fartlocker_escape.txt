@@ -72,4 +72,68 @@
 	{
 		"chi"		"** **"
 	}
+	"***ZOMBIES REALEASED IN 10s***"
+	{
+		"chi"		"** **"
+	}
+	"***DOOR OPENS IN 50s***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIES RELEASED IN 5s***"
+	{
+		"chi"		"** **"
+	}
+	"***DOOR OPENS IN 25s***"
+	{
+		"chi"		"** **"
+	}
+	"***TELEPORTER WILL ACTIVATE IN 50s***"
+	{
+		"chi"		"** **"
+	}
+	"***GET READY!!! 5s LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***TELEPORTER IS ACTIVE***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIES RELEASED IN 15s***"
+	{
+		"chi"		"** **"
+	}
+	"***WALL WILL BREAK IN 25s***"
+	{
+		"chi"		"** **"
+	}
+	"***AFK TELEPORT IN 5s***"
+	{
+		"chi"		"** **"
+	}
+	"***NEXT WALL BREAKS IN 25s***"
+	{
+		"chi"		"** **"
+	}
+	"***TELEPORT WILL ACTIVATE IN 40s***"
+	{
+		"chi"		"** **"
+	}
+	"***TELEPORTER IS ENABLED***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD THIS AREA FOR 25s***"
+	{
+		"chi"		"** **"
+	}
+	"***RIP***"
+	{
+		"chi"		"** **"
+	}
+	"***WALL BREAKS IN 30s***"
+	{
+		"chi"		"** **"
+	}
 }

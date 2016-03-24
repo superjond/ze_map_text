@@ -544,4 +544,8 @@
 	{
 		"chi"		"** **"
 	}
+	"SEND ALL YOUR NUDES TO LUFFAREN!!!"
+	{
+		"chi"		"** **"
+	}
 }

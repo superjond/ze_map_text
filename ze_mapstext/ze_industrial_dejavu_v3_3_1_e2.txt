@@ -152,4 +152,12 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Boat leaves in 40 seconds. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESIST!!! 10 SECONDS!!!. ***"
+	{
+		"chi"		"** **"
+	}
 }
