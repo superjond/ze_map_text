@@ -72,7 +72,7 @@
 	">>ELEVATORS OPEN ! 15 SECONDS LEFT<<"
 	{
 		"chi"		"**电梯开门了 15秒后关门**"
-				"DoorCountdown"		"15"
+		"DoorCountdown"		"15"
 	}
 	">>ELEVATORS LEAVING !<<"
 	{
@@ -183,5 +183,25 @@
 	">>>EXTREME MODE ACTIVATED<<<"
 	{
 		"chi"		"**启动极限模式**"
+	}
+	">>>>Only one use<<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>>UAV has been picked<<<<"
+	{
+		"chi"		"** **"
+	}
+	">>UAV Launched<<"
+	{
+		"chi"		"** **"
+	}
+	">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE EVACUATION AREA !!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>>Ammo Dispenser has been picked<<<<"
+	{
+		"chi"		"** **"
 	}
 }

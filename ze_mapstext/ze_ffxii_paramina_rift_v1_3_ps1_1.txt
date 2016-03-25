@@ -1,0 +1,43 @@
+"Console_T"
+{
+	"** [STAGE 1] PARAMINA RIFT **"
+	{
+		"chi"		"** **"
+	}
+	"Stage 1 - Find a way through Paramina Rift and locate the Stilshrine of Miriam.."
+	{
+		"chi"		"** **"
+	}
+	"** [DIFFICULTY] NORMAL **"
+	{
+		"chi"		"** **"
+	}
+	"** COLLECT 500 GIL BY FINDING TREASURE CHESTS OR BY DESTROYING TOWERS => REWARD - POTIONS IN STAGE 2"
+	{
+		"chi"		"** **"
+	}
+	"** MAP BY SLAYERDRAGON **"
+	{
+		"chi"		"** **"
+	}
+	"** SIDEQUEST Collect 500 gil STARTED **"
+	{
+		"chi"		"** **"
+	}
+	"** 35 GIL OBTAINED BY DEACTIVATING A TOWER **"
+	{
+		"chi"		"** **"
+	}
+	"** ZE FFXII PARAMINA RIFT **"
+	{
+		"chi"		"** **"
+	}
+	"** GATE OPENS IN 15 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** GATE OPENS IN 5 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+}

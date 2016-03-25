@@ -160,4 +160,56 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Well done! Now it will get interesting on the HARD mode! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT MODE: HARD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIE WEAPONS & BIG INFECTION ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HELPING PUSHES DISABLED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL CHANGED TO EXTREME ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ADMIN ENABLED BOSS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NUKE ACTIVATED BY ADMIN ***"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT MODE: EXTREME ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIE WEAPONS & MASSIVE INFECTION ***"
+	{
+		"chi"		"** **"
+	}
+	"* Zombie heal has been picked up. Press +USE (E) to activate.*"
+	{
+		"chi"		"** **"
+	}
+	"*** Unbelievable! You won EXTREME mode! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The map level will stay on this mode for you to keep playing the hardest difficulty... If you dare. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO BACK! IT'S GONNA BLOW! ***"
+	{
+		"chi"		"** **"
+	}
 }
