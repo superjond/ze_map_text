@@ -59,7 +59,7 @@
 	}
 	"Zombies have secured a checkpoint."
 	{
-		"chi"		"**僵尸需要寻找硬币! **"
+		"chi"		"**一个僵尸传送点已被解放 **"
 	}
 	"No safehouse spawned. Map broken rtv."
 	{
