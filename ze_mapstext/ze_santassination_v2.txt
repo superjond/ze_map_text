@@ -548,4 +548,16 @@
 	{
 		"chi"		"** **"
 	}
+	"***SEWER BLASTDOOR WILL OPEN IN 40 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SEWER BLASTDOOR IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIE DETECTED - YOU FAIL***"
+	{
+		"chi"		"** **"
+	}
 }

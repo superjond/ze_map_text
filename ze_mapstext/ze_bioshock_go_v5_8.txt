@@ -448,4 +448,16 @@
 	{
 		"chi"		"** **"
 	}
+	">>>Found the Cage Token<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Security has been reset. Would you kindly get to the elevator!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Found the Airship Token<<<"
+	{
+		"chi"		"** **"
+	}
 }

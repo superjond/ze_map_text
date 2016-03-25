@@ -100,4 +100,68 @@
 	{
 		"chi"		"** **"
 	}
+	"***PLAYER PICKED UP ALIEN SAMPLE***"
+	{
+		"chi"		"** **"
+	}
+	"***TELEPORTING EVERYONE TO CLIFF HIDEOUT***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD THIS AREA FOR 40 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***TELEPORTING EVERYONE TO RUINS***"
+	{
+		"chi"		"** **"
+	}
+	"***20 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***RUN! GO BEFORE ITS TOO LATE!***"
+	{
+		"chi"		"** **"
+	}
+	"***THE CHOPPER IS ON IT'S WAY!***"
+	{
+		"chi"		"** **"
+	}
+	"***CHOPPER LEAVING IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***CHOPPER LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***CHOPPER IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"***THE NUKE HAS EXPLODED***"
+	{
+		"chi"		"** **"
+	}
+	"***OH NO! THE NUKE EXPLODED!***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU COMPLETED NORMAL***"
+	{
+		"chi"		"** **"
+	}
+	"***MOVING ON TO HARD***"
+	{
+		"chi"		"** **"
+	}
+	"***DIFFICULTY --- HARD***"
+	{
+		"chi"		"** **"
+	}
 }
