@@ -301,31 +301,31 @@
 	}
 	"*** Zombie at the end YOU FAIL ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸到达了最后 你输了**"
 	}
 	"*** Zombie in elevator You Fail ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸进去了电梯 你输了 **"
 	}
 	"*** Nice Job You Have Beaten FapEscape! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**很好 你打败了FapEscape **"
 	}
 	"*** ZM ***"
 	{
-		"chi"		"** **"
+		"chi"		"**ZM模式**"
 	}
 	"*** Survive for 3 Minutes ***"
 	{
-		"chi"		"** **"
+		"chi"		"**生存3分钟**"
 	}
 	"*** Zombie on the tram ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸在缆车上了**"
 	}
 	"*** You Fail ***"
 	{
-		"chi"		"** **"
+		"chi"		"**你输了**"
 	}
 	"*** YOU SUCK ***"
 	{
