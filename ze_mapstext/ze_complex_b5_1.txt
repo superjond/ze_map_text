@@ -30,7 +30,7 @@
 	}
 	"***MAP BY - LUFFAREN***"
 	{
-		"chi"		"地图作者：LUFFAREN"
+		"chi"		"**"
 	}
 	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
 	{
@@ -38,7 +38,7 @@
 	}
 	"* * Map by Mojonero * *"
 	{
-		"chi"		"地图作者：ojonero"
+		"chi"		"**"
 	}
 	">>>Respawn wall break in 20 sec<<<"
 	{
