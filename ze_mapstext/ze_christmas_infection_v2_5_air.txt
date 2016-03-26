@@ -10,11 +10,11 @@
 	}
 	"** Red and blue presents will contain zombie and human items respectively. **"
 	{
-		"chi"		"**红色礼物盒是僵尸神器 蓝色礼物盒是人类神器 **"
+		"chi"		"**蓝色礼物盒是人类神器 红色礼物盒是僵尸神器 但不总是这样**"
 	}
 	"** ZE_CHRISTMAS_INFECTION **"
 	{
-		"chi"		"** **"
+		"chi"		"**圣诞惊魂夜**"
 	}
 	"** Zombie present placer has been picked up. Press +USE (E) to place a present. **"
 	{
@@ -27,6 +27,7 @@
 	"*** The door opens in 30 seconds ***"
 	{
 		"chi"		"**门在30秒后打开 **"
+		"DoorCountdown"		"30"
 	}
 	"*** The door opens in 10 seconds. Hold! ***"
 	{
@@ -42,7 +43,7 @@
 	}
 	"* Whirpool summoner has been picked up. Press +USE (E) to summon*"
 	{
-		"chi"		"** **"
+		"chi"		"**极寒风暴召唤者出现**"
 	}
 	"** Snowball launcher has been picked up. Press +USE (E) to launch a snowball. **"
 	{
@@ -50,11 +51,12 @@
 	}
 	"** An evil christmas ogre has appeared... **"
 	{
-		"chi"		"**警告!!僵尸DP出现 **"
+		"chi"		"**警告!!<進撃の巨人>出现 **"
 	}
 	"*** HOLD! The elevator will leave in 25 seconds! ***"
 	{
 		"chi"		"**电梯将在25秒后升起 **"
+		"DoorCountdown"		"25"
 	}
 	"** Tree placer has been picked up. Press +USE (E) to place a tree. **"
 	{
@@ -63,6 +65,7 @@
 	"*** Hold the bridge! The door opens in 20 seconds! ***"
 	{
 		"chi"		"**防御这座桥!门将在20秒后打开 **"
+		"DoorCountdown"		"20"
 	}
 	"*** Activate one of the control pannels! ***"
 	{
@@ -71,10 +74,12 @@
 	"** Well done! The door opens in 20 seconds. RESIST!!! **"
 	{
 		"chi"		"**门将在20秒后打开 防御! **"
+		"DoorCountdown"		"20"
 	}
 	"** Hold! The door will open in 25 seconds! **"
 	{
 		"chi"		"**门将在25秒后打开 防御! **"
+		"DoorCountdown"		"25"
 	}
 	"** Only 5 seconds left! RESIST! **"
 	{
@@ -83,6 +88,7 @@
 	"** We have to hold this area for 40 seconds until the doors open! **"
 	{
 		"chi"		"**我们需要防守这里40秒 直到大门打开 **"
+		"DoorCountdown"		"40"
 	}
 	"** Keep defending! 15 seconds left! **"
 	{
@@ -94,7 +100,7 @@
 	}
 	"** Zombie fog has been picked up. Press +USE (E) to activate **"
 	{
-		"chi"		"** **"
+		"chi"		"**隐身烟雾拾取 按E激活**"
 	}
 	"** 5 seconds! RESIST!!! **"
 	{
@@ -135,6 +141,7 @@
 	"** DEFEND THE CHRISTMAS AIRBOAT FOR 50 SECONDS!!! **"
 	{
 		"chi"		"**防守圣诞汽艇50秒 **"
+		"DoorCountdown"		"50"
 	}
 	"** RESIST! 30 SECONDS LEFT!!! **"
 	{
@@ -154,11 +161,12 @@
 	}
 	"** CURRENT LEVEL: MEDIUM **"
 	{
-		"chi"		"**当前难度 普通 作者:GARGANTUA 翻译:BAKA_Miku **"
+		"chi"		"**当前难度 普通 作者:GARGANTUA 翻译:BAKA_Miku|SuperJond **"
 	}
 	"** We have to hold this area for 60 seconds until the doors open! **"
 	{
 		"chi"		"**我们需要防守这里60秒 直到大门打开 **"
+		"DoorCountdown"		"60"
 	}
 	"** Keep defending! 30 seconds left! **"
 	{
@@ -202,11 +210,11 @@
 	}
 	"** IT'S TOO LATE! THE BOAT WILL NOT DO IT IN TIME! WE WILL DIE! **"
 	{
-		"chi"		"**太晚了!任务失败!我们死了! **"
+		"chi"		"**太晚了!任务失败!我们要死了! **"
 	}
 	"*** Activate both control pannels at once to unlock the door! ***"
 	{
-		"chi"		"**同时!按下控制面板以解锁大门 **"
+		"chi"		"**同时按下控制面板以解锁大门 **"
 	}
 	"* Trampoline placer has been picked up. Press +USE (E) to place a trampoline. *"
 	{
@@ -223,6 +231,7 @@
 	"** Resist for 15 seconds! **"
 	{
 		"chi"		"**防御15秒 **"
+		"DoorCountdown"		"15"
 	}
 	"** LAST 5 SECONDS! KEEP HOLDING!!! **"
 	{
@@ -234,7 +243,7 @@
 	}
 	"** CURRENT LEVEL: TOUGH **"
 	{
-		"chi"		"**当前难度 困难 作者:GARGANTUA 翻译:BAKA_Miku **"
+		"chi"		"**当前难度 困难 作者:GARGANTUA 翻译:BAKA_Miku|SuperJond **"
 	}
 	"** RESIST! There are two ways they can come from! **"
 	{
@@ -251,6 +260,7 @@
 	"** RESIST FOR 20 SECONDS! Help is on the way! **"
 	{
 		"chi"		"**防御20秒!增援已经在路上了 **"
+		"DoorCountdown"		"20"
 	}
 	"** Fall back! The hot air balloon is here!!! **"
 	{
@@ -262,14 +272,14 @@
 	}
 	"** You werent expected to get this far... GET READY FOR THE APOCALYPSE!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**你已经到这么远了，准备面临世界末日吧**"
 	}
 	"+++  MAP MADE BY GARGANTUA +++"
 	{
-		"chi"		"**作者:GARGANTUA 翻译:BAKA_Miku **"
+		"chi"		"**作者:GARGANTUA 翻译:BAKA_Miku|SuperJond **"
 	}
 	"*** ZOMBIES DETECTED ON BOAT - INVALID VICTORY!!! ***"
 	{
-		"chi"		"**僵尸已经上船 -无效的胜利 **"
+		"chi"		"**僵尸已经上船 -无效的胜利it's a ggod game！！ **"
 	}
 }
