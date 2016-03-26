@@ -2,7 +2,7 @@
 {
 	"** MAP BY SLAYERDRAGON **"
 	{
-		"chi"		"**作者 SLAYERDRAGON 翻译BAKA_Miku**"
+		"chi"		"**作者 SLAYERDRAGON 翻译BAKA_Miku|SuperJond**"
 	}
 	"** LEVEL 1 (EASY) **"
 	{
@@ -15,19 +15,19 @@
 	}
 	"** HEAL GUN - 40 sec cooldown **"
 	{
-		"chi"		"**治疗枪 40秒冷却时间[神器等级需求:3] **"
+		"chi"		"**治疗枪 40秒冷却时间[神器分数需求:300] **"
 	}
 	"** LASER GUN - 60 sec cooldown **"
 	{
-		"chi"		"**激光墙 60秒冷却时间[神器等级需求:4] 放置一个墙 可以秒杀进入的僵尸 **"
+		"chi"		"**激光墙 60秒冷却时间[神器分数需求:400] 放置一个墙 可以秒杀进入的僵尸 **"
 	}
 	"** FIRE BARREL - 50 sec cooldown **"
 	{
-		"chi"		"**炸药桶 50秒冷却时间[神器等级需求:1] **"
+		"chi"		"**炸药桶 50秒冷却时间[神器分数需求:100] **"
 	}
 	"** FREEZE BOTTLE - 50 sec cooldown **"
 	{
-		"chi"		"**冰冻枪 50秒冷却时间[神器等级需求:2] **"
+		"chi"		"**冰冻枪 50秒冷却时间[神器分数需求:200] **"
 	}
 	"** AMMO GUN - 40 sec cooldown **"
 	{
@@ -36,6 +36,7 @@
 	"** DOOR OPENS IN 15 SECONDS **"
 	{
 		"chi"		"**门将在15秒后打开 **"
+		"DoorCountdown"		"15"
 	}
 	"** 5 MORE SECONDS LEFT **"
 	{
@@ -43,7 +44,7 @@
 	}
 	"** DJ IN DA HOUSE !! **"
 	{
-		"chi"		"** **"
+		"chi"		"**DJ嗨起来！**"
 	}
 	"** Button A2 pressed **"
 	{
@@ -64,14 +65,15 @@
 	"** DEFEND 20 SECONDS **"
 	{
 		"chi"		"**防御20秒 **"
+		"DoorCountdown"		"20"
 	}
 	"[MUSIC] NYAN CAT"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]彩虹猫**"
 	}
 	"** SECRET NYAN CAT COMPLETED **"
 	{
-		"chi"		"** **"
+		"chi"		"**彩蛋：彩虹猫发现**"
 	}
 	"** DEFEND 5 MORE SECONDS **"
 	{
@@ -91,23 +93,23 @@
 	}
 	"** SECRETS 1 of 5 FOUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**彩蛋1/5解锁**"
 	}
 	"[MUSIC] REAL2REAL - I Like To Move It"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]REAL2REAL - I Like To Move It**"
 	}
 	"** SECRET I LIKE TO MOVE IT COMPLETED **"
 	{
-		"chi"		"** **"
+		"chi"		"**彩蛋：I Like To Move It发现**"
 	}
 	"** GO TO THE CENTRAL BUILDING... **"
 	{
-		"chi"		"** **"
+		"chi"		"**向中心建筑物进发**"
 	}
 	"** ... AND WAIT FOR EVACUATION **"
 	{
-		"chi"		"** **"
+		"chi"		"**等待救援**"
 	}
 	"** DEFEND 10 SECONDS **"
 	{
@@ -115,15 +117,16 @@
 	}
 	"** SECRETS 2 of 5 FOUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**彩蛋2/5解锁**"
 	}
 	"** END OF THE LINE !! **"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的守点**"
 	}
 	"** HOLD THIS POSITION FOR 60 SECONDS !! **"
 	{
 		"chi"		"**在这里防御60秒 **"
+		"DoorCountdown"		"60"
 	}
 	"** 50 SECONDS REMAINING **"
 	{
@@ -172,19 +175,19 @@
 	}
 	"[MUSIC] AQUA - BARBIE"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]AQUA - BARBIE**"
 	}
 	"** SECRET BARBIE COMPLETED **"
 	{
-		"chi"		"** **"
+		"chi"		"**彩蛋：BARBIE发现**"
 	}
 	"** OH NOES! ITs PEDOBEAR !! **"
 	{
-		"chi"		"**哇! BOOS耶 **"
+		"chi"		"**哇! 是迷糊熊耶 **"
 	}
 	"** KILL IT BEFORE IT RAPES EVERYONE !! **"
 	{
-		"chi"		"**在他撸死你们前 杀死他 **"
+		"chi"		"**在他拿手上的不明物体撸死你们前 杀死他 **"
 	}
 	"** NADES AND SPECIAL ITEMS DO MORE DAMAGE !! **"
 	{
@@ -192,35 +195,35 @@
 	}
 	"** PEDOBEAR HAS BEEN DEFEATED **"
 	{
-		"chi"		"**BOOS死亡 **"
+		"chi"		"**迷糊熊挂啦 **"
 	}
 	"[MUSIC] EIFEL 65 - Blue"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]EIFEL 65 - Blue**"
 	}
 	"** SECRET BLUE WORLD COMPLETED **"
 	{
-		"chi"		"** **"
+		"chi"		"**彩蛋：BLUE发现**"
 	}
 	"** SECRETS 4 of 5 FOUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**彩蛋4/5解锁**"
 	}
 	"[MUSIC] S3RL - Pika Girl"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]S3RL - Pika Girl**"
 	}
 	"[MUSIC] BENNY HILL"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]BENNY HILL**"
 	}
 	"[MUSIC] PENDULUM - Encoder"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]PENDULUM - Encoder**"
 	}
 	"** SECRET ENCODER COMPLETED **"
 	{
-		"chi"		"** **"
+		"chi"		"**彩蛋：Encoder发现**"
 	}
 	"** ENEMY CHOPPER INBOUND **"
 	{
@@ -241,7 +244,7 @@
 	}
 	"** ALL SECRETS HAVE BEEN FOUND... **"
 	{
-		"chi"		"** **"
+		"chi"		"**全部彩蛋都被发现啦**"
 	}
 	"** ...GRAVITY INBOUND AT THE ENDING !! **"
 	{
@@ -249,11 +252,11 @@
 	}
 	"** SPECIAL SECRET ACTIVATED... **"
 	{
-		"chi"		"** **"
+		"chi"		"**一个全新的彩蛋已被激活**"
 	}
 	"** ...GRAVITY AND DRUGS FOR EVERYONE ! **"
 	{
-		"chi"		"** **"
+		"chi"		"**High起来！**"
 	}
 	"** U WON LEVEL 3 (HARD) **"
 	{
@@ -266,15 +269,15 @@
 	}
 	"** BOSS ATTACKS ENABLED **"
 	{
-		"chi"		"**BOSS会开技能啦 **"
+		"chi"		"**狗迷糊会开技能啦 **"
 	}
 	"[MUSIC] DAFT PUNK - One More Time"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]DAFT PUNK - One More Time**"
 	}
 	"[MUSIC] ACDC - Highway To Hell"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]ACDC - Highway To Hell**"
 	}
 	"** U WON LEVEL 4 (BOSS) **"
 	{
@@ -291,19 +294,20 @@
 	}
 	"[MUSIC] NUMA NUMA YODA"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]NUMA NUMA YODA**"
 	}
 	"[MUSIC] REQUIEM FOR A DREAM"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]REQUIEM FOR A DREAM**"
 	}
 	"** 120 SECONDS left until VICTORY **"
 	{
 		"chi"		"**离胜利还有120秒 **"
+		"DoorCountdown"		"120"
 	}
 	"[MUSIC] CARAMELLDANSEN !!"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]CARAMELLDANSEN !!**"
 	}
 	"** 60 SECONDS left until VICTORY **"
 	{
@@ -336,23 +340,23 @@
 	}
 	"** ITEM COLLECTED - ALL HUMANS GET 250 HP **"
 	{
-		"chi"		"** **"
+		"chi"		"**物品拾取：全人类获得250HP**"
 	}
 	"[MUSIC] BLOODHOUND GANG - The Bad Touch"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐] BLOODHOUND GANG - The Bad Touch**"
 	}
 	"[MUSIC] HOLLYWOOD UNDEAD - Everywhere i go"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]HOLLYWOOD UNDEAD - Everywhere i go**"
 	}
 	"[MUSIC] GUNS n ROSES - Paradise City"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]GUNS n ROSES - Paradise City**"
 	}
 	"[MUSIC] LINKIN PARK - Numb"
 	{
-		"chi"		"** **"
+		"chi"		"**[音乐]LINKIN PARK - Numb**"
 	}
 	"** U WON LEVEL 6 (BOSS) **"
 	{
@@ -365,11 +369,12 @@
 	}
 	"** SUICIDAL ZOMBIE INCOMING **"
 	{
-		"chi"		"**自杀僵尸来袭 **"
+		"chi"		"**自爆僵尸来袭 **"
 	}
 	"** DOOR OPENS IN 20 SECONDS **"
 	{
 		"chi"		"**门将在20秒后打开 **"
+		"DoorCountdown"		"20"
 	}
 	"** DOOR OPENS IN 5 SECONDS **"
 	{
@@ -377,23 +382,24 @@
 	}
 	"** MISSION - PLANT THE BOMB AND ESCAPE! **"
 	{
-		"chi"		"** **"
+		"chi"		"**任务：放置炸弹并且逃脱**"
 	}
 	"** BOMB HAS BEEN PLANTED **"
 	{
-		"chi"		"** **"
+		"chi"		"**炸弹安置！**"
 	}
 	"** AIRLOCK TURBINE IS STARTING... **"
 	{
-		"chi"		"** **"
+		"chi"		"**通风道正在运转**"
 	}
 	"** WE ARE READY TO ESCAPE THIS COMPOUND ! **"
 	{
-		"chi"		"** **"
+		"chi"		"**准备好离开这吧**"
 	}
 	"** 20 SECONDS BEFORE THE AIRLOCK OPENS **"
 	{
 		"chi"		"**气闸将在20秒后打开 **"
+		"DoorCountdown"		"20"
 	}
 	"** 5 SECONDS LEFT BEFORE THE AIRLOCK OPENS **"
 	{
@@ -401,7 +407,7 @@
 	}
 	"** WE ARE BACK IN THE COMPOUND ! **"
 	{
-		"chi"		"** **"
+		"chi"		"**我们又回来了**"
 	}
 	"** AFK wall will BREAK in 5 SECONDS **"
 	{
@@ -410,6 +416,7 @@
 	"** 80 SECONDS REMAINING **"
 	{
 		"chi"		"**还有80秒 **"
+		"DoorCountdown"		"80"
 	}
 	"** 70 SECONDS REMAINING **"
 	{
@@ -417,7 +424,7 @@
 	}
 	"** LILA PANIC COMPOUND IS FALLING APART !! **"
 	{
-		"chi"		"** **"
+		"chi"		"**里拉复合体建筑正在崩塌**"
 	}
 	"** ENEMY CHOPPER INBOUND !! **"
 	{
@@ -442,7 +449,7 @@
 	}
 	"** CONGRATZ !! U WON THE MAP !! **"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜你，全图通关**"
 	}
 	"** LEVEL 9 (ZM ROUND) **"
 	{
@@ -454,15 +461,15 @@
 	}
 	"** ADMIN gives EVERYONE LEVEL 5! ENJOY!**"
 	{
-		"chi"		"** **"
+		"chi"		"**某位不愿意透漏姓名的小伙伴调到了第五关**"
 	}
 	"** ADMIN chose LEVEL 1 for NEXT ROUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**某位不愿意透漏姓名的小伙伴调到了第一关**"
 	}
 	"** SECRETS 3 of 5 FOUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**彩蛋3/5解锁**"
 	}
 	"** U WON LEVEL 9 (ZM ROUND) **"
 	{
