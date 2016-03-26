@@ -26,7 +26,7 @@
 	}
 	">>>MAP BY LeGrem<<<"
 	{
-		"chi"		"**地图作者：LeGrem**"
+		"chi"		"**地图作者：LeGrem 翻译:挂机的minde**"
 	}
 	">>>Thx to JorisCeoen for help with models<<<"
 	{
@@ -80,7 +80,7 @@
 	}
 	">>>CT WIN - ACCESS TO SPECIAL WEAPONS GRANTED<<<"
 	{
-		"chi"		"**人类审理 获得使用特别神器的权利**"
+		"chi"		"**人类胜利 获得使用特别神器的权利**"
 	}
 	">>>LEVEL 2 : EVACUATION POINT : STREET<<<"
 	{
@@ -186,22 +186,22 @@
 	}
 	">>>>Only one use<<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**只能用一次**"
 	}
 	">>>>UAV has been picked<<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**无人驾驶飞行器被捡起**"
 	}
 	">>UAV Launched<<"
 	{
-		"chi"		"** **"
+		"chi"		"**发射无人驾驶飞行器**"
 	}
 	">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE EVACUATION AREA !!<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**不能拿特别神器了!!僵尸进来了撤离区**"
 	}
 	">>>>Ammo Dispenser has been picked<<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**无限子弹被拿起**"
 	}
 }
