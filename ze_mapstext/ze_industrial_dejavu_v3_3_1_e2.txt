@@ -14,11 +14,11 @@
 	}
 	"*** NO ZOMBIE WEAPONS & SMALL INFECTION ***"
 	{
-		"chi"		"** **"
+		"chi"		"**一张刷伤害地图 **"
 	}
 	"*** HELPING PUSHES ACTIVATED ON EASY MODE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**boss战与正常路线完全随机 **"
 	}
 	"*** Door opens in 20 seconds! ***"
 	{
@@ -62,7 +62,7 @@
 	}
 	"**Fuel lasts about 10 seconds. **"
 	{
-		"chi"		"** **"
+		"chi"		"**喷火器燃料有10s时间 **"
 	}
 	"*Ammo Box has been picked up. Press +USE (E) to activate.*"
 	{
@@ -122,7 +122,7 @@
 	}
 	"*** OH NOES!!! IT'S A BOSS WITH STRANGELY FAMILIAR LOOKS!!! ***"
 	{
-		"chi"		"**那是一只BOSS 看起来很奇怪 **"
+		"chi"		"**那是一只BOSS 看起来很奇怪[打碎他的保护罩 扔一波高爆 当心身后会出现僵尸 也请不要靠前装逼] **"
 	}
 	"*** The boss has been defeated! ***"
 	{
@@ -146,7 +146,7 @@
 	}
 	"***Evacuate!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**起飞!!! **"
 	}
 	"*** ZOMBIES DETECTED - INVALID VICTORY ***"
 	{
@@ -154,19 +154,19 @@
 	}
 	"*** Boat leaves in 40 seconds. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**船将在40秒后离开 **"
 	}
 	"*** RESIST!!! 10 SECONDS!!!. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防御!还有10秒 **"
 	}
 	"*** Well done! Now it will get interesting on the HARD mode! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**过关 下一关难度 困难 **"
 	}
 	"*** CURRENT MODE: HARD ***"
 	{
-		"chi"		"** **"
+		"chi"		"**难度等级 困难 **"
 	}
 	"*** ZOMBIE WEAPONS & BIG INFECTION ***"
 	{
@@ -178,19 +178,19 @@
 	}
 	"*** LEVEL CHANGED TO EXTREME ***"
 	{
-		"chi"		"** **"
+		"chi"		"**下一关难度等级 极限 **"
 	}
 	"*** ADMIN ENABLED BOSS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**admin启用boss **"
 	}
 	"*** NUKE ACTIVATED BY ADMIN ***"
 	{
-		"chi"		"** **"
+		"chi"		"**admin启用核爆 **"
 	}
 	"*** CURRENT MODE: EXTREME ***"
 	{
-		"chi"		"** **"
+		"chi"		"**难度等级 极限 **"
 	}
 	"*** ZOMBIE WEAPONS & MASSIVE INFECTION ***"
 	{
@@ -198,15 +198,15 @@
 	}
 	"* Zombie heal has been picked up. Press +USE (E) to activate.*"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸奶已被拾起 按'E'来使用 **"
 	}
 	"*** Unbelievable! You won EXTREME mode! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**不可相信!你通过了 极限模式 **"
 	}
 	"*** The map level will stay on this mode for you to keep playing the hardest difficulty... If you dare. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**接下来这张地图的难度等级会保持 极限 不变 **"
 	}
 	"*** GO BACK! IT'S GONNA BLOW! ***"
 	{
