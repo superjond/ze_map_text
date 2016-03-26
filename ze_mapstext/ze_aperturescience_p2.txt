@@ -2,175 +2,175 @@
 {
 	"--Welcome to the Aperture Science Center--"
 	{
-		"chi"		"** **"
+		"chi"		"欢迎来到光圈科技中心"
 	}
 	"--Map made by Eugenio **Motanum** Roman--"
 	{
-		"chi"		"** **"
+		"chi"		"地图作者：Eugenio **Motanum** Roman "
 	}
 	"--Sponsored by ]HeLL[ Clan--"
 	{
-		"chi"		"** **"
+		"chi"		"赞助者：]HeLL[ Clan  翻译by楯山文乃"
 	}
 	"**Hint: Crouch to go over the glass**"
 	{
-		"chi"		"** **"
+		"chi"		"提示：蹲下来穿过玻璃"
 	}
 	"--Are you sure you want to kill the Weighted Companion Cube?--"
 	{
-		"chi"		"** **"
+		"chi"		"你确定要干掉Weighted Companion Cube？"
 	}
 	"--Survive 30 seconds!--"
 	{
-		"chi"		"** **"
+		"chi"		"生存30S！"
 	}
 	"--YES____      NO_____--"
 	{
-		"chi"		"** **"
+		"chi"		"是还是否？"
 	}
 	"--YES _X_--"
 	{
-		"chi"		"** **"
+		"chi"		"是"
 	}
 	"--That was a quick answer! Patience is a virtue--"
 	{
-		"chi"		"** **"
+		"chi"		"回答的真干脆！要知道耐心也是一种美德"
 	}
 	"--What is the rush? Did the Companion Cube said something bad?--"
 	{
-		"chi"		"** **"
+		"chi"		"这冲击是怎么回事？同伴方块提到什么坏事了么？"
 	}
 	"--We are trying to escape from zombies! And we adore the companion cube--"
 	{
-		"chi"		"** **"
+		"chi"		"我们正试图从僵尸群中逃脱！并且我们挚爱同伴方块（什么鬼啊_(:зゝ∠)_"
 	}
 	"--You love an inanimate object! How silly!--"
 	{
-		"chi"		"** **"
+		"chi"		"你爱的不过是个无生命体！这太蠢了- -"
 	}
 	"--But for the last time are you extremely sure you want this?--"
 	{
-		"chi"		"** **"
+		"chi"		"你确定你上一次想要的就是这个？"
 	}
 	"--If thats what you REALLY want--"
 	{
-		"chi"		"** **"
+		"chi"		"如果那是你真的真的很想要的"
 	}
 	"--5--"
 	{
-		"chi"		"** **"
+		"chi"		"5S"
 	}
 	"--4--"
 	{
-		"chi"		"** **"
+		"chi"		"4S"
 	}
 	"--3--"
 	{
-		"chi"		"** **"
+		"chi"		"3S"
 	}
 	"--2--"
 	{
-		"chi"		"** **"
+		"chi"		"2S"
 	}
 	"--1--"
 	{
-		"chi"		"** **"
+		"chi"		"1S"
 	}
 	"--Doors are open you horrible people--"
 	{
-		"chi"		"** **"
+		"chi"		"鱼唇的人类啊，门开啦"
 	}
 	"--Doors clossing in 5--"
 	{
-		"chi"		"** **"
+		"chi"		"5秒后关门"
 	}
 	"--Doors closed--"
 	{
-		"chi"		"** **"
+		"chi"		"门关上了"
 	}
 	"--Doors will reopen in 15 seconds--"
 	{
-		"chi"		"** **"
+		"chi"		"门会在15秒后再次打开"
 	}
 	"--**HINT: Crouch to clear the orange sphere!**--"
 	{
-		"chi"		"** **"
+		"chi"		"提示：下蹲以清除橙色球体"
 	}
 	"--Congratulations--"
 	{
-		"chi"		"** **"
+		"chi"		"恭喜！！！"
 	}
 	"--Cake will follow up shortly--"
 	{
-		"chi"		"** **"
+		"chi"		"蛋糕会马上跟进"
 	}
 	"--Office doors open in 20 seconds--"
 	{
-		"chi"		"** **"
+		"chi"		"办公室的门将会在20秒后打开"
 	}
 	"--Hold this position from any zombies--"
 	{
-		"chi"		"** **"
+		"chi"		"坚守阵地！"
 	}
 	"--Office doors close in 5--"
 	{
-		"chi"		"** **"
+		"chi"		"办公室的门将会在5秒后打开"
 	}
 	"--Office doors will reopen in 20 seconds--"
 	{
-		"chi"		"** **"
+		"chi"		"办公室的门将会在20秒后再次打开"
 	}
 	"--Office doors are now closed--"
 	{
-		"chi"		"** **"
+		"chi"		"办公室的门现在关上了"
 	}
 	"--Cutting the cake in 5--"
 	{
-		"chi"		"** **"
+		"chi"		"5秒后开始切蛋糕"
 	}
 	"--Cake is being Cut! You are too late--"
 	{
-		"chi"		"** **"
+		"chi"		"蛋糕被切啦！你们太慢了"
 	}
 	"--Office doors are now Open--"
 	{
-		"chi"		"** **"
+		"chi"		"办公室门现在打开了"
 	}
 	"--Fighting GLaDOS--"
 	{
-		"chi"		"** **"
+		"chi"		"和 GLaDOS 战斗"
 	}
 	"--Protect yourself from the zombies for 60 seconds!--"
 	{
-		"chi"		"** **"
+		"chi"		"坚守僵尸60秒"
 	}
 	"--Zombie teleport in 25 secs!--"
 	{
-		"chi"		"** **"
+		"chi"		"僵尸将在25秒后传送"
 	}
 	"--GLaDOS is exploding! Take cover!--"
 	{
-		"chi"		"** **"
+		"chi"		"GLaDOS要爆炸了！解决它！"
 	}
 	"--Lift doors open in 10 seconds!--"
 	{
-		"chi"		"** **"
+		"chi"		"逃生电梯的门将在10秒后打开"
 	}
 	"--Escape lift doors closing in 10 seconds--"
 	{
-		"chi"		"** **"
+		"chi"		"逃生电梯的门将在10秒后关闭"
 	}
 	"--Lift has now left Aperture Science--"
 	{
-		"chi"		"** **"
+		"chi"		"电梯现在已经逃离光圈科技"
 	}
 	"--We hope you have enjoyed your stay at Aperture Science!--"
 	{
-		"chi"		"** **"
+		"chi"		"希望你在光圈科技玩的愉快！"
 	}
 	"--Thanks for Playing!--"
 	{
-		"chi"		"** **"
+		"chi"		"感谢大家"
 	}
 	"IDEA: Sienest?j?"
 	{
@@ -178,38 +178,38 @@
 	}
 	">>LEVEL: NORMAL<<"
 	{
-		"chi"		"** **"
+		"chi"		">>关卡：正常<<"
 	}
 	"MAP BY: TaskuVaras"
 	{
-		"chi"		"** **"
+		"chi"		"地图作者：TaskuVaras"
 	}
 	"** LEVEL: NOT TOO ROUGH **"
 	{
-		"chi"		"** **"
+		"chi"		">>关卡：不是很难<<"
 	}
 	"^^^ Map By: BillSmauz ^^^"
 	{
-		"chi"		"** **"
+		"chi"		"地图作者：BillSmauz"
 	}
 	"***Map by Taskuvaras***"
 	{
-		"chi"		"** **"
+		"chi"		"地图作者：Taskuvaras"
 	}
 	"***Human door opening in 15s***"
 	{
-		"chi"		"** **"
+		"chi"		"人类大门将在15秒后打开"
 	}
 	"***CURRENT DIFFICULTY IS NORMAL***"
 	{
-		"chi"		"** **"
+		"chi"		"当前难度：正常"
 	}
 	"*** Map by : Airvulpes ***"
 	{
-		"chi"		"** **"
+		"chi"		"地图作者：Airvulpes"
 	}
 	"***THIS IS A MAP CREATED IN ONE DAY - BY LUFFAREN***"
 	{
-		"chi"		"** **"
+		"chi"		"这张图由LUFFAREN在一天之内完成"
 	}
 }
