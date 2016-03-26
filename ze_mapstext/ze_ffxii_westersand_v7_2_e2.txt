@@ -2,202 +2,202 @@
 {
 	"** MAP BY SLAYERDRAGON **"
 	{
-		"chi"		"** **"
+		"chi"		"地图作者：SLAYERDRAGON"
 	}
 	"** Map Ported By www.dashijie.es **"
 	{
-		"chi"		"** **"
+		"chi"		"由www.dashijie.es移植 翻译by楯山文乃"
 	}
 	"[NORMAL MODE]"
 	{
-		"chi"		"** **"
+		"chi"		"普通难度"
 	}
 	"** Defend untill the guards open the airport. **"
 	{
-		"chi"		"** **"
+		"chi"		"坚守到守卫开放空港"
 	}
 	"** Airport opened. **"
 	{
-		"chi"		"** **"
+		"chi"		"空港开放"
 	}
 	"** A player has learned Wind magick. **"
 	{
-		"chi"		"** **"
+		"chi"		"一位玩家掌控了风魔法"
 	}
 	"** Defend 25 seconds untill the guards open the hallway. **"
 	{
-		"chi"		"** **"
+		"chi"		"防守25秒，直到守卫开放道路"
 	}
 	"** 5 SECONDS LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"还剩5秒！"
 	}
 	"** Defend here so the guards will open the gates to the city! **"
 	{
-		"chi"		"** **"
+		"chi"		"守住这里，直到守卫开放前往城市的道路"
 	}
 	"** A player has learned Electro magick. **"
 	{
-		"chi"		"** **"
+		"chi"		"一位玩家掌控了电魔法"
 	}
 	"** Cover here till the rock explodes **"
 	{
-		"chi"		"** **"
+		"chi"		"守住这里直到前方石头爆炸"
 	}
 	"** A player has learned Earth magick. **"
 	{
-		"chi"		"** **"
+		"chi"		"一位玩家掌控了土魔法"
 	}
 	"** A player has learned Fire magick. **"
 	{
-		"chi"		"** **"
+		"chi"		"一位玩家掌控了火魔法"
 	}
 	"** A player has learned Water magick. **"
 	{
-		"chi"		"** **"
+		"chi"		"一位玩家掌控了水魔法"
 	}
 	"** A player has learned Heal magick. **"
 	{
-		"chi"		"** **"
+		"chi"		"一位玩家掌控了治愈魔法"
 	}
 	"** The elevator will leave in 20 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"电梯将在20秒后离开！"
 	}
 	"** The elevator will leave in 5 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"电梯将在5秒后离开！"
 	}
 	"** The first door will open in 10 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"第一道门将在10秒后打开"
 	}
 	"** The second door will open in 15 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"第二道门将在15秒后打开"
 	}
 	"** Keep defending!! **"
 	{
-		"chi"		"** **"
+		"chi"		"继续防守！！！"
 	}
 	"** Nades do a lot of damage **"
 	{
-		"chi"		"** **"
+		"chi"		"手雷可以造成大量伤害"
 	}
 	"** METEOR INBOUND **"
 	{
-		"chi"		"** **"
+		"chi"		"陨石来啦！"
 	}
 	"** USE ELECTRO TO  BREAK IT **"
 	{
-		"chi"		"** **"
+		"chi"		"快使用电魔法击碎它！"
 	}
 	"** The dragon has been defeated **"
 	{
-		"chi"		"** **"
+		"chi"		"这条龙已经被打败了"
 	}
 	"** Cover 10 seconds till the rock explodes **"
 	{
-		"chi"		"** **"
+		"chi"		"防守10秒直到石头炸开"
 	}
 	"** Go to the end of the road! **"
 	{
-		"chi"		"** **"
+		"chi"		"一路跑到路的末端"
 	}
 	"** 50 SECS REMAINING **"
 	{
-		"chi"		"** **"
+		"chi"		"还有50秒"
 	}
 	"** 40 SECS REMAINING **"
 	{
-		"chi"		"** **"
+		"chi"		"还有40秒"
 	}
 	"** 30 SECS REMAINING **"
 	{
-		"chi"		"** **"
+		"chi"		"还有30秒"
 	}
 	"** 20 SECS REMAINING **"
 	{
-		"chi"		"** **"
+		"chi"		"还有20秒"
 	}
 	"** 10 SECS REMAINING **"
 	{
-		"chi"		"** **"
+		"chi"		"还有10秒"
 	}
 	"** 5 SECS REMAINING **"
 	{
-		"chi"		"** **"
+		"chi"		"还有5秒"
 	}
 	"** Congratulations - u won [NORMAL] **"
 	{
-		"chi"		"** **"
+		"chi"		"恭喜：你已经征服普通难度"
 	}
 	"[HARD MODE]"
 	{
-		"chi"		"** **"
+		"chi"		"困难难度"
 	}
 	"** A player has learned Holy magick. **"
 	{
-		"chi"		"** **"
+		"chi"		"一位玩家拿到了holy"
 	}
 	"** FIRE NOVA INBOUND **"
 	{
-		"chi"		"** **"
+		"chi"		"火焰来袭"
 	}
 	"** USE WATER TO DODGE IT  **"
 	{
-		"chi"		"** **"
+		"chi"		"快用水魔法来解除"
 	}
 	"** Cover 20 seconds till the rock explodes **"
 	{
-		"chi"		"** **"
+		"chi"		"防守20秒直到石头炸开"
 	}
 	"** 60 SECS REMAINING **"
 	{
-		"chi"		"** **"
+		"chi"		"还有60秒"
 	}
 	"** Congratulations - u won [HARD] **"
 	{
-		"chi"		"** **"
+		"chi"		"恭喜：你已经征服了困难难度"
 	}
 	"[EXTREME MODE]"
 	{
-		"chi"		"** **"
+		"chi"		"极难难度"
 	}
 	"** Cover 30 seconds till the rock explodes **"
 	{
-		"chi"		"** **"
+		"chi"		"防守30秒直到石头爆炸"
 	}
 	"** 70 SECS REMAINING **"
 	{
-		"chi"		"** **"
+		"chi"		"还有70秒"
 	}
 	"** Zombies Have Escaped **"
 	{
-		"chi"		"** **"
+		"chi"		"僵尸已经逃脱"
 	}
 	"[ADMIN] Selected [EPIC MODE] for next round. Restarting round in 5 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"已选择史诗关卡  5秒后重新开始"
 	}
 	"[EPIC MODE]"
 	{
-		"chi"		"** **"
+		"chi"		"史诗难度"
 	}
 	"[ADMIN] Selected [EXTREME MODE] for next round. Restarting round in 5 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"已选择极难关卡 5秒后重新开始 "
 	}
 	"[ADMIN] Selected [GOD MODE] for next round. Restarting round in 5 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"已选择神级难度  5秒后重新开始"
 	}
 	"[GOD MODE]"
 	{
-		"chi"		"** **"
+		"chi"		"神级难度"
 	}
 	"** ZE FFXII PARAMINA RIFT **"
 	{
-		"chi"		"** **"
+		"chi"		"ZE FFXII WESTERSAND"
 	}
 }
