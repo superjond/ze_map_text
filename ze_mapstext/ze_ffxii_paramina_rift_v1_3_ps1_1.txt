@@ -40,4 +40,16 @@
 	{
 		"chi"		"** **"
 	}
+	"** DESTROY ALL ENEMY TOWERS BY SHOOTING THE CRYSTALS ON TOP OF THEM => REWARD - POTIONS IN STAGE 2"
+	{
+		"chi"		"** **"
+	}
+	"** SIDEQUEST Destroy enemy towers STARTED **"
+	{
+		"chi"		"** **"
+	}
+	"** 15 TOWERS DESTROYED! **"
+	{
+		"chi"		"** **"
+	}
 }
