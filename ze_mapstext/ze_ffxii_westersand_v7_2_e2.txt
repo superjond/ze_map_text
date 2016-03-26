@@ -198,6 +198,6 @@
 	}
 	"** ZE FFXII PARAMINA RIFT **"
 	{
-		"chi"		"ZE FFXII PARAMINA RIFT"
+		"chi"		"ZE FFXII WESTERSAND"
 	}
 }
