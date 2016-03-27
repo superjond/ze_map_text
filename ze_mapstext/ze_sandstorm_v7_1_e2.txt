@@ -23,6 +23,7 @@
 	"** The doors will open in 20 seconds **"
 	{
 		"chi"		"**大门20秒后打开**"
+		"DoorCountdown"		"20"
 	}
 	"** A player has picked up Tornado Staff **"
 	{
@@ -43,6 +44,7 @@
 	"** The door will open in 25 seconds **"
 	{
 		"chi"		"**门将25秒后打开**"
+		"DoorCountdown"		"25"
 	}
 	"** A player has picked up Quicksand Staff **"
 	{
@@ -99,6 +101,7 @@
 	"** The doors will open on 15 seconds **"
 	{
 		"chi"		"**15秒后门将打开**"
+		"DoorCountdown"		"15"
 	}
 	"** Press on the 4 obelisks to open the door **"
 	{
@@ -123,6 +126,7 @@
 	"** Hold for 15 seconds. **"
 	{
 		"chi"		"**守住15秒**"
+		"DoorCountdown"		"15"
 	}
 	"** Hold Zombies for 10 seconds **"
 	{
@@ -139,6 +143,7 @@
 	"*** Grenades do more damage. (8 SECONDS)***"
 	{
 		"chi"		"**手雷能造成巨大伤害（8秒）**"
+		"DoorCountdown"		"8"
 	}
 	"*** YOU WON STAGE 4 ***"
 	{
@@ -155,10 +160,12 @@
 	"** 10 seconds left **"
 	{
 		"chi"		"**还有10秒**"
+		"DoorCountdown"		"10"
 	}
 	"** Teleport will open in 15 seconds. **"
 	{
 		"chi"		"**传送器15秒后启动**"
+		"DoorCountdown"		"15"
 	}
 	"** 5 seconds left. **"
 	{
@@ -167,6 +174,7 @@
 	"** Hold for 20 seconds. **"
 	{
 		"chi"		"**守住20秒**"
+		"DoorCountdown"		"20"
 	}
 	"*** Grenades do more damage (4 SECONDS). ***"
 	{
@@ -178,9 +186,6 @@
 	}
 	"*** YOU WON STAGE 5 ***"
 	{
-		"command"		"sm_cvar zr_infect_spawntime_min 25.0"
-		"command"		"sm_cvar zr_infect_spawntime_max 25.0"
-		"force_round_end"		"1"
 		"chi"		"**您是这张地图的大师，第五关突破！**"
 	}
 	"** Humans have become immortal!!! **"
