@@ -15,6 +15,7 @@
 	"** [DIFFICULTY] NORMAL **"
 	{
 		"chi"		"**难度：普通**"
+		"command"		"zr_infect_mzombie_ratio 7"
 	}
 	"** COLLECT 500 GIL BY FINDING TREASURE CHESTS OR BY DESTROYING TOWERS => REWARD - POTIONS IN STAGE 2"
 	{
@@ -22,7 +23,7 @@
 	}
 	"** MAP BY SLAYERDRAGON **"
 	{
-		"chi"		"**地图作者：SLAYERDRAGON 地图翻译：一位没透漏姓名的OP|SuperJond**"
+		"chi"		"**地图作者：SLAYERDRAGON 地图翻译：莲子与梅莉|SuperJond**"
 	}
 	"** SIDEQUEST Collect 500 gil STARTED **"
 	{
@@ -30,7 +31,7 @@
 	}
 	"** 35 GIL OBTAINED BY DEACTIVATING A TOWER **"
 	{
-		"chi"		"**破坏水晶塔能得到不定值的GIL **"
+		"chi"		"**水晶塔已被破坏+35GIL**"
 	}
 	"** GATE OPENS IN 15 SECONDS **"
 	{
@@ -69,7 +70,7 @@
 	}
 	"** SIDEQUEST Destroy enemy towers STARTED **"
 	{
-		"chi"		"**水晶塔已被破坏**"
+		"chi"		"**支线任务开始**"
 	}
 	"** 15 TOWERS DESTROYED! **"
 	{
@@ -309,7 +310,7 @@
 	"** COVER AND WAIT FOR SOMETHING TO HAPPEN **"
 	{
 		"chi"		"**在这儿坚守，似乎将有什么事情会发生....**"
-		"DoorCountdown"		"25"
+		"DoorCountdown"		"15"
 	}
 	"** THE SWORD WILL OPEN THE WAY SOON **"
 	{
@@ -343,6 +344,7 @@
 	"** DOOR WILL OPEN IN 25 SECONDS **"
 	{
 		"chi"		"**大门将在25秒后打开！**"
+		"DoorCountdown"		"25"
 	}
 	"** 5 MORE SECONDS TILL DOOR OPENS **"
 	{
@@ -364,6 +366,7 @@
 	"** GATE WILL OPEN IN 25 SECONDS **"
 	{
 		"chi"		"**大门25秒后打开！**"
+		"DoorCountdown"		"25"
 	}
 	"** NADES DO A LOT OF DAMAGE **"
 	{
@@ -371,59 +374,59 @@
 	}
 	"23 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：23%**"
+		"chi"		"**BOSS虚弱值：23**"
 	}
 	"20 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：20%**"
+		"chi"		"**BOSS虚弱值：20**"
 	}
 	"18 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：18%**"
+		"chi"		"**BOSS虚弱值：18**"
 	}
 	"40 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：40%**"
+		"chi"		"**BOSS虚弱值：40**"
 	}
 	"38 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：38%**"
+		"chi"		"**BOSS虚弱值：38**"
 	}
 	"35 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：35%**"
+		"chi"		"**BOSS虚弱值：35**"
 	}
 	"55 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：55%**"
+		"chi"		"**BOSS虚弱值：55**"
 	}
 	"53 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：53%**"
+		"chi"		"**BOSS虚弱值：53**"
 	}
 	"50 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：50%**"
+		"chi"		"**BOSS虚弱值：50**"
 	}
 	"48 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：48%**"
+		"chi"		"**BOSS虚弱值：48**"
 	}
 	"45 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：45%**"
+		"chi"		"**BOSS虚弱值：45**"
 	}
 	"43 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：43%**"
+		"chi"		"**BOSS虚弱值：43**"
 	}
 	"65 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：65%**"
+		"chi"		"**BOSS虚弱值：65**"
 	}
 	"63 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：63%**"
+		"chi"		"**BOSS虚弱值：63**"
 	}
 	"** BOSS MATEUS CHARGES HIS LAST ATTACK!  **"
 	{
@@ -436,27 +439,27 @@
 	}
 	"60 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：60%**"
+		"chi"		"**BOSS虚弱值：60**"
 	}
 	"83 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：83%**"
+		"chi"		"**BOSS虚弱值：83**"
 	}
 	"80 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：80%**"
+		"chi"		"**BOSS虚弱值：80**"
 	}
 	"78 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：78%**"
+		"chi"		"**BOSS虚弱值：78**"
 	}
 	"75 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：75%**"
+		"chi"		"**BOSS虚弱值：75**"
 	}
 	"73 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：73%**"
+		"chi"		"**BOSS虚弱值：73**"
 	}
 	"** MATEUS IS CHARGING FOR SUPERATTACK **"
 	{
@@ -464,11 +467,11 @@
 	}
 	"15 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：15%**"
+		"chi"		"**BOSS虚弱值：15**"
 	}
 	"58 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：58%**"
+		"chi"		"**BOSS虚弱值：58**"
 	}
 	"** BOSS HAS BEEN STAGGERED **"
 	{
@@ -485,7 +488,7 @@
 	}
 	"85 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：85%**"
+		"chi"		"**BOSS虚弱值：85**"
 	}
 	"** Player has acquired the esper MATEUS **"
 	{
@@ -515,47 +518,47 @@
 	}
 	"13 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：13%**"
+		"chi"		"**BOSS虚弱值：13**"
 	}
 	"10 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：10%**"
+		"chi"		"**BOSS虚弱值：10**"
 	}
 	"8 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：8%**"
+		"chi"		"**BOSS虚弱值：8**"
 	}
 	"5 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：5%**"
+		"chi"		"**BOSS虚弱值：5**"
 	}
 	"3 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：3%**"
+		"chi"		"**BOSS虚弱值：3**"
 	}
 	"33 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值： 33%**"
+		"chi"		"**BOSS虚弱值： 33**"
 	}
 	"30 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：30%**"
+		"chi"		"**BOSS虚弱值：30**"
 	}
 	"28 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：28%**"
+		"chi"		"**BOSS虚弱值：28**"
 	}
 	"25 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：25%**"
+		"chi"		"**BOSS虚弱值：25**"
 	}
 	"70 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：70%**"
+		"chi"		"**BOSS虚弱值：70**"
 	}
 	"68 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：68%**"
+		"chi"		"**BOSS虚弱值：68**"
 	}
 	"** LIFT IS LEAVING IN 5 SECONDS **"
 	{
@@ -580,6 +583,7 @@
 	"** [DIFFICULTY] INSANE **"
 	{
 		"chi"		"**难度：疯狂**"
+		"command"		"zr_infect_mzombie_ratio 6"
 	}
 	"** SHOOT THE SWARM BEFORE THEY CAN ATTACK **"
 	{
@@ -607,19 +611,19 @@
 	}
 	"95 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：95%**"
+		"chi"		"**BOSS虚弱值：95**"
 	}
 	"93 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：93%**"
+		"chi"		"**BOSS虚弱值：93**"
 	}
 	"90 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：90%**"
+		"chi"		"**BOSS虚弱值：90**"
 	}
 	"88 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值：88%**"
+		"chi"		"**BOSS虚弱值：88**"
 	}
 	"** The esper MATEUS is killed in action **"
 	{
@@ -671,7 +675,7 @@
 	}
 	"** OH GOD ITS MATEUS! SHOOT IT! **"
 	{
-		"chi"		"**OH天哪是<召喚獸—MATEUS 背徳の皇帝>全力对其射击！**"
+		"chi"		"**天哪是<召喚獸—MATEUS 背徳の皇帝>全力对其射击！**"
 	}
 	"** DOOR WILL OPEN IN 30 SECONDS **"
 	{
@@ -704,6 +708,6 @@
 	}
 	"** TREASURE +53 GIL FOUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**找到宝藏！+53GIL**"
 	}
 }
