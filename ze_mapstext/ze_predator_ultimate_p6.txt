@@ -164,4 +164,68 @@
 	{
 		"chi"		"** **"
 	}
+	"***YOU FAILED***"
+	{
+		"chi"		"** **"
+	}
+	"***A ZOMBIE GOT INSIDE THE CHOPPER***"
+	{
+		"chi"		"** **"
+	}
+	"***WELL DONE***"
+	{
+		"chi"		"** **"
+	}
+	"***PLAYER PICKED UP GRENADE LAUNCHER***"
+	{
+		"chi"		"** **"
+	}
+	"***PLAYER PICKED UP CLAYMORE MINES***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD AZTEC-RUINS FOR 25 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***PLAYER PICKED UP GAUSS RIFLE***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD BOULDERAREA FOR 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***RUN !***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***5***"
+	{
+		"chi"		"** **"
+	}
+	"***4***"
+	{
+		"chi"		"** **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***GET INSIDE***"
+	{
+		"chi"		"** **"
+	}
 }

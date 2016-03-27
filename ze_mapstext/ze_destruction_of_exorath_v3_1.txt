@@ -492,4 +492,136 @@
 	{
 		"chi"		"**简易难度失败，再来一次**"
 	}
+	"** SONG PLAYING: E.S POSTHUMUS - KUVERA **"
+	{
+		"chi"		"** **"
+	}
+	"** DEFEND THE PELICAN UNTIL LEAVING **"
+	{
+		"chi"		"** **"
+	}
+	"** PELICAN WILL LEAVE IN 50 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** PELICAN WILL LEAVE IN 30 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** PELICAN WILL LEAVE IN 20 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** PELICAN WILL LEAVE IN 5 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** GODMODE COMPLETE ** IMPOSSIBLE MODE UNLOCKED **"
+	{
+		"chi"		"** **"
+	}
+	"** CURRENT: IMPOSSIBLE MODE **"
+	{
+		"chi"		"** **"
+	}
+	"** SONG PLAYING: HYBRID - MARRAKECH **"
+	{
+		"chi"		"** **"
+	}
+	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 20 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 15 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 10 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 5 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** ALL ROCKY DOORS IN SECTION D8 ARE BROKEN ** FALL BACK **"
+	{
+		"chi"		"** **"
+	}
+	"** EXORATH IS TAKEN HIS FINAL REVENGE ** BE PREPARED FOR A FIGHT **"
+	{
+		"chi"		"** **"
+	}
+	"** SONG PLAYING: DEUS EX OST - SARIF BATTLE THEME **"
+	{
+		"chi"		"** **"
+	}
+	"** SONG PLAYING: TWO STEPS FROM HELL - FATAL FURY **"
+	{
+		"chi"		"** **"
+	}
+	"** THE HELICOPTER WILL START IN 35 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** THE HELICOPTER WILL START IN 25 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** THE HELICOPTER WILL START IN 15 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** THE HELICOPTER WILL START IN 10 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** THE HELICOPTER IS ON HIS WAY **"
+	{
+		"chi"		"** **"
+	}
+	"** THE HELICOPTER IS HERE ** GET IN **"
+	{
+		"chi"		"** **"
+	}
+	"** THE HELICOPTER IS LEAVING IN 5 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** THE HELICOPTER IS LEAVING NOW ** GET IN **"
+	{
+		"chi"		"** **"
+	}
+	"** ZOMBIES DETECTED IN HELICOPTER **"
+	{
+		"chi"		"** **"
+	}
+	"** IMPOSSIBLE MODE FAILED ** RESTARTING **"
+	{
+		"chi"		"** **"
+	}
+	"** 30 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** 20 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** 10 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** EXORATH IS CHARGING ANNIHILATION DESTRUCTION **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** SONG PLAYING: E.S. POSTHUMUS - POMPEII **"
+	{
+		"chi"		"** **"
+	}
 }

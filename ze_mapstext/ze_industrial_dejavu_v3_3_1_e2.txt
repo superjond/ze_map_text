@@ -212,4 +212,8 @@
 	{
 		"chi"		"** **"
 	}
+	"*** That was pure luck! Let's see if you are as lucky on EXTREME mode! ***"
+	{
+		"chi"		"** **"
+	}
 }
