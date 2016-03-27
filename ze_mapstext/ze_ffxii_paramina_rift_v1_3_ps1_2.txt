@@ -2,7 +2,8 @@
 {
 	"** ZE FFXII PARAMINA RIFT **"
 	{
-		"chi"		"**最终幻想12：ミリアム峡谷**"
+		"chi"		"**最终幻想12：帕拉米亚峡谷**"
+		"command"		"mp_startmoney 16000"
 	}
 	"** [STAGE 1] PARAMINA RIFT **"
 	{
@@ -15,7 +16,7 @@
 	"** [DIFFICULTY] NORMAL **"
 	{
 		"chi"		"**难度：普通**"
-		"command"		"zr_infect_mzombie_ratio 7"
+		"command"		"zr_infect_mzombie_ratio 6"
 	}
 	"** COLLECT 500 GIL BY FINDING TREASURE CHESTS OR BY DESTROYING TOWERS => REWARD - POTIONS IN STAGE 2"
 	{
@@ -310,7 +311,6 @@
 	"** COVER AND WAIT FOR SOMETHING TO HAPPEN **"
 	{
 		"chi"		"**在这儿坚守，似乎将有什么事情会发生....**"
-		"DoorCountdown"		"15"
 	}
 	"** THE SWORD WILL OPEN THE WAY SOON **"
 	{
@@ -538,7 +538,7 @@
 	}
 	"33 '. STAGGER"
 	{
-		"chi"		"**BOSS虚弱值： 33**"
+		"chi"		"**BOSS虚弱值：33**"
 	}
 	"30 '. STAGGER"
 	{
@@ -583,7 +583,7 @@
 	"** [DIFFICULTY] INSANE **"
 	{
 		"chi"		"**难度：疯狂**"
-		"command"		"zr_infect_mzombie_ratio 6"
+		"command"		"zr_infect_mzombie_ratio 5"
 	}
 	"** SHOOT THE SWARM BEFORE THEY CAN ATTACK **"
 	{
