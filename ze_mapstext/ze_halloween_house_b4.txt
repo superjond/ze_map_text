@@ -10,7 +10,7 @@
 	}
 	"** WE CAN'T SEEM TO PROGRESS AHEAD... **"
 	{
-		"chi"		"**我们似乎无法走到前面了**"
+		"chi"		"**我们似乎困在这里了**"
 		"DoorCountdown"		"30"
 	}
 	"** HOLD UNTIL WE FIGURE SOMETHING OUT! **"
@@ -40,7 +40,7 @@
 	}
 	"** Something spooky seems to be going on that table! **"
 	{
-		"chi"		"**有什么奇怪的东西到桌子上面去了！**"
+		"chi"		"**有什么阴森的东西到桌子上面去了！**"
 	}
 	"** We need to reach the top! **"
 	{
@@ -93,7 +93,7 @@
 	}
 	"** Who would have guessed? **"
 	{
-		"chi"		"**谁会想到？**"
+		"chi"		"** **"
 	}
 	"** Something is happening! **"
 	{
