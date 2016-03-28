@@ -2,28 +2,28 @@
 {
 	"***DIFFICULTY --- NORMAL***"
 	{
-		"chi"		"*****�Ѷ�-����*****"
+		"chi"		"*****难度-正常*****"
 	}
 	"***THE NUKE HAS EXPLODED***"
 	{
-		"chi"		"*****�˵�Ҫ��ը��*****"
+		"chi"		"*****核弹要爆炸了*****"
 	}
 	"***OH NO! THE NUKE EXPLODED!***"
 	{
-		"chi"		"*****����ߣ���˵���ը��*****"
+		"chi"		"*****天啦撸，核弹爆炸了*****"
 	}
 	"***INFILTRATE AND DEFEND THE GUERILLA COMPOUND***"
 	{
-		"chi"		"*****�������Ӫ��*****"
+		"chi"		"*****保卫这个营地*****"
 	}
 	"***HOLD FOR 50 SECONDS***"
 	{
-		"chi"		"**��ס50��**"
+		"chi"		"**守住50秒**"
 		"DoorCountdown"		"50"
 	}
 	"***FALL BACK***"
 	{
-		"chi"		"**���ˣ�**"
+		"chi"		"**撤退！**"
 	}
 	"***5 SECONDS LEFT***"
 	{
@@ -47,11 +47,11 @@
 	}
 	"***RUN***"
 	{
-		"chi"		"*****���������ܰ�*****"
+		"chi"		"*****快他喵的跑啊*****"
 	}
 	"***HOLD THIS AREA FOR 10 SECONDS***"
 	{
-		"chi"		"**��ס������10�룡**"
+		"chi"		"**守住此区域10秒！**"
 	}
 	"***TELEPORTING EVERYONE TO COMPOUND***"
 	{
@@ -63,15 +63,15 @@
 	}
 	"***ITS A PREDATOR!***"
 	{
-		"chi"		"**����Ѫսʿ��**"
+		"chi"		"**是铁血战士！**"
 	}
 	"***KILL IT***"
 	{
-		"chi"		"**�ɵ�����**"
+		"chi"		"**干掉他！**"
 	}
 	"***DODGE THE LASERS***"
 	{
-		"chi"		"*****�����Ѫ�ļ��⣨��ʲô�����������*****"
+		"chi"		"*****躲避铁血的激光（躲什么躲正面刚他）*****"
 	}
 	"***IT LOOKS LIKE IT'S PREPARING FOR ANOTHER GROUNDSTOMP***"
 	{
@@ -79,7 +79,7 @@
 	}
 	"***SHOOT IT BEFORE IT'S TOO LATE***"
 	{
-		"chi"		"**���л������������**"
+		"chi"		"**集中火力向他射击！**"
 	}
 	"***IT'S RUNNING AWAY***"
 	{
@@ -91,32 +91,32 @@
 	}
 	"***PLAYER PICKED UP ALIEN SAMPLE***"
 	{
-		"chi"		"**һ����ҽ����������������γɻ��泡��ǿ��ȼ��ƿ��**"
+		"chi"		"**一名玩家建起了异形样本（形成火焰场加强版燃烧瓶）**"
 	}
 	"***HOLD FOR 30 seconds***"
 	{
-		"chi"		"**��ס30�룡**"
+		"chi"		"**守住30秒！**"
 		"DoorCountdown"		"30"
 	}
 	"***TELEPORTING EVERYONE TO CLIFF HIDEOUT***"
 	{
-		"chi"		"*****�����˳��뵽����*****"
+		"chi"		"*****所有人撤离到悬崖*****"
 	}
 	"***HOLD THIS AREA FOR 40 SECONDS***"
 	{
-		"chi"		"**��ס������40�룡**"
+		"chi"		"**守住此区域40秒！**"
 	}
 	"***TELEPORTING EVERYONE TO RUINS***"
 	{
-		"chi"		"*****�����˳��뵽������*****"
+		"chi"		"*****所有人撤离到废墟里*****"
 	}
 	"***20 SECONDS LEFT***"
 	{
-		"chi"		"**��ʣ20�룡**"
+		"chi"		"**还剩20秒！**"
 	}
 	"***10 SECONDS LEFT***"
 	{
-		"chi"		"**��ʣ10�룡**"
+		"chi"		"**还剩10秒！**"
 	}
 	"***RUN! GO BEFORE ITS TOO LATE!***"
 	{
@@ -124,51 +124,51 @@
 	}
 	"***THE CHOPPER IS ON IT'S WAY!***"
 	{
-		"chi"		"*****��Ԯ�Ѿ���·����*****"
+		"chi"		"*****救援已经在路上了*****"
 	}
 	"***CHOPPER LEAVING IN 10 SECONDS***"
 	{
-		"chi"		"**�����10����뿪��**"
+		"chi"		"**运输机10秒后离开！**"
 	}
 	"***CHOPPER LEAVING IN 5 SECONDS***"
 	{
-		"chi"		"**�����5����뿪��**"
+		"chi"		"**运输机5秒后离开！**"
 	}
 	"***CHOPPER IS LEAVING***"
 	{
-		"chi"		"**�һ�������������**"
+		"chi"		"**灰机灰走啦！！！**"
 	}
 	"***YOU COMPLETED NORMAL***"
 	{
-		"chi"		"**�����Ѷ���ͨ��**"
+		"chi"		"**正常难度已通关**"
 	}
 	"***MOVING ON TO HARD***"
 	{
-		"chi"		"**��������ģʽ**"
+		"chi"		"**开启困难模式**"
 	}
 	"***DIFFICULTY --- HARD***"
 	{
-		"chi"		"*****�Ѷȡ�����*****"
+		"chi"		"*****难度—困难*****"
 	}
 	"***FIRST AID PICKED UP***"
 	{
-		"chi"		"**һ����Ҽ�����ҽ�ư�������һֻû��ʲô�õ�ҽ�ư���**"
+		"chi"		"**一名玩家捡起了医疗包（我是一只没有什么用的医疗包）**"
 	}
 	"***HOLD AZTEC-RUINS FOR 25 SECONDS***"
 	{
-		"chi"		"**��ס����25�룡**"
+		"chi"		"**守住废墟25秒！**"
 	}
 	"***HOLD BOULDERAREA FOR 15 SECONDS***"
 	{
-		"chi"		"**��ס������15�룡**"
+		"chi"		"**守住此区域15秒！**"
 	}
 	"***RUN !***"
 	{
-		"chi"		"**�ܣ�**"
+		"chi"		"**跑！**"
 	}
 	"***HOLD 30 SECONDS***"
 	{
-		"chi"		"**��ס30�룡**"
+		"chi"		"**守住30秒！**"
 	}
 	"***5***"
 	{
@@ -192,43 +192,43 @@
 	}
 	"***GET INSIDE***"
 	{
-		"chi"		"**�Ͻ���ȥ��**"
+		"chi"		"**赶紧进去！**"
 	}
 	"***YOU HAVE DEFEATED THE PREDATOR!***"
 	{
-		"chi"		"**���Ѿ���������Ѫսʿ��**"
+		"chi"		"**你已经击败了铁血战士！**"
 	}
 	"***YOU COMPLETED HARD***"
 	{
-		"chi"		"**�����Ѷ���ͨ��**"
+		"chi"		"**困难难度已通关**"
 	}
 	"***MOVING ON TO HYPER***"
 	{
-		"chi"		"**��������ģʽ**"
+		"chi"		"**开启超级模式**"
 	}
 	"***DIFFICULTY --- HYPER***"
 	{
-		"chi"		"*****�Ѷȡ�����*****"
+		"chi"		"*****难度—超级*****"
 	}
 	"***ELEVATOR IS WARMING UP***"
 	{
-		"chi"		"**�����Ѿ�����**"
+		"chi"		"**电梯已经启动**"
 	}
 	"***ELEVATOR IS ON THE WAY***"
 	{
-		"chi"		"**���������½�����Ҫվ�ڵ������棩**"
+		"chi"		"**电梯正在下降（不要站在电梯下面）**"
 	}
 	"***ELEVATOR'S HERE***"
 	{
-		"chi"		"**�����Ѿ�����**"
+		"chi"		"**电梯已经到达**"
 	}
 	"***TELEPORTING EVERYONE TO COMPLEX ELEVATOR***"
 	{
-		"chi"		"**�����˿��ϵ��ݣ���**"
+		"chi"		"**所有人快上电梯！！**"
 	}
 	"***C4 ACTIVATED***"
 	{
-		"chi"		"**C4�Ѽ���**"
+		"chi"		"**C4已激活**"
 	}
 	"***HOLD FOR 20 seconds***"
 	{
@@ -240,63 +240,63 @@
 	}
 	"***TELEPORTING EVERYONE TO COMPLEX CORE***"
 	{
-		"chi"		"**�����˿������ĵ���**"
+		"chi"		"**所有人快进入核心地区**"
 	}
 	"***THE PREDATOR IS CHARGING AN ATTACK!***"
 	{
-		"chi"		"**��Ѫ��������**"
+		"chi"		"**铁血正在蓄能**"
 	}
 	"***YOU INTERUPTED THE PREDATORS ATTACK***"
 	{
-		"chi"		"**�������Ĺ���**"
+		"chi"		"**快打断他的攻击**"
 	}
 	"***YOU MUST PRESS ALL 4 ORBS TO SURVIVE!***"
 	{
-		"chi"		"**�����ĸ��������E**"
+		"chi"		"**对着四个角落的球按E**"
 	}
 	"***YOU KILLED THE PREDATOR***"
 	{
-		"chi"		"**���Ǹɡ������Ѫ**"
+		"chi"		"**你们干♂掉了铁血**"
 	}
 	"***RUN TOWARDS THE ELEVATOR!***"
 	{
-		"chi"		"**��������**"
+		"chi"		"**快进入电梯**"
 	}
 	"***CHOPPER IS ON IT'S WAY***"
 	{
-		"chi"		"**ֱ�����Ѿ���·����**"
+		"chi"		"**直升机已经在路上了**"
 	}
 	"***THE CHOPPER IS HERE! MOVE IT!***"
 	{
-		"chi"		"**ֱ�������ˡ���������**"
+		"chi"		"**直升姬到了。快上她！**"
 	}
 	"***Chopper Leaves in 10 Seconds***"
 	{
-		"chi"		"**ֱ����10�����뿪~**"
+		"chi"		"**直升机10喵后离开~**"
 	}
 	"***CHOPPER LEAVES IN 5 SECONDS***"
 	{
-		"chi"		"**��ʣ����**"
+		"chi"		"**还剩五秒**"
 	}
 	"***YOU COMPLETED HYPER***"
 	{
-		"chi"		"**����ɳ���ģʽ**"
+		"chi"		"**你完成超级模式**"
 	}
 	"***MOVING ON TO ULTIMATE***"
 	{
-		"chi"		"**����ģʽ�ѿ���**"
+		"chi"		"**极限模式已开启**"
 	}
 	"***GOOD LUCK...***"
 	{
-		"chi"		"**ף���Ǻ��ˣ����������������豸��**"
+		"chi"		"**祝你们好运（好运来两个异形设备）**"
 	}
 	"***DIFFICULTY --- ULTIMATE***"
 	{
-		"chi"		"*****�Ѷȡ�����*****"
+		"chi"		"*****难度—极限*****"
 	}
 	"***PLAYER PICKED UP CLAYMORE MINES***"
 	{
-		"chi"		"**һ����Ҽ������������ף�����ʱ��·����Խ�ʬ���ȼ�ռ��٣�һ��15����**"
+		"chi"		"**一名玩家捡起了阔剑地雷（撤退时沿路铺设对僵尸造成燃烧减速，一共15个）**"
 	}
 	"***GET IN THE ELEVATOR***"
 	{
@@ -304,59 +304,59 @@
 	}
 	"***HOLD THIS AREA FOR 20 SECONDS***"
 	{
-		"chi"		"**��ס����ط�20��**"
+		"chi"		"**守住这个地方20秒**"
 	}
 	"***15 SECONDS LEFT***"
 	{
-		"chi"		"**��ʣ15��**"
+		"chi"		"**还剩15秒**"
 	}
 	"***TELEPORTING EVERYONE TO SPACESHIP ENTRANCE***"
 	{
-		"chi"		"**���������˵��ɴ���ڣ�����羰��Ҫ�Ҷ����ɴ���ʱ��W��ֱ�ӷɵ������棩**"
+		"chi"		"**传送所有人到飞船入口（面向风景不要乱动过飞船口时按W可直接飞到最上面）**"
 	}
 	"***PLAYER PICKED UP ALIEN DEVICE***"
 	{
-		"chi"		"**һ����Ҽ����������豸����boss��ɾ޴��˺������ٽ�ʬ������������Ҫ����Ҫ����Ҫ��**"
+		"chi"		"**一名玩家捡起了异形设备（对boss造成巨大伤害并减速僵尸，此神器很重要很重要很重要）**"
 	}
 	"***GET INSIDE THE TRANSPORTER***"
 	{
-		"chi"		"**���ڿ����ɴ����Ĵ���**"
+		"chi"		"**正在开启飞船核心大门**"
 	}
 	"***TELEPORTING EVERYONE TO SPACESHIP CORE***"
 	{
-		"chi"		"**������ʹ�����ɴ�����**"
+		"chi"		"**快进传送带进入飞船核心**"
 	}
 	"***THE PREDATOR IS IN RAGEMODE***"
 	{
-		"chi"		"**��Ѫ�����״̬���쿪�����豸��**"
+		"chi"		"**铁血进入狂暴状态（快开异形设备）**"
 	}
 	"***THE SPACESHIP IS STARTING TO COLLAPSE***"
 	{
-		"chi"		"**�ɴ���ʼ����**"
+		"chi"		"**飞船开始崩溃**"
 	}
 	"***SOMEONE MUST JUMP INTO THE CORE***"
 	{
-		"chi"		"**����һ������̨�Ӱ�����**"
+		"chi"		"**快派一个人跳台子按核心**"
 	}
 	"***ZOMBIE BRIDGE ACTIVATED***"
 	{
-		"chi"		"**��ʬ·�ѿ���**"
+		"chi"		"**僵尸路已开启**"
 	}
 	"***THE CORE IS GOING UNSTABLE***"
 	{
-		"chi"		"**���ı�ò��ȶ���**"
+		"chi"		"**核心变得不稳定了**"
 	}
 	"***RUN TOWARDS THE FINAL ROOM***"
 	{
-		"chi"		"**��������ķ��䣨�����˻��ô���~��**"
+		"chi"		"**快进入最后的房间（所有人换好大菠萝~）**"
 	}
 	"***PLAYER PICKED UP AMMO DISPENSER***"
 	{
-		"chi"		"**һ����Ҽ����˵�ҩ��**"
+		"chi"		"**一名玩家捡起了弹药箱**"
 	}
 	"***THIS IS YOUR FINAL STAND***"
 	{
-		"chi"		"**�Ѿ����������**"
+		"chi"		"**已经到了最后了**"
 	}
 	"***HOLD YOUR GROUND***"
 	{
@@ -376,11 +376,11 @@
 	}
 	"***PLAYER PICKED UP MINI GUN***"
 	{
-		"chi"		"**һ����Ҽ����˼����֣����ϰ�Eʹ�ã�**"
+		"chi"		"**一名玩家捡起了加特林（不断按E使用）**"
 	}
 	"***PLAYER PICKED UP PUSH GUN***"
 	{
-		"chi"		"**һ����Ҽ�������������15sCD���ױ�������ʹ�ã�**"
+		"chi"		"**一名玩家捡起了推力锅（15sCD，易背锅谨慎使用）**"
 	}
 	"***YOU ARE TOO SLOW!***"
 	{
@@ -388,11 +388,11 @@
 	}
 	"***PLAYER PICKED UP GAUSS RIFLE***"
 	{
-		"chi"		"**һ����Ҽ����˸�˹��ǹ��������������޴����ɱ��ʬ��**"
+		"chi"		"**一名玩家捡起了高斯步枪（射出激光威力巨大可秒杀僵尸）**"
 	}
 	"***PLAYER PICKED UP GRENADE LAUNCHER***"
 	{
-		"chi"		"**һ����Ҽ������񵯷��������Խ�ʬ���ȼ�ռ���15����ҩ��**"
+		"chi"		"**一名玩家捡起了榴弹发射器（对僵尸造成燃烧减速15发弹药）**"
 	}
 	"ZOMBIES ARE RELEASED!"
 	{
@@ -404,7 +404,7 @@
 	}
 	"***PLAYER PICKED UP IMPULSOR***"
 	{
-		"chi"		"**һ����Ҽ����˶�����ɢ��������������ʬ�����Զ������ͷž޴�Ĳ��������ʬ���ɣ�**"
+		"chi"		"**一名玩家捡起了恶灵退散（被动神器，僵尸靠近自动触发释放巨大的查克拉将僵尸弹飞）**"
 	}
 	"***YOU FAILED***"
 	{
@@ -416,6 +416,6 @@
 	}
 	"***PLAYER PICKED UP FLAMETHROWER***"
 	{
-		"chi"		"**һ����Ҽ����������FFF��������15Sȼ�ϣ�������ʬ��Ⱥ��������**"
+		"chi"		"**一名玩家捡起了喷火器FFF团神器（15S燃料，烧死僵尸这群异性恋）**"
 	}
 }
