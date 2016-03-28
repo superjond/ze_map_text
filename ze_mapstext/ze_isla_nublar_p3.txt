@@ -209,16 +209,5 @@
 	{
 		"chi"		"**已检测到僵尸 **"
 	}
-	">>LEVEL 1<<"
-	{
-		"chi"		"** **"
-	}
-	"**ZE_FFXII_FEYWOOD**"
-	{
-		"chi"		"** **"
-	}
-	"---***This map will mute your sound if you are outside the lunar base***---"
-	{
-		"chi"		"** **"
-	}
+
 }

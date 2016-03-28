@@ -273,20 +273,5 @@
 	{
 		"chi"		"** **"
 	}
-	"ZE Sunlight"
-	{
-		"chi"		"** **"
-	}
-	"** ZE FFXII PARAMINA RIFT **"
-	{
-		"chi"		"** **"
-	}
-	"[Load ShroomForest2 Config]"
-	{
-		"chi"		"** **"
-	}
-	"[Warmup] Wait for others players to join"
-	{
-		"chi"		"** **"
-	}
+
 }
