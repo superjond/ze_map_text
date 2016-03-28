@@ -3,7 +3,7 @@
 	"** ZE FFXII PARAMINA RIFT **"
 	{
 		"chi"		"**最终幻想12：帕拉米亚峡谷**"
-		"command"		"mp_startmoney 16000"
+		"command"		"sm_g_cv_Money 16000"
 	}
 	"** [STAGE 1] PARAMINA RIFT **"
 	{
