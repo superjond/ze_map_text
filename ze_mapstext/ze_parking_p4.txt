@@ -204,4 +204,8 @@
 	{
 		"chi"		"**无限子弹被拿起**"
 	}
+	">>>RESTART AT NORMAL LEVEL 1<<<"
+	{
+		"chi"		"** **"
+	}
 }

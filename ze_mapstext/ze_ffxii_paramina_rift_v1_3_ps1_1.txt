@@ -52,4 +52,20 @@
 	{
 		"chi"		"** **"
 	}
+	"** Player has learned FIRE (fire lvl1) **"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned AERO (wind lvl2) **"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned BLIZZARA (ice lvl3) **"
+	{
+		"chi"		"** **"
+	}
+	"** Player has learned FIRA (fire lvl4) **"
+	{
+		"chi"		"** **"
+	}
 }

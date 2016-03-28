@@ -112,4 +112,8 @@
 	{
 		"chi"		"**恭喜您通关本地图，地图移植：Et3rnity，翻译：银月筱瑶**"
 	}
+	"*Kill all remaining zombies!*"
+	{
+		"chi"		"** **"
+	}
 }

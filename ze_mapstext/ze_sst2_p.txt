@@ -96,4 +96,8 @@
 	{
 		"chi"		"** **"
 	}
+	"Song: Tool - Lateralus"
+	{
+		"chi"		"** **"
+	}
 }
