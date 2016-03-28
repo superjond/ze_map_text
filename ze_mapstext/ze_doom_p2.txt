@@ -2,11 +2,11 @@
 {
 	"** LEVEL: NOT TOO ROUGH **"
 	{
-		"chi"		"** **"
+		"chi"		"**当前难度 简单 **"
 	}
 	"** Map by Night Fury **"
 	{
-		"chi"		"** **"
+		"chi"		"**作者 Night Fury 翻译 BAKA_Miku **"
 	}
 	"** Door opening in 30 seconds! **"
 	{
@@ -27,7 +27,7 @@
 	}
 	"Soulsphere power has 2 charges and a 120 second cooldown!"
 	{
-		"chi"		"能量装置能使用2次并且拥有120秒冷却CD"
+		"chi"		"能量装置能使用2次并且拥有120秒冷却CD[将人类血量恢复至150HP]"
 	}
 	"First soulsphere charge used!"
 	{
@@ -35,28 +35,28 @@
 	}
 	"Soulsphere first charge depleted!"
 	{
-		"chi"		"** **"
+		"chi"		"**第一次能量装置耗尽 **"
 	}
 	"** Door opening in 25 seconds! **"
 	{
-		"chi"		"能量装置1失效"
+		"chi"		"门将在25秒后打开"
 	}
 	"** Door opening in 25 seconds **"
 	{
-		"chi"		"25秒后开门      "
+		"chi"		"门将在25秒后打开      "
 		"DoorCountdown"		"                "
 	}
 	"** Door opening in 10 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在10秒后打开 **"
 	}
 	"** Door Opening in 23 Seconds **"
 	{
-		"chi"		"10秒开门"
+		"chi"		"门将在23秒后打开"
 	}
 	"** Opening door in 15 Seconds!! **"
 	{
-		"chi"		"15秒开门！守住！"
+		"chi"		"门将在15秒后打开！守住！"
 	}
 	"** Resist! a few seconds more **"
 	{
@@ -73,15 +73,15 @@
 	}
 	"** Exit door opening in 10 seconds! **"
 	{
-		"chi"		"10秒后开门！"
+		"chi"		"逃生门将在10秒后打开！"
 	}
 	"** Exit door opened! **"
 	{
-		"chi"		"门开了快几把跑！"
+		"chi"		"门开了"
 	}
 	"** BAD WIN!! ZOMBIES DETECTED!! **"
 	{
-		"chi"		"门开了！"
+		"chi"		"任务失败 僵尸进入"
 	}
 	"** Exit door closing in 15 seconds! **"
 	{
@@ -94,140 +94,140 @@
 	}
 	"** LEVEL: NO REST FOR LIVING **"
 	{
-		"chi"		"** **"
+		"chi"		"**当前难度 普通 **"
 	}
 	"** Opening Door... **"
 	{
-		"chi"		"** **"
+		"chi"		"**门正在打开 **"
 	}
 	"** Door opening in 20 seconds! **"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在20秒后打开 **"
 	}
 	"** Door Opened **"
 	{
-		"chi"		"** **"
+		"chi"		"**门已打开 **"
 	}
 	"** Door Opening in 15 Seconds !!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在15秒后打开 **"
 	}
 	"** Opening door in 20 Seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在20秒后打开 **"
 	}
 	"** Opening door in 10 Seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在10秒后打开 **"
 	}
 	"** Elevator Leaving in 35 Seconds...**"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在35秒后升起 **"
 		"DoorCountdown"		"35"
 	}
 	"** Elevator Leaving in 10 Seconds...**"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在10秒后升起 **"
 	}
 	"** BAD WIN!! ZOMBIES DETECTED **"
 	{
-		"chi"		"** **"
+		"chi"		"**任务失败 僵尸进入 **"
 	}
 	"** Killing exit room in 10 seconds! **"
 	{
-		"chi"		"** **"
+		"chi"		"**逃生门将在10秒后打开 **"
 	}
 	"Soulsphere final charge used!"
 	{
-		"chi"		"** **"
+		"chi"		"**最后一次能量装置被使用 **"
 	}
 	"Soulsphere power fully depleted!"
 	{
-		"chi"		"** **"
+		"chi"		"**能量装置已耗尽 **"
 	}
 	"Soulsphere recharged"
 	{
-		"chi"		"** **"
+		"chi"		"**能量装置重新装填 **"
 	}
 	"** LEVEL: NIGHTMARE **"
 	{
-		"chi"		"** **"
+		"chi"		"**当前难度 困难 **"
 	}
 	"** Door opening in 40 seconds! **"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在40秒后打开 **"
 	}
 	"** Opening door in 10 seconds... **"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在10秒后打开 **"
 	}
 	"** Opening X door in few seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**X大门将在一段时间后打开 **"
 	}
 	"** Teleport active in 40 seconds! **"
 	{
-		"chi"		"** **"
+		"chi"		"**传送将在40秒后激活 **"
 	}
 	"** Teleport active in 10 seconds! **"
 	{
-		"chi"		"** **"
+		"chi"		"**传送将在10秒后激活 **"
 	}
 	"** Teleport active! **"
 	{
-		"chi"		"** **"
+		"chi"		"**传送已激活 **"
 	}
 	"** Humans have 2 minutes to deafet the boss! **"
 	{
-		"chi"		"** **"
+		"chi"		"**人类有2分钟的时间攻击boss **"
 	}
 	"** Boss defeated! **"
 	{
-		"chi"		"** **"
+		"chi"		"**已击败boss **"
 	}
 	"** Zombies have been released! **"
 	{
-		"chi"		"** **"
+		"chi"		"**已释放僵尸 **"
 	}
 	"** Exit door closing in 40 seconds! **"
 	{
-		"chi"		"** **"
+		"chi"		"**逃生门将在40秒后打开 **"
 	}
 	"A player has aquired berserker powerup!"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家的到狂战士能量 **"
 	}
 	"Berserker powerup has one charge!"
 	{
-		"chi"		"** **"
+		"chi"		"**狂战士能量只能使用一次 **"
 	}
 	"Beserker has been enabled!"
 	{
-		"chi"		"** **"
+		"chi"		"**狂战士能量充能完毕 **"
 	}
 	"Beserker charge depleting in 3"
 	{
-		"chi"		"** **"
+		"chi"		"**狂战士能量将在3秒后消耗殆尽 **"
 	}
 	"Beserker charge depleting in 2"
 	{
-		"chi"		"** **"
+		"chi"		"**狂战士能量将在2秒后消耗殆尽 **"
 	}
 	"Beserker charge depleting in 1"
 	{
-		"chi"		"** **"
+		"chi"		"**狂战士能量将在1秒后消耗殆尽 **"
 	}
 	"Beserker charge fully depleted!"
 	{
-		"chi"		"** **"
+		"chi"		"**狂战士能量已完全消失 **"
 	}
 	"** Exit door closing in 10 seconds! **"
 	{
-		"chi"		"** **"
+		"chi"		"**逃生门将在10秒后关闭 **"
 	}
 	"**Map made by Eugenio *Motanum* Roman**"
 	{
-		"chi"		"** **"
+		"chi"		"**作者 Eugenio *Motanum* Roman**"
 	}
 	"**Contact me at eugenio.motanum91 AT gmail.com**"
 	{
