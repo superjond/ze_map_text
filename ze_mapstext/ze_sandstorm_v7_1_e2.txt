@@ -228,44 +228,6 @@
 	{
 		"chi"		"**重生墙20秒后打破**"
 	}
-	"++ ZE_ITALY_TOWN ++"
-	{
-		"chi"		"** **"
-	}
-	"** LEVEL GAME END **"
-	{
-		"chi"		"** **"
-	}
-	"***DIFFICULTY --- NORMAL***"
-	{
-		"chi"		"** **"
-	}
-	"*** Ze_sC_Turtles By T3tra ***"
-	{
-		"chi"		"** **"
-	}
-	"*** NY MARATHON: GET READY TO RUN! ***"
-	{
-		"chi"		"** **"
-	}
-	"---***This map will mute your sound if you are outside the lunar base***---"
-	{
-		"chi"		"** **"
-	}
-	">> IDEA: Sienestaja <<"
-	{
-		"chi"		"** **"
-	}
-	"[Load ShroomForest Config]"
-	{
-		"chi"		"** **"
-	}
-	"** ZE FFXII PARAMINA RIFT **"
-	{
-		"chi"		"** **"
-	}
-	"###Map Made By Mononoke###"
-	{
-		"chi"		"** **"
-	}
+
+
 }
