@@ -240,93 +240,230 @@
 	{
 		"chi"		">>>20秒后开门<<<
 	}
-	">>>Door now open. Retreat!<<<"
+	"
+		">>>Door"		"now"
+		"open."		"Retreat!<<<"
+		"
 	{
-		"chi"		">>>门开了. 撤退!<<<"
+		"		"chi"
+		"		"		">>>门开了."
+		"撤退!<<<"		"
 	}
-	">>>Elevator preparing for departure<<<"
+	"
+		">>>Elevator"		"preparing"
+		"for"		"departure<<<"
+		"
 	{
-		"chi"		"电梯准备离开"
+		"		"chi"
+		"		"		"电梯准备离开"
+		"
 	}
-	">>>Elevator is about to leave!<<<"
+	"		">>>Elevator"
+		"is"		"about"
+		"to"		"leave!<<<"
+		"
 	{
-		"chi"		"电梯快开了！"
+		"		"chi"
+		"		"		"电梯快开了！"
+		"
 	}
-	">>>ATLAS: Great work. Lets move on!<<<"
+	"		">>>ATLAS:"
+		"Great"		"work."
+		"Lets"		"move"
+		"on!<<<"		"
 	{
-		"chi"		">>>ATLAS: 干的好.我们继续！<<<"
+		"
+		"chi"		"		"
+		">>>ATLAS:"		"干的好.我们继续！<<<"
+		"
 	}
-	">>>Wait for the door to complete its unlock sequence<<<"
+	"		">>>Wait"
+		"for"		"the"
+		"door"		"to"
+		"complete"		"its"
+		"unlock"		"sequence<<<"
+		"
 	{
-		"chi"		">>>等待门打开<<<"
+		"		"chi"
+		"		"		">>>等待门打开<<<"
+		"
 	}
-	">>>The door is open. Proceed<<<"
+	"		">>>The"
+		"door"		"is"
+		"open."		"Proceed<<<"
+		"
 	{
-		"chi"		">>>门开了.继续前进！<<<"
+		"		"chi"
+		"		"		">>>门开了.继续前进！<<<"
+		"
 	}
-	">>>Door opening in 30 seconds<<<"
+	"		">>>Door"
+		"opening"		"in"
+		"30"		"seconds<<<"
+		"
 	{
-		"chi"		">>>门将在30秒后打开<<"
+		"		"chi"
+		"		"		">>>门将在30秒后打开<<"
+		"
 	}
-	">>>ATLAS: Security door is open!<<<"
+	"		">>>ATLAS:"
+		"Security"		"door"
+		"is"		"open!<<<"
+		"
 	{
-		"chi"		">>>ATLAS: 警卫大门已经打开<<<"
+		"		"chi"
+		"		"		">>>ATLAS:"
+		"警卫大门已经打开<<<"		"
 	}
-	">>>Storage has flooded. Access prohibited during draining...<<<"
+	"
+		">>>Storage"		"has"
+		"flooded."		"Access"
+		"prohibited"		"during"
+		"draining...<<<"		"
 	{
-		"chi"		">>>储存已经进水，在排水过程中禁止使用...<<<"
+		"
+		"chi"		"		"
+		">>>储存已经进水，在排水过程中禁止使用...<<<"		"
 	}
-	">>>Storage has drained. Access granted<<<"
+	"
+		">>>Storage"		"has"
+		"drained."		"Access"
+		"granted<<<"		"
 	{
-		"chi"		">>>水已排干，已授权使用<<<"
+		"
+		"chi"		"		"
+		">>>水已排干，已授权使用<<<"		"
 	}
-	">>>ATLAS: Maintainance doors aren't meant'a be unlocked!<<<"
+	"
+		">>>ATLAS:"		"Maintainance"
+		"doors"		"aren't"
+		"meant'a"		"be"
+		"unlocked!<<<"		"
 	{
-		"chi"		">>>ATLAS: 电门并不意味着不会被打开！!<<<"
+		"
+		"chi"		"		"
+		">>>ATLAS:"		"电门并不意味着不会被打开！!<<<"
+		"
 	}
-	">>>ATLAS: I can override it. It'll take some time though<<<"
+	"		">>>ATLAS:"
+		"I"		"can"
+		"override"		"it."
+		"It'll"		"take"
+		"some"		"time"
+		"though<<<"		"
 	{
-		"chi"		">>>ATLAS: 我能重启它，但需要一点时间<<<"
+		"
+		"chi"		"		"
+		">>>ATLAS:"		"我能重启它，但需要一点时间<<<"
+		"
 	}
-	">>>ATLAS:  Would you kindly take care o' things while I work!<<<"
+	"		">>>ATLAS:"
+		"Would"		"you"
+		"kindly"		"take"
+		"care"		"o'"
+		"things"		"while"
+		"I"		"work!<<<"
+		"
 	{
-		"chi"		">>>ATLAS: 你能在我工作的时候守住僵尸么？<<<"
+		"		"chi"
+		"		"		">>>ATLAS:"
+		"你能在我工作的时候守住僵尸么？<<<"		"
 	}
-	">>>ATLAS: Nearly there.. (10 seconds)<<<"
+	"
+		">>>ATLAS:"		"Nearly"
+		"there.."		"(10"
+		"seconds)<<<"		"
 	{
-		"chi"		">>>ATLAS: 快完成了.. (还有10秒！)<<<"
+		"
+		"chi"		"		"
+		">>>ATLAS:"		"快完成了.."
+		"(还有10秒！)<<<"		"
 	}
-	">>>ATLAS: That got it! Would you kindly get moving again?!<<<"
+	"
+		">>>ATLAS:"		"That"
+		"got"		"it!"
+		"Would"		"you"
+		"kindly"		"get"
+		"moving"		"again?!<<<"
+		"
 	{
-		"chi"		">>>ATLAS: 完成了！快跑！<<<"
+		"		"chi"
+		"		"		">>>ATLAS:"
+		"完成了！快跑！<<<"		"
 	}
-	">>>Rapture METRO last call for boarding<<<"
+	"
+		">>>Rapture"		"METRO"
+		"last"		"call"
+		"for"		"boarding<<<"
+		"
 	{
-		"chi"		">>>再不上车就没机会了<<<"
+		"		"chi"
+		"		"		">>>再不上车就没机会了<<<"
+		"
 	}
-	">>>Rapture METRO is departing in 5 seconds<<<"
+	"		">>>Rapture"
+		"METRO"		"is"
+		"departing"		"in"
+		"5"		"seconds<<<"
+		"
 	{
-		"chi"		">>>5秒后地铁离开<<<"
+		"		"chi"
+		"		"		">>>5秒后地铁离开<<<"
+		"
 	}
-	">>>Rapture METRO is leaving<<<"
+	"		">>>Rapture"
+		"METRO"		"is"
+		"leaving<<<"		"
 	{
-		"chi"		">>>地铁已经离开<<<"
+		"
+		"chi"		"		"
+		">>>地铁已经离开<<<"		"
 	}
-	">>>ATLAS: Nice work boyo. I'm waiting for you in Hephaestus<<<"
+	"
+		">>>ATLAS:"		"Nice"
+		"work"		"boyo."
+		"I'm"		"waiting"
+		"for"		"you"
+		"in"		"Hephaestus<<<"
+		"
 	{
-		"chi"		">>>ATLAS: 大兄弟干的不错，我会在Hephaestus等你<<<"
+		"		"chi"
+		"		"		">>>ATLAS:"
+		"大兄弟干的不错，我会在Hephaestus等你<<<"		"
 	}
-	">>>ATLAS: We need  to overload the hephaestus core<<<"
+	"
+		">>>ATLAS:"		"We"
+		"need"		"to"
+		"overload"		"the"
+		"hephaestus"		"core<<<"
+		"
 	{
-		"chi"		">>>ATLAS: 我们需要过载hephaestus核心<<<"
+		"		"chi"
+		"		"		">>>ATLAS:"
+		"我们需要过载hephaestus核心<<<"		"
 	}
-	">>>ATLAS: In order to do that we need a bomb<<<"
+	"
+		">>>ATLAS:"		"In"
+		"order"		"to"
+		"do"		"that"
+		"we"		"need"
+		"a"		"bomb<<<"
+		"
 	{
-		"chi"		">>>ATLAS: 我们需要一个炸弹<<<"
+		"		"chi"
+		"		"		">>>ATLAS:"
+		"我们需要一个炸弹<<<"		"
 	}
-	">>>ATLAS: Find what we need and take it to Kyburz office<<<"
+	"
+		">>>ATLAS:"		"Find"
+		"what"		"we"
+		"need"		"and"
+		"take"		"it"
+		"to"		"Kyburz"
+		"office<<<"		"
 	{
-		"chi"		"">>>ATLAS: 找到我们需要的东西并带到Kyburz的办公室<<<"
+		"
+		"chi"		"		"
 	}
 	">>>ATLAS: You failed. Splicers made it into the core tower<<<"
 	{
@@ -390,74 +527,332 @@
 	}
 	">>>EMP Bomb obtained. Take it to Core#3!<<<"
 	{
-		"chi"		">>>EMP炸弹已获取，快带它去三号核心！<<<""
+		"chi"		">>>EMP炸弹已获取，快带它去三号核心！<<<"
+		"
 	}
-	">>>ATLAS: Would you kindly set that bomb!<<<"
+	"		">>>ATLAS:"
+		"Would"		"you"
+		"kindly"		"set"
+		"that"		"bomb!<<<"
+		"
 	{
-		"chi"		"*>>>ATLAS: 快安放炸弹！<<<"
+		"		"chi"
+		"		"		"*>>>ATLAS:"
+		"快安放炸弹！<<<"		"
 	}
-	"*EMP Bomb Placed*"
+	"
+		"*EMP"		"Bomb"
+		"Placed*"		"
 	{
-		"chi"		"EMP炸弹已经安放"
+		"
+		"chi"		"		"
+		"EMP炸弹已经安放"		"
 	}
-	"*Sympthetic Overload in Harmonic Core #3 Triggered*"
+	"
+		"*Sympthetic"		"Overload"
+		"in"		"Harmonic"
+		"Core"		"#3"
+		"Triggered*"		"
 	{
-		"chi"		"交感电流过载已在三号核心触发"
+		"
+		"chi"		"		"
+		"交感电流过载已在三号核心触发"		"
 	}
-	"*Nice work boyo. Now head on up to Ryan's office so we can meet in person*"
+	"
+		"*Nice"		"work"
+		"boyo."		"Now"
+		"head"		"on"
+		"up"		"to"
+		"Ryan's"		"office"
+		"so"		"we"
+		"can"		"meet"
+		"in"		"person*"
+		"
 	{
-		"chi"		"干的好.现在去Ryan的办公室来见一面"
+		"		"chi"
+		"		"		"干的好.现在去Ryan的办公室来见一面"
+		"
 	}
-	"*Andrew Ryan's Office is now unlocked*"
+	"		"*Andrew"
+		"Ryan's"		"Office"
+		"is"		"now"
+		"unlocked*"		"
 	{
-		"chi"		"Andrew Ryan的办公室已经解锁"
+		"
+		"chi"		"		"
+		"Andrew"		"Ryan的办公室已经解锁"
+		"
 	}
-	"*Splicers freed*"
+	"		"*Splicers"
+		"freed*"		"
 	{
-		"chi"		"接带器已释放"
+		"
+		"chi"		"		"
+		"接带器已释放"		"
 	}
-	">>>Rapture Control: Elevator leaving in 15 seconds<<<"
+	"
+		">>>Rapture"		"Control:"
+		"Elevator"		"leaving"
+		"in"		"15"
+		"seconds<<<"		"
 	{
-		"chi"		">>>Rapture Control: 电梯15秒后离开<<<"
+		"
+		"chi"		"		"
+		">>>Rapture"		"Control:"
+		"电梯15秒后离开<<<"		"
 	}
-	">>>Rapture Control: Elevator leaving in 5 seconds<<<"
+	"
+		">>>Rapture"		"Control:"
+		"Elevator"		"leaving"
+		"in"		"5"
+		"seconds<<<"		"
 	{
-		"chi"		">>>Rapture Control: 电梯5秒后离开<<<"
+		"
+		"chi"		"		"
+		">>>Rapture"		"Control:"
+		"电梯5秒后离开<<<"		"
 	}
-	"*Fontaine is trying to drag you into the pit*"
+	"
+		"*Fontaine"		"is"
+		"trying"		"to"
+		"drag"		"you"
+		"into"		"the"
+		"pit*"		"
 	{
-		"chi"		"Fontaine正在试图把你抓入井里"
+		"
+		"chi"		"		"
+		"Fontaine正在试图把你抓入井里"		"
 	}
-	">>>Splicer has entered the core. Bomb must be placed within 60 seconds<<<"
+	"
+		">>>Splicer"		"has"
+		"entered"		"the"
+		"core."		"Bomb"
+		"must"		"be"
+		"placed"		"within"
+		"60"		"seconds<<<"
+		"
 	{
-		"chi"		">>>接合器已经进入核心.炸弹必须在60秒内安放<<<"
+		"		"chi"
+		"		"		">>>接合器已经进入核心.炸弹必须在60秒内安放<<<"
+		"
 	}
-	">>>ATLAS: FAILURE! You were too slow!<<<"
+	"		">>>ATLAS:"
+		"FAILURE!"		"You"
+		"were"		"too"
+		"slow!<<<"		"
 	{
-		"chi"		">>>ATLAS: 失败！你们太慢了！<<<"
+		"
+		"chi"		"		"
+		">>>ATLAS:"		"失败！你们太慢了！<<<"
+		"
 	}
-	"*Don't get knocked off the platform*"
+	"		"*Don't"
+		"get"		"knocked"
+		"off"		"the"
+		"platform*"		"
 	{
-		"chi"		"别被撞下平台"
+		"
+		"chi"		"		"
+		"别被撞下平台"		"
 	}
-	"** LEVEL: NOT TOO ROUGH **"
+	"
+		"**"		"LEVEL:"
+		"not"		"TOO"
+		"ROUGH"		"**"
+		"
 	{
-		"chi"		"关卡：稍难"
+		"		"chi"
+		"		"		"关卡：稍难"
+		"
 	}
-	">>>You failed! Splicers made it aboard!<<<"
+	"		">>>You"
+		"failed!"		"Splicers"
+		"made"		"it"
+		"aboard!<<<"		"
 	{
-		"chi"		">>>你失败了！接合器已经进入核心<<<"
+		"
+		"chi"		"		"
+		">>>你失败了！接合器已经进入核心<<<"		"
+	}
+	"
+		">>>Found"		"the"
+		"Cage"		"Token<<<"
+		"
+	{
+		"		"chi"
+		"		"		"已找到升降车的令牌"
+		"
+	}
+	"		">>>ATLAS:"
+		"Security"		"has"
+		"been"		"reset."
+		"Would"		"you"
+		"kindly"		"get"
+		"to"		"the"
+		"elevator!<<<"		"
+	{
+		"
+		"chi"		"		"
+		">>>ATLAS:"		"警卫系统已被重启，你能赶到电梯里么<<<"
+		"
+	}
+	"		">>>Found"
+		"the"		"Airship"
+		"Token<<<"		"
+	{
+		"
+		"chi"		"		"
+		">>>已找到飞艇的令牌<<<"		"
+	}
+}
+"
 	}
 	">>>Found the Cage Token<<<"
 	{
-		"chi"		"已找到升降车的令牌"
+		"chi"		"** **"
 	}
 	">>>ATLAS: Security has been reset. Would you kindly get to the elevator!<<<"
 	{
-		"chi"		">>>ATLAS: 警卫系统已被重启，你能赶到电梯里么<<<"
+		"chi"		"** **"
+	}
+	">>>Door now open. Retreat!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Elevator preparing for departure<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Elevator is about to leave!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Great work. Lets move on!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Wait for the door to complete its unlock sequence<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>The door is open. Proceed<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Door opening in 30 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Security door is open!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Storage has flooded. Access prohibited during draining...<<<"
+	{
+		"chi"		"** **"
 	}
 	">>>Found the Airship Token<<<"
 	{
-		"chi"		">>>已找到飞艇的令牌<<<"
+		"chi"		"** **"
+	}
+	">>>Storage has drained. Access granted<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Maintainance doors aren't meant'a be unlocked!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: I can override it. It'll take some time though<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS:  Would you kindly take care o' things while I work!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Nearly there.. (10 seconds)<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: That got it! Would you kindly get moving again?!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>You failed! Splicers made it aboard!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Rapture METRO last call for boarding<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Rapture METRO is departing in 5 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Rapture METRO is leaving<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Nice work boyo. I'm waiting for you in Hephaestus<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: We need  to overload the hephaestus core<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: In order to do that we need a bomb<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Find what we need and take it to Kyburz office<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Would you kindly set that bomb!<<<"
+	{
+		"chi"		"** **"
+	}
+	"*EMP Bomb Placed*"
+	{
+		"chi"		"** **"
+	}
+	"*Sympthetic Overload in Harmonic Core #3 Triggered*"
+	{
+		"chi"		"** **"
+	}
+	"*Nice work boyo. Now head on up to Ryan's office so we can meet in person*"
+	{
+		"chi"		"** **"
+	}
+	"*Andrew Ryan's Office is now unlocked*"
+	{
+		"chi"		"** **"
+	}
+	">>>Rapture Control: Elevator leaving in 15 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	"*Splicers freed*"
+	{
+		"chi"		"** **"
+	}
+	">>>Rapture Control: Elevator leaving in 5 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	"*Don't get knocked off the platform*"
+	{
+		"chi"		"** **"
+	}
+	">>>Splicer has entered the core. Bomb must be placed within 60 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: FAILURE! You were too slow!<<<"
+	{
+		"chi"		"** **"
 	}
 }

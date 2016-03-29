@@ -68,4 +68,36 @@
 	{
 		"chi"		"** **"
 	}
+	"** Player has learned CURE (heal lvl1) **"
+	{
+		"chi"		"** **"
+	}
+	"** GATES OPEN IN 30 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** GATES OPEN IN 5 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD 25 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD 20 SECONDS BEFORE A RANDOM PATH OPENS **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD 5 MORE SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** THE LEFT WAY HAS BEEN OPENED **"
+	{
+		"chi"		"** **"
+	}
 }
