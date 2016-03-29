@@ -1,0 +1,1031 @@
+"mapname"
+{
+	"ze_30_seconds__b21_p2"
+	{
+		"chi"		"生死30秒"
+	}
+	"ze_ATIX_panic_b3t_p"
+	{
+		"chi"		"仓库危机"
+	}
+	"ze_ApertureScience_p2"
+	{
+		"chi"		"光圈科技"
+	}
+	"ze_DOOM_p2"
+	{
+		"chi"		"毁灭战士"
+	}
+	"ze_FFVII_Mako_Reactor_p8"
+	{
+		"chi"		"最终幻想7: 魔光炉"
+	}
+	"ze_Hell_Escape_p2"
+	{
+		"chi"		"地狱逃亡"
+	}
+	"ze_Island_Escape_p3"
+	{
+		"chi"		"孤岛逃亡"
+	}
+	"ze_LOTR_Helms_Deep_v5_p6"
+	{
+		"chi"		"魔戒2: 圣盔谷"
+	}
+	"ze_LOTR_Mines_of_Moria_p2"
+	{
+		"chi"		"魔戒1: 莫瑞亚矿坑"
+	}
+	"ze_LOTR_Mount_Doom_p3"
+	{
+		"chi"		"魔戒3: 末日火山"
+	}
+	"ze_PoR_island_p3"
+	{
+		"chi"		"岛屿大逃离"
+	}
+	"ze_PotC_p4"
+	{
+		"chi"		"加勒比海盗"
+	}
+	"ze_Random_p2"
+	{
+		"chi"		"随机小游戏"
+	}
+	"ze_Siberia_1990_v1_2c_p5"
+	{
+		"chi"		"西伯利亚大危机"
+	}
+	"ze_Super_Metroid_v4"
+	{
+		"chi"		"超级银河战士"
+	}
+	"ze_abandoned_industry_alpha"
+	{
+		"chi"		"废弃工厂大撤离"
+	}
+	"ze_apollo_e1"
+	{
+		"chi"		"阿波罗登月计划"
+	}
+	"ze_arctic_escape_p2"
+	{
+		"chi"		"极地逃亡"
+	}
+	"ze_aztec_temple_go_v2"
+	{
+		"chi"		"厄兹特克神庙逃亡"
+	}
+	"ze_aztecnoob_p2"
+	{
+		"chi"		"走吊桥的是菜鸡"
+	}
+	"ze_barrage_p2"
+	{
+		"chi"		"求生之路：大坝"
+	}
+	"ze_biohazard2_rpd_004_p3"
+	{
+		"chi"		"生化危机：警察局"
+	}
+	"ze_biohazard_manor_p2"
+	{
+		"chi"		"生化危机：洋馆"
+	}
+	"ze_bioshock_v4_5_1"
+	{
+		"chi"		"生化奇兵"
+	}
+	"ze_bioshock_go_v5_6"
+	{
+		"chi"		"生化奇兵"
+	}
+	"ze_blackmesa_escape_p4"
+	{
+		"chi"		"黑山基地:重装上阵"
+	}
+	"ze_boacceho_p4"
+	{
+		"chi"		"古堡逃脱"
+	}
+	"ze_boatescape101_p"
+	{
+		"chi"		"古船逃脱"
+	}
+	"ze_bp-infested-prison_p2"
+	{
+		"chi"		"监狱大撤离"
+	}
+	"ze_breakable_p3"
+	{
+		"chi"		"破坏之旅"
+	}
+	"ze_bunker_escape_v1_2"
+	{
+		"chi"		"煤仓大撤退"
+	}
+	"ze_cheezylab_beta7"
+	{
+		"chi"		"实验室惊魂"
+	}
+	"ze_chicken_lords_p"
+	{
+		"chi"		"小鸡城堡大逃亡"
+	}
+	"ze_chicken_ranch_v2"
+	{
+		"chi"		"小鸡工厂之旅"
+	}
+	"ze_colorlicouspilar_p4"
+	{
+		"chi"		"彩色世界"
+	}
+	"ze_crashbandicoot_p3"
+	{
+		"chi"		"蛊惑狼"
+	}
+	"ze_crypt_v1_4"
+	{
+		"chi"		"墓穴逃亡"
+	}
+	"ze_csgo_grey2"
+	{
+		"chi"		"灰白大作战"
+	}
+	"ze_cyberderp_v1_4fix"
+	{
+		"chi"		"魔幻现实主义之旅"
+	}
+	"ze_dangerous_waters_v1h_03_b"
+	{
+		"chi"		"危险水域大冒险"
+	}
+	"ze_death_star_escape_v4_3_p2"
+	{
+		"chi"		"死亡之星大撤退"
+	}
+	"ze_death_wish_v6"
+	{
+		"chi"		"死亡之愿"
+	}
+	"ze_desert_fox_v7_6"
+	{
+		"chi"		"沙漠之狐"
+	}
+	"ze_dust_escape_p3"
+	{
+		"chi"		"沙漠大逃亡"
+	}
+	"ze_elevator_escape_p2"
+	{
+		"chi"		"电梯大逃亡"
+	}
+	"ze_escape_the_eye_p"
+	{
+		"chi"		"逃离天眼"
+	}
+	"ze_evil_mansion_v1_final"
+	{
+		"chi"		"整蛊之家"
+	}
+	"ze_exchange_innovation_v1b"
+	{
+		"chi"		"交流创新之旅"
+	}
+	"ze_fapescape_p5"
+	{
+		"chi"		"乐高大逃亡"
+	}
+	"ze_fast_escape_p2"
+	{
+		"chi"		"快速撤离"
+	}
+	"ze_ffxii_feywood_b2_4_2"
+	{
+		"chi"		"最终幻想12：幻妖之森"
+	}
+	"ze_ffxii_westersand_v7_2_p2"
+	{
+		"chi"		"最终幻想12：西方之沙"
+	}
+	"ze_flying_world_p"
+	{
+		"chi"		"空中世界: 史诗大冒险"
+	}
+	"ze_forestbunkers_v1_b3_e2"
+	{
+		"chi"		"森林惊魂"
+	}
+	"ze_frostdrake_tower_v1"
+	{
+		"chi"		"寒霜高塔"
+	}
+	"ze_games_v2_1"
+	{
+		"chi"		"小游戏冒险"
+	}
+	"ze_gods_wrath_p2"
+	{
+		"chi"		"神降天谴"
+	}
+	"ze_great_crate_escape_v6"
+	{
+		"chi"		"神迹逃亡"
+	}
+	"ze_greencity_fix"
+	{
+		"chi"		"绿城逃亡"
+	}
+	"ze_halo_poa_p4"
+	{
+		"chi"		"光环行动"
+	}
+	"ze_haunted_lab_escape_v2c_e2"
+	{
+		"chi"		"闹鬼实验室"
+	}
+	"ze_hazard_escape_p2"
+	{
+		"chi"		"冒死之旅"
+	}
+	"ze_hobbit_escape_b2"
+	{
+		"chi"		"(魔戒)霍比特人：哥布林人之战"
+	}
+	"ze_hold_em_v8_f3"
+	{
+		"chi"		"坚守行动"
+	}
+	"ze_hypernova_v2fix"
+	{
+		"chi"		"超新星之旅"
+	}
+	"ze_ice_hold_p1"
+	{
+		"chi"		"冰地大防守"
+	}
+	"ze_icecap_escape_v5_p"
+	{
+		"chi"		"西瓜橘子图"
+	}
+	"ze_inboxed_final_f2"
+	{
+		"chi"		"身法菜鸟的太平间"
+	}
+	"ze_indiana_jones_v4a_004_p4"
+	{
+		"chi"		"夺宝奇兵"
+	}
+	"ze_infected_lab_v4_1"
+	{
+		"chi"		"感染实验室惊魂"
+	}
+	"ze_infected_tramway_csgo1"
+	{
+		"chi"		"电车惊魂"
+	}
+	"ze_infiltration_final_p2"
+	{
+		"chi"		"潜入行动"
+	}
+	"ze_insanitycity_final"
+	{
+		"chi"		"工业之城"
+	}
+	"ze_isla_nublar_p3"
+	{
+		"chi"		"侏罗纪公园:努布拉岛"
+	}
+	"ze_italy_town_v3_e3"
+	{
+		"chi"		"意大利小镇惊魂"
+	}
+	"ze_jurassicpark_c1v4_p2"
+	{
+		"chi"		"侏罗纪公园逃脱"
+	}
+	"ze_lab_v5"
+	{
+		"chi"		"实验室惊魂"
+	}
+	"ze_legoland_crackheads_p2"
+	{
+		"chi"		"乐高世界"
+	}
+	"ze_mario_tower_v4_p2"
+	{
+		"chi"		"超级马里奥：闯关高塔"
+	}
+	"ze_mars_escape_v1_2_pm1"
+	{
+		"chi"		"火星大逃亡"
+	}
+	"ze_mental_hospital_cof"
+	{
+		"chi"		"精神病医院惊魂"
+	}
+	"ze_minecraft_adventure_v1_3c"
+	{
+		"chi"		"MC闯关大冒险"
+	}
+	"ze_minecraft_v1_1_p3"
+	{
+		"chi"		"mc一日游"
+	}
+	"ze_mirrors_edge_v2_go_pf_final"
+	{
+		"chi"		"镜之边缘"
+	}
+	"ze_moon_base_p3"
+	{
+		"chi"		"月球基地"
+	}
+	"ze_motanuminc_sgfinal"
+	{
+		"chi"		"黑基佬传奇:护菊同盟"
+	}
+	"ze_mountainspire_p2"
+	{
+		"chi"		"高山逃亡"
+	}
+	"ze_mytex_escape_v3_p"
+	{
+		"chi"		"遗迹逃亡"
+	}
+	"ze_namviet_v6_1"
+	{
+		"chi"		"越南丛林大冒险"
+	}
+	"ze_neko_canyon_p3"
+	{
+		"chi"		"尼高峡谷惊魂"
+	}
+	"ze_notredame_p3"
+	{
+		"chi"		"時空撕裂者2: 巴黎聖母院"
+	}
+	"ze_nuke_p5"
+	{
+		"chi"		"核电站危机"
+	}
+	"ze_ocean_base_escape_p"
+	{
+		"chi"		"海洋基地惊魂"
+	}
+	"ze_omega_p3"
+	{
+		"chi"		"暗夜危机"
+	}
+	"ze_paper_escaper_v6_6c2"
+	{
+		"chi"		"纸质大逃亡"
+	}
+	"ze_Parking_p3"
+	{
+		"chi"		"最终疏散:停车场大楼"
+	}
+	"ze_pirates_port_royal_v4_2"
+	{
+		"chi"		"加勒比海盗: 罗亚尔港"
+	}
+	"ze_pitchblack_p2"
+	{
+		"chi"		"星际传奇"
+	}
+	"ze_predator_ultimate_v3_p3"
+	{
+		"chi"		"铁血战士"
+	}
+	"ze_prototype_v3_4"
+	{
+		"chi"		"虐杀原形"
+	}
+	"ze_puta_p3"
+	{
+		"chi"		"工厂危机"
+	}
+	"ze_raccoon_facility_v6b_p"
+	{
+		"chi"		"生化危机：浣熊市工厂"
+	}
+	"ze_reconnoiter_b4"
+	{
+		"chi"		"秘密侦查之路"
+	}
+	"ze_reloaded_v1_e5"
+	{
+		"chi"		"合金装备"
+	}
+	"ze_resonance_cascade_p3"
+	{
+		"chi"		"串联共振：黑山逃亡"
+	}
+	"ze_rockescape_2013_v1_3_3"
+	{
+		"chi"		"石山逃亡"
+	}
+	"ze_saw_p3"
+	{
+		"chi"		"电锯惊魂"
+	}
+	"ze_sc_turtles_v5_p2"
+	{
+		"chi"		"乌龟岛之旅"
+	}
+	"ze_sewage_processing_v8"
+	{
+		"chi"		"污水处理厂危机"
+	}
+	"ze_sg1_missions_v2_1_p2"
+	{
+		"chi"		"星际之门"
+	}
+	"ze_shroomforest2_p4"
+	{
+		"chi"		"蘑菇森林2"
+	}
+	"ze_shroomforest_v3_p3"
+	{
+		"chi"		"蘑菇森林1"
+	}
+	"ze_skyscraper_city_v5"
+	{
+		"chi"		"镜之边缘：大厦飞驰"
+	}
+	"ze_sst2_p"
+	{
+		"chi"		"星河舰队2"
+	}
+	"ze_sst_b2_1_p5"
+	{
+		"chi"		"星河舰队1"
+	}
+	"ze_stargate_escape_v8_p2"
+	{
+		"chi"		"星际之门大逃亡"
+	}
+	"ze_sunlight_v3"
+	{
+		"chi"		"古城逃亡：重见天日"
+	}
+	"ze_surf_danger_p2"
+	{
+		"chi"		"危险的滑翔"
+	}
+	"ze_surf_facility_v2_3_p2"
+	{
+		"chi"		"超级滑翔v2版"
+	}
+	"ze_surf_facility_v3_pre2"
+	{
+		"chi"		"超级滑翔v3版本"
+	}
+	"ze_teletraan_v1"
+	{
+		"chi"		"变形金刚之旅"
+	}
+	"ze_tesv_skyrim_v5_4"
+	{
+		"chi"		"上古卷轴5：天际"
+	}
+	"ze_texturescape_p2"
+	{
+		"chi"		"陷阱逃脱图"
+	}
+	"ze_thelostworld_redux_p2"
+	{
+		"chi"		"侏罗纪公园：失落之岛"
+	}
+	"ze_timesplitters_p"
+	{
+		"chi"		"時空撕裂者"
+	}
+	"ze_titanic_escape_v2_3_fix1"
+	{
+		"chi"		"泰坦尼克号惊魂"
+	}
+	"ze_tkara_v3"
+	{
+		"chi"		"tkara大逃亡"
+	}
+	"ze_toaster_p3"
+	{
+		"chi"		"烤面包机惊魂"
+	}
+	"ze_townscape_vfinallqfix2"
+	{
+		"chi"		"小镇逃亡之旅"
+	}
+	"ze_traak_b2"
+	{
+		"chi"		"traak大逃亡"
+	}
+	"ze_trainescape_final_p2"
+	{
+		"chi"		"火车大撤退"
+	}
+	"ze_underground_escape_p"
+	{
+		"chi"		"地下逃亡之旅"
+	}
+	"ze_unknow_escape_v4"
+	{
+		"chi"		"不明世界大逃亡"
+	}
+	"ze_vertigo_v1_1"
+	{
+		"chi"		"迷魂记"
+	}
+	"ze_voodoo_islands_v8_5_p4"
+	{
+		"chi"		"巫毒岛惊魂"
+	}
+	"ze_zk_fapescape_p3"
+	{
+		"chi"		"缩略版乐高大逃亡"
+	}
+	"ze_interception_p2"
+	{
+		"chi"		"窃听计划"
+	}
+	"ze_valleyescape_v1"
+	{
+		"chi"		"山谷大逃亡"
+	}
+	"ze_hive_complex_b4"
+	{
+		"chi"		"生化危机：蜂巢"
+	}
+	"ze_platformer_b2"
+	{
+		"chi"		"浮空岛游戏"
+	}
+	"ze_abandoned_bio_bunker_v1_4"
+	{
+		"chi"		"废弃燃料惊魂"
+	}
+	"ze_lila_panic_escape_v1_1"
+	{
+		"chi"		"里拉惊魂"
+	}
+	"ze_halloween_house"
+	{
+		"chi"		"万圣节之屋惊魂"
+	}
+	"ze_magala_castle_b3"
+	{
+		"chi"		"麦伽乐城堡惊魂"
+	}
+	"ze_hive_complex_v1_2"
+	{
+		"chi"		"生化危机：蜂巢"
+	}
+	"ze_NY_marathon_p"
+	{
+		"chi"		"马拉松大追逐"
+	}
+	"ze_reconnoiter_b5"
+	{
+		"chi"		"侦查行动"
+	}
+	"ze_pd2_crime_art_v2"
+	{
+		"chi"		"收获日2：美术馆偷窃行动"
+	}
+	"ze_minecraft_adventure_v1_3d"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_halloween_house_b3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_paper_escaper_p2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_unknow_escape_v5"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_magala_castle_b4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_destruction_of_exorath_re2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_destruction_of_exorath_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_dangerous_waters_in_christma"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_farmhouse_v9_fix"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffxii_westersand_v7_2_e"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_shaun_of_the_dead_b1_2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_paper_escaper_p3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_shroomforest2_b4_e5"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_sunlight_v3_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_Predator_Ultimate_p"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_deepice_p2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_biohazard2_sewer_004_p4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_infiltration_final_p3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_sunlight_v2_0_p7"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_surf_facility_p4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_vertigo_militia_b1_3_5"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_biohazard2_sewer_004_p5"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_sandstorm_v7_1_e2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_tilex_possession_v1_4fix"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_icecap_escape_act2_b1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_crazy_escape_v2a"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_nostromo_redux_v1_2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_spacestation_sgfix"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_Halloween_House_b4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_vertigo_militia_b1_3_7"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_crazy_escape_v3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffxii_westersand_v7_2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_bathroom_v1_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_destruction_of_exorath_v3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_biohazard2_sewer_004_p8"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_santassination_v1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffvii_mako_reactor_b3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_destruction_of_exorath_v3_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_predator_ultimate_p5"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffxii_feywood_b3_1_e2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_sunlight_v2_0_p8"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_shroomforest2_b4_e6"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_chemical_weapons_depot_v1_2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_urban_laby_of_death_p2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_journey_p3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_santassination_v1_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_lemonysnickets_v1_e3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_gris_a1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_complex_b5_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_paper_escaper_p4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_shroomforest_v4_4fix_e4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_biohazard_manor_004_p4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_bioshock_go_v5_8"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_gris_a3f"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_tloz_stone_tower_temple_v1_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_chemical_weapons_depot_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_deepice_p3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_cyberderp_p3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_forgotten_facility_p2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_santassination_v1_2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_chemical_weapons_depot_v2b"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_lemonysnickets_v1_e7"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_tilex_escape_e4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_santassination_v1_3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_sky_athletic_v6_7"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_chemical_weapons_depot_v3a"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_gris_a3_5"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_journey_p4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_luigismanison_fix2_p3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_naruto_v1_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_rtcw_ominous_rumors_v1_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_slender_b1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_surf_sahok_v1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_christmas_infection_v2_5_air"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_bowser_in_the_fire_sea_v1nb2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_lemonysnickets_v1_e9"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffxii_paramina_rift_v1_3_ps1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffxii_westersand_v7_2_e2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffvii_mako_reactor_v5_3_v4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_gris_a4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_mirrors_edge_reborn_v4_2_p3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_santassination_v1_4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_exchange_innovation_v1b_ps2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_santassination_v2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_tilex_escape_e5"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_007_goldeneye_64_v1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_haunted_lab_escape_v2c_e3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_rainbow_factory_v1_2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_magala_castle_final"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_retribution_p2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_fartlocker_escape"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_gris_a4_6"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_outbreak_v2_1_p"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_paper_escaper_p5"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_sky_athletic_v6_7fix4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_hobbit_smaug_a1_2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_gris_a4_7"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_hobbit_smaug_a1_3"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_sky_athletic_v7_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_Parking_p4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_reloaded_v1_e7"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_tloz_stone_tower_temple_v1_4"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_FFVII_Mako_Reactor_v5_3_v5"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_industrial_dejavu_v3_3_1_e2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_Predator_Ultimate_p6"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_gris_a4_9_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_noir_p1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_reloaded_v1_e10"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_sorrento_escape_0_9"
+	{
+		"chi"		"此地图暂无译名"
+	}
+}
