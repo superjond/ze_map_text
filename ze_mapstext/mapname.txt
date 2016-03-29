@@ -652,10 +652,6 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_deepice_p2"
-	{
-		"chi"		"此地图暂无译名"
-	}
 	"ze_biohazard2_sewer_004_p4"
 	{
 		"chi"		"此地图暂无译名"
