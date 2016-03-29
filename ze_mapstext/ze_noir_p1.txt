@@ -1,0 +1,195 @@
+"Console_T"
+{
+	"** SCENE 1: Depths of Erebus **"
+	{
+		"chi"		"** **"
+	}
+	"** ... **"
+	{
+		"chi"		"** **"
+	}
+	"** We have managed to sneak into the abandoned basements and sewers of South Metropoli **"
+	{
+		"chi"		"** **"
+	}
+	"** From here we should be able to reach either the proletariat trenches or the financial district. **"
+	{
+		"chi"		"** **"
+	}
+	"** The distant sound from the underground trains can be heard... **"
+	{
+		"chi"		"** **"
+	}
+	"** RESIST! We need to cross one of the abandoned train lines to reach the power plants... **"
+	{
+		"chi"		"** **"
+	}
+	"** Keep it up! I can hear the door's engine moving through the wall! **"
+	{
+		"chi"		"** **"
+	}
+	"** We've been exposed for too long to the chemicals in the air... **"
+	{
+		"chi"		"** **"
+	}
+	"** The violent reaction is starting now - we will be no more but dust lost in memory. **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD! This path leads to a few industrial warehouses and the generators! **"
+	{
+		"chi"		"** **"
+	}
+	"** KEEP IT UP! The door's about to open! **"
+	{
+		"chi"		"** **"
+	}
+	"** GO! The door's moving! **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD! These doors will take a bit to unlock! **"
+	{
+		"chi"		"** **"
+	}
+	"** Keep it up! 5 seconds left! RESIST! **"
+	{
+		"chi"		"** **"
+	}
+	"** We're trapped in here unless we unlock the pneumatic gates! **"
+	{
+		"chi"		"** **"
+	}
+	"** Resist until we find a way out! **"
+	{
+		"chi"		"** **"
+	}
+	"** We got it! Keep holding! The door will open soon **"
+	{
+		"chi"		"** **"
+	}
+	"** The lift will leave in 20 seconds... HOLD! **"
+	{
+		"chi"		"** **"
+	}
+	"** We're going to have to split up here! We'll meet up soon - hopefully! **"
+	{
+		"chi"		"** **"
+	}
+	"** WE'RE LEAVING! HOP IN! **"
+	{
+		"chi"		"** **"
+	}
+	"** RESIST! The sounds of the city can be heard through this door! We're close! **"
+	{
+		"chi"		"** **"
+	}
+	"** Keep it up! One last bit! **"
+	{
+		"chi"		"** **"
+	}
+	"** We need to unlock the doors to get under the highway and advance further... **"
+	{
+		"chi"		"** **"
+	}
+	"** Security overwritten! The door will open soon! **"
+	{
+		"chi"		"** **"
+	}
+	"** Keep holding! It's about to open! RESIST! **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD! We will reach one of the lower-financial workers parking lots by this door! **"
+	{
+		"chi"		"** **"
+	}
+	"** We shouldn't let them pass at all! **"
+	{
+		"chi"		"** **"
+	}
+	"** One last bit! Rush towards the basement and sewers! We need to reach the sealed cargo bay! **"
+	{
+		"chi"		"** **"
+	}
+	"** This is an abandoned link from the sewer system to the loading bay! **"
+	{
+		"chi"		"** **"
+	}
+	"** It was used to connect with the proletariat trenches but is rarely used nowadays... **"
+	{
+		"chi"		"** **"
+	}
+	"** RESIST ONE LAST BIT! We're close to our destination! **"
+	{
+		"chi"		"** **"
+	}
+	"** We'll open the door in a bit! HOLD! **"
+	{
+		"chi"		"** **"
+	}
+	"** Let's hope that the cargo lift is still functional - it was scarcely used. **"
+	{
+		"chi"		"** **"
+	}
+	"** THERE IT IS! RESIST! **"
+	{
+		"chi"		"** **"
+	}
+	"** GET ON! THE CARGO LIFT IS ABOUT TO GO! **"
+	{
+		"chi"		"** **"
+	}
+	"** This is the entrance to the proletariat trench #57... **"
+	{
+		"chi"		"** **"
+	}
+	"** We need to wait until the door opens... **"
+	{
+		"chi"		"** **"
+	}
+	"** Hold the area! We can't let anything through! **"
+	{
+		"chi"		"** **"
+	}
+	"** Keep it up! There's a bit still to go! **"
+	{
+		"chi"		"** **"
+	}
+	"** MOVE! THE DOOR IS OPENING NOW! **"
+	{
+		"chi"		"** **"
+	}
+	"** This is one of the multiple entrances to the trench... **"
+	{
+		"chi"		"** **"
+	}
+	"** The doors are sealed to prevent the toxic atmosphere from polluting the trenches further. **"
+	{
+		"chi"		"** **"
+	}
+	"** RESIST! It will take a while until these doors unlock! **"
+	{
+		"chi"		"** **"
+	}
+	"** The outer doors are opening! Get close! It shouldn't take much longer! **"
+	{
+		"chi"		"** **"
+	}
+	"** GET IN! THE WAY IS OPEN FOR US TO ACCESS THE PROLETARIAT TRENCH!  **"
+	{
+		"chi"		"** **"
+	}
+	"** RESIST! We can't let them enter the trench! It'd be a massacre! **"
+	{
+		"chi"		"** **"
+	}
+	"** The outer doors are about to seal! Keep it up! **"
+	{
+		"chi"		"** **"
+	}
+	"** The inner doors are sealing now! Don't let anything through! **"
+	{
+		"chi"		"** **"
+	}
+}

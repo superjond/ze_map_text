@@ -752,4 +752,64 @@
 	{
 		"chi"		"**队长：你们都得死!!!!**"
 	}
+	"CAPTAIN CLOUD :O...Oh my god... I lose..."
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :Hey... You are very strong...."
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :I think..."
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD : you can defeat new formation of invader..."
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :knowing you..."
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :See you again..."
+	{
+		"chi"		"** **"
+	}
+	"*** You defeated captain cloud ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombie will come in 10 seconds  ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIES ARE COMING ***"
+	{
+		"chi"		"** **"
+	}
+	"!?"
+	{
+		"chi"		"** **"
+	}
+	"CUTE CLOUD :Hey humans !!"
+	{
+		"chi"		"** **"
+	}
+	"CUTE CLOUD :I can't allow you even my captain trust you !!"
+	{
+		"chi"		"** **"
+	}
+	"CUTE CLOUD :TAKE MY FINAL ATTACK !!!!!!!!!!!!!!!!!!!!!"
+	{
+		"chi"		"** **"
+	}
+	">>> AIR SLASHER IS COMING <<<< AVOID IT DUCK OR JUMP !!!!"
+	{
+		"chi"		"** **"
+	}
+	"Remember : 5 COUNTS !!!!!"
+	{
+		"chi"		"** **"
+	}
 }

@@ -12,4 +12,28 @@
 	{
 		"chi"		"** **"
 	}
+	"### !! BOTH GATES OPEN  !! ###"
+	{
+		"chi"		"** **"
+	}
+	"### 10 SECONDS REMAINING ###"
+	{
+		"chi"		"** **"
+	}
+	"### PRESS THE CONTROLER ###"
+	{
+		"chi"		"** **"
+	}
+	"### TO DESTROY THE BRIDGE ###"
+	{
+		"chi"		"** **"
+	}
+	"### FENCE GATES ARE CLOSING ###"
+	{
+		"chi"		"** **"
+	}
+	"## POISON GAS HAS BEEN RELEASED !! ##"
+	{
+		"chi"		"** **"
+	}
 }

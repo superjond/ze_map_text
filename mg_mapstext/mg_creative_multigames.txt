@@ -444,4 +444,8 @@
 	{
 		"chi"		"** **"
 	}
+	"*** The mode selected: KnifeBreak 66hp ***"
+	{
+		"chi"		"** **"
+	}
 }
