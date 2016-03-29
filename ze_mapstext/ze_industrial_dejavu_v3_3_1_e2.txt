@@ -6,7 +6,7 @@
 	}
 	"***Map ported by 單純***"
 	{
-		"chi"		"**移植:單純 翻译:BAKA_Miku **"
+		"chi"		"**移植:單純 翻译:BAKA_Miku 翻译版本 v1.02 **"
 	}
 	"*** CURRENT MODE: EASY ***"
 	{
@@ -74,7 +74,7 @@
 	}
 	"*** Bunker door opens in 15 seconds. ***"
 	{
-		"chi"		"**地堡大门将在15秒后打开 **"
+		"chi"		"**地堡大门将在15秒后打开 [地堡在进门左右两边下楼梯 注意] **"
 	}
 	"*** HOLD! The bunker will seal in 15 seconds! ***"
 	{
@@ -94,7 +94,7 @@
 	}
 	"*** CURRENT MODE: NORMAL ***"
 	{
-		"chi"		"**难度等级 普通 **"
+		"chi"		"**难度等级 普通 !警告!门打开后空气墙效果将会消失 注意队尾 **"
 	}
 	"*** ZOMBIE WEAPONS & NORMAL INFECTION ***"
 	{
@@ -138,7 +138,7 @@
 	}
 	"* Zombie rage has been picked up. Press +USE (E) to activate.*"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸5级奶已被拾起 按'E'来使用[别告诉我你不知道feywood 的5级奶 嘿嘿] **"
 	}
 	"*** Helicopter comes in 30 seconds. ***"
 	{
@@ -166,7 +166,7 @@
 	}
 	"*** CURRENT MODE: HARD ***"
 	{
-		"chi"		"**难度等级 困难 **"
+		"chi"		"**难度等级 困难 !警告!门打开后空气墙效果将会消失 注意队尾**"
 	}
 	"*** ZOMBIE WEAPONS & BIG INFECTION ***"
 	{
