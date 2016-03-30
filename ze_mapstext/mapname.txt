@@ -594,39 +594,39 @@
 	}
 	"ze_minecraft_adventure_v1_3d"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"MC大冒险"
 	}
 	"ze_halloween_house_b3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"万圣节屋"
 	}
 	"ze_paper_escaper_p2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"纸质大逃亡"
 	}
 	"ze_unknow_escape_v5"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"未知大逃亡"
 	}
 	"ze_magala_castle_b4"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"麦伽乐城堡"
 	}
 	"ze_destruction_of_exorath_re2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"破坏行动"
 	}
 	"ze_destruction_of_exorath_v2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"破坏行动"
 	}
 	"ze_dangerous_waters_in_christma"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"圣诞节—危险水域"
 	}
 	"ze_farmhouse_v9_fix"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"坦克农场"
 	}
 	"ze_ffxii_westersand_v7_2_e"
 	{
@@ -634,7 +634,7 @@
 	}
 	"ze_shaun_of_the_dead_b1_2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"肖恩逃亡"
 	}
 	"ze_paper_escaper_p3"
 	{
@@ -646,23 +646,23 @@
 	}
 	"ze_sunlight_v3_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"日光"
 	}
 	"ze_Predator_Ultimate_p"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"铁血战士"
 	}
 	"ze_biohazard2_sewer_004_p4"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"生化危机—下水道"
 	}
 	"ze_infiltration_final_p3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"潜入行动"
 	}
 	"ze_sunlight_v2_0_p7"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"日光"
 	}
 	"ze_surf_facility_p4"
 	{
@@ -694,15 +694,15 @@
 	}
 	"ze_nostromo_redux_v1_2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"逃离空间站"
 	}
 	"ze_spacestation_sgfix"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"空间站"
 	}
 	"ze_Halloween_House_b4"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"万圣屋"
 	}
 	"ze_vertigo_militia_b1_3_7"
 	{
@@ -710,7 +710,7 @@
 	}
 	"ze_crazy_escape_v3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"疯狂大逃亡"
 	}
 	"ze_ffxii_westersand_v7_2"
 	{
@@ -718,7 +718,7 @@
 	}
 	"ze_bathroom_v1_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"浴室"
 	}
 	"ze_destruction_of_exorath_v3"
 	{
@@ -750,7 +750,7 @@
 	}
 	"ze_sunlight_v2_0_p8"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"日光"
 	}
 	"ze_shroomforest2_b4_e6"
 	{
@@ -762,7 +762,7 @@
 	}
 	"ze_urban_laby_of_death_p2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"城市迷宫"
 	}
 	"ze_journey_p3"
 	{
@@ -794,7 +794,7 @@
 	}
 	"ze_biohazard_manor_004_p4"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"生化危机—洋馆"
 	}
 	"ze_bioshock_go_v5_8"
 	{
@@ -814,11 +814,11 @@
 	}
 	"ze_deepice_p3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"极度深寒"
 	}
 	"ze_cyberderp_p3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"现实魔幻主义"
 	}
 	"ze_forgotten_facility_p2"
 	{
@@ -850,7 +850,7 @@
 	}
 	"ze_chemical_weapons_depot_v3a"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"化学武器"
 	}
 	"ze_gris_a3_5"
 	{
@@ -858,23 +858,23 @@
 	}
 	"ze_journey_p4"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"旅途"
 	}
 	"ze_luigismanison_fix2_p3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"马里奥逃亡"
 	}
 	"ze_naruto_v1_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"火影村"
 	}
 	"ze_rtcw_ominous_rumors_v1_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"重返德军总部"
 	}
 	"ze_slender_b1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"面条人"
 	}
 	"ze_surf_sahok_v1"
 	{
@@ -882,7 +882,7 @@
 	}
 	"ze_christmas_infection_v2_5_air"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"圣诞夜惊魂"
 	}
 	"ze_bowser_in_the_fire_sea_v1nb2"
 	{
@@ -890,11 +890,11 @@
 	}
 	"ze_lemonysnickets_v1_e9"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"雷蒙尼斯尼奇大行动"
 	}
 	"ze_ffxii_paramina_rift_v1_3_ps1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"帕里米亚"
 	}
 	"ze_ffxii_westersand_v7_2_e2"
 	{
@@ -910,7 +910,7 @@
 	}
 	"ze_mirrors_edge_reborn_v4_2_p3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"镜之边缘"
 	}
 	"ze_santassination_v1_4"
 	{
@@ -922,11 +922,11 @@
 	}
 	"ze_santassination_v2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"狮子王"
 	}
 	"ze_tilex_escape_e5"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"跳刀e5"
 	}
 	"ze_007_goldeneye_64_v1"
 	{
@@ -942,15 +942,15 @@
 	}
 	"ze_magala_castle_final"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"麦加乐城堡"
 	}
 	"ze_retribution_p2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"复仇行动"
 	}
 	"ze_fartlocker_escape"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"陷阱图"
 	}
 	"ze_gris_a4_6"
 	{
@@ -958,7 +958,7 @@
 	}
 	"ze_outbreak_v2_1_p"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"逃出生天"
 	}
 	"ze_paper_escaper_p5"
 	{
@@ -982,11 +982,11 @@
 	}
 	"ze_sky_athletic_v7_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"天空运动"
 	}
 	"ze_Parking_p4"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"停车场"
 	}
 	"ze_reloaded_v1_e7"
 	{
@@ -994,7 +994,7 @@
 	}
 	"ze_tloz_stone_tower_temple_v1_4"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"塞尔达传说"
 	}
 	"ze_FFVII_Mako_Reactor_v5_3_v5"
 	{
@@ -1002,11 +1002,11 @@
 	}
 	"ze_industrial_dejavu_v3_3_1_e2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"工业循环"
 	}
 	"ze_Predator_Ultimate_p6"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"铁血战士"
 	}
 	"ze_gris_a4_9_1"
 	{
@@ -1014,14 +1014,14 @@
 	}
 	"ze_noir_p1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"黑暗工厂"
 	}
 	"ze_reloaded_v1_e10"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"合金装备"
 	}
 	"ze_sorrento_escape_0_9"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"惊险刺激的索伦托"
 	}
 }
