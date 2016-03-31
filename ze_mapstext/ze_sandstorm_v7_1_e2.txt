@@ -157,7 +157,7 @@
 	{
 		"chi"		"**第五关**"
 	}
-	"** 10 seconds left **"
+	"** 10 SECONDS LEFT **"
 	{
 		"chi"		"**还有10秒**"
 		"DoorCountdown"		"10"
@@ -228,6 +228,8 @@
 	{
 		"chi"		"**重生墙20秒后打破**"
 	}
-
-
+	"** LEVEL GAME END **"
+	{
+		"chi"		"** **"
+	}
 }

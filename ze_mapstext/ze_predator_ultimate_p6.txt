@@ -224,7 +224,7 @@
 	}
 	"***TELEPORTING EVERYONE TO COMPLEX ELEVATOR***"
 	{
-		"chi"		"**所有人快上电梯！！**"
+		"chi"		"**电梯正在上升**"
 	}
 	"***C4 ACTIVATED***"
 	{
@@ -312,7 +312,7 @@
 	}
 	"***TELEPORTING EVERYONE TO SPACESHIP ENTRANCE***"
 	{
-		"chi"		"**传送所有人到飞船入口（面向风景不要乱动过飞船口时按W可直接飞到最上面）**"
+		"chi"		"**所有人进去核心入口**"
 	}
 	"***PLAYER PICKED UP ALIEN DEVICE***"
 	{
@@ -384,7 +384,7 @@
 	}
 	"***YOU ARE TOO SLOW!***"
 	{
-		"chi"		"** **"
+		"chi"		"**你们太慢了~**"
 	}
 	"***PLAYER PICKED UP GAUSS RIFLE***"
 	{
@@ -417,5 +417,9 @@
 	"***PLAYER PICKED UP FLAMETHROWER***"
 	{
 		"chi"		"**一名玩家捡起了喷火器FFF团神器（15S燃料，烧死僵尸这群异性恋）**"
+	}
+	"***HOLD ON TO YOUR HELMETS!***"
+	{
+		"chi"		"** **"
 	}
 }
