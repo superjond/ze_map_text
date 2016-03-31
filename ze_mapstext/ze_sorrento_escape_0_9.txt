@@ -124,4 +124,28 @@
 	{
 		"chi"		"** **"
 	}
+	"++ INSANE ++"
+	{
+		"chi"		"** **"
+	}
+	"++ GATE 1 WILL OPEN IN 70 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ GATE 1 WILL OPEN IN 55 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ GATE 1 WILL OPEN IN 40 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ GATE 2 WILL OPEN IN 15 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ SECRET BOAT is leaving in 15 seconds ++"
+	{
+		"chi"		"** **"
+	}
 }

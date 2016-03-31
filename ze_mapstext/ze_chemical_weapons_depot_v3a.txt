@@ -36,4 +36,28 @@
 	{
 		"chi"		"** **"
 	}
+	"### !!! USE THE LEFT EXIT !! ###"
+	{
+		"chi"		"** **"
+	}
+	"### ELEVATOR IS LEAVING ###"
+	{
+		"chi"		"** **"
+	}
+	"### IN 10 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### ZOMBIES USE THE LEFT LADDER INSTEAD ###"
+	{
+		"chi"		"** **"
+	}
+	"### LADDER DOOR OPENS ###"
+	{
+		"chi"		"** **"
+	}
+	"### DEFEND THE LADDER NOW ###"
+	{
+		"chi"		"** **"
+	}
 }

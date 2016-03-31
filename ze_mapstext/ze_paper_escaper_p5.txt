@@ -412,4 +412,140 @@
 	{
 		"chi"		"** **"
 	}
+	"*** ZOMBIES DETECTED: INVALID VICTORY **"
+	{
+		"chi"		"** **"
+	}
+	"** BALCONY ENDING: GET TO THE HIGHEST BALCONY **"
+	{
+		"chi"		"** **"
+	}
+	"** Explosion in 25 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"*** Current level: PANIC  *** Escape: VERYBAD CORP. TRAINSTATION ***"
+	{
+		"chi"		"** **"
+	}
+	"* Door is opening in 20 seconds. *"
+	{
+		"chi"		"** **"
+	}
+	"* Trainstation's door is opening!*"
+	{
+		"chi"		"** **"
+	}
+	"*Tornado generator has been picked up. Press +USE (E) to activate.*"
+	{
+		"chi"		"** **"
+	}
+	"*It has a 120 seconds cooldown.*"
+	{
+		"chi"		"** **"
+	}
+	"* Stairs to the trains' area are locked. Find a way to activate the elevator... *"
+	{
+		"chi"		"** **"
+	}
+	"* TIP: Some buttons activate when shot. *"
+	{
+		"chi"		"** **"
+	}
+	"*Maintenance elevator leaves in 30 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Maintenance elevator leaves in 5 seconds!!! GO!*"
+	{
+		"chi"		"** **"
+	}
+	"* Resist! Door opens in 15 seconds!!! *"
+	{
+		"chi"		"** **"
+	}
+	"* Train area door is opening... RETREAT!*"
+	{
+		"chi"		"** **"
+	}
+	"*** Management office doors opening in 25 seconds. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD RIGHT HERE! Train doors will open in 25 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOORS OPENED! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Someone has to open the train doors. That's our escape route! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Train door opens in 15 seconds. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESIST! The doors will be opening in 10 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold the second cart! We're nearing our escape. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The doors appear to have malfunctioned. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Figure out the cause of it! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Doors breached... MOVE! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESIST! Only 5 seconds left! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MOVE! The doors will close in 15 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"** WE'RE SAFE! Let's get the train running! **"
+	{
+		"chi"		"** **"
+	}
+	"** ... **"
+	{
+		"chi"		"** **"
+	}
+	"** BEWARE! It's an upgraded offensive XJ-7800 robot! **"
+	{
+		"chi"		"** **"
+	}
+	"** SHOOT IT! **"
+	{
+		"chi"		"** **"
+	}
+	"*Annihilator mode activated. Unloading offensive modules.*"
+	{
+		"chi"		"** **"
+	}
+	"*He's going to use his more powerfull attack and wipe us out!*"
+	{
+		"chi"		"** **"
+	}
+	"** IT'S TOO LATE!!! WE'RE ALL DOOMED!!! **"
+	{
+		"chi"		"** **"
+	}
+	"*Mass destruction module loading: 10 seconds until CT defeat.*"
+	{
+		"chi"		"** **"
+	}
 }
