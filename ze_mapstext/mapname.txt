@@ -634,7 +634,7 @@
 	}
 	"ze_shaun_of_the_dead_b1_2"
 	{
-		"chi"		"肖恩逃亡"
+		"chi"		"僵尸肖恩"
 	}
 	"ze_paper_escaper_p3"
 	{
@@ -726,7 +726,7 @@
 	}
 	"ze_biohazard2_sewer_004_p8"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"生化危机：下水道"
 	}
 	"ze_santassination_v1"
 	{
@@ -738,7 +738,7 @@
 	}
 	"ze_destruction_of_exorath_v3_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"破坏行动"
 	}
 	"ze_predator_ultimate_p5"
 	{
@@ -798,7 +798,7 @@
 	}
 	"ze_bioshock_go_v5_8"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"生化奇兵"
 	}
 	"ze_gris_a3f"
 	{
@@ -818,11 +818,11 @@
 	}
 	"ze_cyberderp_p3"
 	{
-		"chi"		"现实魔幻主义"
+		"chi"		"魔幻现实主义"
 	}
 	"ze_forgotten_facility_p2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"被遗忘的设施"
 	}
 	"ze_santassination_v1_2"
 	{
@@ -850,7 +850,7 @@
 	}
 	"ze_chemical_weapons_depot_v3a"
 	{
-		"chi"		"化学武器"
+		"chi"		"化学武器仓库"
 	}
 	"ze_gris_a3_5"
 	{
@@ -862,7 +862,7 @@
 	}
 	"ze_luigismanison_fix2_p3"
 	{
-		"chi"		"马里奥逃亡"
+		"chi"		"路易基鬼屋"
 	}
 	"ze_naruto_v1_1"
 	{
@@ -874,7 +874,7 @@
 	}
 	"ze_slender_b1"
 	{
-		"chi"		"面条人"
+		"chi"		"瘦长鬼影"
 	}
 	"ze_surf_sahok_v1"
 	{
@@ -886,7 +886,7 @@
 	}
 	"ze_bowser_in_the_fire_sea_v1nb2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"火海中的库巴"
 	}
 	"ze_lemonysnickets_v1_e9"
 	{
@@ -894,7 +894,7 @@
 	}
 	"ze_ffxii_paramina_rift_v1_3_ps1"
 	{
-		"chi"		"帕里米亚"
+		"chi"		"最终幻想12：帕里米亚"
 	}
 	"ze_ffxii_westersand_v7_2_e2"
 	{
@@ -934,7 +934,7 @@
 	}
 	"ze_haunted_lab_escape_v2c_e3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"闹鬼实验室"
 	}
 	"ze_rainbow_factory_v1_2"
 	{
@@ -950,7 +950,7 @@
 	}
 	"ze_fartlocker_escape"
 	{
-		"chi"		"陷阱图"
+		"chi"		"陷阱逃生"
 	}
 	"ze_gris_a4_6"
 	{
@@ -982,7 +982,7 @@
 	}
 	"ze_sky_athletic_v7_1"
 	{
-		"chi"		"天空运动"
+		"chi"		"天空竞技"
 	}
 	"ze_Parking_p4"
 	{
@@ -998,7 +998,7 @@
 	}
 	"ze_FFVII_Mako_Reactor_v5_3_v5"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"最终幻想7：魔光炉"
 	}
 	"ze_industrial_dejavu_v3_3_1_e2"
 	{
@@ -1010,7 +1010,7 @@
 	}
 	"ze_gris_a4_9_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"灰色世界"
 	}
 	"ze_noir_p1"
 	{
