@@ -3,7 +3,7 @@
 	"***DOOR OPENS IN 40s***"
 	{
 		"chi"		"**大门40秒后开启**"
-		"DoorCountdown"		"400"
+		"DoorCountdown"		"40"
 	}
 	"***VENT IS NOW ACCESSIBLE***"
 	{
