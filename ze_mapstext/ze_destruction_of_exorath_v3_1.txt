@@ -624,4 +624,8 @@
 	{
 		"chi"		"** **"
 	}
+	"** SECRET VENTLEVER HAS BEEN PICKED UP **"
+	{
+		"chi"		"** **"
+	}
 }

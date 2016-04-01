@@ -84,4 +84,20 @@
 	{
 		"chi"		"**任务:渗透并破坏传送门 **"
 	}
+	"**Medkit has been acquired!**"
+	{
+		"chi"		"** **"
+	}
+	"**Both buttons have been pressed! Door opens in 25 seconds!**"
+	{
+		"chi"		"** **"
+	}
+	"**Wait here for awhile! Others may come!**"
+	{
+		"chi"		"** **"
+	}
+	"**We've waited long enough! GO!**"
+	{
+		"chi"		"** **"
+	}
 }

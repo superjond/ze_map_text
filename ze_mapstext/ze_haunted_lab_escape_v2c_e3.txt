@@ -108,4 +108,12 @@
 	{
 		"chi"		"** **"
 	}
+	"***Next difficulty III***"
+	{
+		"chi"		"** **"
+	}
+	"* * * LAST DOOR CLOSING IN 35 SECONDS! * * *"
+	{
+		"chi"		"** **"
+	}
 }

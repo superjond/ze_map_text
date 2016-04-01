@@ -2,7 +2,7 @@
 {
 	"***DIFFICULTY --- NORMAL***"
 	{
-		"chi"		"*****难度-正常*****"
+		"chi"		"**地图：铁血战士 *难度—普通*（坑爹的翻译和奇葩提示来自英语⑨级的恋恋）**"
 	}
 	"***THE NUKE HAS EXPLODED***"
 	{
@@ -10,7 +10,7 @@
 	}
 	"***OH NO! THE NUKE EXPLODED!***"
 	{
-		"chi"		"*****天啦撸，核弹爆炸了*****"
+		"chi"		"**booooooooooooooooom~**"
 	}
 	"***INFILTRATE AND DEFEND THE GUERILLA COMPOUND***"
 	{
@@ -364,7 +364,7 @@
 	}
 	"***KEEP FIRING WITH UNLIMITED AMMO***"
 	{
-		"chi"		"** **"
+		"chi"		"**保持射击！！！！！干他喵的异形**"
 	}
 	"***OH NO!     WATCH OUT!***"
 	{
