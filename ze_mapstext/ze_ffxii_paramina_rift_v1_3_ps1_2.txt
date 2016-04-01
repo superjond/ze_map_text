@@ -16,7 +16,7 @@
 	"** [DIFFICULTY] NORMAL **"
 	{
 		"chi"		"**难度：普通**"
-		"command"		"zr_infect_mzombie_ratio 6"
+		"command"		"sm_cvar zr_infect_mzombie_ratio 8"
 	}
 	"** COLLECT 500 GIL BY FINDING TREASURE CHESTS OR BY DESTROYING TOWERS => REWARD - POTIONS IN STAGE 2"
 	{
@@ -583,7 +583,7 @@
 	"** [DIFFICULTY] INSANE **"
 	{
 		"chi"		"**难度：疯狂**"
-		"command"		"zr_infect_mzombie_ratio 5"
+		"command"		"sm_cvar zr_infect_mzombie_ratio 7"
 	}
 	"** SHOOT THE SWARM BEFORE THEY CAN ATTACK **"
 	{
@@ -675,7 +675,7 @@
 	}
 	"** OH GOD ITS MATEUS! SHOOT IT! **"
 	{
-		"chi"		"**天哪是<召喚獸—MATEUS 背徳の皇帝>全力对其射击！**"
+		"chi"		"**是<召喚獸—MATEUS 背徳の皇帝>!全力对其射击！**"
 	}
 	"** DOOR WILL OPEN IN 30 SECONDS **"
 	{
@@ -712,6 +712,6 @@
 	}
 	"** TREASURE +27 GIL FOUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**找到宝藏！+27GIL**"
 	}
 }
