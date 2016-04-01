@@ -204,10 +204,7 @@
 	{
 		"chi"		"最终幻想12：幻妖之森"
 	}
-	"ze_ffxii_westersand_v7_2_p2"
-	{
-		"chi"		"最终幻想12：西方之沙"
-	}
+
 	"ze_flying_world_p"
 	{
 		"chi"		"空中世界: 史诗大冒险"
@@ -408,14 +405,7 @@
 	{
 		"chi"		"生化危机：浣熊市工厂"
 	}
-	"ze_reconnoiter_b4"
-	{
-		"chi"		"秘密侦查之路"
-	}
-	"ze_reloaded_v1_e5"
-	{
-		"chi"		"合金装备"
-	}
+
 	"ze_resonance_cascade_p3"
 	{
 		"chi"		"串联共振：黑山逃亡"
@@ -552,10 +542,7 @@
 	{
 		"chi"		"山谷大逃亡"
 	}
-	"ze_hive_complex_b4"
-	{
-		"chi"		"生化危机：蜂巢"
-	}
+
 	"ze_platformer_b2"
 	{
 		"chi"		"浮空岛游戏"
@@ -600,10 +587,7 @@
 	{
 		"chi"		"万圣节屋"
 	}
-	"ze_paper_escaper_p2"
-	{
-		"chi"		"纸质大逃亡"
-	}
+
 	"ze_unknow_escape_v5"
 	{
 		"chi"		"未知大逃亡"
@@ -612,14 +596,7 @@
 	{
 		"chi"		"麦伽乐城堡"
 	}
-	"ze_destruction_of_exorath_re2"
-	{
-		"chi"		"破坏行动"
-	}
-	"ze_destruction_of_exorath_v2"
-	{
-		"chi"		"破坏行动"
-	}
+
 	"ze_dangerous_waters_in_christma"
 	{
 		"chi"		"圣诞节—危险水域"
@@ -628,30 +605,18 @@
 	{
 		"chi"		"坦克农场"
 	}
-	"ze_ffxii_westersand_v7_2_e"
-	{
-		"chi"		"此地图暂无译名"
-	}
+
 	"ze_shaun_of_the_dead_b1_2"
 	{
 		"chi"		"僵尸肖恩"
 	}
-	"ze_paper_escaper_p3"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_shroomforest2_b4_e5"
-	{
-		"chi"		"此地图暂无译名"
-	}
+
+
 	"ze_sunlight_v3_1"
 	{
 		"chi"		"日光"
 	}
-	"ze_Predator_Ultimate_p"
-	{
-		"chi"		"铁血战士"
-	}
+
 	"ze_biohazard2_sewer_004_p4"
 	{
 		"chi"		"生化危机—下水道"
@@ -668,10 +633,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_vertigo_militia_b1_3_5"
-	{
-		"chi"		"此地图暂无译名"
-	}
+
 	"ze_biohazard2_sewer_004_p5"
 	{
 		"chi"		"此地图暂无译名"
@@ -712,10 +674,7 @@
 	{
 		"chi"		"疯狂大逃亡"
 	}
-	"ze_ffxii_westersand_v7_2"
-	{
-		"chi"		"此地图暂无译名"
-	}
+
 	"ze_bathroom_v1_1"
 	{
 		"chi"		"浴室"
@@ -732,18 +691,12 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_ffvii_mako_reactor_b3"
-	{
-		"chi"		"此地图暂无译名"
-	}
+
 	"ze_destruction_of_exorath_v3_1"
 	{
 		"chi"		"破坏行动"
 	}
-	"ze_predator_ultimate_p5"
-	{
-		"chi"		"此地图暂无译名"
-	}
+
 	"ze_ffxii_feywood_b3_1_e2"
 	{
 		"chi"		"此地图暂无译名"
@@ -768,22 +721,13 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_santassination_v1_1"
-	{
-		"chi"		"此地图暂无译名"
-	}
+
 	"ze_lemonysnickets_v1_e3"
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_gris_a1"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_complex_b5_1"
-	{
-		"chi"		"此地图暂无译名"
-	}
+
+
 	"ze_paper_escaper_p4"
 	{
 		"chi"		"此地图暂无译名"
@@ -804,10 +748,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_tloz_stone_tower_temple_v1_1"
-	{
-		"chi"		"此地图暂无译名"
-	}
+
 	"ze_chemical_weapons_depot_v2"
 	{
 		"chi"		"此地图暂无译名"
@@ -824,10 +765,7 @@
 	{
 		"chi"		"被遗忘的设施"
 	}
-	"ze_santassination_v1_2"
-	{
-		"chi"		"此地图暂无译名"
-	}
+
 	"ze_chemical_weapons_depot_v2b"
 	{
 		"chi"		"此地图暂无译名"
@@ -840,10 +778,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_santassination_v1_3"
-	{
-		"chi"		"此地图暂无译名"
-	}
+
 	"ze_sky_athletic_v6_7"
 	{
 		"chi"		"此地图暂无译名"
@@ -852,10 +787,7 @@
 	{
 		"chi"		"化学武器仓库"
 	}
-	"ze_gris_a3_5"
-	{
-		"chi"		"此地图暂无译名"
-	}
+
 	"ze_journey_p4"
 	{
 		"chi"		"旅途"
@@ -900,22 +832,13 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_ffvii_mako_reactor_v5_3_v4"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_gris_a4"
-	{
-		"chi"		"此地图暂无译名"
-	}
+
+
 	"ze_mirrors_edge_reborn_v4_2_p3"
 	{
 		"chi"		"镜之边缘"
 	}
-	"ze_santassination_v1_4"
-	{
-		"chi"		"此地图暂无译名"
-	}
+
 	"ze_exchange_innovation_v1b_ps2"
 	{
 		"chi"		"此地图暂无译名"
@@ -936,10 +859,7 @@
 	{
 		"chi"		"闹鬼实验室"
 	}
-	"ze_rainbow_factory_v1_2"
-	{
-		"chi"		"此地图暂无译名"
-	}
+
 	"ze_magala_castle_final"
 	{
 		"chi"		"麦加乐城堡"
