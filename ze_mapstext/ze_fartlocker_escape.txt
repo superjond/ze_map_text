@@ -2,131 +2,142 @@
 {
 	"***DOOR OPENS IN 40s***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门40秒后开启**"
+		"DoorCountdown"		"400"
 	}
 	"***VENT IS NOW ACCESSIBLE***"
 	{
-		"chi"		"** **"
+		"chi"		"**通风管道开启**"
 	}
 	"***DOOR IS OPEN***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门开启**"
 	}
 	"***DOOR OPENS IN 20s***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门20秒后开启**"
+		"DoorCountdown"		"20"
 	}
 	"***TRAM LEAVES IN 3s***"
 	{
-		"chi"		"** **"
+		"chi"		"**电车3秒后离开**"
 	}
 	"***DOOR OPENS IN 15s***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门15秒后开启**"
+		"DoorCountdown"		"15"
 	}
 	"***ELEVATOR LEAVES IN 40s***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯40秒后开启**"
+		"DoorCountdown"		"40"
 	}
 	"***AFK TELEPORT IN 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机者将在10秒后传送**"
 	}
 	"*** ELEVATOR OPENS IN 5s***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯5秒后开启**"
 	}
 	"***GET IN THE ELEVATOR***"
 	{
-		"chi"		"** **"
+		"chi"		"**进到电梯里面**"
 	}
 	"***DOORS OPEN IN 50s***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门50秒后开启**"
+		"DoorCountdown"		"50"
 	}
 	"***SIDE GATES CLOSE IN 5s***"
 	{
-		"chi"		"** **"
+		"chi"		"**侧门5秒后关闭**"
 	}
 	"***FINAL GATE CLOSES IN 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的门10秒后关闭**"
 	}
 	"***DOORS ARE OPEN***"
 	{
-		"chi"		"** **"
+		"chi"		"**两边的门开启**"
 	}
 	"***FINAL DOOR OPENS IN 50s***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的大门将在50秒后开启**"
+		"DoorCountdown"		"50"
 	}
 	"***AFK TELEPORT IN 10s"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机者将在10秒后传送**"
 	}
 	"***DOOR OPENS IN 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将在10秒后开启**"
 	}
 	"***FALL BACK!!! FINAL DOOR CLOSES IN 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退！！！最后的大门10秒后关闭**"
 	}
 	"***ZOMBIES REALEASED IN 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸空气墙10秒后消失**"
 	}
 	"***DOOR OPENS IN 50s***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门50秒后开启**"
+		"DoorCountdown"		"50"
 	}
 	"***ZOMBIES RELEASED IN 5s***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸空气墙5秒后消失**"
 	}
 	"***DOOR OPENS IN 25s***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门25秒后开启**"
+		"DoorCountdown"		"25"
 	}
 	"***TELEPORTER WILL ACTIVATE IN 50s***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点在50秒后激活**"
+		"DoorCountdown"		"50"
 	}
 	"***GET READY!!! 5s LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**还有5秒！！准备进入传送点！！！**"
 	}
 	"***TELEPORTER IS ACTIVE***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点已激活**"
 	}
 	"***ZOMBIES RELEASED IN 15s***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸空气墙15秒后消失**"
 	}
 	"***WALL WILL BREAK IN 25s***"
 	{
-		"chi"		"** **"
+		"chi"		"**墙于25秒后破碎**"
 	}
 	"***AFK TELEPORT IN 5s***"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机者将在5秒后传送**"
 	}
 	"***NEXT WALL BREAKS IN 25s***"
 	{
-		"chi"		"** **"
+		"chi"		"**下一个墙于25秒后破碎**"
 	}
 	"***TELEPORT WILL ACTIVATE IN 40s***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点在40秒后激活**"
+		"DoorCountdown"		"40"
 	}
 	"***TELEPORTER IS ENABLED***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点激活**"
 	}
 	"***HOLD THIS AREA FOR 25s***"
 	{
-		"chi"		"** **"
+		"chi"		"**在这里防守25秒**"
+		"DoorCountdown"		"25"
 	}
 	"***RIP***"
 	{
@@ -134,6 +145,6 @@
 	}
 	"***WALL BREAKS IN 30s***"
 	{
-		"chi"		"** **"
+		"chi"		"**墙于30秒后破碎**"
 	}
 }
