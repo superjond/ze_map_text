@@ -134,11 +134,11 @@
 	"** THAT'S IT! WE'RE GONNA BLOW IT UP! **"
 	{
 		"chi"		"**就是他!我们要把他炸掉**"
-		"DoorCountdown"		"22"
 	}
 	"** HOLD AND STAY AFFAR UNTIL THE C4 CHARGE GOES OFF! **"
 	{
 		"chi"		"**守住这里直到C4爆炸**"
+		"DoorCountdown"		"22"
 	}
 	"** MOVE! THE DARN THING IS OUT OF THE WAY! **"
 	{
