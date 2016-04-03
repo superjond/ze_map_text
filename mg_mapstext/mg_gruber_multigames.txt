@@ -2,26 +2,26 @@
 {
 	">>Created by bdgruber<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：bdgruber 地图翻译：Ex_cKot**"
 	}
 	">>MG_GRUBER_MULTIGAMES<<"
 	{
-		"chi"		"** **"
+		"chi"		"** MG_GRUBER_MULTIGAMES**"
 	}
 	">>BHOP<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 连跳**"
 	}
 	">>OBSTACLE RACE<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 障碍赛跑**"
 	}
 	">Jump on the blue or orange platforms to win<"
 	{
-		"chi"		"** **"
+		"chi"		"** 跳上蓝色或橙色的台上取得胜利**"
 	}
 	">Giving weapons in 5 seconds<"
 	{
-		"chi"		"** **"
+		"chi"		"** 5秒后给予武器**"
 	}
 }
