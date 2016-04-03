@@ -2,22 +2,22 @@
 {
 	"Music : Poperotiq - Bitch plz"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Poperotiq - Bitch plz**"
 	}
 	"***Normal Round***"
 	{
-		"chi"		"** **"
+		"chi"		"** 普通回合**"
 	}
 	"Map By Charli =)"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Charli =) 地图翻译：Ex_cKot**"
 	}
 	"***Auto Select in 40 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 40秒后自动选择**"
 	}
 	"***Map by DTK Development Team***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Development Team**"
 	}
 }
