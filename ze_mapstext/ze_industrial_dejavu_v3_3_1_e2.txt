@@ -2,11 +2,11 @@
 {
 	"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
 	{
-		"chi"		"**工业之城 **"
+		"chi"		"**工业循环 **"
 	}
 	"***Map ported by 單純***"
 	{
-		"chi"		"**移植:單純 翻译:BAKA_Miku 翻译版本 v1.02 **"
+		"chi"		"**移植:單純 翻译:BAKA_Miku 翻译版本 v1.05 **"
 	}
 	"*** CURRENT MODE: EASY ***"
 	{
@@ -14,11 +14,11 @@
 	}
 	"*** NO ZOMBIE WEAPONS & SMALL INFECTION ***"
 	{
-		"chi"		"**一张刷伤害地图 **"
+		"chi"		"**无僵尸神器  **"
 	}
 	"*** HELPING PUSHES ACTIVATED ON EASY MODE ***"
 	{
-		"chi"		"**boss战与正常路线完全随机 **"
+		"chi"		"**僵尸防御系统将会打开[空气墙] **"
 	}
 	"*** Door opens in 20 seconds! ***"
 	{
@@ -42,7 +42,7 @@
 	}
 	"*** Windows that don't have a wooden plank are breakable! ***"
 	{
-		"chi"		"**没有木板的窗户可以打破 **"
+		"chi"		"**僵尸可以从没有木板的窗户进入 **"
 	}
 	"*** Pushgun has been taken. Press +USE (E) to activate. 60 seconds cooldown. ***"
 	{
@@ -74,7 +74,7 @@
 	}
 	"*** Bunker door opens in 15 seconds. ***"
 	{
-		"chi"		"**地堡大门将在15秒后打开 [地堡在进门左右两边下楼梯 注意] **"
+		"chi"		"**地堡大门将在15秒后打开 [地堡在进门左边下楼梯 注意] **"
 	}
 	"*** HOLD! The bunker will seal in 15 seconds! ***"
 	{
@@ -94,15 +94,15 @@
 	}
 	"*** CURRENT MODE: NORMAL ***"
 	{
-		"chi"		"**难度等级 普通 !警告!门打开后空气墙效果将会消失 注意队尾 **"
+		"chi"		"**难度等级 普通 **"
 	}
 	"*** ZOMBIE WEAPONS & NORMAL INFECTION ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸神器加载ING **"
 	}
 	"*** EXIT HELP PUSH ACTIVATED ON NORMAL MODE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**警告 僵尸防御系统即将关闭  **"
 	}
 	"*Laser wall generator has been picked up. Press +USE (E) to activate.*"
 	{
@@ -150,7 +150,7 @@
 	}
 	"*** ZOMBIES DETECTED - INVALID VICTORY ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸进入安全点 无效的胜利 **"
 	}
 	"*** Boat leaves in 40 seconds. ***"
 	{
@@ -170,11 +170,11 @@
 	}
 	"*** ZOMBIE WEAPONS & BIG INFECTION ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸神器已加载 **"
 	}
 	"*** HELPING PUSHES DISABLED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**警告 僵尸防御系统完全关闭 **"
 	}
 	"*** LEVEL CHANGED TO EXTREME ***"
 	{
@@ -194,7 +194,7 @@
 	}
 	"*** ZOMBIE WEAPONS & MASSIVE INFECTION ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸神器已加载 **"
 	}
 	"* Zombie heal has been picked up. Press +USE (E) to activate.*"
 	{
