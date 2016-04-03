@@ -2,62 +2,62 @@
 {
 	"mg_crash_bandicoot_party_csgo"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图：mg_crash_bandicoot_party_csgo**"
 	}
 	"by 93sunderland"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：93sunderland 地图翻译：Ex_cKot**"
 	}
 	"Phantommunity.it"
 	{
-		"chi"		"** **"
+		"chi"		"** 网址：Phantommunity.it**"
 	}
 	"River Bhop"
 	{
-		"chi"		"** **"
+		"chi"		"** 连跳**"
 	}
 	"You have 5 minutes left"
 	{
-		"chi"		"** **"
+		"chi"		"** 你剩下5分钟**"
 	}
 	"Jump & Jump"
 	{
-		"chi"		"** **"
+		"chi"		"** 跳&跳**"
 	}
 	"Someone won"
 	{
-		"chi"		"** **"
+		"chi"		"** 有人胜利了！**"
 	}
 	"Tomb Deagle"
 	{
-		"chi"		"** **"
+		"chi"		"** 沙鹰**"
 	}
 	"Air Knife"
 	{
-		"chi"		"** **"
+		"chi"		"** 刀**"
 	}
 	"Search & Kill"
 	{
-		"chi"		"** **"
+		"chi"		"** 搜寻 然后 杀！**"
 	}
 	"Futuristic Awp"
 	{
-		"chi"		"** **"
+		"chi"		"** AWP**"
 	}
 	"Slippery Course"
 	{
-		"chi"		"** **"
+		"chi"		"** 快速闯关**"
 	}
 	"Knife Waders"
 	{
-		"chi"		"** **"
+		"chi"		"** 刀**"
 	}
 	"Low Gravity War"
 	{
-		"chi"		"** **"
+		"chi"		"** 低重力**"
 	}
 	"LET'S KILL"
 	{
-		"chi"		"** **"
+		"chi"		"** 杀个痛快！**"
 	}
 }
