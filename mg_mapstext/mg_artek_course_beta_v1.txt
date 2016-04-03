@@ -2,14 +2,14 @@
 {
 	"<--Map Faite a Partir de mg_Artek_Pingours ! -->"
 	{
-		"chi"		"** **"
+		"chi"		"** 欢迎来到mg_Artek_Pingours**"
 	}
 	"<-- Map by Artek ! -->"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Artek 地图翻译：Ex_cKot**"
 	}
 	"<-- Spawn kill [On] 1 Minute  ! -->"
 	{
-		"chi"		"** **"
+		"chi"		"** 1分钟后出生点挂机处死**"
 	}
 }
