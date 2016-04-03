@@ -10,7 +10,7 @@
 	}
 	"***Map by DTK Development Team***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：DTK Development Team **"
 	}
 	"[LaoZhongYi]Thank UA and Kirby , HZM654321 and diaolingtyp"
 	{
@@ -34,15 +34,15 @@
 	}
 	"Map made by Mathijs"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Mathijs**"
 	}
 	"Map ported by sG | Waffles"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图上传：sG | Waffles**"
 	}
 	"***Map By: Lt.| iPod***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Lt.| iPod**"
 	}
 	"***Music Must Be Picked Before You Can Choose A LvL***"
 	{
@@ -66,10 +66,10 @@
 	}
 	"Music : PSY - Gangnam Style"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：PSY - Gangnam Style**"
 	}
 	"Music : Just Jack - Basement"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Just Jack - Basement**"
 	}
 }
