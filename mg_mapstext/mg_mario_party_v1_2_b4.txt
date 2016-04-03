@@ -2,267 +2,267 @@
 {
 	"By I'm the new guy STEAM_0:1:14214794"
 	{
-		"chi"		"** **"
+		"chi"		"** 顺便，我是个新人，STEAM_0:1:14214794**"
 	}
 	"and Andr0iid^ STEAM_0:1:605215"
 	{
-		"chi"		"** **"
+		"chi"		"** 以及Andr0iid^，STEAM_0:1:605215**"
 	}
 	"***Platform Peril Selected***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已选择危险平台**"
 	}
 	"***Auto Select in 40 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 40秒后将自动选择**"
 	}
 	"***Map by DTK Development Team***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：DTK Development Team 地图翻译：Ex_cKot**"
 	}
 	"***Random weapon fight in spawn!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 出生点随机武器**"
 	}
 	"***Fight Yard Selected***"
 	{
-		"chi"		"** **"
+		"chi"		"** 选择战场**"
 	}
 	"***Hunger Games Selected***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已选择饥饿游戏**"
 	}
 	"Game Starting in 10 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"** 游戏将在10秒后开始**"
 	}
 	"***Hunger Games is Free for all***"
 	{
-		"chi"		"** **"
+		"chi"		"** 饥饿游戏所有人可玩**"
 	}
 	"Hunger Games Started!"
 	{
-		"chi"		"** **"
+		"chi"		"** 饥饿游戏开始！**"
 	}
 	"***ScoutzKnivez Selected***"
 	{
-		"chi"		"** **"
+		"chi"		"** 选择鸟狙 刀**"
 	}
 	"***Pirate Climb Selected***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已选择海盗攀爬**"
 	}
 	"Race in 3..."
 	{
-		"chi"		"** **"
+		"chi"		"** 赛跑将在3秒后开始...**"
 	}
 	"2..."
 	{
-		"chi"		"** **"
+		"chi"		"** 2...**"
 	}
 	"1..."
 	{
-		"chi"		"** **"
+		"chi"		"** 1...**"
 	}
 	"Go!"
 	{
-		"chi"		"** **"
+		"chi"		"** 开始！**"
 	}
 	"***Knife Arena Selected***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已选择刀战**"
 	}
 	"***Mario Says Selected***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已选择马里奥**"
 	}
 	"Get onto a platform. Game starting in 15 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"** 到平台上去，游戏将在15秒后开始**"
 	}
 	"Game starting in 3 Seconds..."
 	{
-		"chi"		"** **"
+		"chi"		"** 游戏将在3秒后开始**"
 	}
 	"***Speed SMGs Selected***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已选择冲锋枪**"
 	}
 	"***Chain Chomp Selected***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已选择Chain Chomp**"
 	}
 	"***Obstacle Selected***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已选择障碍**"
 	}
 	"AFK Killer enabling in 10 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"** 挂机处死将在10秒后生效**"
 	}
 	"***Box Game Selected***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已选择盒子**"
 	}
 	"***Block Game Timer - 90 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 90秒后墙会破**"
 	}
 	"***Block Game Timer - 60 seconds left***"
 	{
-		"chi"		"** **"
+		"chi"		"** 60秒后墙会破**"
 	}
 	"***Hexagon Heat Selected***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已选择六边形**"
 	}
 	"***Hexagon Heat Starting in 10 seconds...***"
 	{
-		"chi"		"** **"
+		"chi"		"** 六边形将在10秒后开始**"
 	}
 	"***Start!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 开始！**"
 	}
 	"***King of the hill Selected***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已选择山丘之王**"
 	}
 	"CTs have captured the center!"
 	{
-		"chi"		"** **"
+		"chi"		"** CT方已占领中心！**"
 	}
 	"CTs have 15 seconds left on timer!"
 	{
-		"chi"		"** **"
+		"chi"		"** CT方有15秒时间！**"
 	}
 	"CTs have 10 seconds left on timer!"
 	{
-		"chi"		"** **"
+		"chi"		"** CT方有10秒时间！**"
 	}
 	"CTs have 5 seconds left on timer!"
 	{
-		"chi"		"** **"
+		"chi"		"** CT方有5秒时间！**"
 	}
 	"CTs have 4 seconds left on timer!"
 	{
-		"chi"		"** **"
+		"chi"		"** CT方有4秒时间！**"
 	}
 	"CTs have 3 seconds left on timer!"
 	{
-		"chi"		"** **"
+		"chi"		"** CT方有3秒时间！**"
 	}
 	"CTs have 2 seconds left on timer!"
 	{
-		"chi"		"** **"
+		"chi"		"** CT方有2秒时间！**"
 	}
 	"CTs have 1 seconds left on timer!"
 	{
-		"chi"		"** **"
+		"chi"		"** CT方有1秒时间！**"
 	}
 	"CTs win!"
 	{
-		"chi"		"** **"
+		"chi"		"** CT方胜利！**"
 	}
 	"***Pirate Island Selected***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已选择海盗岛**"
 	}
 	"***Game Starting in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 10秒后开始游戏**"
 	}
 	"***Knives have spawned***"
 	{
-		"chi"		"** **"
+		"chi"		"** 刀已获取**"
 	}
 	"***Random Selected***"
 	{
-		"chi"		"** **"
+		"chi"		"** 随机选择**"
 	}
 	"Ts have captured the center!"
 	{
-		"chi"		"** **"
+		"chi"		"**  T方已占领中心！**"
 	}
 	"Ts have 15 seconds left on timer!"
 	{
-		"chi"		"** **"
+		"chi"		"** T方有15秒时间**"
 	}
 	"Ts have 10 seconds left on timer!"
 	{
-		"chi"		"** **"
+		"chi"		"** T方有10秒时间**"
 	}
 	"Ts have 5 seconds left on timer!"
 	{
-		"chi"		"** **"
+		"chi"		"** T方有5秒时间**"
 	}
 	"Ts have 4 seconds left on timer!"
 	{
-		"chi"		"** **"
+		"chi"		"** T方有4秒时间**"
 	}
 	"Ts have 3 seconds left on timer!"
 	{
-		"chi"		"** **"
+		"chi"		"** T方有3秒时间**"
 	}
 	"Ts have 2 seconds left on timer!"
 	{
-		"chi"		"** **"
+		"chi"		"** T方有2秒时间**"
 	}
 	"Ts have 1 seconds left on timer!"
 	{
-		"chi"		"** **"
+		"chi"		"** T方有1秒时间**"
 	}
 	"Ts win!"
 	{
-		"chi"		"** **"
+		"chi"		"** T方胜利**"
 	}
 	"Race Starting in Five seconds"
 	{
-		"chi"		"** **"
+		"chi"		"** 5秒后开始**"
 	}
 	"Three..."
 	{
-		"chi"		"** **"
+		"chi"		"** 3**"
 	}
 	"Two..."
 	{
-		"chi"		"** **"
+		"chi"		"** 2**"
 	}
 	"One..."
 	{
-		"chi"		"** **"
+		"chi"		"** 1**"
 	}
 	"Go!!"
 	{
-		"chi"		"** **"
+		"chi"		"** 开始！**"
 	}
 	"***Skipping Selected***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已选择跳绳**"
 	}
 	"Game Starting in 10 seconds..."
 	{
-		"chi"		"** **"
+		"chi"		"** 游戏将在10秒后开始**"
 	}
 	"***Knives spawning in 2minutes***"
 	{
-		"chi"		"** **"
+		"chi"		"** 2分钟后获得刀**"
 	}
 	"***Skipping Starting***"
 	{
-		"chi"		"** **"
+		"chi"		"** 跳绳开始**"
 	}
 	"***Sniper Thwomps Selected***"
 	{
-		"chi"		"** **"
+		"chi"		"** 已选择狙击**"
 	}
 	"***Auto Kill Trigger in 90 seconds...***"
 	{
-		"chi"		"** **"
+		"chi"		"** 90秒后自动处死**"
 	}
 	"***Auto Kill Trigger in 60 seconds...***"
 	{
-		"chi"		"** **"
+		"chi"		"** 60秒后自动处死**"
 	}
 	"@[MAP] MASTER CHIEF MODE ENABLED"
 	{
@@ -274,18 +274,18 @@
 	}
 	"***Auto Kill Trigger in 30 seconds...***"
 	{
-		"chi"		"** **"
+		"chi"		"** 30秒后自动处死**"
 	}
 	"***Block Game Timer - 30 seconds left***"
 	{
-		"chi"		"** **"
+		"chi"		"** 30秒后砖块打破**"
 	}
 	"***Block Game Timer - 10 seconds left***"
 	{
-		"chi"		"** **"
+		"chi"		"** 0秒后墙壁打破0秒后砖块打破**"
 	}
 	"***Block Game Over***"
 	{
-		"chi"		"** **"
+		"chi"		"** 砖块游戏结束**"
 	}
 }
