@@ -80,4 +80,20 @@
 	{
 		"chi"		"** **"
 	}
+	"*** A PERSON PICKED UP THE COLOR LIFT ***"
+	{
+		"chi"		"** **"
+	}
+	"*** IF YOU LOST IT ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WE CAN'T ESCAPE FROM FIRE SEA !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PICKER MUST NOT DIE AND HOLD THIS !!! ***"
+	{
+		"chi"		"** **"
+	}
 }

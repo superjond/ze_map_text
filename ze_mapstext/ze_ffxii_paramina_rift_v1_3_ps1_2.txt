@@ -714,4 +714,16 @@
 	{
 		"chi"		"** **"
 	}
+	"** MATEUS IS DEAD! GO ESCAPE TO THE FOREST! **"
+	{
+		"chi"		"** **"
+	}
+	"** END OF THE LINE **"
+	{
+		"chi"		"** **"
+	}
+	"** Congratulations - you won STAGE 2 INSANE **"
+	{
+		"chi"		"** **"
+	}
 }

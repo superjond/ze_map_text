@@ -212,4 +212,16 @@
 	{
 		"chi"		"** **"
 	}
+	"@[Map] Ghast number two defeated"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] Ghast number one defeated"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] People Winner"
+	{
+		"chi"		"** **"
+	}
 }

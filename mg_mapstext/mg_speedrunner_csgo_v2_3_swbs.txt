@@ -6,15 +6,15 @@
 	}
 	"Map By Charli =)"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Charli**"
 	}
 	"Music : Just Jack - Basement"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐：Just Jack - Basement**"
 	}
 	"BBS.93X.NeT"
 	{
-		"chi"		"** **"
+		"chi"		"**bbs.93x.net**"
 	}
 	"[Ported for SteamGamers by [SG] Punky]"
 	{

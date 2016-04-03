@@ -87,11 +87,11 @@
 	}
 	"<<<Winner has chosen Rat Race!>>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>胜者选择捕鼠游戏。<<<"
 	}
 	"<<<Get to the other side before the oposing team!>>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>在对手到达之前到终点<<<"
 	}
 	"<<<You have 40 seconds!>>>"
 	{
@@ -170,6 +170,10 @@
 		"chi"		"** **"
 	}
 	"<<<Your feet are in pain!!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<Noone Won bhop!>>>"
 	{
 		"chi"		"** **"
 	}

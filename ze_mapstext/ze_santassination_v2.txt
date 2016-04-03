@@ -856,4 +856,12 @@
 	{
 		"chi"		"** **"
 	}
+	"***LEFT LEFT SECOND FACE WALL OPENS IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***LEFT LEFT SECOND FACE WALL HAS EXPLODED***"
+	{
+		"chi"		"** **"
+	}
 }

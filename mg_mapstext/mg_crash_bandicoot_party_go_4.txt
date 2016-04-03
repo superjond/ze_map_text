@@ -1,0 +1,63 @@
+"Console_T"
+{
+	"mg_crash_bandicoot_party_csgo"
+	{
+		"chi"		"** **"
+	}
+	"by 93sunderland"
+	{
+		"chi"		"** **"
+	}
+	"Phantommunity.it"
+	{
+		"chi"		"** **"
+	}
+	"River Bhop"
+	{
+		"chi"		"** **"
+	}
+	"You have 5 minutes left"
+	{
+		"chi"		"** **"
+	}
+	"Jump & Jump"
+	{
+		"chi"		"** **"
+	}
+	"Someone won"
+	{
+		"chi"		"** **"
+	}
+	"Tomb Deagle"
+	{
+		"chi"		"** **"
+	}
+	"Air Knife"
+	{
+		"chi"		"** **"
+	}
+	"Search & Kill"
+	{
+		"chi"		"** **"
+	}
+	"Futuristic Awp"
+	{
+		"chi"		"** **"
+	}
+	"Slippery Course"
+	{
+		"chi"		"** **"
+	}
+	"Knife Waders"
+	{
+		"chi"		"** **"
+	}
+	"Low Gravity War"
+	{
+		"chi"		"** **"
+	}
+	"LET'S KILL"
+	{
+		"chi"		"** **"
+	}
+}

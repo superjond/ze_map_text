@@ -548,4 +548,172 @@
 	{
 		"chi"		"** **"
 	}
+	"*** MASSACRE MODE COMPLETED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NEXT LEVEL IS THE END ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Current level: THE END  *** Escape: THE PAPER DIMENSION ***"
+	{
+		"chi"		"** **"
+	}
+	"** City sewers management plant doors are opening in 20 seconds. RESIST!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** WARNING: FROM THIS POINT YOU WILL ONLY HAVE ONE CHANCE TO WIN.  IF YOU FAIL THE LEVEL WILL REVERT. **"
+	{
+		"chi"		"** **"
+	}
+	"** PLEASE CONSIDER SUICIDE IF YOU ARE UNSURE ABOUT BEING ABLE TO BEAT THIS ROUND! **"
+	{
+		"chi"		"** **"
+	}
+	"** YOU HAVE BEEN WARNED!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Elevator leaves in 7 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** TIP: Three humans must suicide to keep the THE END level **"
+	{
+		"chi"		"** **"
+	}
+	"** THE PAPER GODS ARE PLEASED WITH YOUR SACRIFICE **"
+	{
+		"chi"		"** **"
+	}
+	"* Defend the bridge for 30 seconds until it is blown up!!! *"
+	{
+		"chi"		"** **"
+	}
+	"* Zombies must go through the sewer. *"
+	{
+		"chi"		"** **"
+	}
+	"** The bridge has been blown... RUN!!! **"
+	{
+		"chi"		"** **"
+	}
+	"* Hospital's doors open in 15 seconds. *"
+	{
+		"chi"		"** **"
+	}
+	"* Doors are open... GO!!! *"
+	{
+		"chi"		"** **"
+	}
+	"* Go to the second floor and deactivate the security lock. *"
+	{
+		"chi"		"** **"
+	}
+	"* Security button has been pressed. Doors open in 5 seconds! *"
+	{
+		"chi"		"** **"
+	}
+	"* FIRST FLOOR: Emergencies and stairwayelevator access. *"
+	{
+		"chi"		"** **"
+	}
+	"* The elevator is not working. Find a way to restore the power! *"
+	{
+		"chi"		"** **"
+	}
+	"* Elevator's power restoring... It will leave in 20 seconds *"
+	{
+		"chi"		"** **"
+	}
+	"* GO! GO! GO!*"
+	{
+		"chi"		"** **"
+	}
+	"* SECOND FLOOR: Patients' rooms. *"
+	{
+		"chi"		"** **"
+	}
+	"* Defend this floor for 30 seconds!!! *"
+	{
+		"chi"		"** **"
+	}
+	"* GO BACK! ELEVATOR LEAVES IN 5 SECONDS *"
+	{
+		"chi"		"** **"
+	}
+	"* THIRD FLOOR: Pediatry. *"
+	{
+		"chi"		"** **"
+	}
+	"* TIP: Zombies can break the elevators' side vent. *"
+	{
+		"chi"		"** **"
+	}
+	"* FOURTH FLOOR: Emergency generator and Helipad access. *"
+	{
+		"chi"		"** **"
+	}
+	"* TIP: Press the energy control panel to cause an overload in the doors' circuitry. *"
+	{
+		"chi"		"** **"
+	}
+	"* The door is opening in 25 seconds... RESIST! *"
+	{
+		"chi"		"** **"
+	}
+	"* Second door opens in 10 seconds. *"
+	{
+		"chi"		"** **"
+	}
+	"* Helicopter leaves in 50 seconds. *"
+	{
+		"chi"		"** **"
+	}
+	"* Helicopter leaves in 20 seconds. RESIST!!! *"
+	{
+		"chi"		"** **"
+	}
+	"* HELICOPTER LEAVES IN 5 SECONDS!!! GET ON IT!!! *"
+	{
+		"chi"		"** **"
+	}
+	"* WO-HOO!!! NICE JOB PEOPLE!!! *"
+	{
+		"chi"		"** **"
+	}
+	"* YEAH!!! WE DID IT!!! *"
+	{
+		"chi"		"** **"
+	}
+	"* ... *"
+	{
+		"chi"		"** **"
+	}
+	"* Wait... Why isn't it ending...? *"
+	{
+		"chi"		"** **"
+	}
+	"RndPlayer: rtv rtv rtv shit map lol admin change plz"
+	{
+		"chi"		"** **"
+	}
+	"** DID YOU MISS ME? **"
+	{
+		"chi"		"** **"
+	}
+	"*ZE_PAPER_ESCAPER BY ENVIOLINADOR*"
+	{
+		"chi"		"** **"
+	}
+	"*** Thank you for playing this map ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MAP WILL NOW RESET TO NORMAL ***"
+	{
+		"chi"		"** **"
+	}
 }

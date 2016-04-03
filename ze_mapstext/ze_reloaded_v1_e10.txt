@@ -100,4 +100,52 @@
 	{
 		"chi"		"** **"
 	}
+	"**Jetstream Sam has been defeated!**"
+	{
+		"chi"		"** **"
+	}
+	"**Teleporter is charging up!**"
+	{
+		"chi"		"** **"
+	}
+	"**Teleporter is fully charged!**"
+	{
+		"chi"		"** **"
+	}
+	"**Hold the zombies back until the door is open!**"
+	{
+		"chi"		"** **"
+	}
+	"**You won Experienced! Right on!**"
+	{
+		"chi"		"** **"
+	}
+	"**DIFFICULTY: IMMENSE**"
+	{
+		"chi"		"** **"
+	}
+	"**OBJECTIVE: Infiltrate and eliminate Jetstream Sam**"
+	{
+		"chi"		"** **"
+	}
+	"**Hold until the door is open!**"
+	{
+		"chi"		"** **"
+	}
+	"**Complex door is opening in 25 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Hold the hallways until the doors open!**"
+	{
+		"chi"		"** **"
+	}
+	"**Ammo Box has been picked up!**"
+	{
+		"chi"		"** **"
+	}
+	"**It has only one use!**"
+	{
+		"chi"		"** **"
+	}
 }
