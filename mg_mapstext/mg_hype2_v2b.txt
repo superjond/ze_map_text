@@ -2,155 +2,155 @@
 {
 	"Welcome to hype2"
 	{
-		"chi"		"** **"
+		"chi"		"** 欢迎来到hype2地图**"
 	}
 	"Dual Beretta's"
 	{
-		"chi"		"** **"
+		"chi"		"** 双枪**"
 	}
 	"Song - Jumper : Third Eye Blind"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Jumper : Third Eye Blind**"
 	}
 	"35hp Knife"
 	{
-		"chi"		"** **"
+		"chi"		"** 刀 35血**"
 	}
 	"Song - Kygo - Stay (ft. Maty Noyes)"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Kygo - Stay (ft. Maty Noyes)**"
 	}
 	"Iceskate"
 	{
-		"chi"		"** **"
+		"chi"		"** 滑冰**"
 	}
 	"Song - Embers : Feint"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Embers : Feint**"
 	}
 	"Shotguns"
 	{
-		"chi"		"** **"
+		"chi"		"** 喷子**"
 	}
 	"Song - Ed Sheeran - I See Fire (Kygo Remix)"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Ed Sheeran - I See Fire (Kygo Remix)**"
 	}
 	"Football [100hp 2xSpeed]"
 	{
-		"chi"		"** **"
+		"chi"		"** 足球**"
 	}
 	"Song - Henrix - Feel Alive (Fever Remix)"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Henrix - Feel Alive (Fever Remix)**"
 	}
 	"Rifle - AK47"
 	{
-		"chi"		"** **"
+		"chi"		"** AK47**"
 	}
 	"Low Gravity Negev War!"
 	{
-		"chi"		"** **"
+		"chi"		"** 低重力大菠萝大战**"
 	}
 	"awp"
 	{
-		"chi"		"** **"
+		"chi"		"** AWP**"
 	}
 	"Wallhacks - M4A1-S"
 	{
-		"chi"		"** **"
+		"chi"		"** 透视- M4A1 消音版**"
 	}
 	"Song - Closer : Lazlo"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Closer : Lazlo**"
 	}
 	"65hp Knife"
 	{
-		"chi"		"** **"
+		"chi"		"** 刀 65血**"
 	}
 	"Song - ROZES - Fragile (AVNU Remix)"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：ROZES - Fragile (AVNU Remix)**"
 	}
 	"Duck Hunt v1. CT's are Ducks!"
 	{
-		"chi"		"** **"
+		"chi"		"** 猎鸡V1 CT成为鸡**"
 	}
 	"Song - It'll Be Okay : SMLE ft. Helen Tess"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：It'll Be Okay : SMLE ft. Helen Tess**"
 	}
 	"Duck Hunt v1. T's are Ducks!"
 	{
-		"chi"		"** **"
+		"chi"		"** 猎鸡V1 T成为鸡**"
 	}
 	"ScoutsKnives"
 	{
-		"chi"		"** **"
+		"chi"		"** 鸟狙 刀**"
 	}
 	"Bhop"
 	{
-		"chi"		"** **"
+		"chi"		"** 连跳**"
 	}
 	"Song - Said The Sky ft. Diamond Eyes - Mountains"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Said The Sky ft. Diamond Eyes - Mountains**"
 	}
 	"DeathRun"
 	{
-		"chi"		"** **"
+		"chi"		"** 死亡奔跑**"
 	}
 	"Deagles"
 	{
-		"chi"		"** **"
+		"chi"		"** 沙鹰**"
 	}
 	"Grenades"
 	{
-		"chi"		"** **"
+		"chi"		"** 手雷**"
 	}
 	"Barrel Box Selected"
 	{
-		"chi"		"** **"
+		"chi"		"** 选择双枪**"
 	}
 	"rifle"
 	{
-		"chi"		"** **"
+		"chi"		"** 步枪**"
 	}
 	"Wallhacks - USP"
 	{
-		"chi"		"** **"
+		"chi"		"** 透视 USP**"
 	}
 	"Slide Race"
 	{
-		"chi"		"** **"
+		"chi"		"** 赛跑**"
 	}
 	"Duck Hunt v2, Picking Sides..."
 	{
-		"chi"		"** **"
+		"chi"		"** 猎鸡V2 选择队伍**"
 	}
 	"Wall Breaks in 5 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"** 5秒后墙打破**"
 	}
 	"Level One Kill Trigger in 15 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"** 等级1 15秒内杀1个**"
 	}
 	"Level Two Kill Trigger in 10 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"** 等级2 10秒内杀2个**"
 	}
 	"Level Three Kill Trigger in 10 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"** 等级3 10秒内杀3个**"
 	}
 	"Pistols [HS]"
 	{
-		"chi"		"** **"
+		"chi"		"** 手枪(爆头)**"
 	}
 	"Football [1hp]"
 	{
-		"chi"		"** **"
+		"chi"		"** 足球(1血)**"
 	}
 	"***Map By: Lt.| iPod***"
 	{
@@ -162,11 +162,11 @@
 	}
 	"100hp Knife"
 	{
-		"chi"		"** **"
+		"chi"		"** 刀 100血**"
 	}
 	"Level Four Kill Trigger in 10 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"** *等级4 10秒内杀4个*"
 	}
 	"Music : Poperotiq - Bitch plz"
 	{
