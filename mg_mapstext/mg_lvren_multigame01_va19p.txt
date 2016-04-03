@@ -2,15 +2,15 @@
 {
 	"---Map init---"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图初始化**"
 	}
 	"---Done---"
 	{
-		"chi"		"** **"
+		"chi"		"** 完成**"
 	}
 	">>MG_GRUBER_MULTIGAMES<<"
 	{
-		"chi"		"** **"
+		"chi"		"** MG_GRUBER_MULTIGAMES**"
 	}
 	"***Map By: Lt.| iPod***"
 	{
