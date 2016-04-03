@@ -2,190 +2,190 @@
 {
 	"Map by: nyro"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：nyro**"
 	}
 	"Feedback & testing: The Lt. Team"
 	{
-		"chi"		"** **"
+		"chi"		"** 反馈&测试：The Lt. Team**"
 	}
 	"Voting will start in 10 seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"** 10秒后开始投票**"
 	}
 	"Stand in the BLUE to VOTE for a game!"
 	{
-		"chi"		"** **"
+		"chi"		"** 站在蓝色区域投票**"
 	}
 	"5..."
 	{
-		"chi"		"** **"
+		"chi"		"** 5...**"
 	}
 	"4..."
 	{
-		"chi"		"** **"
+		"chi"		"** 4...**"
 	}
 	"3..."
 	{
-		"chi"		"** **"
+		"chi"		"** 3...**"
 	}
 	"2..."
 	{
-		"chi"		"** **"
+		"chi"		"** 2...**"
 	}
 	"1..."
 	{
-		"chi"		"** **"
+		"chi"		"** 1...**"
 	}
 	"[VOTE]"
 	{
-		"chi"		"** **"
+		"chi"		"** 投票**"
 	}
 	"[AWP] [DEAGLE]"
 	{
-		"chi"		"** **"
+		"chi"		"** AWP 沙鹰**"
 	}
 	"[START]"
 	{
-		"chi"		"** **"
+		"chi"		"** 开始**"
 	}
 	"[BUNNYHOP]"
 	{
-		"chi"		"** **"
+		"chi"		"** 连跳**"
 	}
 	"Someone has won! Round ending in 15 seconds..."
 	{
-		"chi"		"** **"
+		"chi"		"** 有人胜利！15秒内结束回合**"
 	}
 	"[BUY]"
 	{
-		"chi"		"** **"
+		"chi"		"** 购买**"
 	}
 	"The last CT is in BLUE!"
 	{
-		"chi"		"** **"
+		"chi"		"** 最后的CT在蓝色**"
 	}
 	"[RANDOM]"
 	{
-		"chi"		"** **"
+		"chi"		"** 随机**"
 	}
 	"[ICESKATE]"
 	{
-		"chi"		"** **"
+		"chi"		"** 滑冰**"
 	}
 	"30 seconds remaining!"
 	{
-		"chi"		"** **"
+		"chi"		"** 剩余30秒**"
 	}
 	"15 seconds remaining!"
 	{
-		"chi"		"** **"
+		"chi"		"** 剩余15秒**"
 	}
 	"..."
 	{
-		"chi"		"** **"
+		"chi"		"** 。。。**"
 	}
 	"Draw."
 	{
-		"chi"		"** **"
+		"chi"		"** ✿**"
 	}
 	"[SURF]"
 	{
-		"chi"		"** **"
+		"chi"		"** 滑翔**"
 	}
 	"[NADE]"
 	{
-		"chi"		"** **"
+		"chi"		"** 手雷**"
 	}
 	"[SCOUT] [LOWGRAV]"
 	{
-		"chi"		"** **"
+		"chi"		"** 鸟狙 低重力**"
 	}
 	"[OBSTACLE]"
 	{
-		"chi"		"** **"
+		"chi"		"** 障碍**"
 	}
 	"[SLIDE]"
 	{
-		"chi"		"** **"
+		"chi"		"** 滑行**"
 	}
 	"Herp Derp"
 	{
-		"chi"		"** **"
+		"chi"		"** Herp Derp**"
 	}
 	"[SPHERE]"
 	{
-		"chi"		"** **"
+		"chi"		"** 球**"
 	}
 	"[LEVEL ONE]"
 	{
-		"chi"		"** **"
+		"chi"		"** 关卡1**"
 	}
 	"[LEVEL TWO]"
 	{
-		"chi"		"** **"
+		"chi"		"** 关卡2**"
 	}
 	"[LEVEL THREE]"
 	{
-		"chi"		"** **"
+		"chi"		"** 关卡3**"
 	}
 	"[LEVEL FOUR]"
 	{
-		"chi"		"** **"
+		"chi"		"** 关卡4**"
 	}
 	"[CLIMB]"
 	{
-		"chi"		"** **"
+		"chi"		"** 攀爬**"
 	}
 	"Die."
 	{
-		"chi"		"** **"
+		"chi"		"** 死。**"
 	}
 	"[LEVEL FIVE]"
 	{
-		"chi"		"** **"
+		"chi"		"** 关卡5**"
 	}
 	"Boring."
 	{
-		"chi"		"** **"
+		"chi"		"** 无聊。**"
 	}
 	"Game Over."
 	{
-		"chi"		"** **"
+		"chi"		"** 游戏结束**"
 	}
 	"The last CT is in RED!"
 	{
-		"chi"		"** **"
+		"chi"		"** 最后的CT在红色**"
 	}
 	"The last T is in BLUE!"
 	{
-		"chi"		"** **"
+		"chi"		"** 最后的T在蓝色**"
 	}
 	"The last T is in YELLOW!"
 	{
-		"chi"		"** **"
+		"chi"		"** 最后的T在黄色**"
 	}
 	"The last T is in RED!"
 	{
-		"chi"		"** **"
+		"chi"		"** 最后的T在红色**"
 	}
 	"The last CT is in YELLOW!"
 	{
-		"chi"		"** **"
+		"chi"		"** 最后的CT在黄色**"
 	}
 	"Took too long..."
 	{
-		"chi"		"** **"
+		"chi"		"** 太久了**"
 	}
 	"lol"
 	{
-		"chi"		"** **"
+		"chi"		"** lol**"
 	}
 	"Vote kick the afk!"
 	{
-		"chi"		"** **"
+		"chi"		"** 投票提出挂机者**"
 	}
 	"ZzZzZz..."
 	{
-		"chi"		"** **"
+		"chi"		"** ZzZzZz...**"
 	}
 }
