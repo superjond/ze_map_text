@@ -2,14 +2,14 @@
 {
 	"Based on CSS map from cookie"
 	{
-		"chi"		"** **"
+		"chi"		"** 由cookie基于css地图制作**"
 	}
 	"Textures from Chris528"
 	{
-		"chi"		"** **"
+		"chi"		"** 纹理制作：Chris528**"
 	}
 	"Created by Sodan Tok"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Sodan Tok 地图翻译：Ex_cKot**"
 	}
 }
