@@ -631,16 +631,16 @@
 	}
 	"ze_surf_facility_p4"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"金字塔滑翔工厂P4"
 	}
 
 	"ze_biohazard2_sewer_004_p5"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"生化危机：下水道"
 	}
 	"ze_sandstorm_v7_1_e2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"沙尘暴"
 	}
 	"ze_tilex_possession_v1_4fix"
 	{
@@ -707,7 +707,7 @@
 	}
 	"ze_shroomforest2_b4_e6"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"蘑菇森林（蘑菇房）2"
 	}
 	"ze_chemical_weapons_depot_v1_2"
 	{
@@ -734,7 +734,7 @@
 	}
 	"ze_shroomforest_v4_4fix_e4"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"蘑菇森林（蘑菇房）1"
 	}
 	"ze_biohazard_manor_004_p4"
 	{
