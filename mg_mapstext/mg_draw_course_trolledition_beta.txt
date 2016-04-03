@@ -34,22 +34,22 @@
 	}
 	"@You are low BIATCH !"
 	{
-		"chi"		"** **"
+		"chi"		"** 真蠢。**"
 	}
 	"AFK Killer in 30 Secends!"
 	{
-		"chi"		"** **"
+		"chi"		"** 30秒后挂机处死**"
 	}
 	"--> Spawn Protection in 40 Seconds <--"
 	{
-		"chi"		"** **"
+		"chi"		"** 40秒内出生保护**"
 	}
 	">>Map made by Jenz and Onederp<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Jenz and Onederp**"
 	}
 	"Map by Darnias"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Darnias**"
 	}
 }
