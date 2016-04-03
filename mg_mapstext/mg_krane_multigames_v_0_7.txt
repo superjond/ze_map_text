@@ -50,115 +50,115 @@
 	}
 	"Outer area disabled in 30 seconds"
 	{
-		"chi"		"**30秒内境外将被禁止**"
+		"chi"		"**30秒后境外将被禁止**"
 	}
 	"Outer area disabled in 15 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"** 15秒后边界区域禁止**"
 	}
 	"Outer area disabled in 5 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"** 5秒后边界区域禁止**"
 	}
 	"Outer area disabled"
 	{
-		"chi"		"** **"
+		"chi"		"** 边界区域禁止**"
 	}
 	"Middle area disabled in 30 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"** 30秒后中间区域禁止**"
 	}
 	"Middle area disabled in 15 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"** 15秒后中间区域禁止**"
 	}
 	"Game: Jump Rope"
 	{
-		"chi"		"** **"
+		"chi"		"** 跳绳**"
 	}
 	"Song: La Grange - ZZ Top"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：La Grange - ZZ Top**"
 	}
 	"Song: Sweet Child O' Mine - Guns N' Roses"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Sweet Child O' Mine - Guns N' Roses**"
 	}
 	"Game: de_krane"
 	{
-		"chi"		"** **"
+		"chi"		"** 游戏：de_krane**"
 	}
 	"Game: Tower Defense"
 	{
-		"chi"		"** **"
+		"chi"		"** 游戏：塔防**"
 	}
 	"Game: Dodgeball"
 	{
-		"chi"		"** **"
+		"chi"		"** 游戏：躲避球**"
 	}
 	"Song: Rebel Yell - Billy Idol"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Rebel Yell - Billy Idol**"
 	}
 	"Game: Bhop"
 	{
-		"chi"		"** **"
+		"chi"		"** 游戏：连跳**"
 	}
 	"Song: Lay It Down - Journey"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Lay It Down - Journey**"
 	}
 	"Song: Heartbreaker - Pat Benatar"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Heartbreaker - Pat Benatar**"
 	}
 	"Song: Jukebox Hero - Foreigner"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Jukebox Hero - Foreigner**"
 	}
 	"Game: Rifles"
 	{
-		"chi"		"** **"
+		"chi"		"** 游戏：步枪**"
 	}
 	"Game: Pistols"
 	{
-		"chi"		"** **"
+		"chi"		"** 游戏：手枪**"
 	}
 	"Song: Spirit In The Sky - Norman Breenbaum"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Spirit In The Sky - Norman Breenbaum**"
 	}
 	"Game: Scouts"
 	{
-		"chi"		"** **"
+		"chi"		"** 游戏：鸟狙**"
 	}
 	"Game: Deagle"
 	{
-		"chi"		"** **"
+		"chi"		"** 游戏：Deagle沙鹰**"
 	}
 	"Middle area disabled in 5 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"** 5秒后中间区域禁止**"
 	}
 	"Middle area disabled"
 	{
-		"chi"		"** **"
+		"chi"		"** 中间区域禁止**"
 	}
 	"Game: Headshot Pistols"
 	{
-		"chi"		"** **"
+		"chi"		"** 游戏：手枪(爆头)**"
 	}
 	"Game: Headshot Deagle"
 	{
-		"chi"		"** **"
+		"chi"		"** 游戏：沙鹰(爆头)**"
 	}
 	"Game: Shotguns"
 	{
-		"chi"		"** **"
+		"chi"		"** 游戏：喷子**"
 	}
 	"***Auto Select in 40 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 40秒后自动选择**"
 	}
 	"***Map by DTK Development Team***"
 	{
