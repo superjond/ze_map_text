@@ -122,87 +122,87 @@
 	}
 	"@[Map] Skate v2"
 	{
-		"chi"		"** **"
+		"chi"		"** 滑冰 v2**"
 	}
 	"@[Map] Speed Jumps"
 	{
-		"chi"		"** **"
+		"chi"		"** 快速跳跃**"
 	}
 	"@[Map] Football 1HP"
 	{
-		"chi"		"** **"
+		"chi"		"** 足球 1血**"
 	}
 	"@[Map] 30 seconds slay"
 	{
-		"chi"		"** **"
+		"chi"		"** 30秒处死**"
 	}
 	"@ TimeLimit!"
 	{
-		"chi"		"** **"
+		"chi"		"** 时间到**"
 	}
 	"@[Map] Skipping Rope"
 	{
-		"chi"		"** **"
+		"chi"		"** 跳绳**"
 	}
 	"@[Map] >5<"
 	{
-		"chi"		"** **"
+		"chi"		"** 5**"
 	}
 	"@[Map] >4<"
 	{
-		"chi"		"** **"
+		"chi"		"** 4**"
 	}
 	"@[Map] >3<"
 	{
-		"chi"		"** **"
+		"chi"		"** 3**"
 	}
 	"@[Map] >2<"
 	{
-		"chi"		"** **"
+		"chi"		"** 2**"
 	}
 	"@[Map] >1<"
 	{
-		"chi"		"** **"
+		"chi"		"** 1**"
 	}
 	"@[Map] >Go!<"
 	{
-		"chi"		"** **"
+		"chi"		"** 开始！**"
 	}
 	"@[Gravity] High gravity"
 	{
-		"chi"		"** **"
+		"chi"		"** 高重力**"
 	}
 	"@[Map] Long Jump"
 	{
-		"chi"		"** **"
+		"chi"		"** 长跳**"
 	}
 	"@[Map] Football 100HP"
 	{
-		"chi"		"** **"
+		"chi"		"** 足球 100血**"
 	}
 	"@[Map] T Win"
 	{
-		"chi"		"** **"
+		"chi"		"** T胜利**"
 	}
 	"@[MAP] AWP"
 	{
-		"chi"		"** **"
+		"chi"		"** AWP**"
 	}
 	"@[Map] Grenades"
 	{
-		"chi"		"** **"
+		"chi"		"** 手雷**"
 	}
 	"@[Map] CT Win"
 	{
-		"chi"		"** **"
+		"chi"		"** CT胜利**"
 	}
 	"@[Map] Scout v2"
 	{
-		"chi"		"** **"
+		"chi"		"** 鸟狙 v2**"
 	}
 	"@[Map] TimeLimit"
 	{
-		"chi"		"** **"
+		"chi"		"** 时间到**"
 	}
 	"Music : Just Jack - Basement"
 	{
@@ -210,11 +210,11 @@
 	}
 	"@[Map] RandomGame..."
 	{
-		"chi"		"** **"
+		"chi"		"** 随机游戏**"
 	}
 	"@[Gravity] Low gravity"
 	{
-		"chi"		"** **"
+		"chi"		"** 低重力**"
 	}
 	"[Ported for SteamGamers by [SG] Punky]"
 	{
@@ -230,7 +230,7 @@
 	}
 	"**Remake by FreeDOM**"
 	{
-		"chi"		"** **"
+		"chi"		"** 重置：FreeDOM**"
 	}
 	"[LaoZhongYi]Thank UA and Kirby , HZM654321 and diaolingtyp"
 	{
