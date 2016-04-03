@@ -14,90 +14,90 @@
 	}
 	"[Chosen map: Scrap Yard]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图选择：Scrap Yard**"
 	}
 	"[RandomChoice!]"
 	{
-		"chi"		"** **"
+		"chi"		"** 随机选择**"
 	}
 	"[Chosen map: Rooftops]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图选择：Rooftops**"
 	}
 	"[Chosen map: India]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图选择：India**"
 	}
 	"[Chosen map: Minecraft]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图选择：Minecraft**"
 	}
 	"[Chosen map: Office]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图选择：Office**"
 	}
 	"[Chosen map: awp_map]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图选择：awp_map**"
 	}
 	"[Chosen map: Underground]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图选择：Underground**"
 	}
 	"[Chosen map: Aim_Dust]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图选择：Aim_Dust**"
 	}
 	"[Chosen map: CastleWar]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图选择：CastleWar**"
 	}
 	"[Chosen map: Orange]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图选择：Orange**"
 	}
 	"[60 Seconds up! Random map will be picked]"
 	{
-		"chi"		"** **"
+		"chi"		"** 60秒已到！地图将随机选择**"
 	}
 	"[ERROR!]"
 	{
-		"chi"		"** **"
+		"chi"		"** 错误！**"
 	}
 	"[System Malfunction!]"
 	{
-		"chi"		"** **"
+		"chi"		"** 系统故障！**"
 	}
 	"***Auto Select in 40 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 40秒后将自动选择**"
 	}
 	"***Map by DTK Development Team***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：DTK Development Team 地图翻译：Ex_cKot**"
 	}
 	"Map By Charli =)"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Charli =)**"
 	}
 	"[Ported for SteamGamers by [SG] Punky]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图由[SG] Punky上传至SteamGamers**"
 	}
 	"[Map made by Kirby]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Kirby**"
 	}
 	"Music : M83 - Midnight city"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：M83 - Midnight city**"
 	}
 	">>Map by Ghost X - DeadFire19<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Ghost X - DeadFire19**"
 	}
 	">>Shoot Option to Vote<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 射击选项来投票**"
 	}
 }
