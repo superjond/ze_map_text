@@ -902,7 +902,7 @@
 	{
 		"chi"		"合金装备"
 	}
-	"ze_sorrento_escape_0_9"
+	"ze_sorrento_escape_v1"
 	{
 		"chi"		"惊险刺激的索伦托"
 	}
