@@ -557,170 +557,177 @@
 	}
 	"*** MASSACRE MODE COMPLETED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**已通过大屠杀 难度 **"
 	}
 	"*** NEXT LEVEL IS THE END ***"
 	{
-		"chi"		"** **"
+		"chi"		"**下一难度 END **"
 	}
 	"*** Current level: THE END  *** Escape: THE PAPER DIMENSION ***"
 	{
-		"chi"		"** **"
+		"chi"		"**当前难度 END 路线:纸质维度 翻译:BAKA_Miku 版本:v1.01 **"
 	}
 	"** City sewers management plant doors are opening in 20 seconds. RESIST!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**城市下水道管理工厂大门将在20秒后打开 **"
 	}
 	"** WARNING: FROM THIS POINT YOU WILL ONLY HAVE ONE CHANCE TO WIN.  IF YOU FAIL THE LEVEL WILL REVERT. **"
 	{
-		"chi"		"** **"
+		"chi"		"**警告:从这一关开始 你只有一次过关的机会 否则难度将会回档 **"
 	}
 	"** PLEASE CONSIDER SUICIDE IF YOU ARE UNSURE ABOUT BEING ABLE TO BEAT THIS ROUND! **"
 	{
-		"chi"		"** **"
+		"chi"		"**如果有人愿意牺牲他的生命 那么一切都是可能的 **"
 	}
 	"** YOU HAVE BEEN WARNED!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**我已经警告过你了!!! **"
 	}
 	"** Elevator leaves in 7 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将在7秒后离开 **"
 	}
 	"** TIP: Three humans must suicide to keep the THE END level **"
 	{
-		"chi"		"** **"
+		"chi"		"**TIP:3个人类用他们的生命可以将难度保持在'END' **"
 	}
 	"** THE PAPER GODS ARE PLEASED WITH YOUR SACRIFICE **"
 	{
-		"chi"		"** **"
+		"chi"		"**纸质之神对你们做出的牺牲非常感动**"
 	}
 	"* Defend the bridge for 30 seconds until it is blown up!!! *"
 	{
-		"chi"		"** **"
+		"chi"		"**守住大桥直到它炸掉 **"
+		"DoorCountdown"		"30"
 	}
 	"* Zombies must go through the sewer. *"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸需要进入下水管道 **"
 	}
 	"** The bridge has been blown... RUN!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**桥已经被炸毁了 撤退! **"
 	}
 	"* Hospital's doors open in 15 seconds. *"
 	{
-		"chi"		"** **"
+		"chi"		"**医院大门将在15秒后的打开 **"
 	}
 	"* Doors are open... GO!!! *"
 	{
-		"chi"		"** **"
+		"chi"		"**门已打开 **"
 	}
 	"* Go to the second floor and deactivate the security lock. *"
 	{
-		"chi"		"** **"
+		"chi"		"**去二楼安全室解锁医院小门 **"
 	}
 	"* Security button has been pressed. Doors open in 5 seconds! *"
 	{
-		"chi"		"** **"
+		"chi"		"**小门按钮已被按下 门将在5秒后打开 **"
 	}
 	"* FIRST FLOOR: Emergencies and stairwayelevator access. *"
 	{
-		"chi"		"** **"
+		"chi"		"**第一层:能源站与电梯 **"
 	}
 	"* The elevator is not working. Find a way to restore the power! *"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯无能量驱动 找到一个方法来重启它的电源 **"
 	}
 	"* Elevator's power restoring... It will leave in 20 seconds *"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯电源已重启 电梯将在20秒后上升 **"
+		"DoorCountdown"		"20"
 	}
 	"* GO! GO! GO!*"
 	{
-		"chi"		"** **"
+		"chi"		"**跑 跑 跑 **"
 	}
 	"* SECOND FLOOR: Patients' rooms. *"
 	{
-		"chi"		"** **"
+		"chi"		"**第二层:病人们的房间 **"
 	}
 	"* Defend this floor for 30 seconds!!! *"
 	{
-		"chi"		"** **"
+		"chi"		"**防御这层楼30秒 **"
+                "DoorCountdown"		"30"
 	}
 	"* GO BACK! ELEVATOR LEAVES IN 5 SECONDS *"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退 电梯将在5秒后上升 **"
 	}
 	"* THIRD FLOOR: Pediatry. *"
 	{
-		"chi"		"** **"
+		"chi"		"**第三层:小儿科 **"
 	}
 	"* TIP: Zombies can break the elevators' side vent. *"
 	{
-		"chi"		"** **"
+		"chi"		"**TIP:僵尸可以打碎电梯管道 **"
 	}
 	"* FOURTH FLOOR: Emergency generator and Helipad access. *"
 	{
-		"chi"		"** **"
+		"chi"		"**第四层:急救直升机停机坪和发电机 **"
 	}
 	"* TIP: Press the energy control panel to cause an overload in the doors' circuitry. *"
 	{
-		"chi"		"** **"
+		"chi"		"**TIP:按下控制面板以使门的能源过载
+ **"
 	}
 	"* The door is opening in 25 seconds... RESIST! *"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在25秒后打开 **"
+		"DoorCountdown"		"25"
 	}
 	"* Second door opens in 10 seconds. *"
 	{
-		"chi"		"** **"
+		"chi"		"**第二扇门将在10秒后打开 **"
+		"DoorCountdown"		"10"
 	}
 	"* Helicopter leaves in 50 seconds. *"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机将在50秒后离开 **"
+		"DoorCountdown"		"50"
 	}
 	"* Helicopter leaves in 20 seconds. RESIST!!! *"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机将在20秒后离开 **"
 	}
 	"* HELICOPTER LEAVES IN 5 SECONDS!!! GET ON IT!!! *"
 	{
-		"chi"		"** **"
+		"chi"		"**直升机将在5秒后离开 **"
 	}
 	"* WO-HOO!!! NICE JOB PEOPLE!!! *"
 	{
-		"chi"		"** **"
+		"chi"		"**太棒了!过关了！ **"
 	}
 	"* YEAH!!! WE DID IT!!! *"
 	{
-		"chi"		"** **"
+		"chi"		"**我们做到了!真棒 **"
 	}
 	"* ... *"
 	{
-		"chi"		"** **"
+		"chi"		"**... **"
 	}
 	"* Wait... Why isn't it ending...? *"
 	{
-		"chi"		"** **"
+		"chi"		"**等等...为什么还没有结束? **"
 	}
 	"RndPlayer: rtv rtv rtv shit map lol admin change plz"
 	{
-		"chi"		"** **"
+		"chi"		"**一些玩家:rtv rtv rtv 屎一样的地图 快让op来换图!! **"
 	}
 	"** DID YOU MISS ME? **"
 	{
-		"chi"		"** **"
+		"chi"		"**你忘了我吗? **"
 	}
 	"*ZE_PAPER_ESCAPER BY ENVIOLINADOR*"
 	{
-		"chi"		"** **"
+		"chi"		"**作者 ENVIOLINADOR**"
 	}
 	"*** Thank you for playing this map ***"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢对本图的厚爱 **"
 	}
 	"*** MAP WILL NOW RESET TO NORMAL ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图难度将保持在正常 **"
 	}
 }
