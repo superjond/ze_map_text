@@ -54,14 +54,14 @@
 	}
 	"--> Spawn Protection in 20 Seconds <--"
 	{
-		"chi"		"** **"
+		"chi"		"** 20秒内出生保护**"
 	}
 	"Map by Darnias"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Darnias**"
 	}
 	">>Map made by Jenz and Onederp<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Jenz and Onederp**"
 	}
 }
