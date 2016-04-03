@@ -123,15 +123,15 @@
 	}
 	"----> Small Area : 10 Seconds <----"
 	{
-		"chi"		"** **"
+		"chi"		"** ----> 小区域：10秒 <----**"
 	}
 	"----> Small Area : 5 Seconds <----"
 	{
-		"chi"		"** **"
+		"chi"		"** ----> 小区域：5秒 <----**"
 	}
 	"----> Small Area Activated <----"
 	{
-		"chi"		"** **"
+		"chi"		"** ----> 小区域：开启 <----**"
 	}
 	"***Map By: Lt.| iPod***"
 	{
