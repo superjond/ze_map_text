@@ -10,10 +10,10 @@
 	}
 	"--> Spawn Protection in 30 Seconds <--"
 	{
-		"chi"		"** **"
+		"chi"		"** 30秒内出生保护**"
 	}
 	"AFK Killer in 30 Secends!"
 	{
-		"chi"		"** **"
+		"chi"		"** 30秒后挂机处死**"
 	}
 }
