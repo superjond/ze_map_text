@@ -94,162 +94,162 @@
 	}
 	"***You Have Chosen AK--COLT***"
 	{
-		"chi"		"** **"
+		"chi"		"** 选择 AK**"
 	}
 	"***Have Fun!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 玩得开心！**"
 	}
 	"***You Have Chosen Autosniper LvL***"
 	{
-		"chi"		"** **"
+		"chi"		"** 选择 自动狙击**"
 	}
 	"***Gay...What A Fag!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 嘿。。干得好！**"
 	}
 	"***You Have Chosen Iceskate***"
 	{
-		"chi"		"** **"
+		"chi"		"** 选择 滑冰**"
 	}
 	"***Time Remaining: 2 Minutes***"
 	{
-		"chi"		"** **"
+		"chi"		"** 剩余2分钟**"
 	}
 	"***You Have Chose Random Because You Are A Indecisive Douchebag***"
 	{
-		"chi"		"** **"
+		"chi"		"** 因为你的犹豫不决所以自动选择！**"
 	}
 	"***You Have Chosen Soccer***"
 	{
-		"chi"		"** **"
+		"chi"		"** 选择 足球**"
 	}
 	"***Time Remaining: 2 Minutes 30 Seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 剩余2分30秒**"
 	}
 	"***Doors Will Open In 5 Seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 5秒后打开门**"
 	}
 	"***Doors Will Open In 4 Seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 4秒后打开门**"
 	}
 	"***Doors Will Open In 3 Seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 3秒后打开门**"
 	}
 	"***Doors Will Open In 2 Seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 2秒后打开门**"
 	}
 	"***Doors Will Open In 1 Seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 1秒后打开门**"
 	}
 	"***Lets Play Some Soccer!!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 足球玩起来！**"
 	}
 	"***First Team To Score 2 Goals Win!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 第1个进2球的队伍会胜利**"
 	}
 	"***Hip-Pop***"
 	{
-		"chi"		"** **"
+		"chi"		"** Hip-Pop**"
 	}
 	"***You Have Chosen Climb***"
 	{
-		"chi"		"** **"
+		"chi"		"** 选择 攀爬**"
 	}
 	"***Good Luck...Your Going Too Need It***"
 	{
-		"chi"		"** **"
+		"chi"		"** 好运 你会需要它的**"
 	}
 	"***Time Remaining: 60 Seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 剩余60秒**"
 	}
 	"***You Have Chosen Knife Arena***"
 	{
-		"chi"		"** **"
+		"chi"		"** 选择 刀**"
 	}
 	"***You Have Chosen Dodgeball***"
 	{
-		"chi"		"** **"
+		"chi"		"** 选择 躲避球**"
 	}
 	"Middle Barrier Will Be Lifted In 30 Seconds"
 	{
-		"chi"		"** **"
+		"chi"		"** 30秒后移除中间障碍物**"
 	}
 	"***Time Remaining: 1 Minute***"
 	{
-		"chi"		"** **"
+		"chi"		"** 剩余1分钟**"
 	}
 	"Middle Barrier Is Now Lifted"
 	{
-		"chi"		"** **"
+		"chi"		"** 障碍物已移除**"
 	}
 	"***Time Remaining: 10 Seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 剩余10秒**"
 	}
 	"***You Have Chosen Pistols LvL***"
 	{
-		"chi"		"** **"
+		"chi"		"** 选择 手枪**"
 	}
 	"***You Have Chosen Slide Race***"
 	{
-		"chi"		"** **"
+		"chi"		"** 选择 赛跑**"
 	}
 	"***Have Fun***"
 	{
-		"chi"		"** **"
+		"chi"		"** 玩得开心。**"
 	}
 	"***You Have Chosen Scoutzknivez***"
 	{
-		"chi"		"** **"
+		"chi"		"** 选择 鸟狙 刀**"
 	}
 	"***You Have Chosen Regular CS:GO***"
 	{
-		"chi"		"** **"
+		"chi"		"** 选择 常规模式**"
 	}
 	"***Spawn Will Open In 5 Seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 5秒后打开出生点**"
 	}
 	"***You Have Chosen Volleyball***"
 	{
-		"chi"		"** **"
+		"chi"		"** 选择 排球**"
 	}
 	"***You Have Chosen Bhop***"
 	{
-		"chi"		"** **"
+		"chi"		"** 选择 连跳**"
 	}
 	"***Dont Worry Its Easy...Except For Noobs***"
 	{
-		"chi"		"** **"
+		"chi"		"** 别担心，这很简单。。除非你很菜**"
 	}
 	"***You Have Chosen Death Race***"
 	{
-		"chi"		"** **"
+		"chi"		"** 选择 死亡赛跑**"
 	}
 	"***Try to Get To The End First...Or Kill The Other Team Along The Way***"
 	{
-		"chi"		"** **"
+		"chi"		"** 第一个到达终点 或者在路上杀完敌军**"
 	}
 	"***GG...But T's Are The Winners...So The CT's Must Die!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"** GG T胜利 所以CT必须死**"
 	}
 	"***GG...But CT's Are The Winners...So The T's Must Die!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"** GG CT胜利 所以T必须死**"
 	}
 	"BBS.93X.NeT"
 	{
-		"chi"		"** **"
+		"chi"		"** bbs.93x.net**"
 	}
 }
