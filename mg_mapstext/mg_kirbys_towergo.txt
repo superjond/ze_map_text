@@ -2,7 +2,7 @@
 {
 	"***Normal Round***"
 	{
-		"chi"		"** **"
+		"chi"		"** 普通回合**"
 	}
 	"@[MAP] This map does not work with bots..."
 	{
