@@ -2,251 +2,251 @@
 {
 	"@[Map] Map by Blogger(Dog)"
 	{
-		"chi"		"** **"
+		"chi"		"**  地图制作：Blogger(Dog) 地图翻译：Ex_cKot**"
 	}
 	"@[Map] Player selected"
 	{
-		"chi"		"** **"
+		"chi"		"** 玩家选择**"
 	}
 	"@[Map]  AFK TIMER in 30 sec"
 	{
-		"chi"		"** **"
+		"chi"		"** 30秒后挂机处死**"
 	}
 	"@[Map] Climb"
 	{
-		"chi"		"** **"
+		"chi"		"** 攀爬**"
 	}
 	"@[Map] 3 MINUTES REMAINING"
 	{
-		"chi"		"** **"
+		"chi"		"** 剩余3分钟**"
 	}
 	"@[Music] Arman Cekin - Hold On Ft. BR-VE"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Arman Cekin - Hold On Ft. BR-VE**"
 	}
 	"@[Map] Skate"
 	{
-		"chi"		"** **"
+		"chi"		"** 滑冰**"
 	}
 	"@[Mod] Normal nod"
 	{
-		"chi"		"** **"
+		"chi"		"** 普通**"
 	}
 	"@[Music] Calvin Harris ft. Ellie Goulding - Outside (Anevo Remix)"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Calvin Harris ft. Ellie Goulding - Outside (Anevo Remix)**"
 	}
 	"@[Map] Grenades"
 	{
-		"chi"		"** **"
+		"chi"		"** 手雷**"
 	}
 	"@[Music] Sander van Doorn, Martin Garrix, DVBBS ft. Aleesia - Gold Skies (Justin Caruso Remix)"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Sander van Doorn, Martin Garrix, DVBBS ft. Aleesia - Gold Skies (Justin Caruso Remix)**"
 	}
 	"@[Map] Randomly selection"
 	{
-		"chi"		"** **"
+		"chi"		"** 随机地图**"
 	}
 	"@[Map] Falling Boxes"
 	{
-		"chi"		"** **"
+		"chi"		"** 坠落**"
 	}
 	"@[Music] Dope Arcade - Ascension (MitiS Remix)"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Dope Arcade - Ascension (MitiS Remix)**"
 	}
 	"@[Map] Random Timer Enabled"
 	{
-		"chi"		"** **"
+		"chi"		"** 随机时间开启**"
 	}
 	"@[Map] Refire Time - 3 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"** 3秒后重启**"
 	}
 	"@[Map] Refire Time - 2 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"** 2秒后重启**"
 	}
 	"@[Map] Refire Time -  1 second"
 	{
-		"chi"		"** **"
+		"chi"		"** 1秒后重启**"
 	}
 	"@[Map] Refire Time -  0.5 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"** 0.5秒后重启**"
 	}
 	"@[Map] Arena fight"
 	{
-		"chi"		"** **"
+		"chi"		"** 竞技场**"
 	}
 	"@[Map] Random Weapon"
 	{
-		"chi"		"** **"
+		"chi"		"** 随机武器**"
 	}
 	"@[Map] Weapon Awp"
 	{
-		"chi"		"** **"
+		"chi"		"** AWP**"
 	}
 	"@[MAP] PISTOLS"
 	{
-		"chi"		"** **"
+		"chi"		"** 手枪**"
 	}
 	"@[Mod] Headshot mod"
 	{
-		"chi"		"** **"
+		"chi"		"** 爆头模式**"
 	}
 	"@[Map] AFK KILLER"
 	{
-		"chi"		"** **"
+		"chi"		"** 挂机处死**"
 	}
 	"@[MAP] FOOTBALL"
 	{
-		"chi"		"** **"
+		"chi"		"** 足球**"
 	}
 	"@[Map] 5 MINUTES REMAINING"
 	{
-		"chi"		"** **"
+		"chi"		"** 剩余5分钟**"
 	}
 	"@[Music] Matisyahu - Live Like A Warrior (Richello Remix)"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Matisyahu - Live Like A Warrior (Richello Remix)**"
 	}
 	"@[Map] 4 MINUTES REMAINING"
 	{
-		"chi"		"** **"
+		"chi"		"** 剩余4分钟**"
 	}
 	"@[Map] 2 MINUTES REMAINING"
 	{
-		"chi"		"** **"
+		"chi"		"** 剩余2分钟**"
 	}
 	"@[MAP] GOAL!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"** 得分！**"
 	}
 	"@[Map] CT give weapons"
 	{
-		"chi"		"** **"
+		"chi"		"** CT获得武器**"
 	}
 	"@[Map] Weapon AK-47"
 	{
-		"chi"		"** **"
+		"chi"		"** AK47**"
 	}
 	"@[Music] Krewella - Come And Get It (Razihel Remix)"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Krewella - Come And Get It (Razihel Remix)**"
 	}
 	"@[Map] 1 MINUTES REMAINING"
 	{
-		"chi"		"** **"
+		"chi"		"** 剩余1分钟**"
 	}
 	"@[Map] BhopBattle"
 	{
-		"chi"		"** **"
+		"chi"		"** 连跳**"
 	}
 	"@[Map] 60 seconds before the battle"
 	{
-		"chi"		"** **"
+		"chi"		"** 60秒**"
 	}
 	"@[Map] 5"
 	{
-		"chi"		"** **"
+		"chi"		"** 5**"
 	}
 	"@[Map] 4"
 	{
-		"chi"		"** **"
+		"chi"		"** 4**"
 	}
 	"@[Map] 3"
 	{
-		"chi"		"** **"
+		"chi"		"** 3**"
 	}
 	"@[Map] 2"
 	{
-		"chi"		"** **"
+		"chi"		"** 2**"
 	}
 	"@[Map] 1"
 	{
-		"chi"		"** **"
+		"chi"		"** 1**"
 	}
 	"@[Map] Battle"
 	{
-		"chi"		"** **"
+		"chi"		"** 开始**"
 	}
 	"@[Map] Holes"
 	{
-		"chi"		"** **"
+		"chi"		"** 洞**"
 	}
 	"@[Time] TimeLimit"
 	{
-		"chi"		"** **"
+		"chi"		"** 时间限制**"
 	}
 	"@[Map] Random Timer Disabled"
 	{
-		"chi"		"** **"
+		"chi"		"** 随机时间关闭**"
 	}
 	"@[Map] Refire Time -  0.3 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"** 0.3秒后重启**"
 	}
 	"@[Map] Refire Time - 0.2 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"** 0.2秒后重启**"
 	}
 	"@[Map] AFK TIMER in 10 sec"
 	{
-		"chi"		"** **"
+		"chi"		"** 10秒后挂机处死**"
 	}
 	"@[Map] AFK TIMER activated"
 	{
-		"chi"		"** **"
+		"chi"		"** 挂机处死激活**"
 	}
 	"@[Map] RANDOM GAME WILL BE CHOSEN"
 	{
-		"chi"		"** **"
+		"chi"		"** 选择随机游戏**"
 	}
 	"@[Music] Imagine Dragons - On Top of the World - Lyrics"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Imagine Dragons - On Top of the World - Lyrics**"
 	}
 	"@[Map] T Win"
 	{
-		"chi"		"** **"
+		"chi"		"** T胜利**"
 	}
 	"@[Map] Weapon Scout"
 	{
-		"chi"		"** **"
+		"chi"		"** 鸟狙**"
 	}
 	"@[Map] Surf Battle"
 	{
-		"chi"		"** **"
+		"chi"		"** 滑翔**"
 	}
 	"@[Map] TimeLimit"
 	{
-		"chi"		"** **"
+		"chi"		"** 时间限制**"
 	}
 	"@[Mod] BackStab mod"
 	{
-		"chi"		"** **"
+		"chi"		"** 背刺**"
 	}
 	"@[Map] T give weapons"
 	{
-		"chi"		"** **"
+		"chi"		"** T获得武器**"
 	}
 	"@[MAP] MASTER CHIEF MODE ENABLED"
 	{
-		"chi"		"** **"
+		"chi"		"** 首领模式开启**"
 	}
 	"@[MAP] Admins can activate this by noclipping to the admin room."
 	{
-		"chi"		"** **"
+		"chi"		"** 管理员可使用穿墙指令到管理室**"
 	}
 	"@[Map] CT Win"
 	{
-		"chi"		"** **"
+		"chi"		"** CT胜利**"
 	}
 	"@[MAP] AIM"
 	{
-		"chi"		"** **"
+		"chi"		"** 瞄准**"
 	}
 	"Music : Just Jack - Basement"
 	{
@@ -262,6 +262,6 @@
 	}
 	"@[Map] Weapon Deagle"
 	{
-		"chi"		"** **"
+		"chi"		"** 沙鹰**"
 	}
 }
