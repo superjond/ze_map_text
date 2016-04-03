@@ -2,6 +2,6 @@
 {
 	"--> Spawn Protection in 30 Seconds <--"
 	{
-		"chi"		"** **"
+		"chi"		">>>30秒内出生保护<<<"
 	}
 }
