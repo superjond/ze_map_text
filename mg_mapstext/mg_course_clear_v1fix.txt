@@ -2,30 +2,30 @@
 {
 	">>Map made by Jenz and Onederp<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Jenz and Onederp 地图翻译：Ex_cKot**"
 	}
 	"Map made by Dyuj"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Dyuj**"
 	}
 	"Map by Ice and Fire Steam 1:0:52362682"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Ice and Fire Steam32位ID 1:0:52362682**"
 	}
 	"如果发现BUG请联系我"
 	{
-		"chi"		"** **"
+		"chi"		"** 如果发现BUG请联系我**"
 	}
 	"Map by Darnias"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Darnias**"
 	}
 	"--> Spawn Protection in 40 Seconds <--"
 	{
-		"chi"		"** **"
+		"chi"		"** 40秒内出生保护**"
 	}
 	"AFK Killer in 30 Secends!"
 	{
-		"chi"		"** **"
+		"chi"		"** 30秒后挂机处死**"
 	}
 }
