@@ -2,183 +2,183 @@
 {
 	"@[Map] Map by Blogger(Dog)"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Blogger(Dog) 地图翻译：Ex_cKot**"
 	}
 	"@[Map]  AFK TIMER in 30 sec"
 	{
-		"chi"		"** **"
+		"chi"		"** 30秒后挂机处死**"
 	}
 	"@[MAP] FOOTBALL"
 	{
-		"chi"		"** **"
+		"chi"		"** 足球**"
 	}
 	"@[MAP] PISTOLS"
 	{
-		"chi"		"** **"
+		"chi"		"** 手枪**"
 	}
 	"@[Mod] Headshot mod"
 	{
-		"chi"		"** **"
+		"chi"		"** 爆头模式**"
 	}
 	"@[Map] AFK KILLER"
 	{
-		"chi"		"** **"
+		"chi"		"** 挂机处死**"
 	}
 	"@[Map] Falling Boxes"
 	{
-		"chi"		"** **"
+		"chi"		"** 坠落**"
 	}
 	"@[Map] Random Timer Enabled"
 	{
-		"chi"		"** **"
+		"chi"		"** 随机时间开启**"
 	}
 	"@[Map] Refire Time - 3 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"** 3秒后重启**"
 	}
 	"@[Map] Refire Time - 2 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"** 2秒后重启**"
 	}
 	"@[Map] Refire Time -  1 second"
 	{
-		"chi"		"** **"
+		"chi"		"** 1秒后重启**"
 	}
 	"@[Map] Refire Time -  0.5 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"** 0.5秒后重启**"
 	}
 	"@[MAP] AWP"
 	{
-		"chi"		"** **"
+		"chi"		"** AWP**"
 	}
 	"@[Map] Arena fight"
 	{
-		"chi"		"** **"
+		"chi"		"** 竞技场**"
 	}
 	"@[Map] Random Weapon"
 	{
-		"chi"		"** **"
+		"chi"		"** 随机武器**"
 	}
 	"@[Map] Weapon AK-47"
 	{
-		"chi"		"** **"
+		"chi"		"** AK47**"
 	}
 	"@[Map] Random Timer Disabled"
 	{
-		"chi"		"** **"
+		"chi"		"** 随机时间关闭**"
 	}
 	"@[Map] Refire Time -  0.3 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"** 0.3秒后重启**"
 	}
 	"@[Map] Winners Get 10 Points"
 	{
-		"chi"		"** **"
+		"chi"		"** 胜者获得10分**"
 	}
 	"@[Map] BhopBattle"
 	{
-		"chi"		"** **"
+		"chi"		"** 连跳**"
 	}
 	"@[Map] 60 seconds before the battle"
 	{
-		"chi"		"** **"
+		"chi"		"** 60秒**"
 	}
 	"@[Map] 5"
 	{
-		"chi"		"** **"
+		"chi"		"** 5**"
 	}
 	"@[Map] 4"
 	{
-		"chi"		"** **"
+		"chi"		"** 4**"
 	}
 	"@[Map] 3"
 	{
-		"chi"		"** **"
+		"chi"		"** 3**"
 	}
 	"@[Map] 2"
 	{
-		"chi"		"** **"
+		"chi"		"** 2**"
 	}
 	"@[Map] 1"
 	{
-		"chi"		"** **"
+		"chi"		"** 1**"
 	}
 	"@[Map] Battle"
 	{
-		"chi"		"** **"
+		"chi"		"** 开始**"
 	}
 	"@[Map] AFK TIMER in 10 sec"
 	{
-		"chi"		"** **"
+		"chi"		"** 10秒后挂机处死**"
 	}
 	"@[Map] AFK TIMER activated"
 	{
-		"chi"		"** **"
+		"chi"		"** 挂机处死 激活**"
 	}
 	"@[Map] RANDOM GAME WILL BE CHOSEN"
 	{
-		"chi"		"** **"
+		"chi"		"** 随机游戏**"
 	}
 	"@[Map] Grenades"
 	{
-		"chi"		"** **"
+		"chi"		"** 手雷**"
 	}
 	"@[Map] Randomly selection"
 	{
-		"chi"		"** **"
+		"chi"		"** 随机选择**"
 	}
 	"@[Map] Fight Spawn Knife 200HP"
 	{
-		"chi"		"** **"
+		"chi"		"** 刀 200血**"
 	}
 	"@[Map] Surf Battle"
 	{
-		"chi"		"** **"
+		"chi"		"** 滑翔**"
 	}
 	"@[MAP] GOAL!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"** 得分！**"
 	}
 	"@[Map] TimeLimit"
 	{
-		"chi"		"** **"
+		"chi"		"** 时间限制**"
 	}
 	"@[Map] Skate"
 	{
-		"chi"		"** **"
+		"chi"		"** 滑冰**"
 	}
 	"@[Mod] BackStab"
 	{
-		"chi"		"** **"
+		"chi"		"** 背刺**"
 	}
 	"@[Map] Weapon Deagle"
 	{
-		"chi"		"** **"
+		"chi"		"** 沙鹰**"
 	}
 	"@[MAP] AIM"
 	{
-		"chi"		"** **"
+		"chi"		"** 瞄准**"
 	}
 	"@[Map] Climb"
 	{
-		"chi"		"** **"
+		"chi"		"** 攀爬**"
 	}
 	"@[Map] 3 MINUTES REMAINING"
 	{
-		"chi"		"** **"
+		"chi"		"** 剩余3分钟**"
 	}
 	"@[Map] 2 MINUTES REMAINING"
 	{
-		"chi"		"** **"
+		"chi"		"** 剩余2分钟**"
 	}
 	"@[Map] 1 MINUTES REMAINING"
 	{
-		"chi"		"** **"
+		"chi"		"** 剩余1分钟**"
 	}
 	"@[Map] Weapon Scout"
 	{
-		"chi"		"** **"
+		"chi"		"** 鸟狙**"
 	}
 	"@[MAP] This map does not work with bots..."
 	{
