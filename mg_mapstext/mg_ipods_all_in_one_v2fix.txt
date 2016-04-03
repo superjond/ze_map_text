@@ -2,11 +2,11 @@
 {
 	">>>Whitelist the commands below:<<<"
 	{
-		"chi"		"**这{NORMAL}个{DARKRED}{PINK}地{GREEN}图{PURPLE}必{DARKBLUE}须{BLUE}先{RED}选择{LIGHTGREEN}音{YELLOW}乐{GREEN}才可以选图**"
+		"chi"		"**这个地图必须先选择音乐才可以选图**"
 	}
 	">>sm_cvar, sm_say<<"
 	{
-		"chi"		"**这{NORMAL}个{DARKRED}{PINK}地{GREEN}图{PURPLE}必{DARKBLUE}须{BLUE}先{RED}选择{LIGHTGREEN}音{YELLOW}乐{GREEN}才可以选图**"
+		"chi"		"**这个地图必须先选择音乐才可以选图**"
 	}
 	"***CT'S Have Scored A Point!!!***"
 	{
@@ -74,7 +74,7 @@
 	}
 	">>>Map ported for SteamGamers by [SG] Punky<<<"
 	{
-		"chi"		"**地图制作 {YELLOW}By Lt.| iPod 翻译 By机翻 | 加入地图汉化组享受地图翻译权限**"
+		"chi"		"**Map ported for SteamGamers by [SG] Punky**"
 	}
 	"***Music Selection is...***"
 	{
