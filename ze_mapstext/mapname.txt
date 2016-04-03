@@ -766,23 +766,6 @@
 		"chi"		"被遗忘的设施"
 	}
 
-	"ze_chemical_weapons_depot_v2b"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_lemonysnickets_v1_e7"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_tilex_escape_e4"
-	{
-		"chi"		"此地图暂无译名"
-	}
-
-	"ze_sky_athletic_v6_7"
-	{
-		"chi"		"此地图暂无译名"
-	}
 	"ze_chemical_weapons_depot_v3a"
 	{
 		"chi"		"化学武器仓库"
@@ -828,10 +811,6 @@
 	{
 		"chi"		"最终幻想12：帕里米亚"
 	}
-	"ze_ffxii_westersand_v7_2_e2"
-	{
-		"chi"		"此地图暂无译名"
-	}
 
 
 	"ze_mirrors_edge_reborn_v4_2_p3"
@@ -851,10 +830,7 @@
 	{
 		"chi"		"跳刀e5"
 	}
-	"ze_007_goldeneye_64_v1"
-	{
-		"chi"		"此地图暂无译名"
-	}
+
 	"ze_haunted_lab_escape_v2c_e3"
 	{
 		"chi"		"闹鬼实验室"
@@ -884,18 +860,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_sky_athletic_v6_7fix4"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_hobbit_smaug_a1_2"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_gris_a4_7"
-	{
-		"chi"		"此地图暂无译名"
-	}
+
 	"ze_hobbit_smaug_a1_3"
 	{
 		"chi"		"此地图暂无译名"
@@ -908,10 +873,7 @@
 	{
 		"chi"		"停车场"
 	}
-	"ze_reloaded_v1_e7"
-	{
-		"chi"		"此地图暂无译名"
-	}
+
 	"ze_tloz_stone_tower_temple_v1_4"
 	{
 		"chi"		"塞尔达传说"
