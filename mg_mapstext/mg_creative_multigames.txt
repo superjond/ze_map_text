@@ -2,203 +2,203 @@
 {
 	"Map by $p@w!"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：$p@w 地图翻译：Ex_cKot**"
 	}
 	"** Auto MAP **"
 	{
-		"chi"		"** **"
+		"chi"		"** 自动选择制图**"
 	}
 	"*** The mode selected: Aim Deagle - Knife ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：沙鹰 - 刀**"
 	}
 	"*** El The map will begin within 5 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 5秒后载入地图**"
 	}
 	"*** Play ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 开始！**"
 	}
 	"AutoMode: * Velocidad * Puente: OFF"
 	{
-		"chi"		"** **"
+		"chi"		"** 自动模式：速度：关闭**"
 	}
 	"AutoMode: * Speed * Bridge: OFF"
 	{
-		"chi"		"** **"
+		"chi"		"** 自动模式：速度：关闭**"
 	}
 	"*** The mode selected: Jump Knife 200hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：200血 跳刀**"
 	}
 	"*** The mode selected: TOWER 100hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：100血 塔**"
 	}
 	"Map by Phoenix"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Phoenix**"
 	}
 	"*** The mode selected: Billiards 500hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：500血 台球**"
 	}
 	"*** The mode selected: Hockey Ice ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：冰球**"
 	}
 	"5s"
 	{
-		"chi"		"** **"
+		"chi"		"** 5秒**"
 	}
 	"4s"
 	{
-		"chi"		"** **"
+		"chi"		"** 4秒**"
 	}
 	"3s"
 	{
-		"chi"		"** **"
+		"chi"		"** 3秒**"
 	}
 	"2s"
 	{
-		"chi"		"** **"
+		"chi"		"** 2秒**"
 	}
 	"GO"
 	{
-		"chi"		"** **"
+		"chi"		"** 开始**"
 	}
 	"*** The mode selected: VolleyBall ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：排球**"
 	}
 	"*** The mode selected: CLIMB ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：攀爬**"
 	}
 	"*** The mode selected: Weapons AUGSIG 200hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：200血 AUG/SIG**"
 	}
 	"*** The mode selected: AimAk47 ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：AK47**"
 	}
 	"*** The mode selected: War of Boats 400hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：400血 船**"
 	}
 	"*** The mode selected: Knife Exploit barrels with REG  ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：刀**"
 	}
 	"*** The mode selected: Deagle 200hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：200血 沙鹰**"
 	}
 	"*** The mode selected: Pyramid 175hp Famas ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：175血 Famas**"
 	}
 	">5<"
 	{
-		"chi"		"** **"
+		"chi"		"** 5**"
 	}
 	">4<"
 	{
-		"chi"		"** **"
+		"chi"		"** 4**"
 	}
 	">3<"
 	{
-		"chi"		"** **"
+		"chi"		"** 3**"
 	}
 	">2<"
 	{
-		"chi"		"** **"
+		"chi"		"** 2**"
 	}
 	">1<"
 	{
-		"chi"		"** **"
+		"chi"		"** 1**"
 	}
 	"Go !"
 	{
-		"chi"		"** **"
+		"chi"		"** 开始！**"
 	}
 	"*** The mode selected: Comba ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：搏斗**"
 	}
 	"*** Ganado | Win -  m249 ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 胜利 - M249**"
 	}
 	"*** The mode selected: Canon Surft ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：加农炮**"
 	}
 	"*** The mode selected: Snowboard 190hp MAC ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：190血 MAC**"
 	}
 	"*** The mode selected: AWP 100hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：100血 AWP**"
 	}
 	"*** The mode selected: Paintball ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：弹球**"
 	}
 	"*** The mode selected: Taser Infinite ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：无限弹药**"
 	}
 	"*** The mode selected: Infinite Life (Deagle) ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：沙鹰**"
 	}
 	"*** The mode selected: Jump Knife 100hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：100血 刀**"
 	}
 	"*** The mode selected: TASER 1hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：1血**"
 	}
 	"*** The mode selected: Knife Lava 200hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：100血 刀**"
 	}
 	"*** GOOL EQUIPO AZUL GANA ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 蓝队胜利**"
 	}
 	"*** GOOL BLUE TEAM WINS ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 蓝队胜利**"
 	}
 	"*** The mode selected: SCOUT 100hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：100血 鸟狙**"
 	}
 	"*** The mode selected: LavaRun ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：跑**"
 	}
 	"*** The mode selected: WaterPolo ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：水球**"
 	}
 	"*** GOOL EQUIPO ROJO GANA ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 红队胜利**"
 	}
 	"*** GOOL RED TEAM WINS ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 红队胜利**"
 	}
 	"*** Cuchillo Activado! ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 刀**"
 	}
 	"* WinGanado * HE *"
 	{
@@ -206,246 +206,246 @@
 	}
 	"*** The mode selected: BUNNY ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：连跳**"
 	}
 	"* CuchilloKnife - 2s *"
 	{
-		"chi"		"** **"
+		"chi"		"** 2秒 刀**"
 	}
 	"*CuchilloKnife - ON *"
 	{
-		"chi"		"** **"
+		"chi"		"** 刀 开启**"
 	}
 	"*** The mode selected: Impulse in a circle MP5 ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：MP5**"
 	}
 	"* MasMore*"
 	{
-		"chi"		"** **"
+		"chi"		"** 地牢**"
 	}
 	"*** The mode selected: Weapons AKM4 125hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** *模式选择：125血 AK/M4*"
 	}
 	"*** The mode selected: SCOUT 200hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：200血 鸟狙**"
 	}
 	"*** The mode selected: Glass 500hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：500血**"
 	}
 	"*** The mode selected: Glass 200hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：200血**"
 	}
 	"*** The mode selected: M3 100hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：100血 M3**"
 	}
 	"*** The mode selected: AWP 400hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：400血 AWP**"
 	}
 	"AutoMode: Normal"
 	{
-		"chi"		"** **"
+		"chi"		"** 自动模式：普通**"
 	}
 	"*** The mode selected: CubeDual ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：双枪**"
 	}
 	"*** The mode selected: Balance ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：平衡**"
 	}
 	"*** The mode selected: Matrix - Galil ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：Galil**"
 	}
 	"*** The mode selected: Grenada ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：手雷**"
 	}
 	"*** The mode selected: Race ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：赛跑**"
 	}
 	">GO<"
 	{
-		"chi"		"** **"
+		"chi"		"** 开始！**"
 	}
 	"*** The mode selected: Ball Prisoner ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：球**"
 	}
 	"*** Round 1 ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 回合1**"
 	}
 	"*** Round 2 Balls ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 回合2 球**"
 	}
 	"*** Ronda 3 Cuchillo Protecion off ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 回合3 刀**"
 	}
 	"*** Round 3 Knife Protecion off ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 回合3 刀**"
 	}
 	"*** The mode selected: Glass 100hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：100血**"
 	}
 	"AutoMode: 200 hp"
 	{
-		"chi"		"** **"
+		"chi"		"** 自动模式：200血**"
 	}
 	"*** The mode selected: Labyrinth Dark  ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：黑暗迷宫**"
 	}
 	"*** The mode selected: Cars Crash ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：车**"
 	}
 	"*** The mode selected: Knife Lava 66hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：66血 刀**"
 	}
 	"*** The mode selected: Trampoline ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：蹦床**"
 	}
 	"*** The mode selected: Ninja vs Ninja ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：忍者VS忍者**"
 	}
 	"*** The mode selected: Weapons Mag7 66hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：66血 MAG-7**"
 	}
 	"*** The mode selected: Battle ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：战争**"
 	}
 	"*** GanadoWin (AWP) ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 胜利**"
 	}
 	"(-_-) !!"
 	{
-		"chi"		"** **"
+		"chi"		"** (-_-) !!**"
 	}
 	"*** The mode selected: KnifeBreak 200hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：200血 刀**"
 	}
 	"*** The mode selected: War of Boats 200hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：200血 船**"
 	}
 	"*** The mode selected: Soccer ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：足球**"
 	}
 	"* Empate - Cuchillo Activado! * 60s o muere"
 	{
-		"chi"		"** **"
+		"chi"		"** 刀 60秒或死亡**"
 	}
 	"* Draw - Knife enabled! * 60s or die"
 	{
-		"chi"		"** **"
+		"chi"		"** 刀 60秒或死亡**"
 	}
 	"*** The mode selected: House ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：屋子**"
 	}
 	"*** The mode selected: UMP45 - Speed - Gravity - HP 300 ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：300血 重力 速度 UMP-45**"
 	}
 	"*** The mode selected: Cubeknife ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：刀**"
 	}
 	"*** The mode selected: TASER 400hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：400血**"
 	}
 	"*** Knife enabled! ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 刀 可使用**"
 	}
 	"**Map Made by [SG] Paul**"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：[SG] Paul**"
 	}
 	"**Remake by FreeDOM**"
 	{
-		"chi"		"** **"
+		"chi"		"** 重置：FreeDOM**"
 	}
 	"*** The mode selected: ICE 100hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：100血 滑冰**"
 	}
 	"*** The mode selected: M3 200hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：200血 M3**"
 	}
 	"*** The mode selected: KnifeBreak 16hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：16血 刀**"
 	}
 	"*** The mode selected: TOWER 500hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：500血 塔**"
 	}
 	"*** The mode selected: Glass 300hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：300血**"
 	}
 	"*** The mode selected: Knife Lava 100hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：100血 刀**"
 	}
 	"*** The mode selected: Knife Lava 16hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：16血**"
 	}
 	"*** The mode selected: TOWER 200hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：200血 塔**"
 	}
 	"AutoMode: Solo (HeadShot) Puente: OFF"
 	{
-		"chi"		"** **"
+		"chi"		"** 自动模式：爆头：关闭**"
 	}
 	"AutoMode: Only (HeadShot) Bridge: OFF"
 	{
-		"chi"		"** **"
+		"chi"		"** 自动模式：爆头：关闭**"
 	}
 	"*** The mode selected: KnifeBreak 100hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：100血 刀**"
 	}
 	"*** The mode selected: ICE 16hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：16血 滑冰**"
 	}
 	"*** The mode selected: Deagle 100hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：100血 沙鹰**"
 	}
 	"*** The mode selected: TOWER 300hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：300血 塔**"
 	}
 	"*** The mode selected: KnifeBreak 66hp ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 模式选择：66血 刀**"
 	}
 }
