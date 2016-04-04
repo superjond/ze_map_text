@@ -628,4 +628,12 @@
 	{
 		"chi"		"** **"
 	}
+	"** ZOMBIES DETECTED ON FLYING PLATE **"
+	{
+		"chi"		"** **"
+	}
+	"** EXTREME MODE FAILED ** RESTARTING **"
+	{
+		"chi"		"** **"
+	}
 }

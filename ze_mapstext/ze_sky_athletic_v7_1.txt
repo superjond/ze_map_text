@@ -1036,4 +1036,28 @@
 	{
 		"chi"		"** **"
 	}
+	"*** DRAIN KEYBOARD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FLYING CHANCE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ESC STORM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OVERRUN PROTECTER DISABLED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OVERRUN PROTECTER ENABLED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** KEYBOARD CUTTER ***"
+	{
+		"chi"		"** **"
+	}
 }

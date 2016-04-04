@@ -116,4 +116,32 @@
 	{
 		"chi"		"** **"
 	}
+	"***Dificulty III***"
+	{
+		"chi"		"** **"
+	}
+	"* * * The Gate Door Will Open in 30 Seconds! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Zombie Shield Broken!"
+	{
+		"chi"		"** **"
+	}
+	"* * * Train is leaving in 20 seconds! * * *"
+	{
+		"chi"		"** **"
+	}
+	"***Next difficulty IV***"
+	{
+		"chi"		"** **"
+	}
+	"* * * LAST DOOR CLOSING IN 40 SECONDS! * * *"
+	{
+		"chi"		"** **"
+	}
+	"***Dificulty IV***"
+	{
+		"chi"		"** **"
+	}
 }
