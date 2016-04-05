@@ -2,158 +2,158 @@
 {
 	"***Map by Reflelia***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：Reflelia 地图翻译：Vocaloid-60**"
 	}
 	"***Teleport activates in 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后传送**"
 	}
 	"***3***"
 	{
-		"chi"		"** **"
+		"chi"		"**3！**"
 	}
 	"***2***"
 	{
-		"chi"		"** **"
+		"chi"		"**2！**"
 	}
 	"***1***"
 	{
-		"chi"		"** **"
+		"chi"		"**1！**"
 	}
 	"***RUN***"
 	{
-		"chi"		"** **"
+		"chi"		"**GO!GO!GO!**"
 	}
 	"***Resist for 60 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守60秒！**"
 	}
 	"***Zombies are coming!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸来了！**"
 	}
 	"***Teleporting all humans...***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送所有人类*"
 	}
 	"***Gravity picked up***"
 	{
-		"chi"		"** **"
+		"chi"		"**重力神器被拾取**"
 	}
 	"***shorcut open***"
 	{
-		"chi"		"** **"
+		"chi"		"**捷径开启**"
 	}
 	"***Teleporting all zombies...***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送僵尸ing...**"
 	}
 	"***10 seconds left***"
 	{
-		"chi"		"** **"
+		"chi"		"**还有10秒！**"
 	}
 	"***Resist 60 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守60秒！**"
 	}
 	"***Blue block==bhop***"
 	{
-		"chi"		"** **"
+		"chi"		"**蓝色方块需要连跳！（不会连跳不停顿一直往前跳也可以）**"
 	}
 	"***Zombies are coming!***"
 	{
-		"chi"		"** **"
+		"chi"		"**一大波僵尸来袭！**"
 	}
 	"***Safeplace has been activated***"
 	{
-		"chi"		"** **"
+		"chi"		"**安全区已被激活**"
 	}
 	"***Don't break the glass***"
 	{
-		"chi"		"** **"
+		"chi"		"**不要打碎玻璃！（僵尸也不要）**"
 	}
 	"***Teleport error***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送错误**"
 	}
 	"***Go to red block and resist***"
 	{
-		"chi"		"** **"
+		"chi"		"**去红色方块那边抵抗（去蓝色比较好）**"
 	}
 	"***Do not fall from blocks***"
 	{
-		"chi"		"** **"
+		"chi"		"**不要从上面掉下来**"
 	}
 	"***Try to find button***"
 	{
-		"chi"		"** **"
+		"chi"		"**去找到按钮！**"
 	}
 	"***Zombies are coming in 15 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在15秒后到达战场！**"
 	}
 	"***14***"
 	{
-		"chi"		"** **"
+		"chi"		"**14！**"
 	}
 	"***Gravity Used***"
 	{
-		"chi"		"** **"
+		"chi"		"**重力神器开启**"
 	}
 	"***24***"
 	{
-		"chi"		"** **"
+		"chi"		"**24！**"
 	}
 	"***Watermelon***"
 	{
-		"chi"		"** **"
+		"chi"		"**西瓜**"
 	}
 	"***Teleport error fixed in 30 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**传送错误将在30秒后修复**"
 	}
 	"***Try to find second button***"
 	{
-		"chi"		"** **"
+		"chi"		"**快找第二个按钮！**"
 	}
 	"***Zombies are coming***"
 	{
-		"chi"		"** **"
+		"chi"		"**一大波僵尸来袭！**"
 	}
 	"***Second teleport fixed in 30 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二次传送在30秒后**"
 	}
 	"***5 seconds left, prepare yourself***"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩下5秒，准备好！**"
 	}
 	"***Watch out!***"
 	{
-		"chi"		"** **"
+		"chi"		"**小心！**"
 	}
 	"***Resist for 30 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚持30秒！**"
 	}
 	"***1 left***"
 	{
-		"chi"		"** **"
+		"chi"		"**最后1次**"
 	}
 	"..."
 	{
-		"chi"		"** **"
+		"chi"		"**...**"
 	}
 	"***Destructive in 3 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**3秒后毁灭世界**"
 	}
 	"***Ready for final surf***"
 	{
-		"chi"		"** **"
+		"chi"		"**准备进行最后的滑翔**"
 	}
 	"***Nuke in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**核弹还有10秒到达战场**"
 	}
 }
