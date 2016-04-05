@@ -2,51 +2,51 @@
 {
 	"**The door will open in 45 seconds. Cover!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**门会在45秒后打开，守住这里！**"
 	}
 	"**Door is open 10 sec**"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后门开！**"
 	}
 	"**Elevator is leaving in 25s**"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯在25秒后离开！**"
 	}
 	"**Elevator is leaving in 5s**"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯在5秒后离开**"
 	}
 	"**Boats will arrive in 30 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**小船在30秒后到达**"
 	}
 	"** Boss Fight in 10s **"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后BOSS战**"
 	}
 	"** Boss Fight in 5s **"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后BOSS战**"
 	}
 	"** Nades do more damage (2s) **"
 	{
-		"chi"		"** **"
+		"chi"		"**手雷可以造成更大的伤害！（还有2秒）**"
 	}
 	"**The door will open in 30 seconds. Cover!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**门会在30秒后打开，守住！**"
 	}
 	"** Boss is dead - Escape ! **"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS死了，快逃！**"
 	}
 	"### Welcome to Abandoned Bio Bunker  ###"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到生物仓（什么鬼）**"
 	}
 	">>>Respawn wall break in 20 sec<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**重生墙在20秒后破碎**"
 	}
 	"*** STEAMGAMERS.COM ***"
 	{
@@ -54,7 +54,7 @@
 	}
 	"*** Mapper: yardy ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作:yardy 地图翻译:Vocaloid-60**"
 	}
 	"*** Co-Mapper: starbucks ***"
 	{
