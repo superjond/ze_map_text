@@ -648,7 +648,7 @@
 	"* Defend this floor for 30 seconds!!! *"
 	{
 		"chi"		"**防御这层楼30秒 **"
-                "DoorCountdown"		"30"
+		"DoorCountdown"		"30"
 	}
 	"* GO BACK! ELEVATOR LEAVES IN 5 SECONDS *"
 	{
@@ -729,5 +729,17 @@
 	"*** MAP WILL NOW RESET TO NORMAL ***"
 	{
 		"chi"		"**地图难度将保持在正常 **"
+	}
+	"** BUNKER ENDING: GET TO THE RIVERSIDE BUNKER **"
+	{
+		"chi"		"** **"
+	}
+	"** Explosion in 30 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"*Bunker Door opening in 7 seconds*"
+	{
+		"chi"		"** **"
 	}
 }
