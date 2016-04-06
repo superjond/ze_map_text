@@ -2,7 +2,7 @@
 {
 	"--Welcome to the Aperture Science Center--"
 	{
-		"chi"		"欢迎来到光圈科技中心"
+		"chi"		"欢迎来到光圈科技中心（原地尸变所以记得脚底丢冰啊！）"
 	}
 	"--Map made by Eugenio **Motanum** Roman--"
 	{
@@ -50,7 +50,7 @@
 	}
 	"--But for the last time are you extremely sure you want this?--"
 	{
-		"chi"		"你确定你上一次想要的就是这个？"
+		"chi"		"最后一次确认你真的想要这个吗？"
 	}
 	"--If thats what you REALLY want--"
 	{
@@ -94,7 +94,7 @@
 	}
 	"--**HINT: Crouch to clear the orange sphere!**--"
 	{
-		"chi"		"提示：下蹲以清除橙色球体"
+		"chi"		"提示：蹲下躲避橙色球体"
 	}
 	"--Congratulations--"
 	{
