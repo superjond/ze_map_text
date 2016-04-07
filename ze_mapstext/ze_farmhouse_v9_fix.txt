@@ -6,7 +6,7 @@
 	}
 	"*** For sugestions and bug reports or any information contact me on steam Steam Community ID --> JackBauer123 ***"
 	{
-		"chi"		"**有任何对本地图的建议和BUG反馈请在Steam查找作者 --> JackBauer123 **"
+		"chi"		"**有任何对本地图的建议和BUG反馈请在Steam社区联系作者 --> JackBauer123 **"
 	}
 	"*** Created by Jack Bauer ***"
 	{
@@ -18,19 +18,19 @@
 	}
 	"*** You Must Wait For Your Team ***"
 	{
-		"chi"		"**请等待你的队友**"
+		"chi"		"**请等下你的队友**"
 	}
 	"*** To use the barricade hammer press LEFT MOUSE button for wood go up, RIGHT MOUSE for wood go down, and LEFT+RIGHT MOUSE button for place a wood barricade! ***"
 	{
-		"chi"		"**神器-木板钉锤:按住左键木板向上,按住右键木板向下,左右键同时按下放置木板**"
+		"chi"		"**神器-木板:按住鼠标左键木板向上,按住右键木板向下,左右键同时按下放置木板**"
 	}
 	"*** The Train Will Leave in 5 seconds ***"
 	{
-		"chi"		"**火车5秒后离开**"
+		"chi"		"**火车5秒后发车**"
 	}
 	"*** Level B Door Opens in 25 Seconds ***"
 	{
-		"chi"		"**B层大门25后打开**"
+		"chi"		"**B层大门25秒后打开**"
 		"DoorCountdown"		"25"
 	}
 	"*** Level B Door Opens in 15 Seconds ***"
@@ -51,11 +51,11 @@
 	}
 	"*** HOLD LEFT MOUSE BUTTON to charge this plasma gun, and PRESS RIGHT MOUSE BUTTON TOGETHER TO SHOOT!! ***"
 	{
-		"chi"		"**神器-秒杀，按住左键充能后同时按住右键发射，可秒杀直线上的僵尸或坦克！**"
+		"chi"		"**神器-终极，按住左键充能后同时按住右键发射，可秒杀直线上的僵尸或坦克！**"
 	}
 	"*** THE MOVING CHECKPOINT WILL GO TO THE SPACE AREA IN 15 SECONDS!! ***"
 	{
-		"chi"		"**僵尸复活点15秒后移到太空区域！**"
+		"chi"		"**僵尸传送点15秒后移到太空区域！**"
 	}
 	"*** WAIT WHILE THE PORTAL IS BEING OPENED!!!! ***"
 	{
@@ -80,7 +80,7 @@
 	}
 	"*** THIS ELEVATOR IS HAUNTED, YOU MAY BE LUCKY IF YOU SURVIVE!!! ***"
 	{
-		"chi"		"**这部电梯出了问题，幸运的话里面的人会活下来！**"
+		"chi"		"**这部电梯有毒，丑的人都得死！**"
 	}
 	"*** The Lake Water Got Contaminated ***"
 	{
@@ -88,7 +88,7 @@
 	}
 	"*** BREAK THE BLUE BARREL TO PLAY AS THE TANK!!! ***"
 	{
-		"chi"		"**打破蓝色油桶以扮演坦克！**"
+		"chi"		"**挠蓝色油桶抢坦克啦！**"
 	}
 	"*** Eletric Fence Disabled ***"
 	{
@@ -108,15 +108,15 @@
 	}
 	"*** THE LADDER WILL NOT BREAK ANYMORE! FALL BACK!! ***"
 	{
-		"chi"		"**梯子不能打破了！撤退！**"
+		"chi"		"**梯子打不碎了！撤退！**"
 	}
 	"*** CASTLE DOOR IS CLOSING IN 5 SECONDS ***"
 	{
-		"chi"		"**城门5秒后关闭**"
+		"chi"		"**城门5秒后关闭（玩机枪的快跑）**"
 	}
 	"*** Detonation in 3 Seconds ***"
 	{
-		"chi"		"**3秒后爆破城门前区域！**"
+		"chi"		"**3秒后爆破城门前区域！僵尸们珍爱生命！**"
 	}
 	"*** The Helicopter Will Depart in 30 seconds ***"
 	{
@@ -157,7 +157,7 @@
 	}
 	"*** Press RIGHT MOUSE BUTTON to push things away with this gun! ***"
 	{
-		"chi"		"**神器-驱逐枪，按下右键推开面前一定范围的僵尸！**"
+		"chi"		"**神器-推力枪，按下右键推开面前小范围的僵尸！遛坦克必备！**"
 	}
 	"*** THE ICE GUN HOLDER HAS 60 SECONDS TO LEAVE THE VENTS BEFORE THE ANTI CAMPER ACTIVATES! ***"
 	{
