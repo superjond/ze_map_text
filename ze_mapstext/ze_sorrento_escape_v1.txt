@@ -144,4 +144,44 @@
 	{
 		"chi"		"** **"
 	}
+	"++ 1st December 2016 ++"
+	{
+		"chi"		"** **"
+	}
+	"++ PART 1 ++"
+	{
+		"chi"		"** **"
+	}
+	"++ OLDSCHOOL BOAT WILL LEAVE IN 8 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ PART 2 ++"
+	{
+		"chi"		"** **"
+	}
+	"++ PART 3 ++"
+	{
+		"chi"		"** **"
+	}
+	"++ IMPOSSIBLE ++"
+	{
+		"chi"		"** **"
+	}
+	"++ GATE 1 WILL OPEN IN 90 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ PART 4 ++"
+	{
+		"chi"		"** **"
+	}
+	"++ ACTIVATE THE EYE ++"
+	{
+		"chi"		"** **"
+	}
+	"++ THE EYE HAS DISAPPEARED ++"
+	{
+		"chi"		"** **"
+	}
 }

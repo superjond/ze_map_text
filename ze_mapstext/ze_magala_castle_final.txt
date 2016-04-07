@@ -92,4 +92,8 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Defend the ladder 15 seconds ***"
+	{
+		"chi"		"** **"
+	}
 }

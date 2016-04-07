@@ -536,4 +536,12 @@
 	{
 		"chi"		"** **"
 	}
+	">> DITTO LEAF ARE DESTROYED <<"
+	{
+		"chi"		"** **"
+	}
+	">> BUT ITS NOT VERY EFFECTIVE ! <<"
+	{
+		"chi"		"** **"
+	}
 }

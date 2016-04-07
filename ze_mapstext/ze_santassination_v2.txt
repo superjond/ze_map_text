@@ -756,7 +756,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***THANK YOU FOR PLAYING***"
+	"***Thank you for playing***"
 	{
 		"chi"		"** **"
 	}
@@ -861,6 +861,10 @@
 		"chi"		"** **"
 	}
 	"***LEFT LEFT SECOND FACE WALL HAS EXPLODED***"
+	{
+		"chi"		"** **"
+	}
+	"Everyone should really consider sending Luffaren some nudes"
 	{
 		"chi"		"** **"
 	}

@@ -742,4 +742,20 @@
 	{
 		"chi"		"** **"
 	}
+	"* Cisneros' Hero Burguer has been picked up! *"
+	{
+		"chi"		"** **"
+	}
+	"*** Energy is coming back to the engine! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD! The train will move as soon as the engine recharges! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PANIC MODE COMPLETED ***"
+	{
+		"chi"		"** **"
+	}
 }
