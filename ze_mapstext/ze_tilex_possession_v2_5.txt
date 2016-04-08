@@ -126,4 +126,12 @@
 	{
 		"chi"		"难度：RTV吧！愚蠢的人类！"
 	}
+	"Door opening in 80 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Remaining 40 seconds!"
+	{
+		"chi"		"** **"
+	}
 }

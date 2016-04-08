@@ -3,17 +3,110 @@
 	"*** original : Super mario 64 Bowser in the fire sea ***"
 	{
 		"chi"		"**原文：超级马里奥64库巴在火海 **"
+		"*** WARNING : This map was ported from CS:S ***"
+		{
+			"chi"		"**警告:这张地图从CS:S移植 **"
+		}
+		"*** NOBOSS   NO ITEM   ***"
+		{
+			"chi"		"**没有BOSS 没有神器 **"
+		}
+		"*** It become simply map... ***"
+		{
+			"chi"		"**它变成了简单的地图… **"
+		}
+		"*** map created by thas ***"
+		{
+			"chi"		"** **"
+		}
+		"*** creating particle helped by Airvulpes ***"
+		{
+			"chi"		"**创建粒子Airvulpes的帮助下 **"
+		}
+		"*** LIFT LEAVES IN 15 SECONDS ***"
+		{
+			"chi"		"**电梯在15秒后离开 **"
+		}
+		"*** LIFT LEAVES IN 5 SECONDS ***"
+		{
+			"chi"		"**电梯在5秒后离开 **"
+		}
+		"*** Wall will become can climb in 40 SECONDS ***"
+		{
+			"chi"		"**后面的墙壁40秒后可以攀爬 **"
+		}
+		"*** STUCK TELEPORT IS ENABLED ***"
+		{
+			"chi"		"**启用了传送 **"
+		}
+		"*** STUCKER HURRY TO RUN ***"
+		{
+			"chi"		"**斯图克快点跑 **"
+		}
+		"*** DEFEND FOR 5 SECONDS ***"
+		{
+			"chi"		"**防守5秒 **"
+		}
+		"*** GO!! GO!!***"
+		{
+			"chi"		"**走！！ 走！！ **"
+		}
+		"*** YOU CAN CLIMB THE WALL ***"
+		{
+			"chi"		"**你可以爬到墙上 **"
+		}
+		"*** LIFT WILL RISE IN 20 SECONDS ***"
+		{
+			"chi"		"**电梯将在20秒后上升 **"
+		}
+		"*** LIFT WILL RISE IN 5 SECONDS ***"
+		{
+			"chi"		"**电梯将在5秒后上升 **"
+		}
+		"*** DEFEND FOR 30 SECONDS ***"
+		{
+			"chi"		"**防守30秒 **"
+		}
+		"*** GO !! GO !! ***"
+		{
+			"chi"		"**走 ！！ 走 ！！ **"
+		}
+		"*** NORMAL MODE COMPLETED ***"
+		{
+			"chi"		"**正常模式完成 **"
+		}
+		"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
+		{
+			"chi"		"**经测试服务器：樱花[CS：S]，藏[CS：GO] **"
+		}
+		"*** A PERSON PICKED UP THE COLOR LIFT ***"
+		{
+			"chi"		"**一个人拿起了彩色的电梯 **"
+		}
+		"*** IF YOU LOST IT ***"
+		{
+			"chi"		"**如果你失去了它 **"
+		}
+		"*** WE CAN'T ESCAPE FROM FIRE SEA !!! ***"
+		{
+			"chi"		"**我们就不能逃离火海! ! ! **"
+		}
+		"*** PICKER MUST NOT DIE AND HOLD THIS !!! ***"
+		{
+			"chi"		"** **"
+		}
+	}
 	"*** WARNING : This map was ported from CS:S ***"
 	{
-		"chi"		"**警告:这张地图从CS:S移植 **"
+		"chi"		"** **"
 	}
 	"*** NOBOSS   NO ITEM   ***"
 	{
-		"chi"		"**没有BOSS 没有神器 **"
+		"chi"		"** **"
 	}
 	"*** It become simply map... ***"
 	{
-		"chi"		"**它变成了简单的地图… **"
+		"chi"		"** **"
 	}
 	"*** map created by thas ***"
 	{
@@ -21,77 +114,57 @@
 	}
 	"*** creating particle helped by Airvulpes ***"
 	{
-		"chi"		"**创建粒子Airvulpes的帮助下 **"
+		"chi"		"** **"
 	}
 	"*** LIFT LEAVES IN 15 SECONDS ***"
 	{
-		"chi"		"**电梯在15秒后离开 **"
+		"chi"		"** **"
 	}
 	"*** LIFT LEAVES IN 5 SECONDS ***"
 	{
-		"chi"		"**电梯在5秒后离开 **"
+		"chi"		"** **"
 	}
 	"*** Wall will become can climb in 40 SECONDS ***"
 	{
-		"chi"		"**后面的墙壁40秒后可以攀爬 **"
+		"chi"		"** **"
 	}
 	"*** STUCK TELEPORT IS ENABLED ***"
 	{
-		"chi"		"**启用了传送 **"
+		"chi"		"** **"
 	}
 	"*** STUCKER HURRY TO RUN ***"
 	{
-		"chi"		"**斯图克快点跑 **"
+		"chi"		"** **"
 	}
 	"*** DEFEND FOR 5 SECONDS ***"
 	{
-		"chi"		"**防守5秒 **"
+		"chi"		"** **"
 	}
-	"*** GO!! GO!!***"
+	"*** GO GO !! ***"
 	{
-		"chi"		"**走！！ 走！！ **"
+		"chi"		"** **"
 	}
 	"*** YOU CAN CLIMB THE WALL ***"
 	{
-		"chi"		"**你可以爬到墙上 **"
+		"chi"		"** **"
 	}
 	"*** LIFT WILL RISE IN 20 SECONDS ***"
 	{
-		"chi"		"**电梯将在20秒后上升 **"
+		"chi"		"** **"
 	}
 	"*** LIFT WILL RISE IN 5 SECONDS ***"
 	{
-		"chi"		"**电梯将在5秒后上升 **"
+		"chi"		"** **"
 	}
 	"*** DEFEND FOR 30 SECONDS ***"
 	{
-		"chi"		"**防守30秒 **"
+		"chi"		"** **"
 	}
 	"*** GO !! GO !! ***"
 	{
-		"chi"		"**走 ！！ 走 ！！ **"
+		"chi"		"** **"
 	}
 	"*** NORMAL MODE COMPLETED ***"
-	{
-		"chi"		"**正常模式完成 **"
-	}
-	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
-	{
-		"chi"		"**经测试服务器：樱花[CS：S]，藏[CS：GO] **"
-	}
-	"*** A PERSON PICKED UP THE COLOR LIFT ***"
-	{
-		"chi"		"**一个人拿起了彩色的电梯 **"
-	}
-	"*** IF YOU LOST IT ***"
-	{
-		"chi"		"**如果你失去了它 **"
-	}
-	"*** WE CAN'T ESCAPE FROM FIRE SEA !!! ***"
-	{
-		"chi"		"**我们就不能逃离火海! ! ! **"
-	}
-	"*** PICKER MUST NOT DIE AND HOLD THIS !!! ***"
 	{
 		"chi"		"** **"
 	}

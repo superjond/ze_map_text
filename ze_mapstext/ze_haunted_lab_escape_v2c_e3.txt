@@ -144,4 +144,16 @@
 	{
 		"chi"		"**难度IV**"
 	}
+	"* * * Train is leaving in 30 seconds! * * *"
+	{
+		"chi"		"** **"
+	}
+	"***Congratulations!***"
+	{
+		"chi"		"** **"
+	}
+	"***Resetting the map***"
+	{
+		"chi"		"** **"
+	}
 }

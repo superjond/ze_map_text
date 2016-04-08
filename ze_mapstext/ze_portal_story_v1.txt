@@ -1,0 +1,43 @@
+"Console_T"
+{
+	"> Map by SubDelt@"
+	{
+		"chi"		"** **"
+	}
+	"> Thanks to"
+	{
+		"chi"		"** **"
+	}
+	"> Enviolinador - multiple things help"
+	{
+		"chi"		"** **"
+	}
+	"> (RMG) Synopsis [pF] - special items help"
+	{
+		"chi"		"** **"
+	}
+	"> JorisCeoen - models help"
+	{
+		"chi"		"** **"
+	}
+	"> Luffaren - particles help"
+	{
+		"chi"		"** **"
+	}
+	">>> ZE PORTAL STORY - NORMAL DIFFICULTY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HOLD THIS CHAMBER. DOOR IS OPENING IN 25 SECS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DOOR IS OPENING IN 5 SECS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DOOR IS OPEN. ELEVATOR LEAVES IN 10 SECS <<<"
+	{
+		"chi"		"** **"
+	}
+}
