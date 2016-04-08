@@ -1060,4 +1060,24 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Marathon MODE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Random trigger activated ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Soft move trigger ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Low friction Trigger ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Low gravity Trigger ***"
+	{
+		"chi"		"** **"
+	}
 }
