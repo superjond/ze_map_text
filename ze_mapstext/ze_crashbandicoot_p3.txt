@@ -100,16 +100,4 @@
 	{
 		"chi"		"**船的航线 **"
 	}
-	"[Load ShroomForest2 Config]"
-	{
-		"chi"		"** **"
-	}
-	"[Warmup] Wait for others players to join"
-	{
-		"chi"		"**[热身]等待其他玩家加入 **"
-	}
-	"*** NY MARATHON: GET READY TO RUN! ***"
-	{
-		"chi"		"**纽约马拉松：准备好逃跑 **"
-	}
 }
