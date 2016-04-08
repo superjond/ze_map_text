@@ -2,159 +2,159 @@
 {
 	"* * >>TIP<< ORANGE is a GOOD colour * *"
 	{
-		"chi"		"** **"
+		"chi"		"**> >提示<<橙色是一种好的颜色 **"
 	}
 	"* * * Current phase: CURSED HEXAHEDRON * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**当前阶段：被诅咒的六面体 **"
 	}
 	"* * The pedestal will be raising in 25 seconds * *"
 	{
-		"chi"		"** **"
+		"chi"		"**底座将在25秒内提高 **"
 	}
 	"* * Map by Mojonero * *"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作:Mojonero 地图翻译：蓬莱山帅比♪ **"
 	}
 	"* * * Current phase: NOT TRAMPOLINES * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**当前阶段:蹦床 **"
 	}
 	"* * * Current phase: MAGIC IS REAL * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**当前阶段：魔法是真实的 **"
 	}
 	"* * Hold here for 20 seconds * *"
 	{
-		"chi"		"** **"
+		"chi"		"**在这里守住20秒 **"
 	}
 	"* * 3 seconds left * *"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩3秒 **"
 	}
 	"* * Left route door will open in 20 seconds * *"
 	{
-		"chi"		"** **"
+		"chi"		"**左边路的门会在20秒内打开 **"
 	}
 	"* * * Aeolus' Spirit has been picked up * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**风神的精神已经拿起 **"
 	}
 	"* * Wait 23 seconds * *"
 	{
-		"chi"		"** **"
+		"chi"		"**等待23秒 **"
 	}
 	"* * Press both buttons at the same time * *"
 	{
-		"chi"		"** **"
+		"chi"		"**同时按下两个按钮 **"
 	}
 	"* * * Frost Wave has been picked up * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**霜波已经捡起 **"
 	}
 	"* * * GO NIGGER DICK * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**走 黑鬼 迪克 **"
 	}
 	"* * * GO WHITE DICK * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**走 变白 迪克 **"
 	}
 	"* * * GO CHARIZARD DICK * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**走 喷火龙 迪克 **"
 	}
 	"* * * GO HULK DICK * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**走   巨人 迪克 **"
 	}
 	"* * Door opening in 25 seconds * *"
 	{
-		"chi"		"** **"
+		"chi"		"**门25秒后打开   **"
 	}
 	"* * Closing door * * 5 seconds left * *"
 	{
-		"chi"		"** **"
+		"chi"		"**关闭门* * 5秒 **"
 	}
 	"* * KEEP DEFENDING * *"
 	{
-		"chi"		"** **"
+		"chi"		"**继续防守 **"
 	}
 	"* * Go to the lower floor * *"
 	{
-		"chi"		"** **"
+		"chi"		"**去楼下 **"
 	}
 	"* * * Starting elevator * * * 20 seconds * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**启动电梯* * * 20秒 **"
 	}
 	"* * * The door will open in 15 seconds * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在15秒打开 **"
 	}
 	"* * * Hold 15 seconds * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**守住15秒 **"
 	}
 	"* * * 5 seconds left * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"* * Wait 15 seconds * *"
 	{
-		"chi"		"** **"
+		"chi"		"**等待15秒 **"
 	}
 	"* * You can pass * *"
 	{
-		"chi"		"** **"
+		"chi"		"**你可以通过 **"
 	}
 	"* * * Flame of Udun has been picked up * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**火邪焰已经捡起 **"
 	}
 	"* * 15 seconds until final teleport * *"
 	{
-		"chi"		"** **"
+		"chi"		"**守住15秒，直到最终传送 **"
 	}
 	"* * Humans must reach the arena or they will be teleported * *"
 	{
-		"chi"		"** **"
+		"chi"		"**人类必须进入竞技场或者他们会自动传送 **"
 	}
 	"* * * IT HAS RUN AWAY * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**它跑了 **"
 	}
 	"* * * RUN! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**跑！ **"
 	}
 	"* * 25 seconds until this... thing... starts * *"
 	{
-		"chi"		"** **"
+		"chi"		"**守住25秒，直到这个…事情...开始 **"
 	}
 	"* * Resist! * * It all will end soon * *"
 	{
-		"chi"		"** **"
+		"chi"		"**守住!* *这一切很快就会结束 **"
 	}
 	"* * * Current phase: TOTALLY NEVER SEEN * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**当前阶段:完全没见过 **"
 	}
 	"* * * Wait 7 seconds * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**等待7秒 **"
 	}
 	"* * * Door opening in 12 seconds * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**门12秒后打开 **"
 	}
 	"* * * Door opening in 3 seconds * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**门3秒后打开 **"
 	}
 	"* * * The bridge will be enabled in 25 seconds * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**大桥将在25秒内启用 **"
 	}
 	"* * * MOVE * * *"
 	{
@@ -162,91 +162,91 @@
 	}
 	"* * * Exit door will open in 10 seconds * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**出口门会在10秒后打开 **"
 	}
 	"* * * Hold this position for 30 seconds * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒 **"
 	}
 	"* * * 10 seconds left * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩下10秒 **"
 	}
 	"* * Top door will open in 15 seconds * *"
 	{
-		"chi"		"** **"
+		"chi"		"**门在15秒后打开 **"
 	}
 	"* * Top door will open in 3 seconds * *"
 	{
-		"chi"		"** **"
+		"chi"		"**门在3秒后打开 **"
 	}
 	"* * * Top exit door will open in 13 seconds * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**上出口门将在13秒打开 **"
 	}
 	"* * * There must be a way to open that door * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**必须有打开那扇门的方式 **"
 	}
 	"* * * Figure it out * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**找出它 **"
 	}
 	"* * * It's open * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**它是开放的 **"
+	}
+	"* * * Wait until magic happens * * *"
+	{
+		"chi"		"**等待奇迹发生 **"
 	}
 	"* * * Wait until magic happens * * *"
 	{
 		"chi"		"** **"
 	}
-	"* * * HOLD THIS POSITION * * *"
-	{
-		"chi"		"** **"
-	}
 	"* * * Just a bit more... * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**只是多一点 **"
 	}
 	"* * * The Magic Fire has arrived! * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**魔法火焰已经到来！ **"
 	}
 	"* * * Projectile Deflector has been picked up * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**弹丸偏转器已经拿起 **"
 	}
 	"* * Hacking doors. This may take a few seconds * *"
 	{
-		"chi"		"** **"
+		"chi"		"**窃听门。这可能需要几秒钟 **"
 	}
 	"* * Press the orange button to start the Core * *"
 	{
-		"chi"		"** **"
+		"chi"		"**按橙色按钮启动核心 **"
 	}
 	"> INITIALIZING CORE <"
 	{
-		"chi"		"** **"
+		"chi"		"**初始化核心 **"
 	}
 	"> THE CORE WILL BE READY IN 21 SECONDS <"
 	{
-		"chi"		"** **"
+		"chi"		"**核心将在21秒准备 **"
 	}
 	"> CORE READY IN 5 SECONDS <"
 	{
-		"chi"		"** **"
+		"chi"		"**核心在5秒后准备完毕 **"
 	}
 	"> CORE READY <"
 	{
-		"chi"		"** **"
+		"chi"		"**核心准备 **"
 	}
 	"* * We can move * * FALL BACK * *"
 	{
-		"chi"		"** **"
+		"chi"		"**我们可以移动* *回落 **"
 	}
 	"* * Hold 25 seconds * *"
 	{
-		"chi"		"** **"
+		"chi"		"**守住25秒 **"
 	}
 	"* * You have defended long enough * *"
 	{
@@ -254,35 +254,35 @@
 	}
 	"* * Keep running * *"
 	{
-		"chi"		"** **"
+		"chi"		"**继续跑 **"
 	}
 	"* * The Core is getting unstable... * *"
 	{
-		"chi"		"** **"
+		"chi"		"**核心越来越不稳定…… **"
 	}
 	"* * 20 seconds until the door opens * *"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒钟后打开门 **"
 	}
 	"(Right) * * * Door opening * * * 8 seconds * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**(右)* * *门打开* * * 8秒 **"
 	}
 	"* * * HOLD FOR 15 SECONDS * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**守住15秒 **"
 	}
 	"* * * ONLY 3 SECONDS LEFT * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**只剩下3秒 **"
 	}
 	"* * BUTTONS PRESSED * *"
 	{
-		"chi"		"** **"
+		"chi"		"**按钮按下 **"
 	}
 	"* * GO GO GO * *"
 	{
-		"chi"		"** **"
+		"chi"		"**走走走 **"
 	}
 	"* * The main door WILL open in 35s... * *"
 	{
@@ -290,31 +290,31 @@
 	}
 	"* * ...but this convenient side vent might help * *"
 	{
-		"chi"		"** **"
+		"chi"		"**......但这种方便的侧通风口可以帮助 **"
 	}
 	"* * Final door opening in 20 seconds * *"
 	{
-		"chi"		"** **"
+		"chi"		"**最后一道门20秒秒后打开 **"
 	}
 	"* * Final door opening in 5 seconds * *"
 	{
-		"chi"		"** **"
+		"chi"		"**最后一道门5秒后打开 **"
 	}
 	"* * You have reached the escape zone * *"
 	{
-		"chi"		"** **"
+		"chi"		"**你已经达到逃避区 **"
 	}
 	"* * Wait 40 seconds until the magic elevator is ready to go * *"
 	{
-		"chi"		"** **"
+		"chi"		"**等待40秒，直到魔术电梯准备就绪 **"
 	}
 	"* * Only 10 seconds left * * Hold * *"
 	{
-		"chi"		"** **"
+		"chi"		"**只剩下10秒* * **"
 	}
 	"* * Magic elevator is ready * *"
 	{
-		"chi"		"** **"
+		"chi"		"**神奇的电梯已经准备好了 **"
 	}
 	"* * Zombies got inside * * Learn2hold * *"
 	{
@@ -322,34 +322,34 @@
 	}
 	"(Left) * * * Door opening * * * 8 seconds * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**(左)* * *门打开* * * 8秒 **"
 	}
 	"* * * Slightly Cursed Hexahedron has been picked up * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**略受诅咒的六面体已经拿起 **"
 	}
 	"*** NY MARATHON: GET READY TO RUN! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**纽约马拉松:准备跑! **"
 	}
 	"* * Bottom door will open in 15 seconds * *"
 	{
-		"chi"		"** **"
+		"chi"		"**在15秒内底部的门会打开 **"
 	}
 	"* * Bottom door will open in 3 seconds * *"
 	{
-		"chi"		"** **"
+		"chi"		"**底部门会在3秒内打开 **"
 	}
 	"* * * Bottom exit door will open in 11 seconds * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**在11秒内底部出口门会打开 **"
 	}
 	"* * * IT'S DEAD * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**它死了 **"
 	}
 	"* * * ZOMBIES! nowin4u * * *"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸！没有胜利 **"
 	}
 }

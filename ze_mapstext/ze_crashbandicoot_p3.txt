@@ -2,15 +2,15 @@
 {
 	">>LEVEL 1<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关 **"
 	}
 	"***HOLD FOR 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住20秒 **"
 	}
 	"***GO!GO!GO!***"
 	{
-		"chi"		"** **"
+		"chi"		"**走！走！走！ **"
 	}
 	"*** SHOOT THE WALL ***"
 	{
@@ -18,98 +18,86 @@
 	}
 	"***HOLD FOR 30 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住30秒 **"
 	}
 	"***HOLD FOR 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住10秒 **"
 	}
 	"LEVEL COMPLETED!!"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜完成第一关 **"
 	}
 	"***ZOMBIES INSIDE!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸在里面！！！ **"
 	}
 	">>LEVEL 2<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关 **"
 	}
 	"***GO!***"
 	{
-		"chi"		"** **"
+		"chi"		"**走！ **"
 	}
 	"***STAY ON GLOWING AREA OR...***"
 	{
-		"chi"		"** **"
+		"chi"		"**呆在发光的区域或… **"
 	}
 	"***--- YOU WILL DIE WHEN BALLOON STARTS MOVING***"
 	{
-		"chi"		"** **"
+		"chi"		"**当气球开始移动时，你会死的 **"
 	}
 	"***CORTEX DOESNT TAKE DAMAGE FROM BULLETS***"
 	{
-		"chi"		"** **"
+		"chi"		"**子弹不会对它造成伤害 **"
 	}
 	"***TRY TO KILL IT WITH SOMETHING ELSE***"
 	{
-		"chi"		"** **"
+		"chi"		"**试着用其他东西杀死它 **"
 	}
 	">>LEVEL 3<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关 **"
 	}
 	"***DEFEND FOR 10 SECONDS!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住10秒钟！！！ **"
 	}
 	"*** GET OFF THE ELEVATOR!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**离开电梯! ! ! **"
 	}
 	"*** OH NO! ITS UKA UKA!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**哦，不！它的UKA UKA！！！ **"
 	}
 	"*** KILL IT BEFORE IT DOES SOMETHING***"
 	{
-		"chi"		"** **"
+		"chi"		"**在做某事之前杀了它 **"
 	}
 	"*** UKA UKA IS DEFEATED! RUN TO SAFETY!***"
 	{
-		"chi"		"** **"
+		"chi"		"**UKA UKA被击败!跑到安全的地方! **"
 	}
 	">>LEVEL 1 Extreme<<"
 	{
-		"chi"		"** **"
+		"chi"		"**EX1 **"
 	}
 	"*** Defend both sides***"
 	{
-		"chi"		"** **"
+		"chi"		"**保卫双方 **"
 	}
 	">>LEVEL 2 Extreme<<"
 	{
-		"chi"		"** **"
+		"chi"		"**EX2 **"
 	}
 	">>LEVEL 3 Extreme<<"
 	{
-		"chi"		"** **"
+		"chi"		"**EX3 **"
 	}
 	"***BOAT ROUTE***"
 	{
-		"chi"		"** **"
-	}
-	"[Load ShroomForest2 Config]"
-	{
-		"chi"		"** **"
-	}
-	"[Warmup] Wait for others players to join"
-	{
-		"chi"		"** **"
-	}
-	"*** NY MARATHON: GET READY TO RUN! ***"
-	{
-		"chi"		"** **"
+		"chi"		"**船的航线 **"
 	}
 }
