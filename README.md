@@ -6,31 +6,19 @@
 	{
 		"chi"		"**火车5秒后发车**"
 		"DoorCountDown" "5"
-		"ico"   "icon_tip" //代表把开门的ICO图标换成提示
+		"ico"   "icon_tip" //代表把开门的ICO图标换成tip提示图标
 	}
 
 		"*** The Train Will Leave in 5 seconds ***"
 	{
 		"chi"		"**火车5秒后发车**"
-		"ico"   "icon_tip" //代表加强显示一次消息(带图标)
+		"ico"   "icon_fire" //代表加强显示一次消息(带图标)
 	}
 	
 可用的图标列表
 icon_door
-icon_bulb
-icon_caution
 icon_alert
 icon_alert_red
 icon_tip
-icon_skull
-icon_no
-icon_run
 icon_interact
-icon_button
-icon_arrow_plain
-icon_arrow_plain_white_dn
-icon_arrow_plain_white_up
-icon_arrow_up
-icon_arrow_right
-icon_fire
-icon_present
+icon_fire 
