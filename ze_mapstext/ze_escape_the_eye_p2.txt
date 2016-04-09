@@ -1,0 +1,51 @@
+"Console_T"
+{
+	"+++ FIXED BY CISNEROS +++"
+	{
+		"chi"		"** **"
+	}
+	"+++  MAP MADE BY GARGANTUA +++"
+	{
+		"chi"		"** **"
+	}
+	"+++ THE DOOR IS OPENING IN 45 SECONDS+++"
+	{
+		"chi"		"** **"
+	}
+	"+++ RESIST IN THIS ZONE +++"
+	{
+		"chi"		"** **"
+	}
+	"+++ THE DOOR IS OPENING IN 25 SECONDS +++"
+	{
+		"chi"		"** **"
+	}
+	"+++ THE DOOR IS OPENING IN 5 SECONDS +++"
+	{
+		"chi"		"** **"
+	}
+	"+++ THE DOOR IS OPEN +++"
+	{
+		"chi"		"** **"
+	}
+	"+++ THE FIRST WALL IS BREAKING IN 15 SECONDS +++"
+	{
+		"chi"		"** **"
+	}
+	"+++ THE FIRST WALL IS BROKEN +++"
+	{
+		"chi"		"** **"
+	}
+	"+++ THE ELEVATOR IS LEAVING IN 10 SECONDS +++"
+	{
+		"chi"		"** **"
+	}
+	"+++ THE DOOR IS OPENING IN 100 SECONDS  +++"
+	{
+		"chi"		"** **"
+	}
+	"+++ PREPARE YOUR DEFENSE AND DEFEND AT THIS ZONE +++"
+	{
+		"chi"		"** **"
+	}
+}

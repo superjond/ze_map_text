@@ -60,4 +60,20 @@
 	{
 		"chi"		"** 杀个痛快！**"
 	}
+	"Dark Castle Course"
+	{
+		"chi"		"** **"
+	}
+	"Flashlight disabled"
+	{
+		"chi"		"** **"
+	}
+	"Tech Course"
+	{
+		"chi"		"** **"
+	}
+	"You only have 1 minute left"
+	{
+		"chi"		"** **"
+	}
 }

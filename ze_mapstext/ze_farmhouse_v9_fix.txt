@@ -210,4 +210,8 @@
 	{
 		"chi"		"**管理员已设置下局难度为极限(Extreme)！**"
 	}
+	"*** THE BIG ROCK ON THE WOOD PLATFORM CAN BE BROKEN BY THE TANK WITH ARROUND 5 PUNCHSROCKS!!! ***"
+	{
+		"chi"		"** **"
+	}
 }
