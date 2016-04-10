@@ -210,52 +210,5 @@
 	{
 		"chi"		"**铁门正在关闭！**"
 	}
-	"*** RESIST! We failed to get the crystals in time! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Doors will close in 40 secs! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** YOU'RE TOO SLOW - WE FAILED! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** WE'RE OUT OF TIME! ***"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL 1<<"
-	{
-		"chi"		"** **"
-	}
-	"***CURRENT DIFFICULTY IS NORMAL***"
-	{
-		"chi"		"** **"
-	}
-	"***DIFFICULTY --- NORMAL***"
-	{
-		"chi"		"** **"
-	}
-	"**ZE_FFXII_FEYWOOD**"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
-	}
-	"++ ZE_ITALY_TOWN ++"
-	{
-		"chi"		"** **"
-	}
-	"** LEVEL: NOT TOO ROUGH **"
-	{
-		"chi"		"** **"
-	}
-	"*** NY MARATHON: GET READY TO RUN! ***"
-	{
-		"chi"		"** **"
-	}
+
 }
