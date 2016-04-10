@@ -307,22 +307,7 @@
 	{
 		"chi"		"**唔。。。你要死啦！！！**"
 	}
-	"---***This map will mute your sound if you are outside the lunar base***---"
-	{
-		"chi"		"** **"
-	}
-	">> IDEA: Sienestaja <<"
-	{
-		"chi"		"** **"
-	}
-	"[Load ShroomForest Config]"
-	{
-		"chi"		"** **"
-	}
-	"** ZE FFXII PARAMINA RIFT **"
-	{
-		"chi"		"** **"
-	}
+
 	"** Bahamut is going to cast Mega Flare !! Shoot !! **"
 	{
 		"chi"		"**巴哈姆特即将释放红终！！继续开火！！！**"
