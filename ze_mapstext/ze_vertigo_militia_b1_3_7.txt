@@ -84,12 +84,5 @@
 	{
 		"chi"		"** **"
 	}
-	"[Load ShroomForest2 Config]"
-	{
-		"chi"		"** **"
-	}
-	"[Warmup] Wait for others players to join"
-	{
-		"chi"		"** **"
-	}
+
 }
