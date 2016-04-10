@@ -50,12 +50,5 @@
 	{
 		"chi"		"**人类大门将在15秒后打开 **"
 	}
-	"[Load ShroomForest2 Config]"
-	{
-		"chi"		"** **"
-	}
-	"[Warmup] Wait for others players to join"
-	{
-		"chi"		"**等待其他玩家加入 **"
-	}
+
 }
