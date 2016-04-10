@@ -76,28 +76,5 @@
 	{
 		"chi"		"**房顶开放**"
 	}
-	">>LADDERS ACCESS OPEN<<"
-	{
-		"chi"		"** **"
-	}
-	">>LADDERS BREAK<<"
-	{
-		"chi"		"** **"
-	}
-	">>BYE BYE<<"
-	{
-		"chi"		"** **"
-	}
-	"++ ZE_ITALY_TOWN ++"
-	{
-		"chi"		"** **"
-	}
-	"+++  MAP MADE BY GARGANTUA +++"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL 1<<"
-	{
-		"chi"		"** **"
-	}
+
 }
