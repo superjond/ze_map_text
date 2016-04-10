@@ -38,12 +38,5 @@
 	{
 		"chi"		"** 地图作者：JB_GAMBLE 丧病翻译：肉丸 **"
 	}
-	">> 9 MINUTES TO ESCAPE <<"
-	{
-		"chi"		"** **"
-	}
-	"***BOAT ROUTE***"
-	{
-		"chi"		"** **"
-	}
+
 }
