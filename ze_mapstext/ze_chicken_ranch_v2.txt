@@ -300,56 +300,5 @@
 	{
 		"chi"		"**1**"
 	}
-	"** MISSION FAILED - ZOMBIES ON THE HELICOPTER! **"
-	{
-		"chi"		"** **"
-	}
-	"** ZOMBIES DETECTED - MISSION FAILED! **"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
-	"*** STEAMGAMERS.COM ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Mapper: yardy ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Co-Mapper: starbucks ***"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
-	}
-	"IDEA: Sienest?j?"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL: NORMAL<<"
-	{
-		"chi"		"** **"
-	}
-	"[Load ShroomForest2 Config]"
-	{
-		"chi"		"** **"
-	}
-	"[Warmup] Wait for others players to join"
-	{
-		"chi"		"** **"
-	}
-	"* * Map by Mojonero * *"
-	{
-		"chi"		"** **"
-	}
-	"+++  MAP MADE BY GARGANTUA +++"
-	{
-		"chi"		"** **"
-	}
+
 }
