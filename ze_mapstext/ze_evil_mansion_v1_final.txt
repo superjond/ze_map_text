@@ -210,20 +210,5 @@
 	{
 		"chi"		"**如有建议请到SCA战队论坛找作者!**"
 	}
-	"+++  MAP MADE BY GARGANTUA +++"
-	{
-		"chi"		"** **"
-	}
-	"***OFFICE ROUTE***"
-	{
-		"chi"		"** **"
-	}
-	"^^^ Map By: BillSmauz ^^^"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
+
 }
