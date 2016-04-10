@@ -872,4 +872,16 @@
 	{
 		"chi"		"** **"
 	}
+	"***YOU HAVE DEFILED MUFASAS CORPSE***"
+	{
+		"chi"		"** **"
+	}
+	"***SKIPPING CUTSCENE***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU SICK BASTARDS...***"
+	{
+		"chi"		"** **"
+	}
 }

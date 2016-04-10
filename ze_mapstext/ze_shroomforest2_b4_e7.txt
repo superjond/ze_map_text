@@ -1,0 +1,59 @@
+"Console_T"
+{
+	">> Map by Taskuvaras <<"
+	{
+		"chi"		"** **"
+	}
+	">> Finished by Moltard <<"
+	{
+		"chi"		"** **"
+	}
+	">>Map ported by www.dashijie.es<<"
+	{
+		"chi"		"** **"
+	}
+	"***地图由大世界移植***"
+	{
+		"chi"		"** **"
+	}
+	">> WARMUP ROUND <<"
+	{
+		"chi"		"** **"
+	}
+	">> 40 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 30 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 20 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 10 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> WARMUP ROUND END <<"
+	{
+		"chi"		"** **"
+	}
+	"ShroomForest2"
+	{
+		"chi"		"** **"
+	}
+	"[Level1] Find the Groke"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: RAVINE <<"
+	{
+		"chi"		"** **"
+	}
+	"[Warmup] Wait for others players to join"
+	{
+		"chi"		"** **"
+	}
+}
