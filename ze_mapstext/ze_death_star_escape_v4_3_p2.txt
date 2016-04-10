@@ -100,48 +100,5 @@
 	{
 		"chi"		"**死亡之星将于 5 秒后爆炸！**"
 	}
-	">>>May the force be with you!<<<"
-	{
-		"chi"		"** **"
-	}
-	"***THIS IS A MAP CREATED IN ONE DAY - BY LUFFAREN***"
-	{
-		"chi"		"** **"
-	}
-	"***UNDERGROUND ROUTE***"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL 1<<"
-	{
-		"chi"		"** **"
-	}
-	"ZE Sunlight"
-	{
-		"chi"		"** **"
-	}
-	"[Load ShroomForest2 Config]"
-	{
-		"chi"		"** **"
-	}
-	"[Warmup] Wait for others players to join"
-	{
-		"chi"		"** **"
-	}
-	"Map By: Bill Smauz"
-	{
-		"chi"		"** **"
-	}
-	"Map For: www.zombiemurder.com"
-	{
-		"chi"		"** **"
-	}
-	"---Feedback:noojeff@gmail.com---"
-	{
-		"chi"		"** **"
-	}
-	"---Special Thank To:HZM654321 and JackBauer123---"
-	{
-		"chi"		"** **"
-	}
+
 }
