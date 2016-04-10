@@ -1,15 +1,4 @@
 "Console_T"
 {
-	"ZE Sunlight"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
-	"^^^ Map By: BillSmauz ^^^"
-	{
-		"chi"		"** **"
-	}
+
 }

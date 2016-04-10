@@ -130,28 +130,4 @@
 	{
 		"chi"		"** **"
 	}
-	"### Welcome to Abandoned Bio Bunker  ###"
-	{
-		"chi"		"** **"
-	}
-	"++ ZE_ITALY_TOWN ++"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
-	}
-	"Map By: Bill Smauz"
-	{
-		"chi"		"** **"
-	}
-	"Map For: www.zombiemurder.com"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL 1<<"
-	{
-		"chi"		"** **"
-	}
 }

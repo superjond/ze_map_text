@@ -104,52 +104,5 @@
 	{
 		"chi"		"**火炮开火，胜利！随着杰克船长远航吧！**"
 	}
-	">>>NUB<<<"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Taskuvaras***"
-	{
-		"chi"		"** **"
-	}
-	"***Human door opening in 15s***"
-	{
-		"chi"		"** **"
-	}
-	"Please wait 20 seconds before the door opening"
-	{
-		"chi"		"** **"
-	}
-	"***MAP BY - LUFFAREN***"
-	{
-		"chi"		"** **"
-	}
-	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
-	{
-		"chi"		"** **"
-	}
-	"++ ZE_ITALY_TOWN ++"
-	{
-		"chi"		"** **"
-	}
-	"*** Ze_sC_Turtles By T3tra ***"
-	{
-		"chi"		"** **"
-	}
-	"### WELCOME TO CRAZY ESCAPE ###"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
-	"** ZE_CHRISTMAS_INFECTION **"
-	{
-		"chi"		"** **"
-	}
+
 }

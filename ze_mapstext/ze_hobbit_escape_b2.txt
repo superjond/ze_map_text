@@ -177,24 +177,4 @@
 	{
 		"chi"		"** 有位玩家发现了把大剑 **（可以对僵尸造成伤害）"
 	}
-	"*** Use the ladder to reach the valve or wait 15 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"[Load ShroomForest2 Config]"
-	{
-		"chi"		"** **"
-	}
-	"[Warmup] Wait for others players to join"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
-	}
-	"^^^ Map By: BillSmauz ^^^"
-	{
-		"chi"		"** **"
-	}
 }

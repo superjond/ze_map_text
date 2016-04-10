@@ -25,24 +25,4 @@
 	{
 		"chi"		"**10秒后火山喷发**"
 	}
-	"***Map by Taskuvaras***"
-	{
-		"chi"		"** **"
-	}
-	"***Human door opening in 15s***"
-	{
-		"chi"		"** **"
-	}
-	"Map By: Bill Smauz"
-	{
-		"chi"		"** **"
-	}
-	"Map For: www.zombiemurder.com"
-	{
-		"chi"		"** **"
-	}
-	"---***This map will mute your sound if you are outside the lunar base***---"
-	{
-		"chi"		"** **"
-	}
 }

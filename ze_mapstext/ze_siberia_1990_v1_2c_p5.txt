@@ -167,16 +167,4 @@
 	{
 		"chi"		"**一个临时（丧）工（尸）已经通过了我们的后宫沃兹高阶法师肉丸 59.99美元传送萌**"
 	}
-	"You have less than 15 seconds to whipe out the remaining infected or face death!"
-	{
-		"chi"		"** **"
-	}
-	"-Hardcore Mode-"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
 }

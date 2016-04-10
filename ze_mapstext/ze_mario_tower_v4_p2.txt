@@ -65,48 +65,5 @@
 		"chi"		"** FFF燃烧大地之术 施法时间还有 30秒 翻译：肉丸 **"
 		"DoorCountdown"		"30"
 	}
-	"*** Bowser and his minions are attacking!! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Clouds will raise in 30 seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"Map By: Bill Smauz"
-	{
-		"chi"		"** **"
-	}
-	"Map For: www.zombiemurder.com"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
-	}
-	"***MAP BY - LUFFAREN***"
-	{
-		"chi"		"** **"
-	}
-	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
-	"---Feedback:noojeff@gmail.com---"
-	{
-		"chi"		"** **"
-	}
-	"---Special Thank To:HZM654321 and JackBauer123---"
-	{
-		"chi"		"** **"
-	}
-	"** LEVEL: NOT TOO ROUGH **"
-	{
-		"chi"		"** **"
-	}
+
 }

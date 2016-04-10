@@ -232,24 +232,4 @@
 	{
 		"chi"		"** **"
 	}
-	"** NEXT DIFFICULTY : NORMAL **"
-	{
-		"chi"		"** **"
-	}
-	">> IDEA: Sienestaja <<"
-	{
-		"chi"		"** **"
-	}
-	"[Load ShroomForest Config]"
-	{
-		"chi"		"** **"
-	}
-	"** NARUTO USED YOUR POWER... YOU CAN'T HELP HIM ANYMORE **"
-	{
-		"chi"		"** **"
-	}
-	"** NEXT DIFFICULTY : EASY **"
-	{
-		"chi"		"** **"
-	}
 }

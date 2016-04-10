@@ -50,32 +50,4 @@
 	{
 		"chi"		"**直升机将在 5 秒后起飞**           还没上飞机的抓紧时间，在飞机上的手雷随便甩"
 	}
-	"<< Map made by Lup4n` >>"
-	{
-		"chi"		"**地图制作 by Lup4n`  地图翻译 by 色狼领袖**"
-	}
-	"IDEA: Sienest?j?"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL: NORMAL<<"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
-	"###Map Made By Mononoke###"
-	{
-		"chi"		"** **"
-	}
-	">> IDEA: Sienestaja <<"
-	{
-		"chi"		"** **"
-	}
-	"[Load ShroomForest Config]"
-	{
-		"chi"		"** **"
-	}
 }

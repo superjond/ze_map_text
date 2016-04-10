@@ -65,44 +65,4 @@
 	{
 		"chi"		"**地图制作 by  Lup4n`     地图翻译 by 色狼领袖**"
 	}
-	"IDEA: Sienest?j?"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL: NORMAL<<"
-	{
-		"chi"		"** **"
-	}
-	"MAP BY: TaskuVaras"
-	{
-		"chi"		"** **"
-	}
-	"**Map made by Eugenio *Motanum* Roman**"
-	{
-		"chi"		"** **"
-	}
-	"**Contact me at eugenio.motanum91 AT gmail.com**"
-	{
-		"chi"		"** **"
-	}
-	"***Selecting default difficulty****"
-	{
-		"chi"		"** **"
-	}
-	"**Thanks to [PF] PlagueFest for their support!**"
-	{
-		"chi"		"** **"
-	}
-	"***Waiting for players****"
-	{
-		"chi"		"** **"
-	}
-	"***Reseting game in 20 seconds****"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
-	}
 }

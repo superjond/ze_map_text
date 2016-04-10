@@ -47,20 +47,5 @@
 	{
 		"chi"		"** 木桥将在 30 秒后被摧毁 **（色狼领袖：你懂得，要装的趁现在）"
 	}
-	"[Load ShroomForest2 Config]"
-	{
-		"chi"		"** **"
-	}
-	"[Warmup] Wait for others players to join"
-	{
-		"chi"		"** **"
-	}
-	"### Welcome to Abandoned Bio Bunker  ###"
-	{
-		"chi"		"** **"
-	}
-	"*** NY MARATHON: GET READY TO RUN! ***"
-	{
-		"chi"		"** **"
-	}
+
 }

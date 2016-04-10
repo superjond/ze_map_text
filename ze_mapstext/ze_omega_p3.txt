@@ -56,16 +56,4 @@
 	{
 		"chi"		"**实验室2号门在5秒后开启**"
 	}
-	">>LEVEL 1<<"
-	{
-		"chi"		"**等级：I**"
-	}
-	"** LEVEL: NOT TOO ROUGH **"
-	{
-		"chi"		"**等级：长点心吧**"
-	}
-	"*** Ze_sC_Turtles By T3tra ***"
-	{
-		"chi"		"**地图制作：T3tra 地图翻译：Vocaloid-60**"
-	}
 }

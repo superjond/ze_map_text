@@ -174,12 +174,4 @@
 	{
 		"chi"		"**恭喜您!您已成功通关ZE_SUNLIGHT **"
 	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
-	"***DIFFICULTY --- NORMAL***"
-	{
-		"chi"		"** **"
-	}
 }

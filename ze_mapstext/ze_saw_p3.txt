@@ -100,40 +100,4 @@
 	{
 		"chi"		"**别让僵尸进来**"
 	}
-	"+++  MAP MADE BY GARGANTUA +++"
-	{
-		"chi"		"** **"
-	}
-	"Please wait 20 seconds before the door opening"
-	{
-		"chi"		"** **"
-	}
-	"### Welcome to Abandoned Bio Bunker  ###"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
-	"IDEA: Sienest?j?"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL: NORMAL<<"
-	{
-		"chi"		"** **"
-	}
-	"MAP BY: TaskuVaras"
-	{
-		"chi"		"** **"
-	}
-	"^^^ Map By: BillSmauz ^^^"
-	{
-		"chi"		"** **"
-	}
-	"** ZE_CHRISTMAS_INFECTION **"
-	{
-		"chi"		"** **"
-	}
 }

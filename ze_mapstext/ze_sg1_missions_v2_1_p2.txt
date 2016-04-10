@@ -197,24 +197,5 @@
 	{
 		"chi"		"跑！！！！！！"
 	}
-	"[Load ShroomForest2 Config]"
-	{
-		"chi"		"** **"
-	}
-	"[Warmup] Wait for others players to join"
-	{
-		"chi"		"** **"
-	}
-	"++ ZE_ITALY_TOWN ++"
-	{
-		"chi"		"** **"
-	}
-	"*** STEAMGAMERS.COM ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Mapper: yardy ***"
-	{
-		"chi"		"** **"
-	}
+
 }

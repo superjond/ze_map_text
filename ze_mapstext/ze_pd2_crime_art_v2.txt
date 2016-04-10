@@ -84,8 +84,5 @@
 	{
 		"chi"		"**冲向直升机，payday time!**"
 	}
-	"***DIFFICULTY --- NORMAL***"
-	{
-		"chi"		"** **"
-	}
+
 }

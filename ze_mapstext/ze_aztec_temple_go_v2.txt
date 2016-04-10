@@ -124,12 +124,4 @@
 	{
 		"chi"		"**防守到大门关闭 **"
 	}
-	"---***This map will mute your sound if you are outside the lunar base***---"
-	{
-		"chi"		"** **"
-	}
-	"*** NY MARATHON: GET READY TO RUN! ***"
-	{
-		"chi"		"** **"
-	}
 }

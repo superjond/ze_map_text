@@ -192,24 +192,4 @@
 	{
 		"chi"		"** 大门开启！ **（出门右拐）"
 	}
-	"***MAP BY - LUFFAREN***"
-	{
-		"chi"		"** **"
-	}
-	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
-	}
-	"*** NY MARATHON: GET READY TO RUN! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Ze_sC_Turtles By T3tra ***"
-	{
-		"chi"		"** **"
-	}
 }

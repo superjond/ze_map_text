@@ -149,20 +149,4 @@
 	{
 		"chi"		"** **"
 	}
-	"Map By: Bill Smauz"
-	{
-		"chi"		"** **"
-	}
-	"Map For: www.zombiemurder.com"
-	{
-		"chi"		"** **"
-	}
-	"### Welcome to Abandoned Bio Bunker  ###"
-	{
-		"chi"		"** **"
-	}
-	"*** Map by : Airvulpes ***"
-	{
-		"chi"		"** **"
-	}
 }

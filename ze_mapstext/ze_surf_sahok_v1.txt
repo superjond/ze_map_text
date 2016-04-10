@@ -48,16 +48,4 @@
 	{
 		"chi"		"**重生墙在20秒后破碎**"
 	}
-	"*** STEAMGAMERS.COM ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Mapper: yardy ***"
-	{
-		"chi"		"**地图制作:yardy 地图翻译:Vocaloid-60**"
-	}
-	"*** Co-Mapper: starbucks ***"
-	{
-		"chi"		"** **"
-	}
 }

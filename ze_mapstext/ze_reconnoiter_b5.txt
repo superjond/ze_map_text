@@ -48,16 +48,5 @@
 	{
 		"chi"		"**地图制作：Mononoke 地图翻译：Vocaloid-60**"
 	}
-	"***THIS IS A MAP CREATED IN ONE DAY - BY LUFFAREN***"
-	{
-		"chi"		"** **"
-	}
-	"Map By: Bill Smauz"
-	{
-		"chi"		"** **"
-	}
-	"Map For: www.zombiemurder.com"
-	{
-		"chi"		"** **"
-	}
+
 }

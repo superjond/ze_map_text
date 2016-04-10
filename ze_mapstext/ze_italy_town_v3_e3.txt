@@ -186,36 +186,4 @@
 	{
 		"chi"		"**恭喜你，你已完成这个地图的全部难度，开启二周目**"
 	}
-	"+++ Secret rocketlauncher has been found +++"
-	{
-		"chi"		"** **"
-	}
-	"+++ You can only use it once +++"
-	{
-		"chi"		"** **"
-	}
-	"+++ FIRE! +++"
-	{
-		"chi"		"** **"
-	}
-	"[Load ShroomForest2 Config]"
-	{
-		"chi"		"** **"
-	}
-	"[Warmup] Wait for others players to join"
-	{
-		"chi"		"** **"
-	}
-	"***CURRENT DIFFICULTY IS NORMAL***"
-	{
-		"chi"		"** **"
-	}
-	"***THIS IS A MAP CREATED IN ONE DAY - BY LUFFAREN***"
-	{
-		"chi"		"** **"
-	}
-	"ZE Sunlight"
-	{
-		"chi"		"** **"
-	}
 }

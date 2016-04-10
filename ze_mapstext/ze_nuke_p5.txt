@@ -82,24 +82,4 @@
 	{
 		"chi"		"**距卡车离开还有 20 秒！       （别急着上车！再守一会儿！）**"
 	}
-	"Contact me at obscuri@obsmail.tk"
-	{
-		"chi"		"**obscuri@obsmail.tk 联系我**"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
-	}
-	"*** NY MARATHON: GET READY TO RUN! ***"
-	{
-		"chi"		"** **"
-	}
-	"**ZE_FFXII_FEYWOOD**"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
 }

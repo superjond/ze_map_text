@@ -36,12 +36,4 @@
 	{
 		"chi"		"*** 第3个传送点已激活 ***"
 	}
-	"*** Map by AERIS.004 ***"
-	{
-		"chi"		"** **"
-	}
-	"### Welcome to Abandoned Bio Bunker  ###"
-	{
-		"chi"		"** **"
-	}
 }

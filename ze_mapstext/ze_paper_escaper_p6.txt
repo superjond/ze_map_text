@@ -730,32 +730,4 @@
 	{
 		"chi"		"**地图难度将保持在正常 **"
 	}
-	"** BUNKER ENDING: GET TO THE RIVERSIDE BUNKER **"
-	{
-		"chi"		"** **"
-	}
-	"** Explosion in 30 seconds **"
-	{
-		"chi"		"** **"
-	}
-	"*Bunker Door opening in 7 seconds*"
-	{
-		"chi"		"** **"
-	}
-	"* Cisneros' Hero Burguer has been picked up! *"
-	{
-		"chi"		"** **"
-	}
-	"*** Energy is coming back to the engine! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** HOLD! The train will move as soon as the engine recharges! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** PANIC MODE COMPLETED ***"
-	{
-		"chi"		"** **"
-	}
 }

@@ -80,12 +80,4 @@
 	{
 		"chi"		"**圣光10秒后到来**"
 	}
-	">> 9 MINUTES TO ESCAPE <<"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
 }

@@ -188,28 +188,4 @@
 	{
 		"chi"		"** **"
 	}
-	"Prod picked up. Aim at alien for shock damage!"
-	{
-		"chi"		"** **"
-	}
-	"***THIS IS A MAP CREATED IN ONE DAY - BY LUFFAREN***"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Taskuvaras***"
-	{
-		"chi"		"** **"
-	}
-	"***Human door opening in 15s***"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
-	}
-	"###Map Made By Mononoke###"
-	{
-		"chi"		"** **"
-	}
 }

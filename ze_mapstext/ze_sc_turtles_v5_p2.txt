@@ -96,24 +96,5 @@
 	{
 		"chi"		"**超牛B的核弹已启动，僵尸全体爆炸 **"
 	}
-	"*** Power To Submarine Bay Has Been Lost - Security Down ***"
-	{
-		"chi"		"** **"
-	}
-	"IDEA: Sienest?j?"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL: NORMAL<<"
-	{
-		"chi"		"** **"
-	}
-	"MAP BY: TaskuVaras"
-	{
-		"chi"		"** **"
-	}
-	"++ ZE_ITALY_TOWN ++"
-	{
-		"chi"		"** **"
-	}
+
 }

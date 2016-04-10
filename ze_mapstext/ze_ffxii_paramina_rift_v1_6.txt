@@ -710,16 +710,4 @@
 	{
 		"chi"		"**找到宝藏！+27GIL**"
 	}
-	"** MATEUS IS DEAD! GO ESCAPE TO THE FOREST! **"
-	{
-		"chi"		"** **"
-	}
-	"** END OF THE LINE **"
-	{
-		"chi"		"** **"
-	}
-	"** Congratulations - you won STAGE 2 INSANE **"
-	{
-		"chi"		"** **"
-	}
 }

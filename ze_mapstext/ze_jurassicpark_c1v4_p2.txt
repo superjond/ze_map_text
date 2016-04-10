@@ -36,24 +36,4 @@
 	{
 		"chi"		"Jurassic公园感受不到能量了"
 	}
-	"** SECURE THE LZ **"
-	{
-		"chi"		"** **"
-	}
-	"** Nerve gas released **"
-	{
-		"chi"		"** **"
-	}
-	"[Load ShroomForest2 Config]"
-	{
-		"chi"		"** **"
-	}
-	"[Warmup] Wait for others players to join"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
-	}
 }
