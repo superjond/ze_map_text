@@ -80,24 +80,3 @@
 	{
 		"chi"		"**运输船已离开**"
 	}
-	"###Map Made By Mononoke###"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
-	"[Load ShroomForest2 Config]"
-	{
-		"chi"		"** **"
-	}
-	"[Warmup] Wait for others players to join"
-	{
-		"chi"		"** **"
-	}
-	"Song: Tool - Lateralus"
-	{
-		"chi"		"** **"
-	}
-}
