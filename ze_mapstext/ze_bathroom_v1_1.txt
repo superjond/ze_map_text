@@ -124,36 +124,5 @@
 	{
 		"chi"		"** 不要试图走捷径,它会把你传送回去**"
 	}
-	"IDEA: Sienest?j?"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL: NORMAL<<"
-	{
-		"chi"		"** **"
-	}
-	"MAP BY: TaskuVaras"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL 1<<"
-	{
-		"chi"		"** **"
-	}
-	"***Adjust the volume in your music settings or via snd_musicvolume***"
-	{
-		"chi"		"** **"
-	}
-	"** MAP MADE BY PURPZZ ** Rebuild by Skullz **"
-	{
-		"chi"		"** **"
-	}
-	"*** Ze_sC_Turtles By T3tra ***"
-	{
-		"chi"		"** **"
-	}
-	"ZE Sunlight"
-	{
-		"chi"		"** **"
-	}
+
 }
