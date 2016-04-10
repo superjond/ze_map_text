@@ -66,40 +66,5 @@
 	{
 		"chi"		"** 地图作者：Lup4n` 翻译：肉丸 **"
 	}
-	"<< 5 seconds to escape >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Nuke has been launched !!! >>"
-	{
-		"chi"		"** **"
-	}
-	"Map By: Bill Smauz"
-	{
-		"chi"		"** **"
-	}
-	"Map For: www.zombiemurder.com"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Taskuvaras***"
-	{
-		"chi"		"** **"
-	}
-	"***Human door opening in 15s***"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
-	"+++  MAP MADE BY GARGANTUA +++"
-	{
-		"chi"		"** **"
-	}
-	"---***This map will mute your sound if you are outside the lunar base***---"
-	{
-		"chi"		"** **"
-	}
+
 }
