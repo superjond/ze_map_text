@@ -69,32 +69,5 @@
 	{
 		"chi"		"**警告：火箭将在 30 秒后原地爆炸！**"
 	}
-	"*** Airlock Opens in 5 Seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Security Door Closes in 5 Seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Cafeteria Doors Open in 15 Seconds ***"
-	{
-		"chi"		"** **"
-	}
-	"---Feedback:noojeff@gmail.com---"
-	{
-		"chi"		"** **"
-	}
-	"---Special Thank To:HZM654321 and JackBauer123---"
-	{
-		"chi"		"** **"
-	}
-	"***THIS IS A MAP CREATED IN ONE DAY - BY LUFFAREN***"
-	{
-		"chi"		"** **"
-	}
-	"***DIFFICULTY --- NORMAL***"
-	{
-		"chi"		"** **"
-	}
+
 }
