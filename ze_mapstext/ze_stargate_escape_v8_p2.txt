@@ -104,36 +104,4 @@
 	{
 		"chi"		"**左边的门在10后开启 **"
 	}
-	"*** STEAMGAMERS.COM ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Mapper: yardy ***"
-	{
-		"chi"		"**地图制作：GARGANTUA 地图翻译：Vocaloid-60**"
-	}
-	"*** Co-Mapper: starbucks ***"
-	{
-		"chi"		"** **"
-	}
-	"+++  MAP MADE BY GARGANTUA +++"
-	{
-		"chi"		"** **"
-	}
-	"***THIS IS A MAP CREATED IN ONE DAY - BY LUFFAREN***"
-	{
-		"chi"		"** **"
-	}
-	"***CURRENT DIFFICULTY IS NORMAL***"
-	{
-		"chi"		"*当前难度：正常**"
-	}
-	"[Load ShroomForest2 Config]"
-	{
-		"chi"		"** **"
-	}
-	"[Warmup] Wait for others players to join"
-	{
-		"chi"		"**等待其他玩家加入**"
-	}
 }
