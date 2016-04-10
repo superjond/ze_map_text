@@ -56,28 +56,4 @@
 	{
 		"chi"		"基地:系统鼓掌，启动二号系统"
 	}
-	"***SELF-DESTRUCT SEQUENCE INITIATED.  ONE MINUTE UNTIL REACTOR CORE MELTDOWN.***"
-	{
-		"chi"		"** **"
-	}
-	"***The exit's clear, get the hell out of there.  You've got maybe ten seconds before the zombies can follow.***"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL 1<<"
-	{
-		"chi"		"** **"
-	}
-	"Map By: Bill Smauz"
-	{
-		"chi"		"** **"
-	}
-	"Map For: www.zombiemurder.com"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
 }
