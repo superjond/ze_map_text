@@ -208,17 +208,6 @@
 	{
 		"chi"		"**恭喜你 过关 **"
 	}
-	"---Feedback:noojeff@gmail.com---"
-	{
-		"chi"		"**作者邮箱:noojeff@gmail.com **"
-	}
-	"---Special Thank To:HZM654321 and JackBauer123---"
-	{
-		"chi"		"**特别感谢:HZM654321 and JackBauer123 **"
-	}
-	">> IDEA: Sienestaja <<"
-	{
-		"chi"		"**灵感来源: Sienestaja**"
-	}
+
 
 }
