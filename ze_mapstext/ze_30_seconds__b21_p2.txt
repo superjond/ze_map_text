@@ -23,32 +23,4 @@
 	{
 		"chi"		"** 地图测试服务器： Sakura[CS:S],POSSESSION[CS:GO] **"
 	}
-	"*** map created by thas ***"
-	{
-		"chi"		"** 创建地图 by：thas **"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** 阶段1：上流社会 **"
-	}
-	"ZE Sunlight"
-	{
-		"chi"		"** ZE 日光（谜？） **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** 20秒后墙壁将会破坏 **"
-	}
-	"** ZE_CHRISTMAS_INFECTION **"
-	{
-		"chi"		"** ZE_CHRISTMAS_INFECTION **"
-	}
-	"** LEVEL: NOT TOO ROUGH **"
-	{
-		"chi"		"** 难度：不太粗暴 **"
-	}
-	"+++  MAP MADE BY GARGANTUA +++"
-	{
-		"chi"		"** 地图制作者 By：GARGANTUA **"
-	}
 }

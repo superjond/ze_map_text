@@ -204,36 +204,4 @@
 	{
 		"chi"		"**电梯5秒后离开**"
 	}
-	"***DIFFICULTY --- NORMAL***"
-	{
-		"chi"		"** **"
-	}
-	"###Map Made By Mononoke###"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
-	}
-	"***SHOTGUN OUT OF AMMO***"
-	{
-		"chi"		"** **"
-	}
-	"***THIS IS A MAP CREATED IN ONE DAY - BY LUFFAREN***"
-	{
-		"chi"		"** **"
-	}
-	"ZE Sunlight"
-	{
-		"chi"		"** **"
-	}
-	"[Load ShroomForest2 Config]"
-	{
-		"chi"		"** **"
-	}
-	"[Warmup] Wait for others players to join"
-	{
-		"chi"		"** **"
-	}
 }

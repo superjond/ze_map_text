@@ -60,32 +60,4 @@
 	{
 		"chi"		"** 矿洞检测到僵尸 **"
 	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
-	}
-	"ZE Sunlight"
-	{
-		"chi"		"** **"
-	}
-	"*** STEAMGAMERS.COM ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Mapper: yardy ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Co-Mapper: starbucks ***"
-	{
-		"chi"		"** **"
-	}
-	"***OFFICE ROUTE***"
-	{
-		"chi"		"** **"
-	}
-	"** ZE_CHRISTMAS_INFECTION **"
-	{
-		"chi"		"** **"
-	}
 }
