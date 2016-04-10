@@ -229,49 +229,5 @@
 	{
 		"chi"		"**作者 Eugenio *Motanum* Roman**"
 	}
-	"**Contact me at eugenio.motanum91 AT gmail.com**"
-	{
-		"chi"		"** **"
-	}
-	"***Selecting default difficulty****"
-	{
-		"chi"		"** **"
-	}
-	"**Thanks to [PF] PlagueFest for their support!**"
-	{
-		"chi"		"** **"
-	}
-	"***Waiting for players****"
-	{
-		"chi"		"** **"
-	}
-	"***Reseting game in 20 seconds****"
-	{
-		"chi"		"** **"
-	}
-	"** 10 seconds left to kill boss! **"
-	{
-		"chi"		"** **"
-	}
-	"** Humans failed! **"
-	{
-		"chi"		"** **"
-	}
-	"***MAP BY - LUFFAREN***"
-	{
-		"chi"		"** **"
-	}
-	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
-	{
-		"chi"		"** **"
-	}
-	"***THIS IS A MAP CREATED IN ONE DAY - BY LUFFAREN***"
-	{
-		"chi"		"** **"
-	}
-	"***UNDERGROUND ROUTE***"
-	{
-		"chi"		"** **"
-	}
 
 }
