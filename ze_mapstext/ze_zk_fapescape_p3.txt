@@ -56,36 +56,5 @@
 	{
 		"chi"		"**守住 30 秒即可获得胜利！    有雷的赶紧扔了！**"
 	}
-	"***DIFFICULTY --- NORMAL***"
-	{
-		"chi"		"** **"
-	}
-	"### WELCOME TO CRAZY ESCAPE ###"
-	{
-		"chi"		"** **"
-	}
-	"^^^ Map By: BillSmauz ^^^"
-	{
-		"chi"		"** **"
-	}
-	"*** Map by : Airvulpes ***"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
-	}
-	"Please wait 20 seconds before the door opening"
-	{
-		"chi"		"** **"
-	}
-	"***UNDERGROUND ROUTE***"
-	{
-		"chi"		"** **"
-	}
-	"*** YOU SUCK ***"
-	{
-		"chi"		"** **"
-	}
+
 }
