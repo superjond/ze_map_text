@@ -51,42 +51,10 @@
 	"** InGen has received your distress signal. A109 inbound for extraction in 60... **"
 	{
 		"chi"		"60秒后救援到达"
+	        "DoorCountdown"		"60"
 	}
-	"DoorCountdown"		"60"
 	"** Laboratory Security online. Locking in 10 seconds... **"
 	{
 		"chi"		"还有10秒！"
-	}
-	"** C4 planted! **"
-	{
-		"chi"		"** **"
-	}
-	"** Mobile Command Center has crashed **"
-	{
-		"chi"		"** **"
-	}
-	"++ ZE_ITALY_TOWN ++"
-	{
-		"chi"		"** **"
-	}
-	"Map By: Bill Smauz"
-	{
-		"chi"		"** **"
-	}
-	"Map For: www.zombiemurder.com"
-	{
-		"chi"		"** **"
-	}
-	"ZE Sunlight"
-	{
-		"chi"		"** **"
-	}
-	"***Adjust the volume in your music settings or via snd_musicvolume***"
-	{
-		"chi"		"** **"
-	}
-	"** MAP MADE BY PURPZZ ** Rebuild by Skullz **"
-	{
-		"chi"		"** **"
 	}
 }
