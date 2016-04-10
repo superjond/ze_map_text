@@ -4,20 +4,5 @@
 	{
 		"chi"		"** **"
 	}
-	"*MAP RESIDENT EVIL ONE - THE MANOR*"
-	{
-		"chi"		"** **"
-	}
-	"*** NY MARATHON: GET READY TO RUN! ***"
-	{
-		"chi"		"** **"
-	}
-	"*immediate evacuation of the laboratory*"
-	{
-		"chi"		"** **"
-	}
-	"### WELCOME TO CRAZY ESCAPE ###"
-	{
-		"chi"		"** **"
-	}
+
 }
