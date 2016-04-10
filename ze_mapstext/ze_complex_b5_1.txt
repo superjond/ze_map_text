@@ -36,12 +36,5 @@
 	{
 		"chi"		"不要尝试走捷径，你会被传送回去的！"
 	}
-	"* * Map by Mojonero * *"
-	{
-		"chi"		"**"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"出生点隔墙将在20秒后打破"
-	}
+
 }
