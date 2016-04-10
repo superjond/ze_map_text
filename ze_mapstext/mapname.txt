@@ -92,14 +92,6 @@
 	{
 		"chi"		"生化危机：洋馆"
 	}
-	"ze_bioshock_v4_5_1"
-	{
-		"chi"		"生化奇兵"
-	}
-	"ze_bioshock_go_v5_6"
-	{
-		"chi"		"生化奇兵"
-	}
 	"ze_blackmesa_escape_p4"
 	{
 		"chi"		"黑山基地:重装上阵"
@@ -152,10 +144,6 @@
 	{
 		"chi"		"灰白大作战"
 	}
-	"ze_cyberderp_v1_4fix"
-	{
-		"chi"		"魔幻现实主义之旅"
-	}
 	"ze_dangerous_waters_v1h_03_b"
 	{
 		"chi"		"危险水域大冒险"
@@ -179,10 +167,6 @@
 	"ze_elevator_escape_p2"
 	{
 		"chi"		"电梯大逃亡"
-	}
-	"ze_escape_the_eye_p"
-	{
-		"chi"		"逃离天眼"
 	}
 	"ze_evil_mansion_v1_final"
 	{
@@ -235,10 +219,6 @@
 	"ze_halo_poa_p4"
 	{
 		"chi"		"光环行动"
-	}
-	"ze_haunted_lab_escape_v2c_e2"
-	{
-		"chi"		"闹鬼实验室"
 	}
 	"ze_hazard_escape_p2"
 	{
@@ -328,10 +308,6 @@
 	{
 		"chi"		"mc一日游"
 	}
-	"ze_mirrors_edge_v2_go_pf_final"
-	{
-		"chi"		"镜之边缘"
-	}
 	"ze_moon_base_p3"
 	{
 		"chi"		"月球基地"
@@ -372,14 +348,6 @@
 	{
 		"chi"		"暗夜危机"
 	}
-	"ze_paper_escaper_v6_6c2"
-	{
-		"chi"		"纸质大逃亡"
-	}
-	"ze_Parking_p3"
-	{
-		"chi"		"最终疏散:停车场大楼"
-	}
 	"ze_pirates_port_royal_v4_2"
 	{
 		"chi"		"加勒比海盗: 罗亚尔港"
@@ -387,10 +355,6 @@
 	"ze_pitchblack_p2"
 	{
 		"chi"		"星际传奇"
-	}
-	"ze_predator_ultimate_v3_p3"
-	{
-		"chi"		"铁血战士"
 	}
 	"ze_prototype_v3_4"
 	{
@@ -428,14 +392,6 @@
 	{
 		"chi"		"星际之门"
 	}
-	"ze_shroomforest2_p4"
-	{
-		"chi"		"蘑菇森林2"
-	}
-	"ze_shroomforest_v3_p3"
-	{
-		"chi"		"蘑菇森林1"
-	}
 	"ze_skyscraper_city_v5"
 	{
 		"chi"		"镜之边缘：大厦飞驰"
@@ -451,10 +407,6 @@
 	"ze_stargate_escape_v8_p2"
 	{
 		"chi"		"星际之门大逃亡"
-	}
-	"ze_sunlight_v3"
-	{
-		"chi"		"古城逃亡：重见天日"
 	}
 	"ze_surf_danger_p2"
 	{
@@ -516,14 +468,6 @@
 	{
 		"chi"		"地下逃亡之旅"
 	}
-	"ze_unknow_escape_v4"
-	{
-		"chi"		"不明世界大逃亡"
-	}
-	"ze_vertigo_v1_1"
-	{
-		"chi"		"迷魂记"
-	}
 	"ze_voodoo_islands_v8_5_p4"
 	{
 		"chi"		"巫毒岛惊魂"
@@ -551,10 +495,6 @@
 	"ze_lila_panic_escape_v1_1"
 	{
 		"chi"		"里拉惊魂"
-	}
-	"ze_halloween_house"
-	{
-		"chi"		"万圣节之屋惊魂"
 	}
 	"ze_magala_castle_b3"
 	{
@@ -628,22 +568,6 @@
 	{
 		"chi"		"生化危机：下水道"
 	}
-	"ze_sandstorm_v7_1_e2"
-	{
-		"chi"		"沙尘暴"
-	}
-	"ze_tilex_possession_v1_4fix"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_icecap_escape_act2_b1"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_crazy_escape_v2a"
-	{
-		"chi"		"此地图暂无译名"
-	}
 	"ze_nostromo_redux_v1_2"
 	{
 		"chi"		"逃离空间站"
@@ -663,14 +587,6 @@
 	"ze_crazy_escape_v3"
 	{
 		"chi"		"疯狂大逃亡"
-	}
-	"ze_bathroom_v1_1"
-	{
-		"chi"		"浴室"
-	}
-	"ze_destruction_of_exorath_v3"
-	{
-		"chi"		"此地图暂无译名"
 	}
 	"ze_biohazard2_sewer_004_p8"
 	{
@@ -692,7 +608,7 @@
 	{
 		"chi"		"日光"
 	}
-	"ze_shroomforest2_b4_e6"
+	"ze_shroomforest2_b4_e7"
 	{
 		"chi"		"蘑菇森林（蘑菇房）2"
 	}
@@ -712,10 +628,6 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_paper_escaper_p4"
-	{
-		"chi"		"此地图暂无译名"
-	}
 	"ze_shroomforest_v4_4fix_e4"
 	{
 		"chi"		"蘑菇森林（蘑菇房）1"
@@ -727,14 +639,6 @@
 	"ze_bioshock_go_v5_8"
 	{
 		"chi"		"生化奇兵"
-	}
-	"ze_gris_a3f"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_chemical_weapons_depot_v2"
-	{
-		"chi"		"此地图暂无译名"
 	}
 	"ze_deepice_p3"
 	{
@@ -828,14 +732,6 @@
 	{
 		"chi"		"逃出生天"
 	}
-	"ze_paper_escaper_p5"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_hobbit_smaug_a1_3"
-	{
-		"chi"		"此地图暂无译名"
-	}
 	"ze_sky_athletic_v7_1"
 	{
 		"chi"		"天空竞技"
@@ -856,10 +752,6 @@
 	{
 		"chi"		"工业循环"
 	}
-	"ze_Predator_Ultimate_p6"
-	{
-		"chi"		"铁血战士"
-	}
 	"ze_gris_a4_9_2"
 	{
 		"chi"		"创世E"
@@ -878,7 +770,7 @@
 	}
 	"ze_sandstorm_v7_1_e4"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"沙尘暴"
 	}
 	"ze_surf_vortex_v1_v2"
 	{
@@ -894,17 +786,13 @@
 	}
 	"ze_escape_the_eye_p2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"逃离天眼"
 	}
 	"ze_paper_escaper_p6"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"纸质逃亡"
 	}
-	"ze_industrial_dejavu_v3_3_2_e2"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_tesv_skyrim_v5_5"
+	"ze_tesv_skyrim_v5_6"
 	{
 		"chi"		"此地图暂无译名"
 	}
@@ -914,17 +802,13 @@
 	}
 	"ze_Predator_Ultimate_p7"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"铁血战士"
 	}
 	"ze_atix_helicopter_p"
 	{
 		"chi"		"此地图暂无译名"
 	}
 	"ze_portal_story_v1"
-	{
-		"chi"		"此地图暂无译名"
-	}
-	"ze_shroomforest2_b4_e7"
 	{
 		"chi"		"此地图暂无译名"
 	}
