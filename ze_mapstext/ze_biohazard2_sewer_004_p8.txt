@@ -52,13 +52,6 @@
 	{
 		"chi"		"**神经毒气将在40秒后释放 **"
 	}
-	"***MAP BY - LUFFAREN***"
-	{
-		"chi"		"** **"
-	}
-	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
-	{
-		"chi"		"** **"
-	}
+
 
 }
