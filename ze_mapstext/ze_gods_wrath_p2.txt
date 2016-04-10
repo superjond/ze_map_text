@@ -100,28 +100,5 @@
 	{
 		"chi"		"**安全室已关闭**"
 	}
-	"****Zombie burner gunHuman healer gun****"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
-	"Please wait 20 seconds before the door opening"
-	{
-		"chi"		"** **"
-	}
-	"### Welcome to Abandoned Bio Bunker  ###"
-	{
-		"chi"		"** **"
-	}
-	"***OFFICE ROUTE***"
-	{
-		"chi"		"** **"
-	}
-	"*** Map by : Airvulpes ***"
-	{
-		"chi"		"** **"
-	}
+
 }
