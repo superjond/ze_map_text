@@ -14,36 +14,5 @@
 		"chi"		"*** 防御 45秒 ***"
 		"DoorCountdown"		"45"
 	}
-	"Optimus is now to clear the way !"
-	{
-		"chi"		"** **"
-	}
-	"Teletraan will close door in few seconds"
-	{
-		"chi"		"** **"
-	}
-	"Teletraan will close door in 10 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Map by Lup4n`"
-	{
-		"chi"		"** **"
-	}
-	"*** STEAMGAMERS.COM ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Mapper: yardy ***"
-	{
-		"chi"		"** **"
-	}
-	"ZE Sunlight"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
-	}
+
 }
