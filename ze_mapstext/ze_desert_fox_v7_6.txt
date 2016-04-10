@@ -61,32 +61,5 @@
 	{
 		"chi"		"**传送开始！**"
 	}
-	"boss defeated"
-	{
-		"chi"		"** **"
-	}
-	"<< Nuke has been launched!! 20 seconds until explosion >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Map by Lup4n` >>"
-	{
-		"chi"		"** **"
-	}
-	"***THIS IS A MAP CREATED IN ONE DAY - BY LUFFAREN***"
-	{
-		"chi"		"** **"
-	}
-	"***CURRENT DIFFICULTY IS NORMAL***"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL 1<<"
-	{
-		"chi"		"** **"
-	}
-	"*** Ze_sC_Turtles By T3tra ***"
-	{
-		"chi"		"** **"
-	}
+
 }
