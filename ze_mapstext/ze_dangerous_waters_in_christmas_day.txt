@@ -200,28 +200,4 @@
 	{
 		"chi"		"**办公室的路线 **"
 	}
-	"***DIFFICULTY --- NORMAL***"
-	{
-		"chi"		"**难度-正常 **"
-	}
-	"*** NY MARATHON: GET READY TO RUN! ***"
-	{
-		"chi"		"**纽约马拉松:准备跑! **"
-	}
-	"ZE Sunlight"
-	{
-		"chi"		"** **"
-	}
-	"***MAP BY - LUFFAREN***"
-	{
-		"chi"		"**区域地图 - LUFFAREN **"
-	}
-	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
-	{
-		"chi"		"**不要试图走捷径——这将导致传送回来 **"
-	}
-	"** LEVEL: NOT TOO ROUGH **"
-	{
-		"chi"		"** **"
-	}
 }
