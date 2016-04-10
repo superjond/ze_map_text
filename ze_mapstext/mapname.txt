@@ -794,11 +794,11 @@
 	}
 	"ze_tesv_skyrim_v5_6"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"上古卷轴：天际"
 	}
 	"ze_tilex_possession_v2_5"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"跳刀V2_5"
 	}
 	"ze_Predator_Ultimate_p7"
 	{
