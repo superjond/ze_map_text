@@ -6,7 +6,7 @@
 	}
 	"* * * Current phase: CURSED HEXAHEDRON * * *"
 	{
-		"chi"		"**当前阶段：被诅咒的六面体 **"
+		"chi"		"**当前阶段：被诅咒的魔方 **"
 	}
 	"* * The pedestal will be raising in 25 seconds * *"
 	{
@@ -18,11 +18,11 @@
 	}
 	"* * * Current phase: NOT TRAMPOLINES * * *"
 	{
-		"chi"		"**当前阶段:蹦床 **"
+		"chi"		"**当前阶段:重力空间 **"
 	}
 	"* * * Current phase: MAGIC IS REAL * * *"
 	{
-		"chi"		"**当前阶段：魔法是真实的 **"
+		"chi"		"**当前阶段：魔方是实心的 **"
 	}
 	"* * Hold here for 20 seconds * *"
 	{
@@ -38,7 +38,7 @@
 	}
 	"* * * Aeolus' Spirit has been picked up * * *"
 	{
-		"chi"		"**风神的精神已经拿起 **"
+		"chi"		"**风神器已经拿起 **"
 	}
 	"* * Wait 23 seconds * *"
 	{
@@ -58,7 +58,7 @@
 	}
 	"* * * GO WHITE DICK * * *"
 	{
-		"chi"		"**走 变白 迪克 **"
+		"chi"		"**走 白色的 迪克 **"
 	}
 	"* * * GO CHARIZARD DICK * * *"
 	{
@@ -74,7 +74,7 @@
 	}
 	"* * Closing door * * 5 seconds left * *"
 	{
-		"chi"		"**关闭门* * 5秒 **"
+		"chi"		"**门关闭5秒 **"
 	}
 	"* * KEEP DEFENDING * *"
 	{
@@ -86,7 +86,7 @@
 	}
 	"* * * Starting elevator * * * 20 seconds * * *"
 	{
-		"chi"		"**启动电梯* * * 20秒 **"
+		"chi"		"** 20秒后启动电梯 **"
 	}
 	"* * * The door will open in 15 seconds * * *"
 	{
@@ -110,7 +110,7 @@
 	}
 	"* * * Flame of Udun has been picked up * * *"
 	{
-		"chi"		"**火邪焰已经捡起 **"
+		"chi"		"**火神器已经捡起 **"
 	}
 	"* * 15 seconds until final teleport * *"
 	{
@@ -218,11 +218,11 @@
 	}
 	"* * Hacking doors. This may take a few seconds * *"
 	{
-		"chi"		"**窃听门。这可能需要几秒钟 **"
+		"chi"		"**黑客门。这可能需要几秒钟 **"
 	}
 	"* * Press the orange button to start the Core * *"
 	{
-		"chi"		"**按橙色按钮启动核心 **"
+		"chi"		"**按下橙色按钮，启动核心 **"
 	}
 	"> INITIALIZING CORE <"
 	{
@@ -230,19 +230,19 @@
 	}
 	"> THE CORE WILL BE READY IN 21 SECONDS <"
 	{
-		"chi"		"**核心将在21秒准备 **"
+		"chi"		"**核心将在21秒就绪 **"
 	}
 	"> CORE READY IN 5 SECONDS <"
 	{
-		"chi"		"**核心在5秒后准备完毕 **"
+		"chi"		"**核心在5秒后就绪 **"
 	}
 	"> CORE READY <"
 	{
-		"chi"		"**核心准备 **"
+		"chi"		"**核心已经就绪 **"
 	}
 	"* * We can move * * FALL BACK * *"
 	{
-		"chi"		"**我们可以移动* *回落 **"
+		"chi"		"**我们可以移动* *后退 **"
 	}
 	"* * Hold 25 seconds * *"
 	{
@@ -266,7 +266,7 @@
 	}
 	"(Right) * * * Door opening * * * 8 seconds * * *"
 	{
-		"chi"		"**(右)* * *门打开* * * 8秒 **"
+		"chi"		"**(右)边的门8秒后打开 **"
 	}
 	"* * * HOLD FOR 15 SECONDS * * *"
 	{
@@ -290,7 +290,7 @@
 	}
 	"* * ...but this convenient side vent might help * *"
 	{
-		"chi"		"**......但这种方便的侧通风口可以帮助 **"
+		"chi"		"**......但这种方便的侧通风口可能会帮助 **"
 	}
 	"* * Final door opening in 20 seconds * *"
 	{
@@ -322,11 +322,11 @@
 	}
 	"(Left) * * * Door opening * * * 8 seconds * * *"
 	{
-		"chi"		"**(左)* * *门打开* * * 8秒 **"
+		"chi"		"**(左)边的门8秒后打开 **"
 	}
 	"* * * Slightly Cursed Hexahedron has been picked up * * *"
 	{
-		"chi"		"**略受诅咒的六面体已经拿起 **"
+		"chi"		"**受诅咒的魔方已经拿起 **"
 	}
 	"*** NY MARATHON: GET READY TO RUN! ***"
 	{
