@@ -55,5 +55,20 @@
 		"chi"		"** 防爆门将于 30秒 后关闭 并放出Nico Poi Duang 神经毒素 请进行防守 翻译：肉丸**"
 		"DoorCountdown"		"30"
 	}
-
+	"***Blast doors will open in 25 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Get into the control room and release the nerve gas***"
+	{
+		"chi"		"** **"
+	}
+	"*** zombies are being held at aztec corridor for 11 seconds"
+	{
+		"chi"		"** **"
+	}
+	"***Gas has now been released***"
+	{
+		"chi"		"** **"
+	}
 }

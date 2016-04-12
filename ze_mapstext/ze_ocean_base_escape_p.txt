@@ -192,4 +192,36 @@
 	{
 		"chi"		"** 大门开启！ **（出门右拐）"
 	}
+	"***Path clear. Make your way to the other end of the base before its too late!***"
+	{
+		"chi"		"** **"
+	}
+	"***Swim to the wrecked ship. Well have to go through the hole in the hull.***"
+	{
+		"chi"		"** **"
+	}
+	"***Make your way to the other end of the ballroom! Theres a hole in the railing to can use to make it to the second floor!***"
+	{
+		"chi"		"** **"
+	}
+	"***RUN! Get into the Submarine! Zombie cant get in!***"
+	{
+		"chi"		"** **"
+	}
+	"***We cant let them reach the surface!***"
+	{
+		"chi"		"** **"
+	}
+	"***Break the glass and make your way across the ships hull.***"
+	{
+		"chi"		"** **"
+	}
+	"***The lift is out of power. Well have to go through the hole in the hull.***"
+	{
+		"chi"		"** **"
+	}
+	"***If we break the weak glass we cant make it back into the base.***"
+	{
+		"chi"		"** **"
+	}
 }

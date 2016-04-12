@@ -160,4 +160,8 @@
 	{
 		"chi"		"** **"
 	}
+	"***Dont break the glass***"
+	{
+		"chi"		"** **"
+	}
 }

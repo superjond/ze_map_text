@@ -1,3 +1,147 @@
 "Console_T"
 {
+	"**Map made by Eugenio *Motanum* Roman**"
+	{
+		"chi"		"** **"
+	}
+	"**Contact me at eugenio.motanum91 AT gmail.com**"
+	{
+		"chi"		"** **"
+	}
+	"**Thanks to [PF] PlagueFest for their support!**"
+	{
+		"chi"		"** **"
+	}
+	"***Obtain the plans to a secret rocket launch pad!***"
+	{
+		"chi"		"** **"
+	}
+	"**Use the tramway to get to the Helicopters!**"
+	{
+		"chi"		"** **"
+	}
+	"***No fall damage***"
+	{
+		"chi"		"** **"
+	}
+	"**AFK Killer enabled for 5 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**T minus 60 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Hacking into the barrier and door system**"
+	{
+		"chi"		"** **"
+	}
+	"**Hold the octagon until gates are open!**"
+	{
+		"chi"		"** **"
+	}
+	"**Calculating progress time**"
+	{
+		"chi"		"** **"
+	}
+	"**AFK Killer is off**"
+	{
+		"chi"		"** **"
+	}
+	"**T minus 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**T minus 10 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Gates are opening and barriers are online!**"
+	{
+		"chi"		"** **"
+	}
+	"**Barrier system deactivated in 15 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Barrier system is broken! Watch your backs!**"
+	{
+		"chi"		"** **"
+	}
+	"**Monitor A active**"
+	{
+		"chi"		"** **"
+	}
+	"**Monitor B active**"
+	{
+		"chi"		"** **"
+	}
+	"**Plans aquired**"
+	{
+		"chi"		"** **"
+	}
+	"**Find a way out of here!**"
+	{
+		"chi"		"** **"
+	}
+	"**T minus 45s for detonation**"
+	{
+		"chi"		"** **"
+	}
+	"**T minus 30s for detonation**"
+	{
+		"chi"		"** **"
+	}
+	"**T minus 15s for detonation**"
+	{
+		"chi"		"** **"
+	}
+	"**Blast door system is broken!**"
+	{
+		"chi"		"** **"
+	}
+	"**Building power for Tramway! 90 seconds remaining!**"
+	{
+		"chi"		"** **"
+	}
+	"**Final Wave inminent!**"
+	{
+		"chi"		"** **"
+	}
+	"**Tramway leaving in 60 seconds!**"
+	{
+		"chi"		"** **"
+	}
+	"**Tramway leaving in 30 seconds!**"
+	{
+		"chi"		"** **"
+	}
+	"**Tramway leaving in 10 seconds!**"
+	{
+		"chi"		"** **"
+	}
+	"**Tramway has left the station!**"
+	{
+		"chi"		"** **"
+	}
+	"***Easy mode completed***"
+	{
+		"chi"		"** **"
+	}
+	"***Changing level to Normal***"
+	{
+		"chi"		"** **"
+	}
+	"**Get to the chopper**"
+	{
+		"chi"		"** **"
+	}
+	"***Changing level to Hard***"
+	{
+		"chi"		"** **"
+	}
+	"***Normal mode completed***"
+	{
+		"chi"		"** **"
+	}
 }

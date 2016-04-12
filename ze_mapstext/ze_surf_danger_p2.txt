@@ -109,5 +109,8 @@
 	{
 		"chi"		"**OH NO!几秒后核爆！僵尸们，祝你们身体健康**"
 	}
-
+	">>>OK Final door is open : 1 player must go to control room and launch nuke<<<"
+	{
+		"chi"		"** **"
+	}
 }

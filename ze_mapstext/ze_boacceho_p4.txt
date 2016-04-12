@@ -31,7 +31,6 @@
 	"** ... **"
 	{
 		"chi"		"求大神告诉"
-	
 	}
 	"** It opened but... no word was read or heard... Or was it that we couldn't understand? **"
 	{
@@ -68,7 +67,6 @@
 	"** It just says 'to have a reason for the valve to be - aesthetics aside'... **"
 	{
 		"chi"		"(这句话嘲讽了"
-
 	}
 	"** The entrance to the port of all paradoxes will open soon... **"
 	{
@@ -90,5 +88,24 @@
 	{
 		"chi"		"旅程不会结束！"
 	}
-
+	"** Were stranded in Nowhere... **"
+	{
+		"chi"		"** **"
+	}
+	"** It opened but... no word was read or heard... Or was it that we couldnt understand? **"
+	{
+		"chi"		"** **"
+	}
+	"** Weve opened the valve and the reason has been revealed... **"
+	{
+		"chi"		"** **"
+	}
+	"** It just says to have a reason for the valve to be - aesthetics aside... **"
+	{
+		"chi"		"** **"
+	}
+	"** Although small all paradoxes fit in -a paradox told me- because theyre quite slim... **"
+	{
+		"chi"		"** **"
+	}
 }

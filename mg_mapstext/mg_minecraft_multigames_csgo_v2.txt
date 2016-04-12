@@ -224,4 +224,8 @@
 	{
 		"chi"		"** **"
 	}
+	"@[Music] The Colourist - We Wont Go Home (The Jane Doze Remix)"
+	{
+		"chi"		"** **"
+	}
 }

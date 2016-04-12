@@ -2,38 +2,38 @@
 {
 	"@[MAP] Map by [SG] Paul"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：[SG] Paul 地图翻译：Ex_cKot**"
 	}
 	"@[MAP] Steam name = sgpaul"
 	{
-		"chi"		"** **"
+		"chi"		"**Steam name : sgpaul**"
 	}
 	"@[MAP] twitch.tvonscreenlol"
 	{
-		"chi"		"** **"
+		"chi"		"**twitch.tvonscreenlol**"
 	}
 	"@[MAP] This map does not work with bots..."
 	{
-		"chi"		"** **"
+		"chi"		"**地图在有bots是不会运作**"
 	}
 	"@[MAP] twitch.tvlirik"
 	{
-		"chi"		"** **"
+		"chi"		"**twitch.tvlirik**"
 	}
 	"@[MAP] twitch.tvjoshog"
 	{
-		"chi"		"** **"
+		"chi"		"**twitch.tvjoshog**"
 	}
 	"@[MAP] VAC Island ft. easy skins"
 	{
-		"chi"		"** **"
+		"chi"		"**VAC Island ft easy skins**"
 	}
 	"@[MAP] twitch.tvsummit1g"
 	{
-		"chi"		"** **"
+		"chi"		"**twitch.tvsummit1g**"
 	}
 	"@[MAP] twitch.tvb0aty"
 	{
-		"chi"		"** **"
+		"chi"		"**twitch.tvb0aty**"
 	}
 }

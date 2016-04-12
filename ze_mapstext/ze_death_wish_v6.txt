@@ -66,5 +66,12 @@
 	{
 		"chi"		"** 地图作者：Lup4n` 翻译：肉丸 **"
 	}
-
+	"<< 5 seconds to escape >>"
+	{
+		"chi"		"** **"
+	}
+	"<< nuke has been launched !!! >>"
+	{
+		"chi"		"** **"
+	}
 }

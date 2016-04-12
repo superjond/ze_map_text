@@ -272,4 +272,12 @@
 	{
 		"chi"		"**僵尸已经上船 -无效的胜利 **"
 	}
+	"** You have beaten easy mode... Lets see now how you do in MEDIUM! **"
+	{
+		"chi"		"** **"
+	}
+	"** ITS TOO LATE! THE BOAT WILL NOT DO IT IN TIME! WE WILL DIE! **"
+	{
+		"chi"		"** **"
+	}
 }

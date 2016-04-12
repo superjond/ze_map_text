@@ -192,4 +192,56 @@
 	{
 		"chi"		"**现在的门是密封的，不要让任何东西通过！**"
 	}
+	"** Keep it up! I can hear the doors engine moving through the wall! **"
+	{
+		"chi"		"** **"
+	}
+	"** KEEP IT UP! The doors about to open! **"
+	{
+		"chi"		"** **"
+	}
+	"** GO! The doors moving! **"
+	{
+		"chi"		"** **"
+	}
+	"** Were going to have to split up here! Well meet up soon - hopefully! **"
+	{
+		"chi"		"** **"
+	}
+	"** Were trapped in here unless we unlock the pneumatic gates! **"
+	{
+		"chi"		"** **"
+	}
+	"** WERE LEAVING! HOP IN! **"
+	{
+		"chi"		"** **"
+	}
+	"** RESIST! The sounds of the city can be heard through this door! Were close! **"
+	{
+		"chi"		"** **"
+	}
+	"** Keep holding! Its about to open! RESIST! **"
+	{
+		"chi"		"** **"
+	}
+	"** We shouldnt let them pass at all! **"
+	{
+		"chi"		"** **"
+	}
+	"** RESIST ONE LAST BIT! Were close to our destination! **"
+	{
+		"chi"		"** **"
+	}
+	"** Well open the door in a bit! HOLD! **"
+	{
+		"chi"		"** **"
+	}
+	"** Lets hope that the cargo lift is still functional - it was scarcely used. **"
+	{
+		"chi"		"** **"
+	}
+	"** Weve been exposed for too long to the chemicals in the air... **"
+	{
+		"chi"		"** **"
+	}
 }

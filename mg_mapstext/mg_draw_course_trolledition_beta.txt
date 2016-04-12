@@ -52,4 +52,8 @@
 	{
 		"chi"		"** 地图制作：Darnias**"
 	}
+	"@T es nul ! Tes une grosse merde ! Biatch !"
+	{
+		"chi"		"** **"
+	}
 }

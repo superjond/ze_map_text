@@ -362,4 +362,40 @@
 	{
 		"chi"		"**杀掉所有进门的僵尸**"
 	}
+	">> THE DRAGON IS GOING TO KILL US ALL !!! <<"
+	{
+		"chi"		"** **"
+	}
+	"*** Map By Pass and Kim ***"
+	{
+		"chi"		"** **"
+	}
+	">> Defend the bridge dont let the zombies on the other side! <<"
+	{
+		"chi"		"** **"
+	}
+	">> ITS A DRAGON! <<"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold the bridges for 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	">> You Have Defeated Alduin <<"
+	{
+		"chi"		"** **"
+	}
+	">> Run for the Mead Hall <<"
+	{
+		"chi"		"** **"
+	}
+	"** YOU HAVE BEATEN THE MAP CONGRATULATIONS !!! **"
+	{
+		"chi"		"** **"
+	}
+	"** MAP BY PASS AND KIM !!! **"
+	{
+		"chi"		"** **"
+	}
 }

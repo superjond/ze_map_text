@@ -360,4 +360,28 @@
 	{
 		"chi"		"** 感谢您的试玩 **"
 	}
+	"*** RESIST 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** KILL ZOMBIES ON TOP!  ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WELL DONE! NEXT DOOR OPENS IN 5 SEC ***"
+	{
+		"chi"		"** **"
+	}
+	"Hes watching you..."
+	{
+		"chi"		"** **"
+	}
+	"*** HES RUNNING AWAY! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Map made by Cuniczek ***"
+	{
+		"chi"		"** **"
+	}
 }

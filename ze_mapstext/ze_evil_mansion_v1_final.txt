@@ -210,5 +210,32 @@
 	{
 		"chi"		"**如有建议请到SCA战队论坛找作者!**"
 	}
-
+	"**Sailor Moon: Hey Boys!  Im So Horny!  Come Touch Me!**"
+	{
+		"chi"		"** **"
+	}
+	"**Sailor Moon: IM CUMMIN FOR YOU!**"
+	{
+		"chi"		"** **"
+	}
+	"WERE GOING DOWN!!!"
+	{
+		"chi"		"** **"
+	}
+	"-=WERE GOING DOWN!=-"
+	{
+		"chi"		"** **"
+	}
+	"**Dr. Valencia:  Im in the john!**"
+	{
+		"chi"		"** **"
+	}
+	"**Dr Valencia:  Ok... Ill open the door.**"
+	{
+		"chi"		"** **"
+	}
+	"**Dr. Valencia:  Hold the door!  Ill use the remaining gas to conjure up a nuke!**"
+	{
+		"chi"		"** **"
+	}
 }

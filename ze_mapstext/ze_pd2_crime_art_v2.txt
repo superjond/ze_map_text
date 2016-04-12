@@ -84,5 +84,12 @@
 	{
 		"chi"		"**冲向直升机，payday time!**"
 	}
-
+	"** The Elevator will leave in 10 seconds. Dont miss it! **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD THE KITCHEN! DONT LET ZOMBIES IN! **"
+	{
+		"chi"		"** **"
+	}
 }

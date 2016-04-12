@@ -422,4 +422,20 @@
 	{
 		"chi"		"** **"
 	}
+	"***IT LOOKS LIKE ITS PREPARING FOR ANOTHER GROUNDSTOMP***"
+	{
+		"chi"		"** **"
+	}
+	"***SHOOT IT BEFORE ITS TOO LATE***"
+	{
+		"chi"		"** **"
+	}
+	"***ITS RUNNING AWAY***"
+	{
+		"chi"		"** **"
+	}
+	"***THE CHOPPER IS ON ITS WAY!***"
+	{
+		"chi"		"** **"
+	}
 }

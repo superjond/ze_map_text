@@ -175,4 +175,16 @@
 		"chi"		"**电梯在5秒后离开！**"
 		"DoorCountdown"		"5"
 	}
+	"** CoolR Gun has been picked up. Press +USE (E) to activate. **"
+	{
+		"chi"		"** **"
+	}
+	"** TELEPORT CHARGING **"
+	{
+		"chi"		"** **"
+	}
+	"HOLD ZOMBIES UNTILL IT IS FULLY CHARGED"
+	{
+		"chi"		"** **"
+	}
 }

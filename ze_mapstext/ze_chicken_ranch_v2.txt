@@ -300,5 +300,8 @@
 	{
 		"chi"		"**1**"
 	}
-
+	"** Why would they even trap 4 chickens on a tram that doesnt seem to move...? **"
+	{
+		"chi"		"** **"
+	}
 }

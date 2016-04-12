@@ -221,4 +221,40 @@
 	{
 		"chi"		"** 地图上传：sG | Waffles**"
 	}
+	"**YOUVE CHOSEN GRENADES**"
+	{
+		"chi"		"** **"
+	}
+	"**YOUVE CHOSEN AWP**"
+	{
+		"chi"		"** **"
+	}
+	"**YOUVE CHOSEN SHOTGUNS**"
+	{
+		"chi"		"** **"
+	}
+	"**YOUVE CHOSEN BHOP**"
+	{
+		"chi"		"** **"
+	}
+	"**YOUVE CHOSEN ICESKATE**"
+	{
+		"chi"		"** **"
+	}
+	"**YOUVE CHOSEN KNIFE**"
+	{
+		"chi"		"** **"
+	}
+	"**YOUVE CHOSEN SQUASH**"
+	{
+		"chi"		"** **"
+	}
+	"**YOUVE CHOSEN BREAKWALL**"
+	{
+		"chi"		"** **"
+	}
+	"**YOUVE CHOSEN HEADSHOT**"
+	{
+		"chi"		"** **"
+	}
 }

@@ -108,4 +108,8 @@
 	{
 		"chi"		"** **"
 	}
+	"@[MUSIC] Ed Sheeran - Dont"
+	{
+		"chi"		"** **"
+	}
 }

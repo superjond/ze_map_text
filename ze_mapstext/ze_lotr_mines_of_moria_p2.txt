@@ -1,0 +1,119 @@
+"Console_T"
+{
+	"**Map by: Hannibal [SPA] (Rafuron)**"
+	{
+		"chi"		"** **"
+	}
+	"**Bring the ring to Khazad-Dum bridge to win easily**"
+	{
+		"chi"		"** **"
+	}
+	"**The ring has been picked!**"
+	{
+		"chi"		"** **"
+	}
+	"**Saruman staff has been picked!**"
+	{
+		"chi"		"** **"
+	}
+	"**Humans have reached Balins tomb! Resist 55 s**"
+	{
+		"chi"		"** **"
+	}
+	"**Balins door closing in 10 s**"
+	{
+		"chi"		"** **"
+	}
+	"**Zombies have been alerted!**"
+	{
+		"chi"		"** **"
+	}
+	"**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**"
+	{
+		"chi"		"** **"
+	}
+	"**Resist 30 s**"
+	{
+		"chi"		"** **"
+	}
+	"**Resist 15 s**"
+	{
+		"chi"		"** **"
+	}
+	"**Go to the Khazad-Dum bridge!**"
+	{
+		"chi"		"** **"
+	}
+	"**Gandalf staff has been picked!**"
+	{
+		"chi"		"** **"
+	}
+	"**Stay in the circle! Zombies cant go in!**"
+	{
+		"chi"		"** **"
+	}
+	"** Protection ring will close in 15 s **"
+	{
+		"chi"		"** **"
+	}
+	"** ... **"
+	{
+		"chi"		"** **"
+	}
+	"** Moria is unstable! Run towards the stairs in  **"
+	{
+		"chi"		"** **"
+	}
+	"**5**"
+	{
+		"chi"		"** **"
+	}
+	"**4**"
+	{
+		"chi"		"** **"
+	}
+	"**3**"
+	{
+		"chi"		"** **"
+	}
+	"**2**"
+	{
+		"chi"		"** **"
+	}
+	"**1**"
+	{
+		"chi"		"** **"
+	}
+	"**Go!**"
+	{
+		"chi"		"** **"
+	}
+	"**Balrog coming to BALIN AND COLUMN ZONE in 15s**"
+	{
+		"chi"		"** **"
+	}
+	"**(Zombies) The door to Khazad-Dum bridge is now open**"
+	{
+		"chi"		"** **"
+	}
+	"**Balrog coming to SUPERIOR STAIRS ZONE in 15s**"
+	{
+		"chi"		"** **"
+	}
+	"**Gandalf in the middle**"
+	{
+		"chi"		"** **"
+	}
+	"**Gandalf is dead!**"
+	{
+		"chi"		"** **"
+	}
+	"**Protect Gandalf during 35s! He must break the bridge! **"
+	{
+		"chi"		"** **"
+	}
+	"**Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed**"
+	{
+		"chi"		"** **"
+	}
+}

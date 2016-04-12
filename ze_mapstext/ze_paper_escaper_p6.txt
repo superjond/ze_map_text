@@ -730,4 +730,44 @@
 	{
 		"chi"		"**地图难度将保持在正常 **"
 	}
+	"** Mojoneros PenisGun has been picked up. **"
+	{
+		"chi"		"** **"
+	}
+	"*Main labs doors opening in 5 seconds.*"
+	{
+		"chi"		"** **"
+	}
+	"*Theres no power! One human must activate it through the vent..*"
+	{
+		"chi"		"** **"
+	}
+	"*Activate the Elevator and open the docks door.*"
+	{
+		"chi"		"** **"
+	}
+	"*Docks door opening in 5 seconds..*"
+	{
+		"chi"		"** **"
+	}
+	"*Go inside the powerstations office!*"
+	{
+		"chi"		"** **"
+	}
+	"*Deploying bridge. Resist untill its down!!!*"
+	{
+		"chi"		"** **"
+	}
+	"*Evil Corp. Headquarters doors opening in 10 seconds.*"
+	{
+		"chi"		"** **"
+	}
+	"*Basic offensive mode activated: Fist crusher module loaded*"
+	{
+		"chi"		"** **"
+	}
+	"*Well done! You stopped the robots most powerfull attack!*"
+	{
+		"chi"		"** **"
+	}
 }

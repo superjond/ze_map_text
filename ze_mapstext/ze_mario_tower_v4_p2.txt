@@ -65,5 +65,12 @@
 		"chi"		"** FFF燃烧大地之术 施法时间还有 30秒 翻译：肉丸 **"
 		"DoorCountdown"		"30"
 	}
-
+	"*** Bowser and his minions are attacking!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Clouds will raise in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
 }

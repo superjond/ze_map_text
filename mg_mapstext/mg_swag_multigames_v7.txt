@@ -248,4 +248,12 @@
 	{
 		"chi"		"** **"
 	}
+	"@[MAP] Both COUNTER-TERRORIST VIPs have been killed!"
+	{
+		"chi"		"** **"
+	}
+	"@[MAP] Both TERRORIST VIPs have been killed!"
+	{
+		"chi"		"** **"
+	}
 }

@@ -76,4 +76,8 @@
 	{
 		"chi"		"**地图制作：Darnias**"
 	}
+	"Explosion in 3 seconds ! Dont move man!"
+	{
+		"chi"		"** **"
+	}
 }

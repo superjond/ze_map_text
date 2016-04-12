@@ -32,4 +32,8 @@
 	{
 		"chi"		"**30秒内挂机处死**"
 	}
+	"*** ZwiebelBitch for President! ***"
+	{
+		"chi"		"** **"
+	}
 }

@@ -56,4 +56,500 @@
 	{
 		"chi"		"** **"
 	}
+	">> PLAYER HAS PICKED UP WATER <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP GRAVITY <<"
+	{
+		"chi"		"** **"
+	}
+	"110 Ghost Found"
+	{
+		"chi"		"** **"
+	}
+	"*** LEAF LEAVING IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP EARTH <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP ICE <<"
+	{
+		"chi"		"** **"
+	}
+	"210 Ghost Found"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD FOR 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 MORE SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RUUUN! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR IS OPEN! RUUUN! ***"
+	{
+		"chi"		"** **"
+	}
+	"310 Ghost Found"
+	{
+		"chi"		"** **"
+	}
+	">> ITS THE GROKE SHOOT IT !!!!  <<"
+	{
+		"chi"		"** **"
+	}
+	">> THE GROKE IS DEAD <<"
+	{
+		"chi"		"** **"
+	}
+	">> ESCAPE BY THE LADDER <<"
+	{
+		"chi"		"** **"
+	}
+	"*** FLY LEAVING IN 15 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL COMPLETED !!! <<"
+	{
+		"chi"		"** **"
+	}
+	"[Level2] Destroy the TV"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: TV <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP 6 MINES <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP WIND <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP HEAL <<"
+	{
+		"chi"		"** **"
+	}
+	"110 Painting Found"
+	{
+		"chi"		"** **"
+	}
+	"*** FALL BACK !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR OPENING IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR LEAVING IN 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FAN STOPPING IN 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FALL BACK ***"
+	{
+		"chi"		"** **"
+	}
+	">> BREAK THE HEART OF THE TV <<"
+	{
+		"chi"		"** **"
+	}
+	">> THE TV HEART IS DESTROYED <<"
+	{
+		"chi"		"** **"
+	}
+	">> THE BUILDING WILL BLOW UP <<"
+	{
+		"chi"		"** **"
+	}
+	">> ESCAPE BY THE WEB <<"
+	{
+		"chi"		"** **"
+	}
+	"*** WEB LEAVING IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	">> ALL 6 MINES USED <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP FIRE <<"
+	{
+		"chi"		"** **"
+	}
+	"210 Painting Found"
+	{
+		"chi"		"** **"
+	}
+	">> TV HEART IS COLLAPSING KEEP SHOOTING !!!!!! <<"
+	{
+		"chi"		"** **"
+	}
+	"310 Painting Found"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL COMPLETED!! <<"
+	{
+		"chi"		"** **"
+	}
+	"[Level3] Explore the Heaven"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: HEAVEN <<"
+	{
+		"chi"		"** **"
+	}
+	"110 Angel Found"
+	{
+		"chi"		"** **"
+	}
+	"*** CLOUD LEAVING IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"210 Angel Found"
+	{
+		"chi"		"** **"
+	}
+	"*** HEAVEN GATES OPENING IN 25 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GATE OPENING IN 25 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOORS OPENING IN 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"310 Angel Found"
+	{
+		"chi"		"** **"
+	}
+	">> OH NO!! ITS GOD <<"
+	{
+		"chi"		"** **"
+	}
+	">> GOD HAS BEEN DEFEATED !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> RUN TO SAFETY <<"
+	{
+		"chi"		"** **"
+	}
+	"*** BUTTERFLY LEAVING IN 15 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"[Extreme1] Find the Groke"
+	{
+		"chi"		"** **"
+	}
+	">> EXTREME MODE ADDED <<"
+	{
+		"chi"		"** **"
+	}
+	"*** FLY LEAVING IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"[Extreme2] Kill the TV Monster"
+	{
+		"chi"		"** **"
+	}
+	">> OH NO!! ITS FAT SPIDER <<"
+	{
+		"chi"		"** **"
+	}
+	">> FAT SPIDER IS DEAD <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS CHOSEN: HEAVEN EXTREME <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: THE END <<"
+	{
+		"chi"		"** **"
+	}
+	">> ZOMBIE ITEM AS BEEN PICKED UP <<"
+	{
+		"chi"		"** **"
+	}
+	">> THE GRID IS CLOSED <<"
+	{
+		"chi"		"** **"
+	}
+	">> DEFEND LONGER <<"
+	{
+		"chi"		"** **"
+	}
+	">> A CLOUD IS COMING <<"
+	{
+		"chi"		"** **"
+	}
+	">> CLOUD LEAVING IN 10 SECONDS <<"
+	{
+		"chi"		"** **"
+	}
+	">> ITS SATAN WITH THE ANGELS !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> ... HE IS GONE <<"
+	{
+		"chi"		"** **"
+	}
+	">> HOLD ZOMBIES UNTIL THE BUTTERFLY COME <<"
+	{
+		"chi"		"** **"
+	}
+	">> BUTTERFLY IS HERE !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> RESCUE BUTTERFLY LEAVING IN 20 SECONDS <<"
+	{
+		"chi"		"** **"
+	}
+	"*** WHERE DID SATAN GO... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE DRAGON IS BACK FROM HELL !!! ***"
+	{
+		"chi"		"** **"
+	}
+	">> SURVIVE 180 SECONDS IN THE SPAWN AND TV AREA <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: ZM <<"
+	{
+		"chi"		"** **"
+	}
+	"[ZM] Save your ass from Zombies"
+	{
+		"chi"		"** **"
+	}
+	">> NEXT LEVEL ZM <<"
+	{
+		"chi"		"** **"
+	}
+	">> You have succesfully saved Shroomforest world !! <<"
+	{
+		"chi"		"** **"
+	}
+	"Congratulation !!!"
+	{
+		"chi"		"** **"
+	}
+	">> SATAN IS FINALLY DEFEATED !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> PORTAL IS CLOSING !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> PORTAL CLOSING IN 5 SECONDS !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> PORTAL CLOSING IN 10 SECONDS !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> DONT LET ZOMBIES GET IN !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> ESCAPE VIA THE PORTAL !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> SATAN IS HURT !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> NADE DOES MORE DAMAGE <<"
+	{
+		"chi"		"** **"
+	}
+	">> SHOOT HIM WE NEED TO SAVE THE ANGELS !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> ITS SATAN AGAIN !!! <<"
+	{
+		"chi"		"** **"
+	}
+	"*** .... WHAT IS HAPPENING ?? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NADES DO MORE DAMAGE !!! ***"
+	{
+		"chi"		"** **"
+	}
+	">> THE DRAGON HAS BEEN DEFEATED !!! <<"
+	{
+		"chi"		"** **"
+	}
+	"*** GOOD JOB TEAM !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WE HAVE TO KILL HIM AS FAST AS POSSIBLE ***"
+	{
+		"chi"		"** **"
+	}
+	">> SECRET MUSIC UNLOCKED <<"
+	{
+		"chi"		"** **"
+	}
+	">> FIND THE TELEPORTER TO LEVEL ROOM <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS CHOSEN: THE END <<"
+	{
+		"chi"		"** **"
+	}
+	">> 150 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 120 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 90 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 70 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 50 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 5 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	"[TheEnd] Eliminate Satan once and for all"
+	{
+		"chi"		"** **"
+	}
+	">> 3 WINS IN A ROW !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> SECRET MUSIC UNLOCKED FOR ZM ROUND <<"
+	{
+		"chi"		"** **"
+	}
+	"*** FLY LEAVING IN 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"[Extreme3] Save the Angels"
+	{
+		"chi"		"** **"
+	}
+	"*** GATE OPENING IN 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	">> FALL BACK <<"
+	{
+		"chi"		"** **"
+	}
+	">> OH NO!! ITS FALLEN ANGEL <<"
+	{
+		"chi"		"** **"
+	}
+	">> FALLEN ANGEL HAS BEEN DEFEATED !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> LET THE ANGELS ESCAPE FIRST <<"
+	{
+		"chi"		"** **"
+	}
+	">> CONTINUE TO DEFEND <<"
+	{
+		"chi"		"** **"
+	}
+	">> THE LAST ANGEL IS OUT <<"
+	{
+		"chi"		"** **"
+	}
+	"*** BUTTERFLY LEAVING IN 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BUTTERFLY IS DEAD !!!! DEFEND LONGER !!!! ***"
+	{
+		"chi"		"** **"
+	}
+	">> THE ANGELS GOT THE RESCUE PLANK BACK <<"
+	{
+		"chi"		"** **"
+	}
+	">> FALL BACK !!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> THEY WILL TELEPORT US OUT <<"
+	{
+		"chi"		"** **"
+	}
+	">> IS THIS SATAN WORK.... <<"
+	{
+		"chi"		"** **"
+	}
+	">> TELEPORTING ZOMBIES <<"
+	{
+		"chi"		"** **"
+	}
+	">> WE HAVE TO ESCAPE THIS PLACE <<"
+	{
+		"chi"		"** **"
+	}
+	">> CLOUD LEAVING IN 40 SECONDS <<"
+	{
+		"chi"		"** **"
+	}
 }

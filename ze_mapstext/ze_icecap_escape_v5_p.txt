@@ -77,5 +77,44 @@
 	{
 		"chi"		"核弹10秒后到达"
 	}
-
+	"***Gate opening in 30secs.***"
+	{
+		"chi"		"** **"
+	}
+	"***Helicopter leaving in 5secs.***"
+	{
+		"chi"		"** **"
+	}
+	"***Gate opening in 5secs.***"
+	{
+		"chi"		"** **"
+	}
+	"***Start up the Helicopter.***"
+	{
+		"chi"		"** **"
+	}
+	"***...WashBucket leaving in 5secs...Seriously?***"
+	{
+		"chi"		"** **"
+	}
+	"***5***"
+	{
+		"chi"		"** **"
+	}
+	"***4***"
+	{
+		"chi"		"** **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
 }

@@ -188,4 +188,20 @@
 	{
 		"chi"		"** **"
 	}
+	">>>You must navigate the ship and find Captian Dallas keycard!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>With it you can access MU-TH-ERs mainframe and gain access to engineering! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Activate the self destruct mechanism and get the hell off this ship, dont let the alien escape!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>MU-TH-ER reports the Aliens are using the ships vents to move around! Be careful!<<<"
+	{
+		"chi"		"** **"
+	}
 }

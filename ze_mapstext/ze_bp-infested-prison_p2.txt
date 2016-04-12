@@ -84,5 +84,32 @@
 	{
 		"chi"		"**[1]人类智商比僵尸高点，僵尸全体爆炸**"
 	}
-
+	"[Dont let them through! Get into the freezer ASAP.]"
+	{
+		"chi"		"** **"
+	}
+	"[Dont touch those lasers!]"
+	{
+		"chi"		"** **"
+	}
+	"[Get through that gate up ahead and dont let them in.]"
+	{
+		"chi"		"** **"
+	}
+	"[Grab some nades and blow the limbs off em.]"
+	{
+		"chi"		"** **"
+	}
+	"[Theres fumes going through the vents! Get out of there!]"
+	{
+		"chi"		"** **"
+	}
+	"**[5]**"
+	{
+		"chi"		"** **"
+	}
+	"[Suicide Bombers Inbound: ETA 1 Minute.]"
+	{
+		"chi"		"** **"
+	}
 }

@@ -304,4 +304,8 @@
 	{
 		"chi"		"** **"
 	}
+	"[THC LEGO] CTs get Weapons."
+	{
+		"chi"		"** **"
+	}
 }

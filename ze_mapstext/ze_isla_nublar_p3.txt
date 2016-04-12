@@ -209,5 +209,8 @@
 	{
 		"chi"		"**已检测到僵尸 **"
 	}
-
+	"***MULDOONS SHOTGUN HAS BEEN FOUND***"
+	{
+		"chi"		"** **"
+	}
 }

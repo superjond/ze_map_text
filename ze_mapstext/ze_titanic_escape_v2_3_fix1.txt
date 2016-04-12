@@ -77,4 +77,12 @@
 	{
 		"chi"		"**激光将在 5 秒后消失！**"
 	}
+	"**Main elevators second doors now unlocked**"
+	{
+		"chi"		"** **"
+	}
+	"**The boats will leave in 2 minutes!**"
+	{
+		"chi"		"** **"
+	}
 }

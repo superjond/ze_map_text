@@ -216,4 +216,12 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Windows that dont have a wooden plank are breakable! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO BACK! ITS GONNA BLOW! ***"
+	{
+		"chi"		"** **"
+	}
 }

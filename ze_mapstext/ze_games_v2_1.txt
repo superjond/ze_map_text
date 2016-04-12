@@ -482,6 +482,8 @@
 	{
 		"chi"		"** **"
 	}
-
-
+	"-=[ Its time for the final minigame ]=-"
+	{
+		"chi"		"** **"
+	}
 }

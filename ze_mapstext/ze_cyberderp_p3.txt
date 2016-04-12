@@ -352,4 +352,8 @@
 	{
 		"chi"		"**僵尸！没有胜利 **"
 	}
+	"* * * Aeolus Spirit has been picked up * * *"
+	{
+		"chi"		"** **"
+	}
 }

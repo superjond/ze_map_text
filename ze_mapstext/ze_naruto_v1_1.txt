@@ -232,4 +232,28 @@
 	{
 		"chi"		"** **"
 	}
+	"** CITYs AFK TELEPORT IN 10s **"
+	{
+		"chi"		"** **"
+	}
+	"** CITYs AFK TELEPORT **"
+	{
+		"chi"		"** **"
+	}
+	"** HUMANS NOW CANT PROTECT THE VILLAGE **"
+	{
+		"chi"		"** **"
+	}
+	"** DONT LET SASUKE MAKE A NEW ATTACK **"
+	{
+		"chi"		"** **"
+	}
+	"** NARUTO USED YOUR POWER... YOU CANT HELP HIM ANYMORE **"
+	{
+		"chi"		"** **"
+	}
+	"** NEXT DIFFICULTY : NORMAL **"
+	{
+		"chi"		"** **"
+	}
 }

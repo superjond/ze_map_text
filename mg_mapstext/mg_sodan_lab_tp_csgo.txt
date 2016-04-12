@@ -96,4 +96,24 @@
 	{
 		"chi"		"** **"
 	}
+	"GLaDOS: Ill be your overseer and you are the ingredients of science."
+	{
+		"chi"		"** **"
+	}
+	"GLaDOS: What are you doing! Without you, the cake will never be finished. I hope youre happy."
+	{
+		"chi"		"** **"
+	}
+	"GLaDOS: What are you doing! You wont find cake behind that door."
+	{
+		"chi"		"** **"
+	}
+	"GLaDOS: Anyway this cake is great. Its so delicious and moist"
+	{
+		"chi"		"** **"
+	}
+	"GLaDOS: Look at me still talking when theres sci..."
+	{
+		"chi"		"** **"
+	}
 }

@@ -510,4 +510,32 @@
 	{
 		"chi"		"** 人类现在是无敌的 杀死所有僵尸在避难所! **"
 	}
+	">>> ITS BARBOSSA. KILL HIM! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ITS KRAKEN. KILL HIM! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ITS A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HES DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ITS BARBOSSA AGAIN. DONT LET HIM SURVIVE!  <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> YOU HAVE WON THE MAP. YOU ARE A REAL PIRATE <<<"
+	{
+		"chi"		"** **"
+	}
 }

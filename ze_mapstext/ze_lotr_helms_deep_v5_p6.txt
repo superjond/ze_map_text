@@ -134,4 +134,12 @@
 	{
 		"chi"		"**城墙已经被摧毁了！撤退！赶紧进入城堡！**"
 	}
+	"** They have broken through! The castle is breached! Retreat! Get them inside! Into the Keep!**"
+	{
+		"chi"		"** **"
+	}
+	"**Charge! Follow the shiny path! Do not separate!"
+	{
+		"chi"		"** **"
+	}
 }

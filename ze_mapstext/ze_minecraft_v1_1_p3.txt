@@ -192,4 +192,12 @@
 	{
 		"chi"		"**苦力怕的头被捡起来了。**"
 	}
+	"***THE BOW HAS BEEN PICKED UP***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU BE TROLLIN***"
+	{
+		"chi"		"** **"
+	}
 }

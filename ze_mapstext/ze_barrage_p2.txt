@@ -76,5 +76,16 @@
 	{
 		"chi"		"**房顶开放**"
 	}
-
+	">>LADDERS ACCESS OPEN<<"
+	{
+		"chi"		"** **"
+	}
+	">>LADDERS BREAK<<"
+	{
+		"chi"		"** **"
+	}
+	">>BYE BYE<<"
+	{
+		"chi"		"** **"
+	}
 }

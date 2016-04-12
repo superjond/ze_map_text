@@ -86,4 +86,8 @@
 	{
 		"chi"		"**快离开这个鬼地方!!!!!**"
 	}
+	"*** Beware of Bowsers Fire Breath! ***"
+	{
+		"chi"		"** **"
+	}
 }

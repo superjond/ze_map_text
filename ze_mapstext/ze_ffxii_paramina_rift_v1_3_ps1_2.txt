@@ -726,4 +726,24 @@
 	{
 		"chi"		"** **"
 	}
+	"15 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"0 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"23 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"20 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"18 . STAGGER"
+	{
+		"chi"		"** **"
+	}
 }

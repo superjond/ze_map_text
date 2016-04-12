@@ -441,4 +441,52 @@
 	{
 		"chi"		"**地图制作 By Beware K.'s SlenderMan! 翻译 By 色狼领袖**"
 	}
+	"***Hold off as the zombies spawn until youre teleport to 1 of the 9 maps!***"
+	{
+		"chi"		"** **"
+	}
+	"***CTs have 120secs to escape as the temples curse spreads!***"
+	{
+		"chi"		"** **"
+	}
+	"***The curse has reached spawn!***"
+	{
+		"chi"		"** **"
+	}
+	"***Dont Delay!***"
+	{
+		"chi"		"** **"
+	}
+	"***CTs have 15secs to escape!***"
+	{
+		"chi"		"** **"
+	}
+	"***Wait here till everyone else makes it!***"
+	{
+		"chi"		"** **"
+	}
+	"***The curse has reached the dual arch!***"
+	{
+		"chi"		"** **"
+	}
+	"***The curse has reached Monas Hallway!***"
+	{
+		"chi"		"** **"
+	}
+	"***Beware K.s SlenderMan!***"
+	{
+		"chi"		"** **"
+	}
+	"***If the world is going to end at least youll have a warm seat!***"
+	{
+		"chi"		"** **"
+	}
+	"***Take the Carpet and make your way to the escape door!***"
+	{
+		"chi"		"** **"
+	}
+	"***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!***"
+	{
+		"chi"		"** **"
+	}
 }

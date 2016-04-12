@@ -209,4 +209,72 @@
 	{
 		"chi"		"** **"
 	}
+	"** MS. WHISKERS HAS WHISKED US! ITS ALL OVER! **"
+	{
+		"chi"		"** **"
+	}
+	"** WE CANT SEEM TO PROGRESS AHEAD... **"
+	{
+		"chi"		"** **"
+	}
+	"** The spirits marked the H leter... **"
+	{
+		"chi"		"** **"
+	}
+	"** A... **"
+	{
+		"chi"		"** **"
+	}
+	"** L... **"
+	{
+		"chi"		"** **"
+	}
+	"** L again... **"
+	{
+		"chi"		"** **"
+	}
+	"** O... **"
+	{
+		"chi"		"** **"
+	}
+	"** W... **"
+	{
+		"chi"		"** **"
+	}
+	"** E... **"
+	{
+		"chi"		"** **"
+	}
+	"** E yet again... **"
+	{
+		"chi"		"** **"
+	}
+	"** N... **"
+	{
+		"chi"		"** **"
+	}
+	"** It spelled HALLOWEEN! **"
+	{
+		"chi"		"** **"
+	}
+	"** Were getting close! If we can get into the pumpkin besides the oven we will be safe! **"
+	{
+		"chi"		"** **"
+	}
+	"** THATS IT! WERE GONNA BLOW IT UP! **"
+	{
+		"chi"		"** **"
+	}
+	"** We cant get past here with that stove turned on! **"
+	{
+		"chi"		"** **"
+	}
+	"** Will we be here forever? Have the mapmakers left us at our stake?! That cant be! **"
+	{
+		"chi"		"** **"
+	}
+	"** Hey look! Its Billy the friendly ghost! **"
+	{
+		"chi"		"** **"
+	}
 }

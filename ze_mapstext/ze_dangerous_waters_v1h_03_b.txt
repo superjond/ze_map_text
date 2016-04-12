@@ -1,0 +1,7 @@
+"Console_T"
+{
+	"***Nuclear bomb on its way doors closing in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+}

@@ -208,4 +208,24 @@
 	{
 		"chi"		"** **"
 	}
+	">>But they wont wait for long time !<<"
+	{
+		"chi"		"** **"
+	}
+	">>Lets go ! but be carefull ! there are still some zombies around us<<"
+	{
+		"chi"		"** **"
+	}
+	">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE CHOPPER !!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>>Only one Shot - 10s of loading<<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>>Electro Gun has been picked<<<<"
+	{
+		"chi"		"** **"
+	}
 }

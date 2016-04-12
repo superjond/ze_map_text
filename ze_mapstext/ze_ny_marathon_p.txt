@@ -276,4 +276,40 @@
 	{
 		"chi"		"** **"
 	}
+	"* [[ NYCRockRadio FM 81.2 :: The Doors - Roadhouse Blues ]] *"
+	{
+		"chi"		"** **"
+	}
+	"** Oh noes! The tunnel is locked! Well have to hold a bit (30s) **"
+	{
+		"chi"		"** **"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Girlschool - Cmon Lets Go! ]] *"
+	{
+		"chi"		"** **"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Arthur Brown - Ive Got Money ]] *"
+	{
+		"chi"		"** **"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin USA ]] *"
+	{
+		"chi"		"** **"
+	}
+	"** We need to resist! The parks door will open in 20 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"*** Turn on the choppers engines! ***"
+	{
+		"chi"		"** **"
+	}
+	"* [[ NYCRockRadio FM 81.2 :: Flower Travellin Band - Satori PT1 ]] *"
+	{
+		"chi"		"** **"
+	}
+	"** Cmon! 15 more seconds! **"
+	{
+		"chi"		"** **"
+	}
 }
