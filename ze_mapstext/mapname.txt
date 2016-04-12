@@ -582,7 +582,7 @@
 	}
 	"ze_vertigo_militia_b1_3_7"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"建筑工地
 	}
 	"ze_crazy_escape_v3"
 	{
@@ -626,7 +626,7 @@
 	}
 	"ze_lemonysnickets_v1_e3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"柠檬过道"
 	}
 	"ze_shroomforest_v4_4fix_e6"
 	{
@@ -774,11 +774,11 @@
 	}
 	"ze_surf_vortex_v1_v2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"旋风滑翔"
 	}
 	"ze_boatescape5_csgo_b3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"船只大逃亡"
 	}
 	"ze_showdown_v4_1_p"
 	{
