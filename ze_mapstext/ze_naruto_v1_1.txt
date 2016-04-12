@@ -2,258 +2,258 @@
 {
 	"** !!! THIS IS A WARMUP ROUND !!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**！！！启动热身赛！！！ **"
 	}
 	"** !!! WAITING FOR MORE PLAYERS !!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**！！！等待更多玩家！！！ **"
 	}
 	">>>Map by CriSsys<<<"
 	{
-		"chi"		"** **"
+		"chi"		"*地图制作：CriSsys 地图翻译：蓬莱山帅比♪ **"
 	}
 	">>>Help tips opinions and adjustements by Aeris004<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**帮助Aeris004提示意见和调整 **"
 	}
 	">>>Thanks to FireWavezZ<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢：FireWavezZ **"
 	}
 	"** !!! GAME WILL START IN FEW SECOND !!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**！游戏将在几秒钟后开始！ **"
 	}
 	"** !!! CURRENT DIFFICULTY : EASY !!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**! ! !目前难度:简单! ! ! **"
 	}
 	">>>Type mat_colorcorrection 1 for a better illumination<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**类型1 mat_colorcorrection更好的照明 **"
 	}
 	"** Naruto will open the way ! Follow him ! **"
 	{
-		"chi"		"** **"
+		"chi"		"**火影忍者将打开!跟着他! **"
 	}
 	"** HOLD THIS POSTION **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这个位置 **"
 	}
 	"** AFK CLEANING IN SPAWN SECTION IN 10s **"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后传送挂机玩家 **"
 	}
 	"** 20 SECONDS LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"** 还剩20秒**"
 	}
 	"** Cave way will open in 20s ! **"
 	{
-		"chi"		"** **"
+		"chi"		"**洞穴将于20秒后开放！ **"
 	}
 	"** AFK CLEANING IN SPAWN SECTION **"
 	{
-		"chi"		"** **"
+		"chi"		"**传送挂机玩家 **"
 	}
 	"** 10 SECONDS LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩10秒 **"
 	}
 	"** Cave way will open in 10s ! **"
 	{
-		"chi"		"** **"
+		"chi"		"**洞穴将于10秒后开放！ **"
 	}
 	"** 5 SECONDS LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"** DOORS OPENING NOW **"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了 **"
 	}
 	"** HOLD THIS POSITION **"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这个位置 **"
 	}
 	"** CITY's AFK TELEPORT IN 10s **"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家在10秒后传送 **"
 	}
 	"** CITY's AFK TELEPORT **"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家传送 **"
 	}
 	"** 20 SECOND LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩20秒 **"
 	}
 	"** 10 SECOND LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩10秒 **"
 	}
 	"** 5 SECOND LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**还剩5秒 **"
 	}
 	"** FORTRESS AFK TELEPORT IN 10s **"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后传送挂机玩家 **"
 	}
 	"** FORTRESS AFK TELEPORT **"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家已传送 **"
 	}
 	"** !!! NEXT DIFFICULTY : NORMAL !!! **"
 	{
-		"chi"		"** **"
+		"chi"		"** ! ! !下一个难度:正常! ! !**"
 	}
 	"** !!! CURRENT DIFFICULTY : NORMAL !!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**！！！目前难度：正常！！！ **"
 	}
 	"** !!! NEXT DIFFICULTY : HARD !!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**！！！下一个难度：困难！！！ **"
 	}
 	"** !!! CURRENT DIFFICULTY : HARD !!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**！！！目前难度：困难！！！ **"
 	}
 	"** DOOR WILL OPEN IN 10 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在10秒后打开 **"
 	}
 	"** DOOR WILL OPEN IN 5 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在5秒后打开 **"
 	}
 	"** YOU NEED TO DEFEND THE TOWN 45s **"
 	{
-		"chi"		"** **"
+		"chi"		"**你需要保卫城镇45s **"
 	}
 	"** DEFEND AGAIN 30s **"
 	{
-		"chi"		"** **"
+		"chi"		"**再守住30秒 **"
 	}
 	"** NARUTO HAS BEEN KILLED BY ZOMBIES **"
 	{
-		"chi"		"** **"
+		"chi"		"**鸣人被僵尸杀死 **"
 	}
 	"** HUMANS NOW CAN'T PROTECT THE VILLAGE **"
 	{
-		"chi"		"** **"
+		"chi"		"**人类现在无法保护村子 **"
 	}
 	"** NEXT DIFFICULTY : HARD **"
 	{
-		"chi"		"** **"
+		"chi"		"**下一个难度：困难 **"
 	}
 	"** DEFEND AGAIN 20s **"
 	{
-		"chi"		"** **"
+		"chi"		"**再守住20秒 **"
 	}
 	"** DEFEND AGAIN 10s **"
 	{
-		"chi"		"** **"
+		"chi"		"**再守住10秒 **"
 	}
 	"** DEFEND AGAIN 5s **"
 	{
-		"chi"		"** **"
+		"chi"		"**再守住5秒 **"
 	}
 	"** NEXT DIFFICULTY : EXTREME **"
 	{
-		"chi"		"** **"
+		"chi"		"**下一个难度：极限 **"
 	}
 	"** HUMANS SUCCEFULLY DEFEND KONOHA **"
 	{
-		"chi"		"** **"
+		"chi"		"**人类守护木叶村 **"
 	}
 	"** KILL ALL ZOMBIE SURVIVOR **"
 	{
-		"chi"		"** **"
+		"chi"		"**杀死所有僵尸幸存者 **"
 	}
 	"** !!! CURRENT DIFFICULTY EXTREME !!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**！！！当前难度：极限！！！ **"
 	}
 	"** Naruto is fighting with Sasuke ! Go try to find and help him ! **"
 	{
-		"chi"		"** **"
+		"chi"		"**鸣人正在和佐助战斗！快去寻找并帮助他！ **"
 	}
 	"** NARUTO IS FIGHTING AGAINST SASUKE **"
 	{
-		"chi"		"** **"
+		"chi"		"**鸣人对抗佐助 **"
 	}
 	"** HELP HIM TO DEFEAT SASUKE AND WIN **"
 	{
-		"chi"		"** **"
+		"chi"		"**帮助他打败佐助 **"
 	}
 	">> 9 MINUTES TO ESCAPE <<"
 	{
-		"chi"		"** **"
+		"chi"		"**你们有9分钟的时间来逃离 **"
 	}
 	"** NARUTO WILL USE AN ATTACK. STAY IN THE MIDDLE **"
 	{
-		"chi"		"** **"
+		"chi"		"**鸣人会使用攻击。停留在中间位置 **"
 	}
 	"** SASUKE PREPARE A NEW ATTACK. KEEP SHOOTING **"
 	{
-		"chi"		"** **"
+		"chi"		"**佐助准备发动新的攻击。继续射击 **"
 	}
 	"** KILL ALL CLONES BEFORE THEY ATTACK **"
 	{
-		"chi"		"** **"
+		"chi"		"**在所有克隆人攻击前杀死他们 **"
 	}
 	"** USE YOUR GRENADE TO MAKE MORE DAMAGE **"
 	{
-		"chi"		"** **"
+		"chi"		"**用你的手雷来造成更多伤害 **"
 	}
 	"** NARUTO PREPARE IS FINAL ATTACK. HE WILL USE YOUR POWER **"
 	{
-		"chi"		"** **"
+		"chi"		"**鸣人准备最后的攻击。他会使用你的力量 **"
 	}
 	"** DON'T LET SASUKE MAKE A NEW ATTACK **"
 	{
-		"chi"		"** **"
+		"chi"		"**不要让佐助做出新的攻击 **"
 	}
 	"** KILL HIM BEFORE NARUTO USE HIS ATTACK **"
 	{
-		"chi"		"** **"
+		"chi"		"**鸣人用他的攻击杀死了佐助 **"
 	}
 	"** YOU DID IT !!! YOU DEFETEAD SASUKE **"
 	{
-		"chi"		"** **"
+		"chi"		"**你做到了！！！你打败了佐助 **"
 	}
 	"** YOU BIT EXTREME DIFFICULTY **"
 	{
-		"chi"		"** **"
+		"chi"		"**你选择了极限难度 **"
 	}
 	"** YOU CAN CHOOSE THE NEXT DIFFICULTY **"
 	{
-		"chi"		"** **"
+		"chi"		"**你可以选择下一个难度 **"
 	}
 	"** CITYs AFK TELEPORT IN 10s **"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后传送挂机玩家 **"
 	}
 	"** CITYs AFK TELEPORT **"
 	{
-		"chi"		"** **"
+		"chi"		"**挂机玩家已经传送 **"
 	}
 	"** HUMANS NOW CANT PROTECT THE VILLAGE **"
 	{
-		"chi"		"** **"
+		"chi"		"**人类现在无法保护村庄 **"
 	}
 	"** DONT LET SASUKE MAKE A NEW ATTACK **"
 	{
-		"chi"		"** **"
+		"chi"		"**不要让佐助作出新的攻击 **"
 	}
 	"** NARUTO USED YOUR POWER... YOU CANT HELP HIM ANYMORE **"
 	{
-		"chi"		"** **"
+		"chi"		"**鸣人使用了自己的力量...你不能帮助他了 **"
 	}
 	"** NEXT DIFFICULTY : NORMAL **"
 	{
-		"chi"		"** **"
+		"chi"		"**下一个难度：正常 **"
 	}
 }
