@@ -628,7 +628,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_shroomforest_v4_4fix_e4"
+	"ze_shroomforest_v4_4fix_e6"
 	{
 		"chi"		"蘑菇森林（蘑菇房）1"
 	}
@@ -808,7 +808,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_portal_story_v1"
+	"ze_portal_story_v1_1"
 	{
 		"chi"		"此地图暂无译名"
 	}
