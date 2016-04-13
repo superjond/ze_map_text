@@ -69,5 +69,24 @@
 	{
 		"chi"		"**警告：火箭将在 30 秒后原地爆炸！**"
 	}
-
+	"*** Airlock Opens in 5 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Rocket Labs Door Opens in 20 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Rocket Labs Door Opens in 10 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Cafeteria Doors Open in 15 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Security Door Closes in 5 Seconds ***"
+	{
+		"chi"		"** **"
+	}
 }

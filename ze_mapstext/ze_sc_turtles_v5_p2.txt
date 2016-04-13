@@ -96,5 +96,8 @@
 	{
 		"chi"		"**超牛B的核弹已启动，僵尸全体爆炸 **"
 	}
-
+	"*** Submarine Obstructed: Cant Leave The Bay ***"
+	{
+		"chi"		"** **"
+	}
 }

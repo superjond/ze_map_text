@@ -552,4 +552,20 @@
 	{
 		"chi"		"** **"
 	}
+	"410 Painting Found"
+	{
+		"chi"		"** **"
+	}
+	"510 Painting Found"
+	{
+		"chi"		"** **"
+	}
+	"610 Painting Found"
+	{
+		"chi"		"** **"
+	}
+	">> ZOMBIE ABOARD !! YOU FAILED !! <<"
+	{
+		"chi"		"** **"
+	}
 }

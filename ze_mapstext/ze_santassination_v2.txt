@@ -884,4 +884,16 @@
 	{
 		"chi"		"** **"
 	}
+	"ALL HAIL LUFFAREN, THE GOD OF BEAVERS AND DREAMS!"
+	{
+		"chi"		"** **"
+	}
+	"Where da nudes for Luffaren b at?"
+	{
+		"chi"		"** **"
+	}
+	"^Wtf are you even talking about?"
+	{
+		"chi"		"** **"
+	}
 }

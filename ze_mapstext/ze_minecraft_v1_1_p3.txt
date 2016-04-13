@@ -200,4 +200,16 @@
 	{
 		"chi"		"** **"
 	}
+	"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND***"
+	{
+		"chi"		"** **"
+	}
+	"***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT***"
+	{
+		"chi"		"** **"
+	}
+	"***THIS WILL CRAFT THE SWORD***"
+	{
+		"chi"		"** **"
+	}
 }

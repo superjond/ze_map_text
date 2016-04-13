@@ -303,4 +303,8 @@
 	{
 		"chi"		"** **"
 	}
+	"***Second trains door open! ***"
+	{
+		"chi"		"** **"
+	}
 }

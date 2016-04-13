@@ -214,4 +214,8 @@
 	{
 		"chi"		"** **"
 	}
+	"*** YOU ARE PLAYING ON EXTREME DIFFICULTY!! GOOD LUCK, YOU GONNA NEED IT! ***"
+	{
+		"chi"		"** **"
+	}
 }

@@ -257,4 +257,12 @@
 	{
 		"chi"		"** **"
 	}
+	"**YOUVE CHOSEN RANDOM**"
+	{
+		"chi"		"** **"
+	}
+	"**YOUVE CHOSEN RACE**"
+	{
+		"chi"		"** **"
+	}
 }

@@ -76,4 +76,12 @@
 	{
 		"chi"		"** **"
 	}
+	"Everyone got a knife"
+	{
+		"chi"		"** **"
+	}
+	"LETS KILL"
+	{
+		"chi"		"** **"
+	}
 }

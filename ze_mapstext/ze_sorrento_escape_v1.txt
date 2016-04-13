@@ -184,4 +184,8 @@
 	{
 		"chi"		"** **"
 	}
+	"++ SECRET BOAT is leaving in 30 seconds ++"
+	{
+		"chi"		"** **"
+	}
 }

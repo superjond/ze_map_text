@@ -100,5 +100,12 @@
 	{
 		"chi"		"**安全室已关闭**"
 	}
-
+	"****Zombie burner gunHuman healer gun****"
+	{
+		"chi"		"** **"
+	}
+	"***Destroy the crystals powering the Gods heart***"
+	{
+		"chi"		"** **"
+	}
 }

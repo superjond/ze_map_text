@@ -130,4 +130,16 @@
 	{
 		"chi"		"成功呼叫救援！"
 	}
+	"* Dr. Isaacs: Im encountering unexpected interference! *"
+	{
+		"chi"		"** **"
+	}
+	">> Wheres a crowbar when you need one? <<"
+	{
+		"chi"		"** **"
+	}
+	">> Zombies have overrun the complex. All humans will die! <<"
+	{
+		"chi"		"** **"
+	}
 }

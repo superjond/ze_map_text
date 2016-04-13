@@ -489,4 +489,8 @@
 	{
 		"chi"		"** **"
 	}
+	"***CTs will have to jump off and activate the switches!***"
+	{
+		"chi"		"** **"
+	}
 }

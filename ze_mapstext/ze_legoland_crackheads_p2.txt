@@ -187,4 +187,8 @@
 	{
 		"chi"		"** **"
 	}
+	"** Hes going to annihilate us in 10 seconds... SHOOT!!!**"
+	{
+		"chi"		"** **"
+	}
 }

@@ -208,6 +208,12 @@
 	{
 		"chi"		"**恭喜你 过关 **"
 	}
-
-
+	"### MAP CREATED BY  NARAKA (A.K.A SHIKA)  ###"
+	{
+		"chi"		"** **"
+	}
+	"### ZOMBIESS GATE BREAKS IN 20 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
 }

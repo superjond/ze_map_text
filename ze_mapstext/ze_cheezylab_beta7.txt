@@ -139,5 +139,52 @@
 	{
 		"chi"		"** **"
 	}
-
+	"*-This is your slightly eccentric commander speaking, get a move on!-*"
+	{
+		"chi"		"** **"
+	}
+	"*-Maybe theres something here we can use-*"
+	{
+		"chi"		"** **"
+	}
+	"*-An airlock? Thats strange. I dont remember them having these.-*"
+	{
+		"chi"		"** **"
+	}
+	"*-What was that!?-*"
+	{
+		"chi"		"** **"
+	}
+	"*-A low gravity room.Kinda expected that-*"
+	{
+		"chi"		"** **"
+	}
+	"*-Oh look,chemical weapons.More specificly VX -*"
+	{
+		"chi"		"** **"
+	}
+	"*-Great.Now plant C4 here and run!-*"
+	{
+		"chi"		"** **"
+	}
+	"*-Mmmkay the Excalibre is a key to...-*"
+	{
+		"chi"		"** **"
+	}
+	"*-Damn.That gateway leads to a pocket dimension with tons of antimatter.-*"
+	{
+		"chi"		"** **"
+	}
+	"*-Upload the data.-*"
+	{
+		"chi"		"** **"
+	}
+	"*-Its activating its weapon systems!-*"
+	{
+		"chi"		"** **"
+	}
+	"*-Shoot the computer!The blue part!-*"
+	{
+		"chi"		"** **"
+	}
 }

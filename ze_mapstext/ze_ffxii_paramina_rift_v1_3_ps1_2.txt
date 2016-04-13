@@ -24,7 +24,7 @@
 	}
 	"** MAP BY SLAYERDRAGON **"
 	{
-		"chi"		"**地图作者：SLAYERDRAGON 地图翻译：莲子与梅莉|SuperJond**"
+		"chi"		"**地图作者：SLAYERDRAGON**"
 	}
 	"** SIDEQUEST Collect 500 gil STARTED **"
 	{
@@ -743,6 +743,58 @@
 		"chi"		"** **"
 	}
 	"18 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"13 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"10 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"8 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"5 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"3 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"43 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"40 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"38 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"35 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"33 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"30 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"28 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"25 . STAGGER"
 	{
 		"chi"		"** **"
 	}
