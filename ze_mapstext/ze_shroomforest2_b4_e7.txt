@@ -2,11 +2,11 @@
 {
 	">> Map by Taskuvaras <<"
 	{
-		"chi"		"**地图制作：Taskuvaras 地图翻译：蓬莱山帅比♪ **"
+		"chi"		"**地图制作：Taskuvaras 地图完整翻译：银月筱瑶 **"
 	}
 	">> Finished by Moltard <<"
 	{
-		"chi"		"**在Moltard完成 **"
+		"chi"		"**细节完善：Moltard **"
 	}
 	">>Map ported by www.dashijie.es<<"
 	{
@@ -46,11 +46,11 @@
 	}
 	"[Level1] Find the Groke"
 	{
-		"chi"		"**[1级]找到GROKE **"
+		"chi"		"**[关卡1]找到GROKE**"
 	}
 	">> LEVEL: RAVINE <<"
 	{
-		"chi"		"**LEVEL:峡谷 **"
+		"chi"		"**[关卡1]找到GROKE**"
 	}
 	"[Warmup] Wait for others players to join"
 	{
@@ -58,499 +58,499 @@
 	}
 	">> PLAYER HAS PICKED UP WATER <<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了神器：水（定点推开僵尸）**"
 	}
 	">> PLAYER HAS PICKED UP GRAVITY <<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了神器：重力（定点减速僵尸）**"
 	}
 	"110 Ghost Found"
 	{
-		"chi"		"** **"
+		"chi"		"**110号幽灵被发现**"
 	}
 	"*** LEAF LEAVING IN 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**树叶将在20秒后离开**"
 	}
 	">> PLAYER HAS PICKED UP EARTH <<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了神器：墙（升起一道墙，注意距离）**"
 	}
 	">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了神器：无限弹药（使用后一段时间内弹药无限）**"
 	}
 	">> PLAYER HAS PICKED UP ICE <<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了神器：冰（定点困住僵尸）**"
 	}
 	"210 Ghost Found"
 	{
-		"chi"		"** **"
+		"chi"		"**210号幽灵被发现**"
 	}
 	"*** HOLD FOR 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守这里30秒**"
 	}
 	"*** 5 MORE SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**再守5秒**"
 	}
 	"*** RUUUN! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**快跑**"
 	}
 	"*** DOOR IS OPEN! RUUUN! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**门开了，快跑**"
 	}
 	"310 Ghost Found"
 	{
-		"chi"		"** **"
+		"chi"		"**310号幽灵被发现**"
 	}
 	">> ITS THE GROKE SHOOT IT !!!!  <<"
 	{
-		"chi"		"** **"
+		"chi"		"**这是Groke，快击杀他！**"
 	}
 	">> THE GROKE IS DEAD <<"
 	{
-		"chi"		"** **"
+		"chi"		"**Groke死了**"
 	}
 	">> ESCAPE BY THE LADDER <<"
 	{
-		"chi"		"** **"
+		"chi"		"**从梯子方向逃离，快**"
 	}
 	"*** FLY LEAVING IN 15 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**飞翔叶子将会在15秒后离开**"
 	}
 	">> LEVEL COMPLETED !!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡完成！**"
 	}
 	"[Level2] Destroy the TV"
 	{
-		"chi"		"** **"
+		"chi"		"**[关卡2]：摧毁电视**"
 	}
 	">> LEVEL: TV <<"
 	{
-		"chi"		"** **"
+		"chi"		"**[关卡2]：摧毁电视**"
 	}
 	">> PLAYER HAS PICKED UP 6 MINES <<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了神器：地雷（定点限制僵尸，只有六颗**"
 	}
 	">> PLAYER HAS PICKED UP WIND <<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了神器：风（跟随主人吹走附近僵尸）**"
 	}
 	">> PLAYER HAS PICKED UP HEAL <<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了神器：奶（跟随主人范围提供血量）**"
 	}
 	"110 Painting Found"
 	{
-		"chi"		"** **"
+		"chi"		"**110号绘画被发现**"
 	}
 	"*** FALL BACK !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**快跑！！**"
 	}
 	"*** ELEVATOR OPENING IN 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将会在20秒后打开**"
 	}
 	"*** ELEVATOR LEAVING IN 10 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯将会在10秒后离开**"
 	}
 	"*** FAN STOPPING IN 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**风扇将会在30秒后停止转动**"
 	}
 	"*** FALL BACK ***"
 	{
-		"chi"		"** **"
+		"chi"		"**快跑**"
 	}
 	">> BREAK THE HEART OF THE TV <<"
 	{
-		"chi"		"** **"
+		"chi"		"**拆掉那个电视机！**"
 	}
 	">> THE TV HEART IS DESTROYED <<"
 	{
-		"chi"		"** **"
+		"chi"		"**电视机被拆掉了**"
 	}
 	">> THE BUILDING WILL BLOW UP <<"
 	{
-		"chi"		"** **"
+		"chi"		"**这里的建筑物将会被炸掉**"
 	}
 	">> ESCAPE BY THE WEB <<"
 	{
-		"chi"		"** **"
+		"chi"		"**快从蜘蛛网逃离**"
 	}
 	"*** WEB LEAVING IN 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**蜘蛛网将会在20秒后离开**"
 	}
 	">> ALL 6 MINES USED <<"
 	{
-		"chi"		"** **"
+		"chi"		"**所有的地雷已经被放置**"
 	}
 	">> PLAYER HAS PICKED UP FIRE <<"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家捡起了神器：火（大范围点燃减速僵尸，慎用防止炸服）**"
 	}
 	"210 Painting Found"
 	{
-		"chi"		"** **"
+		"chi"		"**210号绘画被发现**"
 	}
 	">> TV HEART IS COLLAPSING KEEP SHOOTING !!!!!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**电视机核心正在崩溃，继续拆！！！！**"
 	}
 	"310 Painting Found"
 	{
-		"chi"		"** **"
+		"chi"		"**310号绘画被发现**"
 	}
 	">> LEVEL COMPLETED!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡完成！**"
 	}
 	"[Level3] Explore the Heaven"
 	{
-		"chi"		"** **"
+		"chi"		"**[关卡3]探索天堂**"
 	}
 	">> LEVEL: HEAVEN <<"
 	{
-		"chi"		"** **"
+		"chi"		"**[关卡3]探索天堂**"
 	}
 	"110 Angel Found"
 	{
-		"chi"		"** **"
+		"chi"		"**110号天使被发现**"
 	}
 	"*** CLOUD LEAVING IN 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**云将会在20秒后离开**"
 	}
 	"210 Angel Found"
 	{
-		"chi"		"** **"
+		"chi"		"**210号天使被发现**"
 	}
 	"*** HEAVEN GATES OPENING IN 25 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**天堂大门将会在25秒后打开**"
 	}
 	"*** GATE OPENING IN 25 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将会在25秒后打开**"
 	}
 	"*** DOORS OPENING IN 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将会在30秒后打开**"
 	}
 	"310 Angel Found"
 	{
-		"chi"		"** **"
+		"chi"		"**310号天使被发现**"
 	}
 	">> OH NO!! ITS GOD <<"
 	{
-		"chi"		"** **"
+		"chi"		"**卧槽！上帝来了！**"
 	}
 	">> GOD HAS BEEN DEFEATED !!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**上帝被我们击败了！！！**"
 	}
 	">> RUN TO SAFETY <<"
 	{
-		"chi"		"** **"
+		"chi"		"**快跑去安全的地方**"
 	}
 	"*** BUTTERFLY LEAVING IN 15 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**蝴蝶将会在15秒后离开**"
 	}
 	"[Extreme1] Find the Groke"
 	{
-		"chi"		"** **"
+		"chi"		"**[极限关卡1]：找到Groke**"
 	}
 	">> EXTREME MODE ADDED <<"
 	{
-		"chi"		"** **"
+		"chi"		"**极限模式开启**"
 	}
 	"*** FLY LEAVING IN 20 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**蝴蝶将会在20秒后离开**"
 	}
 	"[Extreme2] Kill the TV Monster"
 	{
-		"chi"		"** **"
+		"chi"		"**[极限关卡2]：击杀电视怪物**"
 	}
 	">> OH NO!! ITS FAT SPIDER <<"
 	{
-		"chi"		"** **"
+		"chi"		"**卧槽！好大一只蜘蛛！**"
 	}
 	">> FAT SPIDER IS DEAD <<"
 	{
-		"chi"		"** **"
+		"chi"		"**大蜘蛛死了**"
 	}
 	">> PLAYER HAS CHOSEN: HEAVEN EXTREME <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了：极限天堂**"
 	}
 	">> LEVEL: THE END <<"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡：最终的道路**"
 	}
 	">> ZOMBIE ITEM AS BEEN PICKED UP <<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸神器已被捡起**"
 	}
 	">> THE GRID IS CLOSED <<"
 	{
-		"chi"		"** **"
+		"chi"		"**原来的路已被锁住，传送挂机者**"
 	}
 	">> DEFEND LONGER <<"
 	{
-		"chi"		"** **"
+		"chi"		"**继续防御**"
 	}
 	">> A CLOUD IS COMING <<"
 	{
-		"chi"		"** **"
+		"chi"		"**一朵云正在到来**"
 	}
 	">> CLOUD LEAVING IN 10 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		"**云将会在10秒后离开**"
 	}
 	">> ITS SATAN WITH THE ANGELS !!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**那是撒旦和天使们！！**"
 	}
 	">> ... HE IS GONE <<"
 	{
-		"chi"		"** **"
+		"chi"		"**它跑了**"
 	}
 	">> HOLD ZOMBIES UNTIL THE BUTTERFLY COME <<"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守僵尸直到蝴蝶到来**"
 	}
 	">> BUTTERFLY IS HERE !!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**蝴蝶来了！！！**"
 	}
 	">> RESCUE BUTTERFLY LEAVING IN 20 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		"**蝴蝶将会在20秒后离开**"
 	}
 	"*** WHERE DID SATAN GO... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**撒旦到底去了哪里...**"
 	}
 	"*** THE DRAGON IS BACK FROM HELL !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**卧槽，地狱龙跑出来了！**"
 	}
 	">> SURVIVE 180 SECONDS IN THE SPAWN AND TV AREA <<"
 	{
-		"chi"		"** **"
+		"chi"		"**存活180秒**"
 	}
 	">> LEVEL: ZM <<"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡：感染**"
 	}
 	"[ZM] Save your ass from Zombies"
 	{
-		"chi"		"** **"
+		"chi"		"**[感染关卡]保护你的菊花防止被僵尸爆掉**"
 	}
 	">> NEXT LEVEL ZM <<"
 	{
-		"chi"		"** **"
+		"chi"		"**下一关将会是感染关**"
 	}
 	">> You have succesfully saved Shroomforest world !! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**你已经成功拯救整个蘑菇森林世界！！**"
 	}
 	"Congratulation !!!"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜你们，快去发叶子**"
 	}
 	">> SATAN IS FINALLY DEFEATED !!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**撒旦终于被击败了！！**"
 	}
 	">> PORTAL IS CLOSING !!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点已被关闭！！**"
 	}
 	">> PORTAL CLOSING IN 5 SECONDS !!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点将会在5秒后被关闭**"
 	}
 	">> PORTAL CLOSING IN 10 SECONDS !!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**传送点将会在10秒后被关闭**"
 	}
 	">> DONT LET ZOMBIES GET IN !!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**别让僵尸进来！！**"
 	}
 	">> ESCAPE VIA THE PORTAL !!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**快进传送点！**"
 	}
 	">> SATAN IS HURT !!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**撒旦受伤了！**"
 	}
 	">> NADE DOES MORE DAMAGE <<"
 	{
-		"chi"		"** **"
+		"chi"		"**高爆手雷可以造成更大伤害**"
 	}
 	">> SHOOT HIM WE NEED TO SAVE THE ANGELS !!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**把它干掉，我们要拯救天使姐姐！！**"
 	}
 	">> ITS SATAN AGAIN !!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**又是撒旦！！**"
 	}
 	"*** .... WHAT IS HAPPENING ?? ***"
 	{
-		"chi"		"** **"
+		"chi"		"**....发生了什么？？**"
 	}
 	"*** NADES DO MORE DAMAGE !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**高爆手雷可以造成更大伤害**"
 	}
 	">> THE DRAGON HAS BEEN DEFEATED !!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**地狱龙被击败了！**"
 	}
 	"*** GOOD JOB TEAM !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**干得漂亮！**"
 	}
 	"*** WE HAVE TO KILL HIM AS FAST AS POSSIBLE ***"
 	{
-		"chi"		"** **"
+		"chi"		"**我们必须尽快击杀它**"
 	}
 	">> SECRET MUSIC UNLOCKED <<"
 	{
-		"chi"		"** **"
+		"chi"		"**秘密音乐已被解锁**"
 	}
 	">> FIND THE TELEPORTER TO LEVEL ROOM <<"
 	{
-		"chi"		"** **"
+		"chi"		"**去寻找传送点进入调关房**"
 	}
 	">> PLAYER HAS CHOSEN: THE END <<"
 	{
-		"chi"		"** **"
+		"chi"		"**玩家选择了：最终的道路**"
 	}
 	">> 150 SECONDS LEFT <<"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余150秒**"
 	}
 	">> 120 SECONDS LEFT <<"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余120秒**"
 	}
 	">> 90 SECONDS LEFT <<"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余90秒**"
 	}
 	">> 70 SECONDS LEFT <<"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余70秒**"
 	}
 	">> 50 SECONDS LEFT <<"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余50秒**"
 	}
 	">> 5 SECONDS LEFT <<"
 	{
-		"chi"		"** **"
+		"chi"		"**剩余5秒**"
 	}
 	"[TheEnd] Eliminate Satan once and for all"
 	{
-		"chi"		"** **"
+		"chi"		"**干掉撒旦，一劳永逸**"
 	}
 	">> 3 WINS IN A ROW !!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**连赢三局！！**"
 	}
 	">> SECRET MUSIC UNLOCKED FOR ZM ROUND <<"
 	{
-		"chi"		"** **"
+		"chi"		"**感染关卡的秘密音乐已被解锁**"
 	}
 	"*** FLY LEAVING IN 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**飞行物将会在30秒后离开**"
 	}
 	"[Extreme3] Save the Angels"
 	{
-		"chi"		"** **"
+		"chi"		"**[极限关卡3]：拯救天使**"
 	}
 	"*** GATE OPENING IN 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**大门将会在30秒后打开**"
 	}
 	">> FALL BACK <<"
 	{
-		"chi"		"** **"
+		"chi"		"**快跑！！**"
 	}
 	">> OH NO!! ITS FALLEN ANGEL <<"
 	{
-		"chi"		"** **"
+		"chi"		"**卧槽！是堕落天使！**"
 	}
 	">> FALLEN ANGEL HAS BEEN DEFEATED !!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**堕落天使已被击败**"
 	}
 	">> LET THE ANGELS ESCAPE FIRST <<"
 	{
-		"chi"		"** **"
+		"chi"		"**让天使先走，我们继续守住**"
 	}
 	">> CONTINUE TO DEFEND <<"
 	{
-		"chi"		"** **"
+		"chi"		"**防守住**"
 	}
 	">> THE LAST ANGEL IS OUT <<"
 	{
-		"chi"		"** **"
+		"chi"		"**最后一个天使离开了**"
 	}
 	"*** BUTTERFLY LEAVING IN 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**蝴蝶将会在30秒后离开（蝴蝶将会爆炸，远离蝴蝶）**"
 	}
 	"*** BUTTERFLY IS DEAD !!!! DEFEND LONGER !!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**蝴蝶死了！！！继续防守！！！**"
 	}
 	">> THE ANGELS GOT THE RESCUE PLANK BACK <<"
 	{
-		"chi"		"** **"
+		"chi"		"**天使们拿来了安全板块，快撤**"
 	}
 	">> FALL BACK !!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**快跑！！！**"
 	}
 	">> THEY WILL TELEPORT US OUT <<"
 	{
-		"chi"		"** **"
+		"chi"		"**他们会把我们送出去...**"
 	}
 	">> IS THIS SATAN WORK.... <<"
 	{
-		"chi"		"** **"
+		"chi"		"**这应该是撒旦的工作...**"
 	}
 	">> TELEPORTING ZOMBIES <<"
 	{
-		"chi"		"** **"
+		"chi"		"**传送僵尸**"
 	}
 	">> WE HAVE TO ESCAPE THIS PLACE <<"
 	{
-		"chi"		"** **"
+		"chi"		"**我们得赶紧逃离这个地方**"
 	}
 	">> CLOUD LEAVING IN 40 SECONDS <<"
 	{
-		"chi"		"** **"
+		"chi"		"**云朵将会在40秒后离开**"
 	}
 	"410 Painting Found"
 	{
