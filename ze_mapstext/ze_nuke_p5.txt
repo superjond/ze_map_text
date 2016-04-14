@@ -82,4 +82,8 @@
 	{
 		"chi"		"**距卡车离开还有 20 秒！       （别急着上车！再守一会儿！）**"
 	}
+	"Contact me at obscuri@obsmail.tk"
+	{
+		"chi"		"** **"
+	}
 }

@@ -369,5 +369,16 @@
 	{
 		"chi"		"**天哪噜！你完成了不可能的任务！**"
 	}
-
+	"** YOU ARE THE MASTERS OF MAKO REACTOR! **"
+	{
+		"chi"		"** **"
+	}
+	"*** Toggled -EXTREME II MODE- ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Toggled -NUKE- ***"
+	{
+		"chi"		"** **"
+	}
 }

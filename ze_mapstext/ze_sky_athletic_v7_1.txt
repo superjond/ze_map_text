@@ -1088,4 +1088,8 @@
 	{
 		"chi"		"** **"
 	}
+	"*** KEY BOARD CRASHER IS ANGRY!! DONT STOP SHOOTING!! ***"
+	{
+		"chi"		"** **"
+	}
 }

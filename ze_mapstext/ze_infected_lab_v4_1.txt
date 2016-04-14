@@ -65,4 +65,8 @@
 	{
 		"chi"		"**地图制作 by  Lup4n`     地图翻译 by 色狼领袖**"
 	}
+	"<< youll be able to escape in few seconds >>"
+	{
+		"chi"		"** **"
+	}
 }

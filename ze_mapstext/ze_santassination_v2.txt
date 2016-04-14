@@ -896,4 +896,16 @@
 	{
 		"chi"		"** **"
 	}
+	"***HEAD TOWARDS SANTAS FACTORY***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTAS LAIR GATE IS CLOSING IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTAS LAIR GATE IS CLOSING***"
+	{
+		"chi"		"** **"
+	}
 }

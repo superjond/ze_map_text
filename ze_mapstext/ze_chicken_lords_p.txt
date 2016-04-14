@@ -29,5 +29,16 @@
 	{
 		"chi"		"** 10秒后 传送速度最慢的人 **"
 	}
-
+	"**The quarantine platform will begin its ascent in 40 seconds!**"
+	{
+		"chi"		"** **"
+	}
+	"**The quarantine platform will begin to rise in 5 seconds!**"
+	{
+		"chi"		"** **"
+	}
+	"**Nuke has been launched!! 10 seconds until explosion**"
+	{
+		"chi"		"** **"
+	}
 }

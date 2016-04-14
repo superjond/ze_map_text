@@ -36,4 +36,12 @@
 	{
 		"chi"		"Jurassic公园感受不到能量了"
 	}
+	"** SECURE THE LZ **"
+	{
+		"chi"		"** **"
+	}
+	"** Nerve gas released **"
+	{
+		"chi"		"** **"
+	}
 }

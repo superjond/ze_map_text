@@ -68,4 +68,8 @@
 	{
 		"chi"		"** **"
 	}
+	"Song playing: I Just Cant Deny"
+	{
+		"chi"		"** **"
+	}
 }

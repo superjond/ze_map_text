@@ -88,4 +88,12 @@
 	{
 		"chi"		"** **"
 	}
+	"***SELF-DESTRUCT SEQUENCE INITIATED.  ONE MINUTE UNTIL REACTOR CORE MELTDOWN.***"
+	{
+		"chi"		"** **"
+	}
+	"***The exits clear, get the hell out of there.  Youve got maybe ten seconds before the zombies can follow.***"
+	{
+		"chi"		"** **"
+	}
 }

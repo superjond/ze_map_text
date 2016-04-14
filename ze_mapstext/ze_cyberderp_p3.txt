@@ -356,4 +356,12 @@
 	{
 		"chi"		"** **"
 	}
+	"* * * Its open * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * HOLD THIS POSITION * * *"
+	{
+		"chi"		"** **"
+	}
 }

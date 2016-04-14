@@ -163,4 +163,20 @@
 	{
 		"chi"		"** **"
 	}
+	"**What the hell...**"
+	{
+		"chi"		"** **"
+	}
+	"**A blackhole!**"
+	{
+		"chi"		"** **"
+	}
+	"**Push zombies at the rear section of each pod**"
+	{
+		"chi"		"** **"
+	}
+	"**Sections will separate from the pod and will fall to the blackhole**"
+	{
+		"chi"		"** **"
+	}
 }

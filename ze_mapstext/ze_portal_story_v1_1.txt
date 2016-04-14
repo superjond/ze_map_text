@@ -196,4 +196,8 @@
 	{
 		"chi"		"** **"
 	}
+	">>> ZE PORTAL STORY - EXTREME DIFFICULTY <<<"
+	{
+		"chi"		"** **"
+	}
 }

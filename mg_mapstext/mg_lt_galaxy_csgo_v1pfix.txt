@@ -188,4 +188,8 @@
 	{
 		"chi"		"** ZzZzZz...**"
 	}
+	"You guys suck."
+	{
+		"chi"		"** **"
+	}
 }

@@ -265,4 +265,12 @@
 	{
 		"chi"		"** **"
 	}
+	"**YOUVE CHOSEN CLIMB**"
+	{
+		"chi"		"** **"
+	}
+	"**YOUVE CHOSEN SLIDE RACE**"
+	{
+		"chi"		"** **"
+	}
 }

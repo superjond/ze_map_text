@@ -4,5 +4,8 @@
 	{
 		"chi"		"** **"
 	}
-
+	"*MAP RESIDENT EVIL ONE - THE MANOR*"
+	{
+		"chi"		"** **"
+	}
 }

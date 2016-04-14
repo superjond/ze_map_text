@@ -307,4 +307,24 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Elevators door open in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"***Elevators door open***"
+	{
+		"chi"		"** **"
+	}
+	"*** Second elevators door open ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO its open !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HURRY !!! The door cant stay open ***"
+	{
+		"chi"		"** **"
+	}
 }

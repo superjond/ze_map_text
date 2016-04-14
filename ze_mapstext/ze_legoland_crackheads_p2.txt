@@ -191,4 +191,16 @@
 	{
 		"chi"		"** **"
 	}
+	"** THE COLORED MAN-GOD IS DEAD!!! GET ON TOP OF THE BLUE AREA! **"
+	{
+		"chi"		"** **"
+	}
+	"** ONLY 5 SECONDS LEFT! GO!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** YOU DID IT!!! **"
+	{
+		"chi"		"** **"
+	}
 }

@@ -164,4 +164,12 @@
 	{
 		"chi"		"** 游戏：鸟狙**"
 	}
+	"Song: 3s & 7s - Queens of the Stone Age"
+	{
+		"chi"		"** **"
+	}
+	"Song: Sweet Child O Mine - Guns N Roses"
+	{
+		"chi"		"** **"
+	}
 }

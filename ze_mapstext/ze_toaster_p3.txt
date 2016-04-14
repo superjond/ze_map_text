@@ -152,4 +152,40 @@
 	{
 		"chi"		"** **"
 	}
+	"***SOMETHING IS BLOCKING THE LEVER***"
+	{
+		"chi"		"** **"
+	}
+	"***BREAK THE BLOCKING METAL PIECE UNDERNEATH***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU DID IT***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD THEM OFF UNTIL THE LEVER IS ALL THE WAY DOWN***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER HAS BEEN TURNED ON***"
+	{
+		"chi"		"** **"
+	}
+	"***ESCAPE THE TOASTER***"
+	{
+		"chi"		"** **"
+	}
+	"***GET OUT OF THE TOASTER***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST!***"
+	{
+		"chi"		"** **"
+	}
+	"***RUN FOR IT***"
+	{
+		"chi"		"** **"
+	}
 }

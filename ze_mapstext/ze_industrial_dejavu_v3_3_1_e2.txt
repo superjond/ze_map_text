@@ -138,7 +138,7 @@
 	}
 	"* Zombie rage has been picked up. Press +USE (E) to activate.*"
 	{
-		"chi"		"**僵尸5级奶已被拾起 按'E'来使用[别告诉我你不知道feywood 的5级奶 嘿嘿] **"
+		"chi"		"**僵尸无敌已被捡起，按下E来使用**"
 	}
 	"*** Helicopter comes in 30 seconds. ***"
 	{
@@ -221,6 +221,18 @@
 		"chi"		"** **"
 	}
 	"*** GO BACK! ITS GONNA BLOW! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OH NOES!!! ITS A BOSS WITH STRANGELY FAMILIAR LOOKS!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO! GO! GO! LETS LEAVE THIS PLACE! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** That was pure luck! Lets see if you are as lucky on EXTREME mode! ***"
 	{
 		"chi"		"** **"
 	}

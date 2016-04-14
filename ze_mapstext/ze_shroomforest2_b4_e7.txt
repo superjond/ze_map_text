@@ -568,4 +568,36 @@
 	{
 		"chi"		"** **"
 	}
+	"410 Ghost Found"
+	{
+		"chi"		"** **"
+	}
+	"510 Ghost Found"
+	{
+		"chi"		"** **"
+	}
+	"610 Ghost Found"
+	{
+		"chi"		"** **"
+	}
+	"710 Ghost Found"
+	{
+		"chi"		"** **"
+	}
+	"810 Ghost Found"
+	{
+		"chi"		"** **"
+	}
+	"910 Ghost Found"
+	{
+		"chi"		"** **"
+	}
+	"1010 Ghost Found"
+	{
+		"chi"		"** **"
+	}
+	"Boss Attack Delayed"
+	{
+		"chi"		"** **"
+	}
 }

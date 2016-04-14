@@ -390,4 +390,12 @@
 	{
 		"chi"		"** **"
 	}
+	"** YOU HAVE BEATEN THE MAP CONGRATULATIONS !!! **"
+	{
+		"chi"		"** **"
+	}
+	"** MAP BY PASS AND KIM !!! **"
+	{
+		"chi"		"** **"
+	}
 }
