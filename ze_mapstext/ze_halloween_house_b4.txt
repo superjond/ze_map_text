@@ -211,11 +211,12 @@
 	}
 	"** MS. WHISKERS HAS WHISKED US! ITS ALL OVER! **"
 	{
-		"chi"		"** **"
+		"chi"		"**老鼠追上了我们!全TM完了!**"
 	}
 	"** WE CANT SEEM TO PROGRESS AHEAD... **"
 	{
-		"chi"		"** **"
+		"chi"		"**我们似乎困在这里了**"
+		"DoorCountdown"		"30"
 	}
 	"** The spirits marked the H leter... **"
 	{
@@ -259,22 +260,22 @@
 	}
 	"** Were getting close! If we can get into the pumpkin besides the oven we will be safe! **"
 	{
-		"chi"		"** **"
+		"chi"		"**如果我们能把南瓜炸掉我们就安全了**"
 	}
 	"** THATS IT! WERE GONNA BLOW IT UP! **"
 	{
-		"chi"		"** **"
+		"chi"		"**就是他!我们要把他炸掉**"
 	}
 	"** We cant get past here with that stove turned on! **"
 	{
-		"chi"		"** **"
+		"chi"		"**我们暂时不能从炉子走过去**"
 	}
 	"** Will we be here forever? Have the mapmakers left us at our stake?! That cant be! **"
 	{
-		"chi"		"** **"
+		"chi"		"**我们被永远困在这了吗?!地图作者把我们弃留在这了吗?!这不可能!**"
 	}
 	"** Hey look! Its Billy the friendly ghost! **"
 	{
-		"chi"		"** **"
+		"chi"		"**快看!这是友善的幽灵比利**"
 	}
 }
