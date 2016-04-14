@@ -172,4 +172,68 @@
 	{
 		"chi"		"** **"
 	}
+	"**Level changes to HARD**"
+	{
+		"chi"		"** **"
+	}
+	"**You completed Level 2**"
+	{
+		"chi"		"** **"
+	}
+	"**The bridge will open in 25 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Fall back! The bridge has closed**"
+	{
+		"chi"		"** **"
+	}
+	"*The doors will open in 10 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*The doors will open in 5 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"BOSS USE RAGE. BACK BACK BACK!!!!!!"
+	{
+		"chi"		"** **"
+	}
+	"get to the side GET TO THE SIDE"
+	{
+		"chi"		"** **"
+	}
+	"*The droids will be killed in 20 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Droids cover the vicegerent. Capture him!*"
+	{
+		"chi"		"** **"
+	}
+	"*The droids will be killed in 5 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*The doors will open in 15 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"*Fall back door close in 15 second*"
+	{
+		"chi"		"** **"
+	}
+	"**Darth maul dead**"
+	{
+		"chi"		"** **"
+	}
+	"**Level changes to EXTREME**"
+	{
+		"chi"		"** **"
+	}
+	"**You completed Level 3**"
+	{
+		"chi"		"** **"
+	}
 }
