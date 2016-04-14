@@ -4,4 +4,248 @@
 	{
 		"chi"		"** **"
 	}
+	"### 10 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### 5 Seconds left ###"
+	{
+		"chi"		"** **"
+	}
+	"### Boss room door now closed !!, Goodluck ###"
+	{
+		"chi"		"** **"
+	}
+	"### BOSS COMING IN 3 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### 2 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### 1 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### UNKNOWN BOSS APPEARS ###"
+	{
+		"chi"		"** **"
+	}
+	"### KILL HIM IN 2 MINTUES  ##"
+	{
+		"chi"		"** **"
+	}
+	"### BEFORE HE CASTS AN >> ULTIMA << ###"
+	{
+		"chi"		"** **"
+	}
+	"### DONT LET SHE FOOLS YOU  ###"
+	{
+		"chi"		"** **"
+	}
+	"### WHEN SHE KISSES THE WALL ###"
+	{
+		"chi"		"** **"
+	}
+	"### UNKNOWN BOSS HAS DISAPPEARED ###"
+	{
+		"chi"		"** **"
+	}
+	"## The jail door is going to BREAK in 15 seconds ##"
+	{
+		"chi"		"** **"
+	}
+	"## Run to the final destination ##"
+	{
+		"chi"		"** **"
+	}
+	"### ZOMBIES WAIT FOR 10 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### THIS IS IT !! THE LAST DEFEND ###"
+	{
+		"chi"		"** **"
+	}
+	"### GET INSIDE BEFORE THE DOOR CLOSED ###"
+	{
+		"chi"		"** **"
+	}
+	"### IN 20 SECONDS AND DEFEND BOTH SIDES ###"
+	{
+		"chi"		"** **"
+	}
+	"### HOLD FOR 40 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### 30 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### ZOMBIES ARE COMING FROM LEFT AND RIGHT ###"
+	{
+		"chi"		"** **"
+	}
+	"### 20 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### 5 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### 4 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### 3 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### Congratulation !! YOU MADE IT !!! ###"
+	{
+		"chi"		"** **"
+	}
+	"### Welcome to Abandoned Bio Bunker  ###"
+	{
+		"chi"		"** **"
+	}
+	"### Wooden doors break in 10 seconds ###"
+	{
+		"chi"		"** **"
+	}
+	"### THANKS TO MAPEADORES SERVER ###"
+	{
+		"chi"		"** **"
+	}
+	"### Door 2 open in 25 seconds ###"
+	{
+		"chi"		"** **"
+	}
+	"### Door 2 open in 5 Seconds ###"
+	{
+		"chi"		"** **"
+	}
+	"### Door 2 Open !! ###"
+	{
+		"chi"		"** **"
+	}
+	"### ZOMBIES ARE COMING FROM DOOR 2 !! ###"
+	{
+		"chi"		"** **"
+	}
+	"### Hold here for 30 seconds ###"
+	{
+		"chi"		"** **"
+	}
+	"### 20 Seconds left ###"
+	{
+		"chi"		"** **"
+	}
+	"### 10 Seconds left ###"
+	{
+		"chi"		"** **"
+	}
+	"### >> Backk Backk << ###"
+	{
+		"chi"		"** **"
+	}
+	"### ZOMBIES ARE COMING !!! ###"
+	{
+		"chi"		"** **"
+	}
+	"### >> HOLD THIS DOOR !! << ###"
+	{
+		"chi"		"** **"
+	}
+	"### ZOMBIES ARE COMING !! ###"
+	{
+		"chi"		"** **"
+	}
+	"### >> Back Backk << ###"
+	{
+		"chi"		"** **"
+	}
+	"### Hold here !! ###"
+	{
+		"chi"		"** **"
+	}
+	"### Before the boss room ###"
+	{
+		"chi"		"** **"
+	}
+	"### Hold for  40 seconds  ###"
+	{
+		"chi"		"** **"
+	}
+	"###  30 seconds  ###"
+	{
+		"chi"		"** **"
+	}
+	"###  20 seconds  ###"
+	{
+		"chi"		"** **"
+	}
+	"###  5 seconds  ###"
+	{
+		"chi"		"** **"
+	}
+	"###  4 seconds  ###"
+	{
+		"chi"		"** **"
+	}
+	"###  3 seconds  ###"
+	{
+		"chi"		"** **"
+	}
+	"###  2 seconds  ###"
+	{
+		"chi"		"** **"
+	}
+	"### The last door will open after this door closed ###"
+	{
+		"chi"		"** **"
+	}
+	"### Defend until the door closed ###"
+	{
+		"chi"		"** **"
+	}
+	"### Run to the boss room ###"
+	{
+		"chi"		"** **"
+	}
+	"### BOSS room door will be closed in 10 Seconds ###"
+	{
+		"chi"		"** **"
+	}
+	"### All Players that are not in the boss room ###"
+	{
+		"chi"		"** **"
+	}
+	"### will be teleported to the jail room ###"
+	{
+		"chi"		"** **"
+	}
+	"### Door 1 open in 25 seconds ###"
+	{
+		"chi"		"** **"
+	}
+	"### Door 1 open in 5 Seconds left ###"
+	{
+		"chi"		"** **"
+	}
+	"### Door 1 Open !!! ###"
+	{
+		"chi"		"** **"
+	}
+	"### ZOMBIES ARE COMING FROM DOOR 1 !! ###"
+	{
+		"chi"		"** **"
+	}
+	"## Ultima has been casted ##"
+	{
+		"chi"		"** **"
+	}
 }

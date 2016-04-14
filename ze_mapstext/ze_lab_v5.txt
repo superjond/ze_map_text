@@ -137,4 +137,12 @@
 	{
 		"chi"		"** **"
 	}
+	">>>Teleport is Online<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Get in the Teleport!!!!<<<"
+	{
+		"chi"		"** **"
+	}
 }

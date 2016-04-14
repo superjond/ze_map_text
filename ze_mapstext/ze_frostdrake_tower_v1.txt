@@ -176,5 +176,28 @@
 	{
 		"chi"		"**感谢游玩**"
 	}
-
+	"***THE FIRST LEVER HAS BEEN PRESSED***"
+	{
+		"chi"		"** **"
+	}
+	"***THE SECOND LEVER HAS BEEN PRESSED***"
+	{
+		"chi"		"** **"
+	}
+	"***ONE MORE TO GO...***"
+	{
+		"chi"		"** **"
+	}
+	"***ALL LEVERS HAVE BEEN PRESSED***"
+	{
+		"chi"		"** **"
+	}
+	"***THE GATES ARE OPENING IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE GATES ARE OPENING***"
+	{
+		"chi"		"** **"
+	}
 }

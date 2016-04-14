@@ -798,4 +798,48 @@
 	{
 		"chi"		"** **"
 	}
+	"48 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"45 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"63 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"60 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"83 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"80 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"** BULLETSNADES DOES 200 . DAMAGE ON BOSS FOR 10 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"58 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"55 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"53 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"50 . STAGGER"
+	{
+		"chi"		"** **"
+	}
 }

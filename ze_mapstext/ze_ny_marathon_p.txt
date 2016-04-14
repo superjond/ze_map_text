@@ -312,4 +312,8 @@
 	{
 		"chi"		"** **"
 	}
+	"** Right valve has been fully opened! **"
+	{
+		"chi"		"** **"
+	}
 }

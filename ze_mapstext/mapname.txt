@@ -582,7 +582,7 @@
 	}
 	"ze_vertigo_militia_b1_3_7"
 	{
-		"chi"		"建筑工地
+		"chi"		"建筑工地"
 	}
 	"ze_crazy_escape_v3"
 	{
@@ -809,6 +809,10 @@
 		"chi"		"此地图暂无译名"
 	}
 	"ze_portal_story_v1_1"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_starwars_v1_1"
 	{
 		"chi"		"此地图暂无译名"
 	}

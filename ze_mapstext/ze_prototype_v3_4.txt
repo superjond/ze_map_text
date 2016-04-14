@@ -297,4 +297,8 @@
 	{
 		"chi"		"**火车大门将会在40秒后开启**"
 	}
+	">>Youve awoken some sort of prototype...<<"
+	{
+		"chi"		"** **"
+	}
 }

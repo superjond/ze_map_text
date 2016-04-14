@@ -80,3 +80,8 @@
 	{
 		"chi"		"**运输船已离开**"
 	}
+	"***Stay Within the APCs Interior***"
+	{
+		"chi"		"** **"
+	}
+}
