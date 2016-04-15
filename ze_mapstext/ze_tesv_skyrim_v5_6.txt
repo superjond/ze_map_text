@@ -398,4 +398,8 @@
 	{
 		"chi"		"** **"
 	}
+	">> THE DRAGON IS GOING TO KILL US ALL !!! <<"
+	{
+		"chi"		"** **"
+	}
 }

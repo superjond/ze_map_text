@@ -464,4 +464,8 @@
 	{
 		"chi"		"** **"
 	}
+	">> ZOMBIES ABOARD!! LEVEL FAILED!! <<"
+	{
+		"chi"		"** **"
+	}
 }

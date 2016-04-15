@@ -187,4 +187,24 @@
 	{
 		"chi"		"** **"
 	}
+	"*-Halfway there!Keep firing!-*"
+	{
+		"chi"		"** **"
+	}
+	"*-Hurry!To the left-*"
+	{
+		"chi"		"** **"
+	}
+	"*-Well,thats convenient.-*"
+	{
+		"chi"		"** **"
+	}
+	"--Map made by:Tgting--"
+	{
+		"chi"		"** **"
+	}
+	"--Music by RageVI and CT--"
+	{
+		"chi"		"** **"
+	}
 }

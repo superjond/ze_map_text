@@ -324,4 +324,12 @@
 	{
 		"chi"		"** **"
 	}
+	"**You completed Level 4**"
+	{
+		"chi"		"** **"
+	}
+	"**Level changes to EPIC**"
+	{
+		"chi"		"** **"
+	}
 }
