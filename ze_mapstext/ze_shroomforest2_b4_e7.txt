@@ -66,7 +66,7 @@
 	}
 	"110 Ghost Found"
 	{
-		"chi"		"**110号幽灵被发现**"
+		"chi"		"**一号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
 	}
 	"*** LEAF LEAVING IN 20 SECONDS ***"
 	{
@@ -86,7 +86,7 @@
 	}
 	"210 Ghost Found"
 	{
-		"chi"		"**210号幽灵被发现**"
+		"chi"		"**二号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
 	}
 	"*** HOLD FOR 30 SECONDS ***"
 	{
@@ -106,7 +106,7 @@
 	}
 	"310 Ghost Found"
 	{
-		"chi"		"**310号幽灵被发现**"
+		"chi"		"**三号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
 	}
 	">> ITS THE GROKE SHOOT IT !!!!  <<"
 	{
@@ -150,7 +150,7 @@
 	}
 	"110 Painting Found"
 	{
-		"chi"		"**110号绘画被发现**"
+		"chi"		"**一号绘画被发现（集齐所有触发可减缓BOSS攻击）**"
 	}
 	"*** FALL BACK !!! ***"
 	{
@@ -202,7 +202,7 @@
 	}
 	"210 Painting Found"
 	{
-		"chi"		"**210号绘画被发现**"
+		"chi"		"**二号绘画被发现（集齐所有触发可减缓BOSS攻击）**"
 	}
 	">> TV HEART IS COLLAPSING KEEP SHOOTING !!!!!! <<"
 	{
@@ -226,7 +226,7 @@
 	}
 	"110 Angel Found"
 	{
-		"chi"		"**110号天使被发现**"
+		"chi"		"**一号天使被发现（集齐所有触发可减缓BOSS攻击）**"
 	}
 	"*** CLOUD LEAVING IN 20 SECONDS ***"
 	{
@@ -234,7 +234,7 @@
 	}
 	"210 Angel Found"
 	{
-		"chi"		"**210号天使被发现**"
+		"chi"		"**二号天使被发现（集齐所有触发可减缓BOSS攻击）**"
 	}
 	"*** HEAVEN GATES OPENING IN 25 SECONDS ***"
 	{
@@ -250,7 +250,7 @@
 	}
 	"310 Angel Found"
 	{
-		"chi"		"**310号天使被发现**"
+		"chi"		"**三号天使被发现（集齐所有触发可减缓BOSS攻击）**"
 	}
 	">> OH NO!! ITS GOD <<"
 	{
@@ -554,50 +554,50 @@
 	}
 	"410 Painting Found"
 	{
-		"chi"		"** **"
+		"chi"		"**四号绘画被发现（集齐所有触发可减缓BOSS攻击）**"
 	}
 	"510 Painting Found"
 	{
-		"chi"		"** **"
+		"chi"		"**五号绘画被发现（集齐所有触发可减缓BOSS攻击）**"
 	}
 	"610 Painting Found"
 	{
-		"chi"		"** **"
+		"chi"		"**六号绘画被发现（集齐所有触发可减缓BOSS攻击）**"
 	}
 	">> ZOMBIE ABOARD !! YOU FAILED !! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸上来了，你输了！**"
 	}
 	"410 Ghost Found"
 	{
-		"chi"		"** **"
+		"chi"		"**四号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
 	}
 	"510 Ghost Found"
 	{
-		"chi"		"** **"
+		"chi"		"**五号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
 	}
 	"610 Ghost Found"
 	{
-		"chi"		"** **"
+		"chi"		"**六号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
 	}
 	"710 Ghost Found"
 	{
-		"chi"		"** **"
+		"chi"		"**七号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
 	}
 	"810 Ghost Found"
 	{
-		"chi"		"** **"
+		"chi"		"**八号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
 	}
 	"910 Ghost Found"
 	{
-		"chi"		"** **"
+		"chi"		"**九号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
 	}
 	"1010 Ghost Found"
 	{
-		"chi"		"** **"
+		"chi"		"**十号幽灵被发现（集齐所有触发可减缓BOSS攻击）**"
 	}
 	"Boss Attack Delayed"
 	{
-		"chi"		"** **"
+		"chi"		"**BOSS的攻击被延迟了**"
 	}
 }
