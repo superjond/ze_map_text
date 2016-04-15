@@ -252,4 +252,8 @@
 	{
 		"chi"		"** bbs.93x.net**"
 	}
+	"***GG...But Ts Are The Winners...So The CTs Must Die!!!***"
+	{
+		"chi"		"** **"
+	}
 }

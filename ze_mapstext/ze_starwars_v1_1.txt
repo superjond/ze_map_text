@@ -236,4 +236,92 @@
 	{
 		"chi"		"** **"
 	}
+	"Boss fight in 25 second"
+	{
+		"chi"		"** **"
+	}
+	"Boss fight in 10 second"
+	{
+		"chi"		"** **"
+	}
+	"Boss fight in 5 second"
+	{
+		"chi"		"** **"
+	}
+	"Boss Fight"
+	{
+		"chi"		"** **"
+	}
+	"BOSS USE THUNDER"
+	{
+		"chi"		"** **"
+	}
+	"BOSS USE ANGER"
+	{
+		"chi"		"** **"
+	}
+	"BOSS USE PUSH"
+	{
+		"chi"		"** **"
+	}
+	"BOSS USE  GRIP"
+	{
+		"chi"		"** **"
+	}
+	"BOSS USE RAGE"
+	{
+		"chi"		"** **"
+	}
+	"**The wall will explode in 30 second**"
+	{
+		"chi"		"** **"
+	}
+	"The ship will fly away in 35 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Jumping on platform"
+	{
+		"chi"		"** **"
+	}
+	"First door will open in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Third door will open in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Second door will open in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Last door will open in 40 seconds"
+	{
+		"chi"		"** **"
+	}
+	"AFK TELEPORT 5 IN SECOND"
+	{
+		"chi"		"** **"
+	}
+	"BOSS USE SWORD. SIT DOWN!!!!!!"
+	{
+		"chi"		"** **"
+	}
+	"**First door will open in 45 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"Second door will open in 15 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Third door will open in 30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"**Level 5 is complete**"
+	{
+		"chi"		"** **"
+	}
 }
