@@ -492,5 +492,60 @@
 	{
 		"chi"		"**简易难度失败，再来一次**"
 	}
-
+	"** 30 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** 20 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** 10 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** EXORATH IS CHARGING ANNIHILATION DESTRUCTION **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** SONG PLAYING: E.S. POSTHUMUS - POMPEII **"
+	{
+		"chi"		"** **"
+	}
+	"** SONG PLAYING: E.S POSTHUMUS - KUVERA **"
+	{
+		"chi"		"** **"
+	}
+	"** DEFEND THE PELICAN UNTIL LEAVING **"
+	{
+		"chi"		"** **"
+	}
+	"** PELICAN WILL LEAVE IN 50 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** PELICAN WILL LEAVE IN 30 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** PELICAN WILL LEAVE IN 20 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** PELICAN WILL LEAVE IN 5 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** ZOMBIES DETECTED INSIDE AIRPLANE **"
+	{
+		"chi"		"** **"
+	}
+	"** GODMODE FAILED ** RESTARTING **"
+	{
+		"chi"		"** **"
+	}
 }

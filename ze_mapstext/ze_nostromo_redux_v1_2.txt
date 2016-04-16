@@ -204,4 +204,16 @@
 	{
 		"chi"		"** **"
 	}
+	"***Flamethrower is charging in 3 seconds!***"
+	{
+		"chi"		"** **"
+	}
+	"***Flamethrower recharging, 10 seconds!***"
+	{
+		"chi"		"** **"
+	}
+	"***Flamethrower ready!***"
+	{
+		"chi"		"** **"
+	}
 }

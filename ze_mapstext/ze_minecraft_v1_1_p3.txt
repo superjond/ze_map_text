@@ -212,4 +212,12 @@
 	{
 		"chi"		"** **"
 	}
+	"***ZOMBIE HAVE BEEN DETECTED IN THE BOAT***"
+	{
+		"chi"		"** **"
+	}
+	"***BOAT SELF DESTRUCT!!***"
+	{
+		"chi"		"** **"
+	}
 }

@@ -301,4 +301,20 @@
 	{
 		"chi"		"** **"
 	}
+	">>Youve been taken to the creatures home planet...<<"
+	{
+		"chi"		"** **"
+	}
+	">>Weve found the source of Prototechs power!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Theyve been harvesting this creatures planet for energy... they are the monsters!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Dont let any zombies into the facility!<<"
+	{
+		"chi"		"** **"
+	}
 }

@@ -88,4 +88,8 @@
 	{
 		"chi"		"**升降机正在来的路上！**"
 	}
+	"***YOU MUST ACTIVATE ALL 3 BOMBS BEFORE MOVING ON***"
+	{
+		"chi"		"** **"
+	}
 }

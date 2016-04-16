@@ -770,4 +770,40 @@
 	{
 		"chi"		"** **"
 	}
+	"** BUNKER ENDING: GET TO THE RIVERSIDE BUNKER **"
+	{
+		"chi"		"** **"
+	}
+	"** Explosion in 30 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"*Bunker Door opening in 7 seconds*"
+	{
+		"chi"		"** **"
+	}
+	"* Trainstations door is opening!*"
+	{
+		"chi"		"** **"
+	}
+	"* Stairs to the trains area are locked. Find a way to activate the elevator... *"
+	{
+		"chi"		"** **"
+	}
+	"*** Someone has to open the train doors. Thats our escape route! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold the second cart! Were nearing our escape. ***"
+	{
+		"chi"		"** **"
+	}
+	"** WERE SAFE! Lets get the train running! **"
+	{
+		"chi"		"** **"
+	}
+	"** BEWARE! Its an upgraded offensive XJ-7800 robot! **"
+	{
+		"chi"		"** **"
+	}
 }

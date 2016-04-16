@@ -236,4 +236,60 @@
 	{
 		"chi"		">>>ATLAS: 你能把我的一些旧货带给Arcadia么？<<<"
 	}
+	">>>You failed! Splicers made it aboard!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Nice job boyo! Weve got a long way to go yet though<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Elevator to Fisheries Deliveries leaving in 8 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Theyre right behind you boyo!<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Door opens in 20 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Security has been reset. Would you kindly get to the elevator!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Door now open. Retreat!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Elevator preparing for departure<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Elevator is about to leave!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Great work. Lets move on!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Wait for the door to complete its unlock sequence<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>The door is open. Proceed<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Door opening in 30 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Security door is open!<<<"
+	{
+		"chi"		"** **"
+	}
 }

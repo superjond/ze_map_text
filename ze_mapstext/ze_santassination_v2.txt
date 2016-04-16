@@ -908,4 +908,8 @@
 	{
 		"chi"		"** **"
 	}
+	"Hey there everyone, you should totally send Luffaren some hot nudes ASAP!"
+	{
+		"chi"		"** **"
+	}
 }
