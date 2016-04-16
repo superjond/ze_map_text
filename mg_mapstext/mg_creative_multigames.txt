@@ -146,7 +146,7 @@
 	}
 	"*** The mode selected: Paintball ***"
 	{
-		"chi"		"** 模式选择：弹球**"
+		"chi"		"**模式选择：激光**"
 	}
 	"*** The mode selected: Taser Infinite ***"
 	{
@@ -202,7 +202,7 @@
 	}
 	"* WinGanado * HE *"
 	{
-		"chi"		"** **"
+		"chi"		"**手雷胜利**"
 	}
 	"*** The mode selected: BUNNY ***"
 	{
@@ -242,7 +242,7 @@
 	}
 	"*** The mode selected: M3 100hp ***"
 	{
-		"chi"		"** 模式选择：100血 M3**"
+		"chi"		"**模式选择：100血 喷子**"
 	}
 	"*** The mode selected: AWP 400hp ***"
 	{

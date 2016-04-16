@@ -11,8 +11,8 @@
 	"**The bridge will open in 15 seconds**"
 	{
 		"chi"		"**通往小桥的路将在15秒后开放**"
-		"DoorCountDown" "15"
-		"ico" "icon_tip"
+		"DoorCountdown"		"15"
+		"ico"		"icon_tip"
 	}
 	"A player picked up Force Grip"
 	{
@@ -33,8 +33,8 @@
 	"**Destroy the barricade 15 second**"
 	{
 		"chi"		"**障碍物将会在15秒后打破**"
-		"DoorCountDown" "15"
-		"ico"   "icon_tip"
+		"DoorCountdown"		"15"
+		"ico"		"icon_tip"
 	}
 	"**Destroy the barricade 5 second**"
 	{
@@ -63,7 +63,7 @@
 	"**The doors will open in 15 seconds**"
 	{
 		"chi"		"**门将会在15秒后打开**"
-		"DoorCountDown" "15"
+		"DoorCountdown"		"15"
 	}
 	"**The doors will open in 5 seconds**"
 	{
@@ -76,7 +76,7 @@
 	"**The palace doors will open in 30 seconds**"
 	{
 		"chi"		"**皇宫大门将会在30秒后打开，坚持住！**"
-		"DoorCountDown" "30"
+		"DoorCountdown"		"30"
 	}
 	"AFK TELEPORT IN 5 SECOND"
 	{
@@ -89,13 +89,13 @@
 	"**Destroy the barricade in 20 second**"
 	{
 		"chi"		"**障碍物将会在20秒后被爆破**"
-		"DoorCountDown" "20"
-		"ico" "icon_tip"
+		"DoorCountdown"		"20"
+		"ico"		"icon_tip"
 	}
 	"**Last door will open in 30 seconds**"
 	{
 		"chi"		"**最后的大门将会在30秒后打开**"
-		"DoorCountDown" "30"
+		"DoorCountdown"		"30"
 	}
 	"**FALL BACK**"
 	{
@@ -128,12 +128,12 @@
 	"**The doors will open in 30 seconds**"
 	{
 		"chi"		"**门将会在30秒后打开**"
-		"DoorCountDown" "30"
+		"DoorCountdown"		"30"
 	}
 	"**The droids will be killed in 30 seconds**"
 	{
 		"chi"		"**机器人将会在30秒后被击溃**"
-		"DoorCountDown" "30"
+		"DoorCountdown"		"30"
 	}
 	"**The droids will be killed in 5 seconds**"
 	{
@@ -142,7 +142,7 @@
 	"**The doors will open in 20 seconds**"
 	{
 		"chi"		"**门将会在20秒后打开**"
-		"DoorCountDown" "20"
+		"DoorCountdown"		"20"
 	}
 	"**AFK TELEPORT IN 5 SECOND**"
 	{
@@ -151,19 +151,19 @@
 	"**The droids will be killed in 20 seconds**"
 	{
 		"chi"		"**机器人将会在20秒后被击溃**"
-		"DoorCountDown" "20"
-		"ico" "icon_tip"
+		"DoorCountdown"		"20"
+		"ico"		"icon_tip"
 	}
 	"**The droids will be killed in 25 seconds**"
 	{
 		"chi"		"**机器人将会在25秒后被击溃**"
-		"DoorCountDown" "25"
-		"ico" "icon_tip"
+		"DoorCountdown"		"25"
+		"ico"		"icon_tip"
 	}
 	"**The hangar doors will open in 20 seconds**"
 	{
 		"chi"		"**飞机库大门将会在20秒后打开**"
-		"DoorCountDown" "20"
+		"DoorCountdown"		"20"
 	}
 	"A player picked up Force Rage"
 	{
@@ -200,8 +200,8 @@
 	"**The bridge will open in 25 seconds**"
 	{
 		"chi"		"**通往大桥的道路将会在25秒后开放**"
-		"DoorCountDown" "25"
-		"ico" "icon_tip"
+		"DoorCountdown"		"25"
+		"ico"		"icon_tip"
 	}
 	"**Fall back! The bridge has closed**"
 	{
@@ -226,8 +226,8 @@
 	"*The droids will be killed in 20 seconds*"
 	{
 		"chi"		"**机器人将会在20秒后被击溃**"
-		"DoorCountDown" "20"
-		"ico" "icon_tip"
+		"DoorCountdown"		"20"
+		"ico"		"icon_tip"
 	}
 	"*Droids cover the vicegerent. Capture him!*"
 	{
@@ -240,7 +240,7 @@
 	"*The doors will open in 15 seconds*"
 	{
 		"chi"		"**大门将会在15秒后打开**"
-		"DoorCountDown" "15"
+		"DoorCountdown"		"15"
 	}
 	"*Fall back door close in 15 second*"
 	{
@@ -297,14 +297,14 @@
 	"**The wall will explode in 30 second**"
 	{
 		"chi"		"**道路将会在30秒后炸开**"
-		"DoorCountDown" "30"
-		"ico" "icon_tip"
+		"DoorCountdown"		"30"
+		"ico"		"icon_tip"
 	}
 	"The ship will fly away in 35 seconds"
 	{
 		"chi"		"**飞船将会在35秒后起飞**"
-		"DoorCountDown" "35"
-		"ico" "icon_tip"
+		"DoorCountdown"		"35"
+		"ico"		"icon_tip"
 	}
 	"Jumping on platform"
 	{
@@ -337,7 +337,7 @@
 	"**First door will open in 45 seconds**"
 	{
 		"chi"		"**第一扇大门将会在45秒后打开，坚持住**"
-		"DoorCountDown" "45"
+		"DoorCountdown"		"45"
 	}
 	"Second door will open in 15 seconds"
 	{
@@ -346,10 +346,18 @@
 	"Third door will open in 30 seconds"
 	{
 		"chi"		"**第三扇大门将会在30秒后打开**"
-		"DoorCountDown" "30"
+		"DoorCountdown"		"30"
 	}
 	"**Level 5 is complete**"
 	{
 		"chi"		"**第五关完成，恭喜你完成了本地图。**"
+	}
+	"**You completed Level 4**"
+	{
+		"chi"		"** **"
+	}
+	"**Level changes to EPIC**"
+	{
+		"chi"		"** **"
 	}
 }

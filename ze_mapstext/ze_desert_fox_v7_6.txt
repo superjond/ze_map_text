@@ -61,5 +61,16 @@
 	{
 		"chi"		"**传送开始！**"
 	}
-
+	"boss defeated"
+	{
+		"chi"		"** **"
+	}
+	"<< Nuke has been launched!! 20 seconds until explosion >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Map by Lup4n` >>"
+	{
+		"chi"		"** **"
+	}
 }

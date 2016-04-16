@@ -45,7 +45,7 @@
 	}
 	"gamebanana.commembers846898"
 	{
-		"chi"		"** **"
+		"chi"		"**gamebanana.commembers846898**"
 	}
 	"To use cannon press: uppdownleftrightshoot"
 	{

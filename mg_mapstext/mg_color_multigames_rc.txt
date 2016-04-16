@@ -223,54 +223,54 @@
 	}
 	"**YOUVE CHOSEN GRENADES**"
 	{
-		"chi"		"** **"
+		"chi"		"**手雷**"
 	}
 	"**YOUVE CHOSEN AWP**"
 	{
-		"chi"		"** **"
+		"chi"		"**AWP**"
 	}
 	"**YOUVE CHOSEN SHOTGUNS**"
 	{
-		"chi"		"** **"
+		"chi"		"**喷子**"
 	}
 	"**YOUVE CHOSEN BHOP**"
 	{
-		"chi"		"** **"
+		"chi"		"**连跳**"
 	}
 	"**YOUVE CHOSEN ICESKATE**"
 	{
-		"chi"		"** **"
+		"chi"		"**滑冰**"
 	}
 	"**YOUVE CHOSEN KNIFE**"
 	{
-		"chi"		"** **"
+		"chi"		"**刀**"
 	}
 	"**YOUVE CHOSEN SQUASH**"
 	{
-		"chi"		"** **"
+		"chi"		"**壁球**"
 	}
 	"**YOUVE CHOSEN BREAKWALL**"
 	{
-		"chi"		"** **"
+		"chi"		"**破墙**"
 	}
 	"**YOUVE CHOSEN HEADSHOT**"
 	{
-		"chi"		"** **"
+		"chi"		"**爆头**"
 	}
 	"**YOUVE CHOSEN RANDOM**"
 	{
-		"chi"		"** **"
+		"chi"		"**随机**"
 	}
 	"**YOUVE CHOSEN RACE**"
 	{
-		"chi"		"** **"
+		"chi"		"**赛跑**"
 	}
 	"**YOUVE CHOSEN CLIMB**"
 	{
-		"chi"		"** **"
+		"chi"		"**攀爬**"
 	}
 	"**YOUVE CHOSEN SLIDE RACE**"
 	{
-		"chi"		"** **"
+		"chi"		"**滑行赛跑**"
 	}
 }

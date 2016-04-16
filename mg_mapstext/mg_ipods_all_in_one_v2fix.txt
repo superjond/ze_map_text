@@ -256,4 +256,8 @@
 	{
 		"chi"		"** **"
 	}
+	"***GG...But CTs Are The Winners...So The Ts Must Die!!!***"
+	{
+		"chi"		"** **"
+	}
 }

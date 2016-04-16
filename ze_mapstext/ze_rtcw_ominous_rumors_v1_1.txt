@@ -312,4 +312,8 @@
 	{
 		"chi"		"** **"
 	}
+	"# ITEM RESTRICTION - FLAMETHROWER #"
+	{
+		"chi"		"** **"
+	}
 }

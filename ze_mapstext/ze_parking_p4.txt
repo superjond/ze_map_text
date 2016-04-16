@@ -228,4 +228,8 @@
 	{
 		"chi"		"** **"
 	}
+	">>>>Electro Gun shoot in 10s<<<<"
+	{
+		"chi"		"** **"
+	}
 }

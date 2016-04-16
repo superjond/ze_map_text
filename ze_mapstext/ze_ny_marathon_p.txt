@@ -316,4 +316,16 @@
 	{
 		"chi"		"** **"
 	}
+	"** Left valve has been fully opened! **"
+	{
+		"chi"		"** **"
+	}
+	"** BOTH VALVES HAVE BEEN UNLOCKED!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** RESIST FOR 15 SECONDS!!! **"
+	{
+		"chi"		"** **"
+	}
 }

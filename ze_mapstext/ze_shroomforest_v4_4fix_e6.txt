@@ -468,4 +468,20 @@
 	{
 		"chi"		"** **"
 	}
+	">> ZOMBIES INSIDE!! LEVEL FAILED!! <<"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU HAVE 45 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"chi"		"** **"
+	}
+	">> If you change level via admin room <<"
+	{
+		"chi"		"** **"
+	}
+	">> Be sure to press Nuke Button <<"
+	{
+		"chi"		"** **"
+	}
 }

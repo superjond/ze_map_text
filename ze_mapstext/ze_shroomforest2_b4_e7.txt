@@ -600,4 +600,36 @@
 	{
 		"chi"		"**BOSS的攻击被延迟了**"
 	}
+	"710 Painting Found"
+	{
+		"chi"		"** **"
+	}
+	"410 Angel Found"
+	{
+		"chi"		"** **"
+	}
+	"510 Angel Found"
+	{
+		"chi"		"** **"
+	}
+	"610 Angel Found"
+	{
+		"chi"		"** **"
+	}
+	"710 Angel Found"
+	{
+		"chi"		"** **"
+	}
+	"810 Angel Found"
+	{
+		"chi"		"** **"
+	}
+	"910 Angel Found"
+	{
+		"chi"		"** **"
+	}
+	"1010 Angel Found"
+	{
+		"chi"		"** **"
+	}
 }

@@ -824,7 +824,7 @@
 	}
 	"** BULLETSNADES DOES 200 . DAMAGE ON BOSS FOR 10 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**皇帝进入虚弱状态 10秒内手雷和子弹造成双倍伤害**"
 	}
 	"58 . STAGGER"
 	{
@@ -839,6 +839,54 @@
 		"chi"		"** **"
 	}
 	"50 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"78 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"75 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"73 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"95 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"93 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"65 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"70 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"68 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"90 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"88 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"85 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"98 . STAGGER"
 	{
 		"chi"		"** **"
 	}
