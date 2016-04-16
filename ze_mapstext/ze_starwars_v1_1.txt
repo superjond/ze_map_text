@@ -2,7 +2,7 @@
 {
 	"**MAP BY ?? ??????????????(I AM FRENCH)**"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：Я француз(I AM FRENCH)**"
 	}
 	"**Ze_Star_wars**"
 	{
@@ -217,11 +217,11 @@
 	}
 	"BOSS USE RAGE. BACK BACK BACK!!!!!!"
 	{
-		"chi"		"**BOSS使用了终极，快往后退！！！！**"
+		"chi"		"**BOSS使用了原力狂怒，快往后退！！！！（贴紧墙壁）**"
 	}
 	"get to the side GET TO THE SIDE"
 	{
-		"chi"		"**BOSS准备攻击了，快贴脸打！**"
+		"chi"		"**往侧边走！**"
 	}
 	"*The droids will be killed in 20 seconds*"
 	{
@@ -292,7 +292,7 @@
 	}
 	"BOSS USE RAGE"
 	{
-		"chi"		"**BOSS使用了大招，快打死他！**"
+		"chi"		"**BOSS使用了原力狂怒（快贴紧四周墙壁）**"
 	}
 	"**The wall will explode in 30 second**"
 	{
