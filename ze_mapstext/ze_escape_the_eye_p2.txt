@@ -48,4 +48,24 @@
 	{
 		"chi"		"** **"
 	}
+	"+++ THE DOOR IS OPENING IN 10 SECONDS  +++"
+	{
+		"chi"		"** **"
+	}
+	"+++ ZOMBIES ARE UNLEASHED IN 17 SECONDS +++"
+	{
+		"chi"		"** **"
+	}
+	"+++ THE WALL IS BREAKING IN 35 SECONDS +++"
+	{
+		"chi"		"** **"
+	}
+	"+++ THE WALL IS BROKEN +++"
+	{
+		"chi"		"** **"
+	}
+	"++ ACTIVATE THE EYE ++"
+	{
+		"chi"		"** **"
+	}
 }

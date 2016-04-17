@@ -2,7 +2,7 @@
 {
 	"Map by: nyro"
 	{
-		"chi"		"** 地图制作：nyro**"
+		"chi"		"**地图制作：nyro 地图翻译：Ex_cKot 警告：禁止使用地图bug，请互相监督**"
 	}
 	"Feedback & testing: The Lt. Team"
 	{
@@ -190,6 +190,6 @@
 	}
 	"You guys suck."
 	{
-		"chi"		"** **"
+		"chi"		"**厉害啊！**"
 	}
 }

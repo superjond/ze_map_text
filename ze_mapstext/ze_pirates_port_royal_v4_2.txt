@@ -344,7 +344,7 @@
 	}
 	"||| KRAKEN HAS SENT A BUBBLES ON YOU |||"
 	{
-		"chi"		"** 海怪对你使用了泡沫!! **"
+		"chi"		"**还怪对你使用了噗噗泡沫！**"
 	}
 	"||| KRAKEN HAS USED VORTEX |||"
 	{

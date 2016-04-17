@@ -6,7 +6,7 @@
 	}
 	"@My steam offer : http:))oua.be)1nz9"
 	{
-		"chi"		"** 我的steam交易链接：http:))oua.be)1nz9 **"
+		"chi"		"**我的steam交易链接：http:)oua.be)1nz9**"
 	}
 	"@If you like, you can make donation <3"
 	{
@@ -54,6 +54,6 @@
 	}
 	"@T es nul ! Tes une grosse merde ! Biatch !"
 	{
-		"chi"		"** **"
+		"chi"		"**第一名得分！**"
 	}
 }

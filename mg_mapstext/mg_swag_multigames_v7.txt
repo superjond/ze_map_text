@@ -2,11 +2,11 @@
 {
 	"@[MAP] SLIDE"
 	{
-		"chi"		"** **"
+		"chi"		"**滑行**"
 	}
 	"@[MUSIC] Watsky- Never Let it Die"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐：Watsky- Never Let it Die**"
 	}
 	"@[MAP] 50HP KNIFE"
 	{

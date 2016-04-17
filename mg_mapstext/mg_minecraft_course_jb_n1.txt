@@ -78,6 +78,6 @@
 	}
 	"Explosion in 3 seconds ! Dont move man!"
 	{
-		"chi"		"** **"
+		"chi"		"**3秒后爆炸，别动哦。**"
 	}
 }

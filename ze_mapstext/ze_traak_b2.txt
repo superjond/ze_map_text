@@ -4,4 +4,48 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Door opens in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** KEEP HOLDING***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"*** Elevator is powering up! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Elevator leaves in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door should open soon! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESIST ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Warehouse door opens in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR IS OPENING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** This is the final hold ***"
+	{
+		"chi"		"** **"
+	}
+	"*** The ship will leave soon! ***"
+	{
+		"chi"		"** **"
+	}
 }

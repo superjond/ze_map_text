@@ -2,7 +2,7 @@
 {
 	"Map made by WL! (STEAM_1:0:104117293)"
 	{
-		"chi"		"** 地图制作：WL! (STEAM_1:0:104117293) 地图翻译：Ex_cKot **"
+		"chi"		"**地图制作：WL! 地图翻译：Ex_cKot 警告：选图期间禁止开枪。**"
 	}
 	"[MAP] 1v1 Deagle - HEADSHOT ONLY!"
 	{
@@ -38,7 +38,7 @@
 	}
 	"[MAP] Longjump!"
 	{
-		"chi"		"** 长跳！ **"
+		"chi"		"**长跳 警告：禁止开枪，禁止划刀**"
 	}
 	"[MAP] You have 45 seconds to build up speed and jump from the ramp."
 	{
@@ -186,15 +186,15 @@
 	}
 	"[MAP] Battle - DEAGLE - Headshot ONLY!"
 	{
-		"chi"		"** **"
+		"chi"		"**对战 沙鹰 爆头**"
 	}
 	"[MAP] You guys take too long to kill each other. Let me destroy the wall for you! <3"
 	{
-		"chi"		"** **"
+		"chi"		">>>一帮咸鱼！帮你们打墙去了。<<<"
 	}
 	"[MAP] Battle - KNIFE - 100HP!"
 	{
-		"chi"		"** **"
+		"chi"		"**对抗 刀 100血**"
 	}
 	"@[MAP] This map does not work with bots..."
 	{
@@ -206,11 +206,11 @@
 	}
 	"***Auto Select in 40 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**40秒后自动选择**"
 	}
 	"***Map by DTK Development Team***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：DTK Development Team**"
 	}
 	"Music : PSY - Gangnam Style"
 	{

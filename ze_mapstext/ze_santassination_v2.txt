@@ -912,4 +912,40 @@
 	{
 		"chi"		"** **"
 	}
+	"Type 1 if you are jerking it right now"
+	{
+		"chi"		"** **"
+	}
+	"***SANTAS DOOR IS OPENING IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTAS DOOR IS OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTAS DOOR IS CLOSING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTAS DOOR IS CLOSING IN 4 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTAS DOOR IS CLOSING IN 3 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTAS DOOR IS CLOSING IN 2 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTAS DOOR IS CLOSING IN 1 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SANTAS DOOR IS CLOSING***"
+	{
+		"chi"		"** **"
+	}
 }

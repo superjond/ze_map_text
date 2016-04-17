@@ -144,4 +144,12 @@
 	{
 		"chi"		"** **"
 	}
+	"***Hard mode completed***"
+	{
+		"chi"		"** **"
+	}
+	"***Changing level to Suicide***"
+	{
+		"chi"		"** **"
+	}
 }

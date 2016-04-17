@@ -2,7 +2,7 @@
 {
 	"Map made by Mathijs"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Mathijs**"
 	}
 	"Map ported by sG | Waffles"
 	{
