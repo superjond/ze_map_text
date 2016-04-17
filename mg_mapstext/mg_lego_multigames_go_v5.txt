@@ -14,11 +14,11 @@
 	}
 	"@[Map] Secret room Enable"
 	{
-		"chi"		"** 密室关闭**"
+		"chi"		"** 密室开启**"
 	}
 	"@[Map] Secret room Disable"
 	{
-		"chi"		"** 密室开启**"
+		"chi"		"** 密室关闭**"
 	}
 	"@[Map] Skate"
 	{
