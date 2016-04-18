@@ -47,4 +47,8 @@
 	{
 		"chi"		"10秒后释放毒气"
 	}
+	"*** Second teleport in 20 seconds! Dont stay behind. ***"
+	{
+		"chi"		"** **"
+	}
 }

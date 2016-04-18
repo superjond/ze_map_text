@@ -1,0 +1,259 @@
+"Console_T"
+{
+	"**Special thanks to Soft Serve and aNex**"
+	{
+		"chi"		"** **"
+	}
+	"**Tip 1** There are only global teleports on the map and only to the bonfires. So you can defend any spot for very long time.**"
+	{
+		"chi"		"** **"
+	}
+	"**Tip 2 **If you saw a long chain you can climb on it**"
+	{
+		"chi"		"** **"
+	}
+	"**Tip 3 **All the items have limited ammount of uses but have low cooldown time**"
+	{
+		"chi"		"** **"
+	}
+	"**Tip 4 **You can refill the item charges by using Ash Estus Flask**"
+	{
+		"chi"		"** **"
+	}
+	"**Tip 5 **Some items work on bosses**"
+	{
+		"chi"		"** **"
+	}
+	"**Tip 6 **The Green Blossom will help you with dodging boulders and axes**"
+	{
+		"chi"		"** **"
+	}
+	"**Tip 7 **Watch out for hidden traps being in Sens Fortress**"
+	{
+		"chi"		"** **"
+	}
+	"**Tip 8 **There are illisionary walls on the map. To activate it just press E being near this wall**"
+	{
+		"chi"		"** **"
+	}
+	"**Tip 9 **There are Fire Keeper Souls being spread on the map. If you get all of them you can power up your bonfires**"
+	{
+		"chi"		"** **"
+	}
+	"**ZE_DARK_SOULS**"
+	{
+		"chi"		"** **"
+	}
+	"**Map by Headshooter.SC  HaRyDe and Batnik_Ref.smd**"
+	{
+		"chi"		"** **"
+	}
+	"**Tip 10 **You can find out the item class you have by the color of the parchment on your picture**"
+	{
+		"chi"		"** **"
+	}
+	"**Tip 11 **If you find the boss too hard you can stay out of it and help your team with defence**"
+	{
+		"chi"		"** **"
+	}
+	"**The gates will open in 15 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up Dark Orb**"
+	{
+		"chi"		"** **"
+	}
+	"**The gates will open in 10 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up Chaos Storm**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up Soothing Sunlight**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up Great Heavy Soul Arrow**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up Ashen Estus Flask**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up Hidden Body**"
+	{
+		"chi"		"** **"
+	}
+	"**The gates will open in 25 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up Estus Flask**"
+	{
+		"chi"		"** **"
+	}
+	"**The Stray Demon was defeated**"
+	{
+		"chi"		"** **"
+	}
+	"**The Stray Demon was keeping an eye for no one undead leaves the prison..**"
+	{
+		"chi"		"** **"
+	}
+	"**..Only the Old Witch had the right to take away the undead to Sens Fortress for their experiments. But there were exceptions.**"
+	{
+		"chi"		"** **"
+	}
+	"**The elevator is on the way. Defend for some time**"
+	{
+		"chi"		"** **"
+	}
+	"**Get in the elevator**"
+	{
+		"chi"		"** **"
+	}
+	"**Break door in 15 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**The gates will open in 20 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**The Sens Fortress gates will open in 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up Green Blossom**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up White Dragon Breath**"
+	{
+		"chi"		"** **"
+	}
+	"**Well done**The gate will open in 20 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**WATCH OUT FOR BOULDERS!**"
+	{
+		"chi"		"** **"
+	}
+	"**The gate will open in 15 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**The Old Witch is defeated**"
+	{
+		"chi"		"** **"
+	}
+	"**At the request of Gwyndolin the Old Witch was selecting the most powerful undead that can keep the flame in price of their lives...**"
+	{
+		"chi"		"** **"
+	}
+	"**...But one day the Witch completely lost her mind and began to experiment on the undead.**"
+	{
+		"chi"		"** **"
+	}
+	"**Well done**Wait 20 more seconds till the gate opens**"
+	{
+		"chi"		"** **"
+	}
+	"**The gate will open in 20 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**All the levers are activated**"
+	{
+		"chi"		"** **"
+	}
+	"**Get ready to fall back**The gate will open in 15 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Wait 10 more seconds before the gate open**"
+	{
+		"chi"		"** **"
+	}
+	"**The gate will open in 15 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"**The gate will open in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"**The Iron Golem is defeated. Get to the middle of arena**"
+	{
+		"chi"		"** **"
+	}
+	"**The Iron Golem was created by the gods to protect Anor Londo from the undead and other demons appeared with a mysterious mist..**"
+	{
+		"chi"		"** **"
+	}
+	"**..He killed many heroes on the way to the City of the Gods.**"
+	{
+		"chi"		"** **"
+	}
+	"**The Dark Sun Gwyndolyn. Daughter of the Gwyn"
+	{
+		"chi"		"** **"
+	}
+	"**The Dark Sun Gwyndolin is dead**"
+	{
+		"chi"		"** **"
+	}
+	"**..She sacrificed the undead in order to maintain the first flame when the Lord Gwyn burned himself in the first flame and lost his mind..**"
+	{
+		"chi"		"** **"
+	}
+	"**..She realized that only she has the power to save the era of the Gods by many of human lives.**"
+	{
+		"chi"		"** **"
+	}
+	"**Magic ember was selected...All sorcery items get one more use next round**"
+	{
+		"chi"		"** **"
+	}
+	"**Choose your way of ending**You are close...**"
+	{
+		"chi"		"** **"
+	}
+	"**To confirm your choice just stay near the way you wish to continue..**"
+	{
+		"chi"		"** **"
+	}
+	"**Flame ending is beginning...**"
+	{
+		"chi"		"** **"
+	}
+	"**We got this**Wait until the first flame burns up**"
+	{
+		"chi"		"** **"
+	}
+	"**Defend 30 more seconds**"
+	{
+		"chi"		"** **"
+	}
+	"** There are zombies at the end point ** The round is failed.**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up Lightning Spear**"
+	{
+		"chi"		"** **"
+	}
+	"**A player has picked up Wrath of The Gods**"
+	{
+		"chi"		"** **"
+	}
+	"**Dark ember was selected...All hexes items get one more use next round**"
+	{
+		"chi"		"** **"
+	}
+}
