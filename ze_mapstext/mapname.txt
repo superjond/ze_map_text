@@ -732,7 +732,7 @@
 	{
 		"chi"		"逃出生天"
 	}
-	"ze_sky_athletic_v7_1"
+	"ze_sky_athletic_v7_3"
 	{
 		"chi"		"天空竞技"
 	}
@@ -815,5 +815,9 @@
 	"ze_starwars_v1_1"
 	{
 		"chi"		"星球大战"
+	}
+	"ze_dark_souls_b1_1"
+	{
+		"chi"		"此地图暂无译名"
 	}
 }
