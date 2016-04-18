@@ -2,43 +2,43 @@
 {
 	"**Special thanks to Soft Serve and aNex**"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢冰淇淋和AMEX **"
 	}
 	"**Tip 1** There are only global teleports on the map and only to the bonfires. So you can defend any spot for very long time.**"
 	{
-		"chi"		"** **"
+		"chi"		"**提示1 :在地图上只有碰到篝火才会传送，所以你可以防守任意一个地点很长时间 **"
 	}
 	"**Tip 2 **If you saw a long chain you can climb on it**"
 	{
-		"chi"		"** **"
+		"chi"		"**提示2：如果你看到一条链子，你可以爬上它 **"
 	}
 	"**Tip 3 **All the items have limited ammount of uses but have low cooldown time**"
 	{
-		"chi"		"** **"
+		"chi"		"**提示3：所有的神器都是有限的，但冷却时间很短 **"
 	}
 	"**Tip 4 **You can refill the item charges by using Ash Estus Flask**"
 	{
-		"chi"		"** **"
+		"chi"		"**提示4：你可以补充神器的使用次数 **"
 	}
 	"**Tip 5 **Some items work on bosses**"
 	{
-		"chi"		"** **"
+		"chi"		"**提示5：一些神器在凸起的地方 **"
 	}
 	"**Tip 6 **The Green Blossom will help you with dodging boulders and axes**"
 	{
-		"chi"		"** **"
+		"chi"		"**提示6：绿花将帮助你避开巨石和轴 **"
 	}
 	"**Tip 7 **Watch out for hidden traps being in Sens Fortress**"
 	{
-		"chi"		"** **"
+		"chi"		"**提示7：在城堡里要小心陷阱 **"
 	}
 	"**Tip 8 **There are illisionary walls on the map. To activate it just press E being near this wall**"
 	{
-		"chi"		"** **"
+		"chi"		"**提示8：在地图有些虚幻的墙，要激活它只需按下附近的墙 **"
 	}
 	"**Tip 9 **There are Fire Keeper Souls being spread on the map. If you get all of them you can power up your bonfires**"
 	{
-		"chi"		"** **"
+		"chi"		"**提示9：在地图上有守护者的灵魂，如果你得到所有灵魂，你可以激活你的篝火 **"
 	}
 	"**ZE_DARK_SOULS**"
 	{
@@ -46,187 +46,187 @@
 	}
 	"**Map by Headshooter.SC  HaRyDe and Batnik_Ref.smd**"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Headshooter.SC HaRyDe和Batnik_Ref.smd 地图翻译：蓬莱山帅比**"
 	}
 	"**Tip 10 **You can find out the item class you have by the color of the parchment on your picture**"
 	{
-		"chi"		"** **"
+		"chi"		"**提示10：你可以通过羊皮纸上的图片看看你的神器具有什么效果 **"
 	}
 	"**Tip 11 **If you find the boss too hard you can stay out of it and help your team with defence**"
 	{
-		"chi"		"** **"
+		"chi"		"**提示11：如果你发现BOSS太难，你可以远离它，帮助你的队友防守 **"
 	}
 	"**The gates will open in 15 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在15秒后打开 **"
 	}
 	"**A player has picked up Dark Orb**"
 	{
-		"chi"		"** **"
+		"chi"		"**一个玩家拿起黑暗球体 **"
 	}
 	"**The gates will open in 10 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在10秒后打开 **"
 	}
 	"**A player has picked up Chaos Storm**"
 	{
-		"chi"		"** **"
+		"chi"		"**一个玩家拿起混沌风暴 **"
 	}
 	"**A player has picked up Soothing Sunlight**"
 	{
-		"chi"		"** **"
+		"chi"		"**一个玩家拿起柔和的阳光 **"
 	}
 	"**A player has picked up Great Heavy Soul Arrow**"
 	{
-		"chi"		"** **"
+		"chi"		"**一个玩家拿起了伟大的灵魂箭头 **"
 	}
 	"**A player has picked up Ashen Estus Flask**"
 	{
-		"chi"		"** **"
+		"chi"		"**一个玩家拿起灰白的火瓶 **"
 	}
 	"**A player has picked up Hidden Body**"
 	{
-		"chi"		"** **"
+		"chi"		"**一个玩家拿起隐身 **"
 	}
 	"**The gates will open in 25 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在25秒后打开 **"
 	}
 	"**A player has picked up Estus Flask**"
 	{
-		"chi"		"** **"
+		"chi"		"**一个玩家拿起火瓶 **"
 	}
 	"**The Stray Demon was defeated**"
 	{
-		"chi"		"** **"
+		"chi"		"**流浪恶魔被打败 **"
 	}
 	"**The Stray Demon was keeping an eye for no one undead leaves the prison..**"
 	{
-		"chi"		"** **"
+		"chi"		"**流浪恶魔没人关注，灵魂已离开监狱 **"
 	}
 	"**..Only the Old Witch had the right to take away the undead to Sens Fortress for their experiments. But there were exceptions.**"
 	{
-		"chi"		"** **"
+		"chi"		"**..只有老巫婆有权带走堡垒内的灵魂，但也有例外. **"
 	}
 	"**The elevator is on the way. Defend for some time**"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯正在路上，防守一段时间 **"
 	}
 	"**Get in the elevator**"
 	{
-		"chi"		"** **"
+		"chi"		"**快上电梯 **"
 	}
 	"**Break door in 15 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**门15秒后打开 **"
 	}
 	"**The gates will open in 20 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在20秒后打开 **"
 	}
 	"**The Sens Fortress gates will open in 30 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**古堡大门将在30秒内打开 **"
 	}
 	"**A player has picked up Green Blossom**"
 	{
-		"chi"		"** **"
+		"chi"		"**一个玩家拿起加速 **"
 	}
 	"**A player has picked up White Dragon Breath**"
 	{
-		"chi"		"** **"
+		"chi"		"**一个玩家拿起了白龙吐息 **"
 	}
 	"**Well done**The gate will open in 20 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**干得好，大门将在20秒内打开 **"
 	}
 	"**WATCH OUT FOR BOULDERS!**"
 	{
-		"chi"		"** **"
+		"chi"		"**小心巨石！ **"
 	}
 	"**The gate will open in 15 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在15秒后打开 **"
 	}
 	"**The Old Witch is defeated**"
 	{
-		"chi"		"** **"
+		"chi"		"**老巫婆被打败了 **"
 	}
 	"**At the request of Gwyndolin the Old Witch was selecting the most powerful undead that can keep the flame in price of their lives...**"
 	{
-		"chi"		"** **"
+		"chi"		"**老巫婆的要求是选择最强大的不死亡灵，代价是可以保持生命的火焰 **"
 	}
 	"**...But one day the Witch completely lost her mind and began to experiment on the undead.**"
 	{
-		"chi"		"** **"
+		"chi"		"**……但有一天，女巫完全失去了她的思想，开始对不死的亡灵进行实验。 **"
 	}
 	"**Well done**Wait 20 more seconds till the gate opens**"
 	{
-		"chi"		"** **"
+		"chi"		"**做得很好，再等20秒，直到门打开 **"
 	}
 	"**The gate will open in 20 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在20秒后打开 **"
 	}
 	"**All the levers are activated**"
 	{
-		"chi"		"** **"
+		"chi"		"**所有的按钮被激活 **"
 	}
 	"**Get ready to fall back**The gate will open in 15 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**准备退* * 门将在15秒后打开 **"
 	}
 	"**Wait 10 more seconds before the gate open**"
 	{
-		"chi"		"** **"
+		"chi"		"**门开之前等待10秒钟 **"
 	}
 	"**The gate will open in 15 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在15秒后打开 **"
 	}
 	"**The gate will open in 20 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在20秒后打开 **"
 	}
 	"**The Iron Golem is defeated. Get to the middle of arena**"
 	{
-		"chi"		"** **"
+		"chi"		"**铁魔像被击败。快到舞台中央 **"
 	}
 	"**The Iron Golem was created by the gods to protect Anor Londo from the undead and other demons appeared with a mysterious mist..**"
 	{
-		"chi"		"** **"
+		"chi"		"**铁魔像是由神创造的保护阿诺尔隆多和其他恶魔与一个神秘出现的雾 **"
 	}
 	"**..He killed many heroes on the way to the City of the Gods.**"
 	{
-		"chi"		"** **"
+		"chi"		"**在去众神之城的路上，他杀死了许多英雄。 **"
 	}
 	"**The Dark Sun Gwyndolyn. Daughter of the Gwyn"
 	{
-		"chi"		"** **"
+		"chi"		"**黑暗中的太阳格温多琳是格温的女儿 **"
 	}
 	"**The Dark Sun Gwyndolin is dead**"
 	{
-		"chi"		"** **"
+		"chi"		"**黑暗中的太阳格温多琳死了 **"
 	}
 	"**..She sacrificed the undead in order to maintain the first flame when the Lord Gwyn burned himself in the first flame and lost his mind..**"
 	{
-		"chi"		"** **"
+		"chi"		"**. .她牺牲了亡灵为了保持第一个火焰当耶和华格温烧毁自己的火焰和失去了他的心。 **"
 	}
 	"**..She realized that only she has the power to save the era of the Gods by many of human lives.**"
 	{
-		"chi"		"** **"
+		"chi"		"**她意识到，只有她有能力去拯救众神的时代，和许多人的生命。 **"
 	}
 	"**Magic ember was selected...All sorcery items get one more use next round**"
 	{
-		"chi"		"** **"
+		"chi"		"**神奇的灰烬被选中……所有魔法物品可以在下一轮更多的使用 **"
 	}
 	"**Choose your way of ending**You are close...**"
 	{
-		"chi"		"** **"
+		"chi"		"**选择你的方式结束* *你是接近… **"
 	}
 	"**To confirm your choice just stay near the way you wish to continue..**"
 	{
-		"chi"		"** **"
+		"chi"		"**为了确认你的选择，就在你希望继续的方向上。 **"
 	}
 	"**Flame ending is beginning...**"
 	{
