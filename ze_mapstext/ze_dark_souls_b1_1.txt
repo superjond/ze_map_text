@@ -256,4 +256,32 @@
 	{
 		"chi"		"** **"
 	}
+	"**Divine ember was selected...All miracles items get one more use next round**"
+	{
+		"chi"		"** **"
+	}
+	"**Dark ending is beginning...**"
+	{
+		"chi"		"** **"
+	}
+	"**You got this**The final door will open in 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Get in the room and defend it! the door will close in 25 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**..You started the Dark Era. The Era of Humans..**"
+	{
+		"chi"		"** **"
+	}
+	"**..But you did not get rid of the curse..**"
+	{
+		"chi"		"** **"
+	}
+	"**...You got rid of the curse of the Undead. But you continued Era of the Gods...**"
+	{
+		"chi"		"** **"
+	}
 }
