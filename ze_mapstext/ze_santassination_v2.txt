@@ -948,4 +948,44 @@
 	{
 		"chi"		"** **"
 	}
+	"***THIS IS WRONG...***"
+	{
+		"chi"		"** **"
+	}
+	"***THIS.. IS THE TRUTH***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IS JUDGING YOU***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES HAS TO CLEANSE YOU***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IMAGINES***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES DESPISES YOU***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES PONDERS***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES CRIES***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES ERECTS***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IS BLOSSOMING***"
+	{
+		"chi"		"** **"
+	}
 }

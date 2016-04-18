@@ -112,4 +112,12 @@
 	{
 		"chi"		"** **"
 	}
+	"[Freezers Closed!]"
+	{
+		"chi"		"** **"
+	}
+	"[Freezers Open!]"
+	{
+		"chi"		"** **"
+	}
 }
