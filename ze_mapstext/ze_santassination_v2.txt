@@ -1164,4 +1164,20 @@
 	{
 		"chi"		"** **"
 	}
+	"***IT HAS COME TO THE MAPMAKERS ATTENTION THAT YOU DONT ENJOY HIS FRESH MIXTAPE...***"
+	{
+		"chi"		"** **"
+	}
+	"***THE MAPMAKER THINKS THAT YOU MAY NEED SOME PUNISHMENT FOR SUCH INSOLENCE***"
+	{
+		"chi"		"** **"
+	}
+	"***BE PREPARED FOR SOMETHING SPECIAL...***"
+	{
+		"chi"		"** **"
+	}
+	"***...SOMETHING VERY SPECIAL...***"
+	{
+		"chi"		"** **"
+	}
 }

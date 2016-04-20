@@ -548,4 +548,16 @@
 	{
 		"chi"		"** **"
 	}
+	"** ONLY ONE LEVER LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** ALL LEVERS HAVE BEEN FOUND AND ACTIVATED **"
+	{
+		"chi"		"** **"
+	}
+	"** EXORATH WILL NOT USE THE ANNIHILATION ATTACK **"
+	{
+		"chi"		"** **"
+	}
 }

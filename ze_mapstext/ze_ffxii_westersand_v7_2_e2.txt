@@ -312,4 +312,8 @@
 	{
 		"chi"		"** **"
 	}
+	"[ADMIN] Selected [ZOMBIE MODE] for next round. Restarting round in 5 seconds."
+	{
+		"chi"		"** **"
+	}
 }
