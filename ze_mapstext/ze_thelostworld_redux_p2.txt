@@ -51,10 +51,18 @@
 	"** InGen has received your distress signal. A109 inbound for extraction in 60... **"
 	{
 		"chi"		"60秒后救援到达"
-	        "DoorCountdown"		"60"
+		"DoorCountdown"		"60"
 	}
 	"** Laboratory Security online. Locking in 10 seconds... **"
 	{
 		"chi"		"还有10秒！"
+	}
+	"** C4 planted! **"
+	{
+		"chi"		"** **"
+	}
+	"** Theres no power. Were screwed! **"
+	{
+		"chi"		"** **"
 	}
 }

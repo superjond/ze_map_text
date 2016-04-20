@@ -186,4 +186,16 @@
 	{
 		"chi"		"**恭喜你，你已完成这个地图的全部难度，开启二周目**"
 	}
+	"+++ FIRE! +++"
+	{
+		"chi"		"** **"
+	}
+	"+++ Secret rocketlauncher has been found +++"
+	{
+		"chi"		"** **"
+	}
+	"+++ You can only use it once +++"
+	{
+		"chi"		"** **"
+	}
 }

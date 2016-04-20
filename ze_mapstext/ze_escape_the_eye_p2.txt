@@ -68,4 +68,28 @@
 	{
 		"chi"		"** **"
 	}
+	"+++ THE DOOR IS OPENING IN 35 SECONDS +++"
+	{
+		"chi"		"** **"
+	}
+	"++ ESCAPE DOOR OPENING IN 50 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ ESCAPE DOOR OPENING IN 30 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ ESCAPE DOOR OPENING WITHIN 10 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ ESCAPE DOOR IS OPEN!! ++"
+	{
+		"chi"		"** **"
+	}
+	"++ ESCAPE DOORS CLOSING!! ++"
+	{
+		"chi"		"** **"
+	}
 }

@@ -820,4 +820,12 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
+	"ze_bathroom_v2_1"
+	{
+		"chi"		"浴室逃亡"
+	}
+	"ze_serpentis_temple_b2"
+	{
+		"chi"		"此地图暂无译名"
+	}
 }

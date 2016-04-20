@@ -188,4 +188,12 @@
 	{
 		"chi"		"** **"
 	}
+	"Duck Hunt v1. CTs are Ducks!"
+	{
+		"chi"		"** **"
+	}
+	"Duck Hunt v1. Ts are Ducks!"
+	{
+		"chi"		"** **"
+	}
 }

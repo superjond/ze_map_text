@@ -1092,4 +1092,16 @@
 	{
 		"chi"		"** **"
 	}
+	"CUTE CLOUD :I cant allow you even my captain trust you !!"
+	{
+		"chi"		"** **"
+	}
+	"*** We dont know what will happen... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HE ISNT HERE...?***"
+	{
+		"chi"		"** **"
+	}
 }

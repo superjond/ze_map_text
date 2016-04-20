@@ -152,4 +152,12 @@
 	{
 		"chi"		"** **"
 	}
+	"***Zombies reached rescue vehicle!***"
+	{
+		"chi"		"** **"
+	}
+	"***Difficulty will not change***"
+	{
+		"chi"		"** **"
+	}
 }

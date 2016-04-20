@@ -200,4 +200,116 @@
 	{
 		"chi"		"ZE FFXII WESTERSAND"
 	}
+	"** ZM JAIL OPEN **"
+	{
+		"chi"		"** **"
+	}
+	"** Teleporter will be ready in 20 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Teleporter will be ready in 5 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Door will open in 5 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Second door will open in 10 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Hold 10 more seconds!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Nades do more damage **"
+	{
+		"chi"		"** **"
+	}
+	"** The guardians are dead!! Run back to the entrance!! **"
+	{
+		"chi"		"** **"
+	}
+	"** The healer is down!! **"
+	{
+		"chi"		"** **"
+	}
+	"** The battlemage is down!! **"
+	{
+		"chi"		"** **"
+	}
+	"[3 WINS IN A ROW] Easteregg unlocked!"
+	{
+		"chi"		"** **"
+	}
+	"** Congratulations - u won [EXTREME] **"
+	{
+		"chi"		"** **"
+	}
+	"** Defend here for 30 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 more seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** The airship reactors are going to explode!! **"
+	{
+		"chi"		"** **"
+	}
+	"** CHAOS is using a deathwall - RUN FASTER!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Chaos has been defeated - RUN !!!!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Congratulations - u won [EPIC] **"
+	{
+		"chi"		"** **"
+	}
+	"** The dragon has been defeated! GOGOGO **"
+	{
+		"chi"		"** **"
+	}
+	"** Congratulations - u won [GODMODE] **"
+	{
+		"chi"		"** **"
+	}
+	"** THANKS FOR PLAYING **"
+	{
+		"chi"		"** **"
+	}
+	"[ZOMBIE MODE]"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE IN 80 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **"
+	{
+		"chi"		"** **"
+	}
+	"** TELEPORTING EVERYONE TO CHOCOBORACE **"
+	{
+		"chi"		"** **"
+	}
+	"** ZOMBIES RELEASED IN 2 SECS **"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE IN 20 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"[ADMIN] Selected [NORMAL MODE] for next round. Restarting round in 5 seconds."
+	{
+		"chi"		"** **"
+	}
 }

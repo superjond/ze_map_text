@@ -292,4 +292,8 @@
 	{
 		"chi"		"** **"
 	}
+	">>>ATLAS: Ryans jammed the door!<<<"
+	{
+		"chi"		"** **"
+	}
 }

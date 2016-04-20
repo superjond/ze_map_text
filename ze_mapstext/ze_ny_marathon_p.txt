@@ -328,4 +328,16 @@
 	{
 		"chi"		"** **"
 	}
+	"*** OH! PIZZA PIZZA PIZZA PIZZA PIZZA!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PIZZA: PIZZA PIZZA PIZZA ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LETS KICK SHELL!!! ***"
+	{
+		"chi"		"** **"
+	}
 }

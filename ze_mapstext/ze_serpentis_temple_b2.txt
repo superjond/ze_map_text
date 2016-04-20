@@ -1,0 +1,51 @@
+"Console_T"
+{
+	"*** Many buildsmodels have been realized by Kaemon ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (50 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (40 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (30 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (20 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (10 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Stage 1 loaded ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Map By Nostar ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PRESS 2 CRYSTALS TO OPEN THE DOOR ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (60 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Fire Snake has been picked ***"
+	{
+		"chi"		"** **"
+	}
+}

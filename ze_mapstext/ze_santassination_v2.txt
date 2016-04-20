@@ -988,4 +988,180 @@
 	{
 		"chi"		"** **"
 	}
+	"***THE TRUE TRAM IS LEAVING IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TRUE TRAM IS LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TRUE TRAM IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"***SPECIAL SOCRATES ZOMBIE TELEPORT IN 5***"
+	{
+		"chi"		"** **"
+	}
+	"***4***"
+	{
+		"chi"		"** **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***UNO***"
+	{
+		"chi"		"** **"
+	}
+	"***THE MAPPER FELT THE NEED TO COMPENSATE FOR SOMETHING THAT HE LACKED***"
+	{
+		"chi"		"** **"
+	}
+	"***DONT TELL HIM I SAID THAT***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TRUE ELEVATOR IS LEAVING IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TRUE ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TRUE ELEVATOR IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES WISHES SILENTLY***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES FEELS YOU***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES CRAVES***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES PLAYS NINTENDO 64***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES REGRETS YOUR DEEDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES CARES FOR NO MAN***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IS***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES FEEDS***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES NEEDS BENDER***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IS ALL***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IS NOTHING***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IS NOTHING AT ALL***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES DOES NOT EXIST***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IS AWAKENED***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES CANNOT KEEP***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES RUMBLES YOUR WILL***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES SELLS GASOLINE***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES WILL ARRIVE***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES WILL CLEANSE***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES WILL DESTROY***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IS NEAR***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES WELCOMES YOU***"
+	{
+		"chi"		"** **"
+	}
+	"***SOCRATES IS SANTA***"
+	{
+		"chi"		"** **"
+	}
+	"***PLAYER PICKED UP ITEM - HERDER***"
+	{
+		"chi"		"** **"
+	}
+	"*** - TRUE SANTA - ***"
+	{
+		"chi"		"** **"
+	}
+	"***SPEEDER ITEMS ACTIVATED***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU HAVE DONE IT!***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU HAVE DEFEATED SOCRATES - THE TRUE SANTA!***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU WILL BE REMEMBERED AS CHAMPIONS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE END***"
+	{
+		"chi"		"** **"
+	}
+	"***THE ETERNAL TRUTH LOOMS***"
+	{
+		"chi"		"** **"
+	}
 }
