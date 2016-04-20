@@ -680,7 +680,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_christmas_infection_v2_5_air"
+	"ze_christmas_infection_v2_7_air"
 	{
 		"chi"		"圣诞夜惊魂"
 	}
