@@ -22,7 +22,7 @@
 	}
 	"**Tip 5 **Some items work on bosses**"
 	{
-		"chi"		"**提示5：一些神器在凸起的地方 **"
+		"chi"		"**提示5：一些神器在BOSS附近，请仔细寻找 **"
 	}
 	"**Tip 6 **The Green Blossom will help you with dodging boulders and axes**"
 	{
@@ -42,11 +42,11 @@
 	}
 	"**ZE_DARK_SOULS**"
 	{
-		"chi"		"** **"
+		"chi"		"**黑暗之魂2 **"
 	}
 	"**Map by Headshooter.SC  HaRyDe and Batnik_Ref.smd**"
 	{
-		"chi"		"**地图制作：Headshooter.SC HaRyDe和Batnik_Ref.smd 地图翻译：蓬莱山帅比**"
+		"chi"		"**地图制作：Headshooter.SC HaRyDe和Batnik_Ref.smd 地图翻译：蓬莱山帅比♪**"
 	}
 	"**Tip 10 **You can find out the item class you have by the color of the parchment on your picture**"
 	{
@@ -82,7 +82,7 @@
 	}
 	"**A player has picked up Ashen Estus Flask**"
 	{
-		"chi"		"**一个玩家拿起灰白的火瓶 **"
+		"chi"		"**一个玩家拿起治疗 **"
 	}
 	"**A player has picked up Hidden Body**"
 	{
@@ -154,7 +154,7 @@
 	}
 	"**At the request of Gwyndolin the Old Witch was selecting the most powerful undead that can keep the flame in price of their lives...**"
 	{
-		"chi"		"**老巫婆的要求是选择最强大的不死亡灵，代价是可以保持生命的火焰 **"
+		"chi"		"**老巫婆的要求是选择最强大的不死亡灵，代价是可以保护亡灵生命的火焰 **"
 	}
 	"**...But one day the Witch completely lost her mind and began to experiment on the undead.**"
 	{
@@ -230,58 +230,58 @@
 	}
 	"**Flame ending is beginning...**"
 	{
-		"chi"		"** **"
+		"chi"		"**火焰的结束是开始...... **"
 	}
 	"**We got this**Wait until the first flame burns up**"
 	{
-		"chi"		"** **"
+		"chi"		"**我们拿到了这个* *等到第一个火焰燃烧起来 **"
 	}
 	"**Defend 30 more seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**防守30秒 **"
 	}
 	"** There are zombies at the end point ** The round is failed.**"
 	{
-		"chi"		"** **"
+		"chi"		"**有僵尸在终点**回合失败 **"
 	}
 	"**A player has picked up Lightning Spear**"
 	{
-		"chi"		"** **"
+		"chi"		"**一个玩家拿起闪电枪 **"
 	}
 	"**A player has picked up Wrath of The Gods**"
 	{
-		"chi"		"** **"
+		"chi"		"**一个玩家拿起神之怒 **"
 	}
 	"**Dark ember was selected...All hexes items get one more use next round**"
 	{
-		"chi"		"** **"
+		"chi"		"**黑暗的灰烬被选定…所有的魔法物品可以在下一轮继续使用 **"
 	}
 	"**Divine ember was selected...All miracles items get one more use next round**"
 	{
-		"chi"		"** **"
+		"chi"		"**神圣的灰烬被选中……所有的神器可以在下一轮继续使用 **"
 	}
 	"**Dark ending is beginning...**"
 	{
-		"chi"		"** **"
+		"chi"		"**黑暗的结束是开始...... **"
 	}
 	"**You got this**The final door will open in 30 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**你得到了这个* *最后的门会在30秒后打开 **"
 	}
 	"**Get in the room and defend it! the door will close in 25 seconds**"
 	{
-		"chi"		"** **"
+		"chi"		"**进入房间防守!门将在25秒后关闭 **"
 	}
 	"**..You started the Dark Era. The Era of Humans..**"
 	{
-		"chi"		"** **"
+		"chi"		"**..你启动了黑暗时代。人类的时代.. **"
 	}
 	"**..But you did not get rid of the curse..**"
 	{
-		"chi"		"** **"
+		"chi"		"**但你没有摆脱诅咒.. **"
 	}
 	"**...You got rid of the curse of the Undead. But you continued Era of the Gods...**"
 	{
-		"chi"		"** **"
+		"chi"		"**...你摆脱了诅咒。但是你延续了众神的时代... **"
 	}
 }
