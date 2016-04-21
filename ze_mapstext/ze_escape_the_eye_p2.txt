@@ -92,4 +92,20 @@
 	{
 		"chi"		"** **"
 	}
+	"++ LIGHTBRIDGE ACTIVATES IN 20 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ LIGHTBRIDGE ACTIVATED ++"
+	{
+		"chi"		"** **"
+	}
+	"++ TELEPORT LIFT LEAVING IN 5 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ LIGHTBRIDGE DEACTIVATED ++"
+	{
+		"chi"		"** **"
+	}
 }

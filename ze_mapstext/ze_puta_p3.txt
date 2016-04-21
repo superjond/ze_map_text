@@ -181,4 +181,8 @@
 	{
 		"chi"		"**地图将会重置为简单难度**"
 	}
+	"** ZOMBIES DETECTED - INVALID VICTORY! **"
+	{
+		"chi"		"** **"
+	}
 }

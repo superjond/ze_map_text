@@ -680,7 +680,7 @@
 	{
 		"chi"		"此地图暂无译名"
 	}
-	"ze_christmas_infection_v2_7_air"
+	"ze_christmas_infection_v2_5_air"
 	{
 		"chi"		"圣诞夜惊魂"
 	}
@@ -752,7 +752,7 @@
 	{
 		"chi"		"工业循环"
 	}
-	"ze_gris_a4_9_2"
+	"ze_gris_a4_9_6"
 	{
 		"chi"		"创世E"
 	}
@@ -825,6 +825,14 @@
 		"chi"		"浴室逃亡"
 	}
 	"ze_serpentis_temple_b2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_christmas_infection_v2_7_air"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_ffxii_westersand_v7_2_e2"
 	{
 		"chi"		"此地图暂无译名"
 	}

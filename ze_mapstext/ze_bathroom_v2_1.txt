@@ -132,4 +132,28 @@
 	{
 		"chi"		"** **"
 	}
+	"We can use the hairdryer to reach the shelf!"
+	{
+		"chi"		"** **"
+	}
+	"The path has been cleared."
+	{
+		"chi"		"** **"
+	}
+	"We have to clear the soap out of the way to be able to climb up."
+	{
+		"chi"		"** **"
+	}
+	"Well have to jump outside and walk across the mirror."
+	{
+		"chi"		"** **"
+	}
+	"Well have to enter the boiler. Resist!"
+	{
+		"chi"		"** **"
+	}
+	"The Rubber Duck has been defeated."
+	{
+		"chi"		"** **"
+	}
 }

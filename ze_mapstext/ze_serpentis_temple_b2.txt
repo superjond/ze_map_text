@@ -224,4 +224,36 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Good job ! STAGE 4 Unlock ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL 4 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR OPEN IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FALL BACK IN 15 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TELEPORT IN 25 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVADOR WILL MOVE IN 15 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SHOOT BEHIND YOU ! DOOR OPEN IN 10 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Stay on the side ! Nuke explode in 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
 }
