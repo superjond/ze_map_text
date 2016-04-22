@@ -2,171 +2,171 @@
 {
 	"@[MAP] SLIDE"
 	{
-		"chi"		"**滑行**"
+		"chi"		"**某RBQ松最爱的滑行**"
 	}
 	"@[MUSIC] Watsky- Never Let it Die"
 	{
-		"chi"		"**音乐：Watsky- Never Let it Die**"
+		"chi"		"**音乐:Watsky- Never Let it Die**"
 	}
 	"@[MAP] 50HP KNIFE"
 	{
-		"chi"		"** **"
+		"chi"		"**50血蜘蛛侠**"
 	}
 	"@[MUSIC] MGMT - Electric Feel (DallasK Remix)"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐:MGMT - Electric Feel (DallasK Remix)**"
 	}
 	"@[MUSIC] Ellie Goulding - Goodness Gracious"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐:Ellie Goulding - Goodness Gracious**"
 	}
 	"@[MAP] PORTAL SLIDE"
 	{
-		"chi"		"** **"
+		"chi"		"**传送门滑行**"
 	}
 	"@[MAP] Weapons supply in 5 seconds..."
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后供给武器**"
 	}
 	"@[MAP] FALL DAMAGE is DISABLED"
 	{
-		"chi"		"** **"
+		"chi"		"**坠落伤害关闭**"
 	}
 	"@[MAP] BombSite Unlocked"
 	{
-		"chi"		"** **"
+		"chi"		"**包点解锁**"
 	}
 	"@[MAP] Shotguns enabled in 5 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后发放喷子**"
 	}
 	"@[MAP] SHOOTING RANGE"
 	{
-		"chi"		"** **"
+		"chi"		"**红方块集中营**"
 	}
 	"@[MUSIC] Ed Sheeran - I See Fire (Kygo Remix)"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐:Ed Sheeran - I See Fire (Kygo Remix)**"
 	}
 	"@[MAP] SURVIVAL"
 	{
-		"chi"		"** **"
+		"chi"		"**生存游戏**"
 	}
 	"@[MAP] Game starting in 10 seconds.."
 	{
-		"chi"		"** **"
+		"chi"		"**游戏在10秒后开始 **"
 	}
 	"@[MUSIC] Avicii ft. Robbie Williams - The Days"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐:Avicii ft. Robbie Williams - The Days **"
 	}
 	"@[MAP] Game starting in 5 seconds.."
 	{
-		"chi"		"** **"
+		"chi"		"**游戏在5秒后开始 **"
 	}
 	"@[MAP] PINK - 13 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**粉色 13秒**"
 	}
 	"@[MAP] BLUE - 7 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**蓝色 7秒**"
 	}
 	"@[MAP] PURPLE - 13 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**紫色 13秒**"
 	}
 	"@[MAP] RED - 5 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**红色 5秒**"
 	}
 	"@[MAP] CYAN - 10 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**青色 10秒**"
 	}
 	"@[MAP] GREEN - 5 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**绿色 5秒**"
 	}
 	"@[MAP] Map ending...."
 	{
-		"chi"		"** **"
+		"chi"		"**游戏结束，准备发刀**"
 	}
 	"@[MAP] SKEET"
 	{
-		"chi"		"** **"
+		"chi"		"**打鸭子**"
 	}
 	"@[MUSIC] Kid Cudi - Pursuit Of Happiness ft. MGMT"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐:Kid Cudi - Pursuit Of Happiness ft. MGMT**"
 	}
 	"@[MAP] Ceiling breaking in 5 seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后天花板破裂**"
 	}
 	"@[MAP] AIRDROP"
 	{
-		"chi"		"** **"
+		"chi"		"**坠落之战**"
 	}
 	"@[MAP] You can now go up the middle!"
 	{
-		"chi"		"** **"
+		"chi"		"**你现在可以从中间飞上去了**"
 	}
 	"@[MAP] WALLHACKS"
 	{
-		"chi"		"** **"
+		"chi"		"**兲台的透视战争**"
 	}
 	"@[MAP] EXPLOSIVE BALLS"
 	{
-		"chi"		"** **"
+		"chi"		"**爆炸球**"
 	}
 	"@[MAP] START!"
 	{
-		"chi"		"** **"
+		"chi"		"**开始!**"
 	}
 	"@[MAP] Knife Damage Enabled"
 	{
-		"chi"		"** **"
+		"chi"		"**刀伤已经开启**"
 	}
 	"@[MUSIC] Cazzette feat. The High - Sleepless"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐:Cazzette feat. The High - Sleepless**"
 	}
 	"@[MAP] The sniping team can now leave the awping area!"
 	{
-		"chi"		"** **"
+		"chi"		"**现在狙击手可以离开狙击位了**"
 	}
 	"@[MAP] Teleport triggers DISABLED!"
 	{
-		"chi"		"** **"
+		"chi"		"**传送装置关闭**"
 	}
 	"@[MAP] VIP"
 	{
-		"chi"		"** **"
+		"chi"		"**会员模式**"
 	}
 	"@[MAP] [Objective] - Eliminate both of the enemies VIPs!"
 	{
-		"chi"		"** **"
+		"chi"		"**杀掉敌方所有的会员，让他们的会员到期!**"
 	}
 	"@[MAP] ONE TERRORIST VIP REMAINING!"
 	{
-		"chi"		"** **"
+		"chi"		"**一个土匪的会员已经到期!**"
 	}
 	"@[MAP] ONE COUNTER-TERRORIST VIP REMAINING!"
 	{
-		"chi"		"** **"
+		"chi"		"**一个警察的会员已经到期!**"
 	}
 	"@[MAP] Both TERRORIST VIP's have been killed!"
 	{
-		"chi"		"** **"
+		"chi"		"**所有土匪的会员已到期，根据警察会员的要求，我们即将处死所有土匪!**"
 	}
 	"@[MAP] Both COUNTER-TERRORIST VIP's have been killed!"
 	{
-		"chi"		"** **"
+		"chi"		"**所有警察的会员已到期，根据土匪会员的要求，我们即将处死所有警察!**"
 	}
 	"@[MAP] KILLER BALLS"
 	{
-		"chi"		"** **"
+		"chi"		"**杀人足球**"
 	}
 	"@[MAP] 3...."
 	{
@@ -182,78 +182,78 @@
 	}
 	"@[MAP] 1HP FOOTBALL"
 	{
-		"chi"		"** **"
+		"chi"		"**1学足球**"
 	}
 	"@[MAP] GOAL!!!!"
 	{
-		"chi"		"** **"
+		"chi"		"**进球!!!!**"
 	}
 	"@[MUSIC] Kool & The Gang - Get Down On It"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐:Kool & The Gang - Get Down On It**"
 	}
 	"@[MAP] CORRIDOR"
 	{
-		"chi"		"** **"
+		"chi"		"**走廊放包**"
 	}
 	"@[MUSIC] Taylor Swift - Shake It Off"
 	{
-		"chi"		"** **"
+		"chi"		"**音乐:Taylor Swift - Shake It Off**"
 	}
 	"@[MAP] Conveyers disabled"
 	{
-		"chi"		"** **"
+		"chi"		"**加速已经失效**"
 	}
 	"@[MAP] HEADSHOT PISTOL"
 	{
-		"chi"		"** **"
+		"chi"		"**手枪爆头**"
 	}
 	"@[MAP] AFK KILLER IMMINENT"
 	{
-		"chi"		"** **"
+		"chi"		"**即将处死挂机者**"
 	}
 	"@[MAP] TUNNEL VISION"
 	{
-		"chi"		"** **"
+		"chi"		"**盲人CS**"
 	}
 	"@[MAP] WHITE - 5 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**白色 5秒**"
 	}
 	"@[MAP] BROWN - 11 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**棕色 11秒**"
 	}
 	"@[MAP] ORANGE - 5 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**橘色 5秒**"
 	}
 	"@[MAP] SMOKEWARS"
 	{
-		"chi"		"** **"
+		"chi"		"**烟雾战争**"
 	}
 	"@[MAP] You may now cross-over"
 	{
-		"chi"		"** **"
+		"chi"		"**你现在可以走过地图中间了**"
 	}
 	"@[MAP] KNIFE"
 	{
-		"chi"		"** **"
+		"chi"		"**刀战**"
 	}
 	"@[MAP] Knife Damage Enabled In 10 Seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后开启刀伤**"
 	}
 	"@[MAP] YELLOW - 8 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**黄色 8秒**"
 	}
 	"@[MAP] Both COUNTER-TERRORIST VIPs have been killed!"
 	{
-		"chi"		"** **"
+		"chi"		"**所有警察的会员已到期，根据土匪会员的要求，我们即将处死所有警察!**"
 	}
 	"@[MAP] Both TERRORIST VIPs have been killed!"
 	{
-		"chi"		"** **"
+		"chi"		"**所有土匪的会员已到期，根据警察会员的要求，我们即将处死所有土匪!**"
 	}
 }
