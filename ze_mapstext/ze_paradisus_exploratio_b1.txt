@@ -1,0 +1,23 @@
+"Console_T"
+{
+	"** TAKE LEFT DOOR **"
+	{
+		"chi"		"** **"
+	}
+	"** ENTER THE CENTER OF HALL TO ACCESS SP ITEM ROOM **"
+	{
+		"chi"		"** **"
+	}
+	"** TRY TO USE THEM **"
+	{
+		"chi"		"** **"
+	}
+	"** ZE_PARADISUS_EXPLORATIO **"
+	{
+		"chi"		"** **"
+	}
+	"** ROOT ONE **"
+	{
+		"chi"		"** **"
+	}
+}

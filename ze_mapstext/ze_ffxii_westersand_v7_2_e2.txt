@@ -2,11 +2,11 @@
 {
 	"** MAP BY SLAYERDRAGON **"
 	{
-		"chi"		"地图作者：SLAYERDRAGON"
+		"chi"		"**地图作者：SLAYERDRAGON 感谢：和平修复bug**"
 	}
 	"** Map Ported By www.dashijie.es **"
 	{
-		"chi"		"由www.dashijie.es移植 翻译by楯山文乃"
+		"chi"		"**由www.dashijie.es移植 翻译by楯山文乃 修改by恋恋**"
 	}
 	"[NORMAL MODE]"
 	{
@@ -290,30 +290,30 @@
 	}
 	"** NUKE IN 80 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**80秒后核爆~**"
 	}
 	"** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后传送至陆行鸟跑道**"
 	}
 	"** TELEPORTING EVERYONE TO CHOCOBORACE **"
 	{
-		"chi"		"** **"
+		"chi"		"**传送玩家到陆行鸟跑道跑道终点可获得蓝白条纹胖次一枚（其实只是能调关而已）**"
 	}
 	"** ZOMBIES RELEASED IN 2 SECS **"
 	{
-		"chi"		"** **"
+		"chi"		"**两秒僵尸释放**"
 	}
 	"** NUKE IN 20 SECONDS **"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒后核爆！~**"
 	}
 	"[ADMIN] Selected [NORMAL MODE] for next round. Restarting round in 5 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**管理员开启了普通模式 5秒后开启下一轮**"
 	}
 	"[ADMIN] Selected [ZOMBIE MODE] for next round. Restarting round in 5 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**管理员开启了ZM模式 5秒后开启下一轮**"
 	}
 }
