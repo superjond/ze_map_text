@@ -1,4 +1,4 @@
-"Console_T"
+地图制作："Console_T"
 {
 	"***Adjust the Music Volume in Your CS:GO Settings***"
 	{
@@ -114,23 +114,23 @@
 	}
 	"***Map By: Lt.| iPod***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Lt.| iPod**"
 	}
 	"***Music Must Be Picked Before You Can Choose A LvL***"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐需要在关卡选择前选择**"
 	}
 	"Music : M83 - Midnight city"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：M83 - Midnight city**"
 	}
 	"***Auto Select in 40 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 40秒后自动选择**"
 	}
 	"***Map by DTK Development Team***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：DTK Development团队**"
 	}
 	"BBS.93X.NeT"
 	{
@@ -138,14 +138,14 @@
 	}
 	"Music : Just Jack - Basement"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Just Jack - Basement**"
 	}
 	"@[MAP] This map does not work with bots..."
 	{
-		"chi"		"** **"
+		"chi"		"** 地图在有bot时无法运行**"
 	}
 	"@[MAP] Map by [SG] Paul"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：[SG] Paul**"
 	}
 }
