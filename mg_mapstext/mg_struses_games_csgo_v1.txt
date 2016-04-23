@@ -2,138 +2,138 @@
 {
 	"[Map] Map ported by Blogger(Dog)"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图传输：Blogger(Dog) 地图翻译：Ex_cKot**"
 	}
 	"[Map] Map made by Struse!"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Struse!**"
 	}
 	"[Map] Special thanks to NickMaps"
 	{
-		"chi"		"** **"
+		"chi"		"** 特别感谢：NickMaps**"
 	}
 	"[Map] Race !"
 	{
-		"chi"		"** **"
+		"chi"		"** 赛跑**"
 	}
 	"[Map] Race starts in:"
 	{
-		"chi"		"** **"
+		"chi"		"** 准备开始**"
 	}
 	"[Map] 5"
 	{
-		"chi"		"** **"
+		"chi"		"** 5**"
 	}
 	"[Map] 4"
 	{
-		"chi"		"** **"
+		"chi"		"** 4**"
 	}
 	"[Map] Bhop !"
 	{
-		"chi"		"** **"
+		"chi"		"** 连跳**"
 	}
 	"[Map] Aim !"
 	{
-		"chi"		"** **"
+		"chi"		"** 射击**"
 	}
 	"[Map] Ice Skate !"
 	{
-		"chi"		"** **"
+		"chi"		"** 滑冰**"
 	}
 	"[Map] Random choice !"
 	{
-		"chi"		"** **"
+		"chi"		"** 随机**"
 	}
 	"[Map] Headshot !"
 	{
-		"chi"		"** **"
+		"chi"		"** 爆头**"
 	}
 	"[Map] Shotgun !"
 	{
-		"chi"		"** **"
+		"chi"		"** 喷子**"
 	}
 	"[Map] 3"
 	{
-		"chi"		"** **"
+		"chi"		"** 3**"
 	}
 	"[Map] 2"
 	{
-		"chi"		"** **"
+		"chi"		"** 2**"
 	}
 	"[Map] 1"
 	{
-		"chi"		"** **"
+		"chi"		"** 1**"
 	}
 	"[Map] The race has started !"
 	{
-		"chi"		"** **"
+		"chi"		"** 开始**"
 	}
 	"[Map] A player has finished the race!"
 	{
-		"chi"		"** **"
+		"chi"		"** 一位玩家已完成**"
 	}
 	"[Map] Knife !"
 	{
-		"chi"		"** **"
+		"chi"		"** 刀**"
 	}
 	"[Map] Awp !"
 	{
-		"chi"		"** **"
+		"chi"		"** AWP**"
 	}
 	"[Map] He !"
 	{
-		"chi"		"** **"
+		"chi"		"** 手雷**"
 	}
 	"[Map] Football !"
 	{
-		"chi"		"** **"
+		"chi"		"** 足球**"
 	}
 	"[Map] GOOOOOOL !"
 	{
-		"chi"		"** **"
+		"chi"		"** 进球！！**"
 	}
 	"[Map] Both teams can now enter in each other base !"
 	{
-		"chi"		"** **"
+		"chi"		"** 两队都可以互相进入基地**"
 	}
 	"[Map] Slay in 10 seconds !"
 	{
-		"chi"		"** **"
+		"chi"		"** 10秒处死**"
 	}
 	"Map made by Mathijs"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Mathijs**"
 	}
 	"Map ported by sG | Waffles"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图传输：sG | Waffles**"
 	}
 	"[LaoZhongYi]Thank UA and Kirby , HZM654321 and diaolingtyp"
 	{
-		"chi"		"** **"
+		"chi"		"** 老中医：感谢UA 和 Kirby , HZM654321 和 diaolingtyp**"
 	}
 	"[UA]If You Not Select Map I am Select In 30 sec"
 	{
-		"chi"		"** **"
+		"chi"		"** UA：如果你不选择我会在30秒内选择**"
 	}
 	"WebSite:BBS.93X.NeT"
 	{
-		"chi"		"** **"
+		"chi"		"** bbs.93x.net**"
 	}
 	"[LaoZhongYi]Fall Damage Disable"
 	{
-		"chi"		"** **"
+		"chi"		"** 老中医：掉落伤害关闭**"
 	}
 	"***Map By: Lt.| iPod***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Lt.| iPod**"
 	}
 	"***Music Must Be Picked Before You Can Choose A LvL***"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐需要在关卡选择前选择**"
 	}
 	"[Map] Time limit !"
 	{
-		"chi"		"** **"
+		"chi"		"** 时间到**"
 	}
 }
