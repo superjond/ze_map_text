@@ -18,6 +18,6 @@
 	}
 	">>Map made by Jenz and Onederp<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Jenz and Onederp 地图翻译：Ex_cKot**"
 	}
 }
