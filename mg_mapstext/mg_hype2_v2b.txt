@@ -154,11 +154,11 @@
 	}
 	"***Map By: Lt.| iPod***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Lt.| iPod**"
 	}
 	"***Music Must Be Picked Before You Can Choose A LvL***"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐需要在关卡选择前选择**"
 	}
 	"100hp Knife"
 	{
@@ -170,30 +170,30 @@
 	}
 	"Music : Poperotiq - Bitch plz"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：operotiq - Bitch plz**"
 	}
 	"Knife Damage Enabled!"
 	{
-		"chi"		"** **"
+		"chi"		"** 刀伤害生效**"
 	}
 	"Map by Phoenix"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Phoenix**"
 	}
 	"Song - Itll Be Okay : SMLE ft. Helen Tess"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Itll Be Okay : SMLE ft. Helen Tess**"
 	}
 	"Dual Berettas"
 	{
-		"chi"		"** **"
+		"chi"		"** 双枪**"
 	}
 	"Duck Hunt v1. CTs are Ducks!"
 	{
-		"chi"		"** **"
+		"chi"		"** 猎鸡 v1 CT成为鸡**"
 	}
 	"Duck Hunt v1. Ts are Ducks!"
 	{
-		"chi"		"** **"
+		"chi"		"** 猎鸡 v1 T成为鸡**"
 	}
 }
