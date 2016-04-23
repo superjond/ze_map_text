@@ -2,7 +2,7 @@
 {
 	"--> Spawn Protection in 20 Seconds <--"
 	{
-		"chi"		"** **"
+		"chi"		"** 20秒内出生保护**"
 	}
 	"--> 2013 By ScHoOuFi <--"
 	{
@@ -22,14 +22,14 @@
 	}
 	"--> Spawn Protection in 30 Seconds <--"
 	{
-		"chi"		"** **"
+		"chi"		"** 30秒内出生保护**"
 	}
 	"AFK Killer in 30 Secends!"
 	{
-		"chi"		"** **"
+		"chi"		"** 30秒后挂机处死**"
 	}
 	"O_o"
 	{
-		"chi"		"** **"
+		"chi"		"** O_o**"
 	}
 }
