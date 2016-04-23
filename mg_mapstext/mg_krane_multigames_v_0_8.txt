@@ -166,10 +166,10 @@
 	}
 	"Song: 3s & 7s - Queens of the Stone Age"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：3s & 7s - Queens of the Stone Age**"
 	}
 	"Song: Sweet Child O Mine - Guns N Roses"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Sweet Child O Mine - Guns N Roses**"
 	}
 }
