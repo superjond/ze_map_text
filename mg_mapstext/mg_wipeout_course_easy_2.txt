@@ -2,10 +2,10 @@
 {
 	"*** Map made by ProfessorOak ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：ProfessorOak**"
 	}
 	"*** Made for Tweakgaming.com ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图网址：Tweakgaming.com**"
 	}
 }
