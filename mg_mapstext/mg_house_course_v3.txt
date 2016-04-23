@@ -6,30 +6,30 @@
 	}
 	"Map by Ice and Fire Steam 1:0:52362682"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Ice and Fire Steam32位ID 1:0:52362682**"
 	}
 	"如果发现BUG请联系我"
 	{
-		"chi"		"** **"
+		"chi"		"** 如果发现BUG请联系我**"
 	}
 	"--> Spawn Protection in 30 Seconds <--"
 	{
-		"chi"		"** **"
+		"chi"		"** 30秒内出生保护**"
 	}
 	"Map by Darnias"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Darnias**"
 	}
 	"--> Spawn Protection in 40 Seconds <--"
 	{
-		"chi"		"** **"
+		"chi"		"** 40秒内出生保护**"
 	}
 	"*** Map made by ProfessorOak ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：ProfessorOak**"
 	}
 	"*** Made for Tweakgaming.com ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图网址：Tweakgaming.com**"
 	}
 }
