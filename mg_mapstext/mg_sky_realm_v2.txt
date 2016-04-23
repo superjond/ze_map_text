@@ -2,30 +2,30 @@
 {
 	"Map made by Dyuj"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Dyuj**"
 	}
 	"--> Spawn Protection in 20 Seconds <--"
 	{
-		"chi"		"** **"
+		"chi"		"** 20秒内出生保护**"
 	}
 	"--> Spawn Protection in 40 Seconds <--"
 	{
-		"chi"		"** **"
+		"chi"		"** 40秒内出生保护**"
 	}
 	"@Made by Kirby"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Kirby**"
 	}
 	"Map by Darnias"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Darnias**"
 	}
 	"*** Map made by ProfessorOak ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：ProfessorOak**"
 	}
 	"*** Made for Tweakgaming.com ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图网址：Tweakgaming.com**"
 	}
 }
