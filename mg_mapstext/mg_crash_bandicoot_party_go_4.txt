@@ -62,30 +62,30 @@
 	}
 	"Dark Castle Course"
 	{
-		"chi"		"** **"
+		"chi"		"** 古堡闯关**"
 	}
 	"Flashlight disabled"
 	{
-		"chi"		"** **"
+		"chi"		"** 手电禁止**"
 	}
 	"Tech Course"
 	{
-		"chi"		"** **"
+		"chi"		"** 技术通关**"
 	}
 	"You only have 1 minute left"
 	{
-		"chi"		"** **"
+		"chi"		"** 你剩下1分钟**"
 	}
 	"Everyone got a knife"
 	{
-		"chi"		"** **"
+		"chi"		"** 所有人获得刀**"
 	}
 	"LETS KILL"
 	{
-		"chi"		"** **"
+		"chi"		"** 杀个痛快！**"
 	}
 	"TIME IS OVER"
 	{
-		"chi"		"** **"
+		"chi"		"** 时间到**"
 	}
 }
