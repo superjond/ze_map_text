@@ -2,18 +2,18 @@
 {
 	"[MAP] SLIDE"
 	{
-		"chi"		"** **"
+		"chi"		"** 滑行**"
 	}
 	"[MUSIC] Avicii ft. Robbie Williams - The Days"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Avicii ft. Robbie Williams - The Days**"
 	}
 	"[MAP] SMOKEWARS"
 	{
-		"chi"		"** **"
+		"chi"		"** 烟雾墙**"
 	}
 	"[MAP] You may now cross-over"
 	{
-		"chi"		"** **"
+		"chi"		"** 现在可穿过**"
 	}
 }
