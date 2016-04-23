@@ -18,22 +18,22 @@
 	}
 	"--> Spawn Protection in 20 Seconds <--"
 	{
-		"chi"		"** **"
+		"chi"		"** 20秒内出生保护**"
 	}
 	"Map by Darnias"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Darnias**"
 	}
 	"@Made by Kirby"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Kirby**"
 	}
 	"AFK Killer in 30 Secends!"
 	{
-		"chi"		"** **"
+		"chi"		"** 30秒后挂机处死**"
 	}
 	"Spawn Protection in 25 Seconds!!"
 	{
-		"chi"		"** **"
+		"chi"		"** 25秒内出生保护**"
 	}
 }
