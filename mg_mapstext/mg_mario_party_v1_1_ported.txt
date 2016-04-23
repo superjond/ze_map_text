@@ -219,6 +219,6 @@
 	}
 	"Music : Just Jack - Basement"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Just Jack - Basement**"
 	}
 }
