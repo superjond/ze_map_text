@@ -244,4 +244,12 @@
 	{
 		"chi"		"** **"
 	}
+	"** Hold the area! We cant let anything through! **"
+	{
+		"chi"		"** **"
+	}
+	"** Keep it up! Theres a bit still to go! **"
+	{
+		"chi"		"** **"
+	}
 }

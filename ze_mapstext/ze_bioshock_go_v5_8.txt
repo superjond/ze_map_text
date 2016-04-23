@@ -460,4 +460,8 @@
 	{
 		"chi"		"** **"
 	}
+	">>>ATLAS: You failed. Splicers made it into the core tower<<<"
+	{
+		"chi"		"** **"
+	}
 }

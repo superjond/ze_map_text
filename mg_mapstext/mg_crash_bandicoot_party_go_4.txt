@@ -88,4 +88,8 @@
 	{
 		"chi"		"** 时间到**"
 	}
+	"Purple Gem obtained"
+	{
+		"chi"		"** **"
+	}
 }

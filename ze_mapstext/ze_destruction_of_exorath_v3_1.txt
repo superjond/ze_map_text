@@ -560,4 +560,24 @@
 	{
 		"chi"		"** **"
 	}
+	"** SECRET VENTLEVER HAS BEEN PICKED UP **"
+	{
+		"chi"		"** **"
+	}
+	"** SECRET VENTLEVER HAS BEEN ACTIVATED **"
+	{
+		"chi"		"** **"
+	}
+	"** 1 MORE SLOT HAS BEEN UNLOCKED IN THE VENT **"
+	{
+		"chi"		"** **"
+	}
+	"** ZOMBIES DETECTED ON FLYING PLATE **"
+	{
+		"chi"		"** **"
+	}
+	"** EXTREME MODE FAILED ** RESTARTING **"
+	{
+		"chi"		"** **"
+	}
 }
