@@ -70,11 +70,11 @@
 	}
 	"***Map By: Lt.| iPod***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Lt.| iPod 地图翻译：Ex_cKot**"
 	}
 	">>>Map ported for SteamGamers by [SG] Punky<<<"
 	{
-		"chi"		"**Map ported for SteamGamers by [SG] Punky**"
+		"chi"		"**地图传输：[SG] Punky**"
 	}
 	"***Music Selection is...***"
 	{
@@ -82,7 +82,7 @@
 	}
 	"***Techno***"
 	{
-		"chi"		"** **"
+		"chi"		"** Techno**"
 	}
 	"***Music Selection is....***"
 	{
@@ -90,7 +90,7 @@
 	}
 	"***Rock***"
 	{
-		"chi"		"** **"
+		"chi"		"** Rock**"
 	}
 	"***You Have Chosen AK--COLT***"
 	{
@@ -254,10 +254,10 @@
 	}
 	"***GG...But Ts Are The Winners...So The CTs Must Die!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"** GG T胜利 所以CT必须死**"
 	}
 	"***GG...But CTs Are The Winners...So The Ts Must Die!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"** GG CT胜利 所以T必须死**"
 	}
 }
