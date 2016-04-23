@@ -2,7 +2,7 @@
 {
 	"Map by Phoenix"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Phoenix 地图翻译：Ex_cKot**"
 	}
 	"www.zombie-hell.fr"
 	{
@@ -58,26 +58,26 @@
 	}
 	"Music : Just Jack - Basement"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Just Jack - Basement**"
 	}
 	"[Ported for SteamGamers by [SG] Punky]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图传输：[SG] Punky**"
 	}
 	"[Map made by Kirby]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Kirby**"
 	}
 	"BBS.93X.NeT"
 	{
-		"chi"		"** **"
+		"chi"		"** bbs.93x.net**"
 	}
 	"@[MAP] MASTER CHIEF MODE ENABLED"
 	{
-		"chi"		"** **"
+		"chi"		"** 管理模式可用**"
 	}
 	"@[MAP] Admins can activate this by noclipping to the admin room."
 	{
-		"chi"		"** **"
+		"chi"		"** 管理员可使用穿墙指令进入管理室**"
 	}
 }
