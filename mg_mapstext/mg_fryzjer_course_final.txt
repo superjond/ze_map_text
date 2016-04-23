@@ -2,30 +2,30 @@
 {
 	"AFK Killer in 30 Secends!"
 	{
-		"chi"		"** **"
+		"chi"		"** 30秒内挂机处死**"
 	}
 	"@Made by Kirby"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Kirby**"
 	}
 	"Map made by Dyuj"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Dyuj**"
 	}
 	"*** Map made by ProfessorOak ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：ProfessorOak**"
 	}
 	"*** Made for Tweakgaming.com ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图网址：Tweakgaming.com**"
 	}
 	"Map by Ice and Fire Steam 1:0:52362682"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Ice and Fire Steam32位ID 1:0:52362682**"
 	}
 	"如果发现BUG请联系我"
 	{
-		"chi"		"** **"
+		"chi"		"** 如果发现BUG请联系我**"
 	}
 }
