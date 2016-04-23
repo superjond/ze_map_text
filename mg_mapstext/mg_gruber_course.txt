@@ -23,22 +23,22 @@
 	}
 	"@Made by Kirby"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Kirby**"
 	}
 	"Map by Darnias"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Darnias**"
 	}
 	"--> Spawn Protection in 20 Seconds <--"
 	{
-		"chi"		"** **"
+		"chi"		"** 20秒内出生保护**"
 	}
 	"Spawn Protection in 25 Seconds!!"
 	{
-		"chi"		"** **"
+		"chi"		"** 25秒内出生保护**"
 	}
 	"--> Spawn Protection in 40 Seconds <--"
 	{
-		"chi"		"** **"
+		"chi"		"** 40秒内出生保护**"
 	}
 }
