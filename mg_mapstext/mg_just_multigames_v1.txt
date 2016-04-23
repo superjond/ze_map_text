@@ -182,22 +182,22 @@
 	}
 	"@[MAP] This map does not work with bots..."
 	{
-		"chi"		"** **"
+		"chi"		"** 地图在有bot时无法运行**"
 	}
 	"@[MAP] Map by [SG] Paul"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：[SG] Paul**"
 	}
 	"***Auto Select in 40 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 40秒后自动选择**"
 	}
 	"***Map by DTK Development Team***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：DTK Development团队**"
 	}
 	"@[Map] 30 Seconds"
 	{
-		"chi"		"** **"
+		"chi"		"** 30秒**"
 	}
 }
