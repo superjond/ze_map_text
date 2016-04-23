@@ -2,10 +2,10 @@
 {
 	"Map by Ice and Fire Steam 1:0:52362682"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Ice and Fire Steam32位ID 1:0:52362682**"
 	}
 	"如果发现BUG请联系我"
 	{
-		"chi"		"** **"
+		"chi"		"** 如果发现BUG请联系我**"
 	}
 }
