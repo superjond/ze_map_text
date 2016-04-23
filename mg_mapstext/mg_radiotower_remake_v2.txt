@@ -18,18 +18,18 @@
 	}
 	"***Normal Round***"
 	{
-		"chi"		"** **"
+		"chi"		"** 普通回合**"
 	}
 	">>Map by Ghost X - DeadFire19<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Ghost X - DeadFire19 地图翻译：Ex_cKot**"
 	}
 	">>Shoot Option to Vote<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 射击选项来投票**"
 	}
 	"BBS.93X.NeT"
 	{
-		"chi"		"** **"
+		"chi"		"** bbs.93x.net**"
 	}
 }
