@@ -2,10 +2,10 @@
 {
 	"@[MAP] WTF? SCOUTS"
 	{
-		"chi"		"** **"
+		"chi"		"** 什么鬼！显卡危机！**"
 	}
 	"@[MUSIC] Major Lazer & DJ Snake - Lean On"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Major Lazer & DJ Snake - Lean On**"
 	}
 }
