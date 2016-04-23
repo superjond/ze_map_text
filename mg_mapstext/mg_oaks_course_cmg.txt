@@ -22,11 +22,11 @@
 	}
 	"GLaDOS: Welcome to Sodan-Science laboratories."
 	{
-		"chi"		"** **"
+		"chi"		"** GLaDOS:欢迎来到Sodan-Science实验室**"
 	}
 	"Map by Darnias"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Darnias**"
 	}
 	"AFK Killer in 30 Secends!"
 	{
@@ -34,6 +34,6 @@
 	}
 	"*** ZwiebelBitch for President! ***"
 	{
-		"chi"		"** **"
+		"chi"		"** ZwiebelBitch**"
 	}
 }
