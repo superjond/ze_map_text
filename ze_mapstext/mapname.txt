@@ -614,7 +614,7 @@
 	}
 	"ze_chemical_weapons_depot_v1_2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"化学武器库"
 	}
 	"ze_urban_laby_of_death_p2"
 	{
@@ -622,7 +622,7 @@
 	}
 	"ze_journey_p3"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"旅行之人"
 	}
 	"ze_lemonysnickets_v1_e3"
 	{
@@ -782,7 +782,7 @@
 	}
 	"ze_showdown_v4_1_p"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"巅峰之战"
 	}
 	"ze_escape_the_eye_p2"
 	{
@@ -794,7 +794,7 @@
 	}
 	"ze_tesv_skyrim_v5_6"
 	{
-		"chi"		"上古卷轴：天际"
+		"chi"		"上古卷轴5：天际"
 	}
 	"ze_tilex_possession_v2_5"
 	{
@@ -810,7 +810,7 @@
 	}
 	"ze_portal_story_v1_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"门的故事"
 	}
 	"ze_starwars_v1_1"
 	{
@@ -818,7 +818,7 @@
 	}
 	"ze_dark_souls_b1_1"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"黑暗之魂"
 	}
 	"ze_bathroom_v2_1"
 	{
@@ -830,6 +830,10 @@
 	}
 	"ze_ffxii_westersand_v7_2_e2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"最终幻想12：西沙"
+	}
+	"ze_ffxiv_wanderers_palace_v1_4_fix2"
+	{
+		"chi"		"最终幻想14：流浪者宫殿"
 	}
 }
