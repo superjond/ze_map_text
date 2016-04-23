@@ -49,26 +49,26 @@
 	}
 	"To use cannon press: uppdownleftrightshoot"
 	{
-		"chi"		"** **"
+		"chi"		"** 使用加农炮按：uppdownleftrightshoot**"
 	}
 	"To drive boat press: uppdownleftright"
 	{
-		"chi"		"** **"
+		"chi"		"** 驾驶船按：uppdownleftright**"
 	}
 	"@[MAP] This map does not work with bots..."
 	{
-		"chi"		"** **"
+		"chi"		"** 地图在有bot时无法运行**"
 	}
 	"@[MAP] Map by [SG] Paul"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：[SG] Paul**"
 	}
 	"@[MAP] MASTER CHIEF MODE ENABLED"
 	{
-		"chi"		"** **"
+		"chi"		"** 管理员模式开启**"
 	}
 	"@[MAP] Admins can activate this by noclipping to the admin room."
 	{
-		"chi"		"** **"
+		"chi"		"** 管理员可使用穿墙指令进入管理室**"
 	}
 }
