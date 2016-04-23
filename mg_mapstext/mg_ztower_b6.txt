@@ -2,26 +2,26 @@
 {
 	"Map made by Mathijs"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Mathijs**"
 	}
 	"Map ported by sG | Waffles"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图传输：sG | Waffles**"
 	}
 	"BBS.93X.NeT"
 	{
-		"chi"		"** **"
+		"chi"		"** bbs.93x.net**"
 	}
 	"@[MAP] This map does not work with bots..."
 	{
-		"chi"		"** **"
+		"chi"		"** 地图在有bot时无法运行**"
 	}
 	"@[MAP] Map by [SG] Paul"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：[SG] Paul**"
 	}
 	"Map By Charli =)"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Charli =)**"
 	}
 }
