@@ -2,26 +2,26 @@
 {
 	"@[MAP] This map does not work with bots..."
 	{
-		"chi"		"** **"
+		"chi"		"** 地图在有bot时无法运行**"
 	}
 	"@[MAP] Map by [SG] Paul"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：[SG] Paul**"
 	}
 	"Map By Charli =)"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Charli =)**"
 	}
 	"BBS.93X.NeT"
 	{
-		"chi"		"** **"
+		"chi"		"** bbs.93x.net**"
 	}
 	"***Map By: Lt.| iPod***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Lt.| iPod**"
 	}
 	"***Music Must Be Picked Before You Can Choose A LvL***"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐需要在关卡选择前选择**"
 	}
 }
