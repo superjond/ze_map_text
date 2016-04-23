@@ -14,18 +14,18 @@
 	}
 	"***Map By: Lt.| iPod***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Lt.| iPod **"
 	}
 	"***Music Must Be Picked Before You Can Choose A LvL***"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐需要在关卡选择前选择**"
 	}
 	"[Map] Map made by Struse!"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Struse! 地图翻译：Ex_cKot**"
 	}
 	"[Map] Special thanks to NickMaps"
 	{
-		"chi"		"** **"
+		"chi"		"** 特别感谢：NickMaps**"
 	}
 }
