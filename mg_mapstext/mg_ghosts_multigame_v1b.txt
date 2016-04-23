@@ -326,15 +326,15 @@
 	}
 	"[Ported for SteamGamers by [SG] Punky]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图传输：[SG] Punky**"
 	}
 	"[Map made by Kirby]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Kirby**"
 	}
 	"BBS.93X.NeT"
 	{
-		"chi"		"** **"
+		"chi"		"** bbs.93x.net**"
 	}
 	">>Jail was killed to prevent free kills. Sorry!<<"
 	{
@@ -426,11 +426,11 @@
 	}
 	"@[MAP] This map does not work with bots..."
 	{
-		"chi"		"** **"
+		"chi"		"** 地图在有bot时无法运行**"
 	}
 	"@[MAP] Map by [SG] Paul"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：[SG] Paul**"
 	}
 	">>T have Scored!!!<<"
 	{
@@ -438,10 +438,10 @@
 	}
 	"Music : M83 - Midnight city"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：M83 - Midnight city**"
 	}
 	"Music : PSY - Gangnam Style"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：PSY - Gangnam Style**"
 	}
 }
