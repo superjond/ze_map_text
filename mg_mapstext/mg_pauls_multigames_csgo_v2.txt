@@ -14,106 +14,106 @@
 	}
 	"**Remake by FreeDOM**"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图重置：FreeDOM**"
 	}
 	"**Dodge the sliding beams by jumping and crouching**"
 	{
-		"chi"		"** **"
+		"chi"		"** 用跳，蹲躲避光线**"
 	}
 	">5<"
 	{
-		"chi"		"** **"
+		"chi"		"** >5<**"
 	}
 	">4<"
 	{
-		"chi"		"** **"
+		"chi"		"** >4<**"
 	}
 	">3<"
 	{
-		"chi"		"** **"
+		"chi"		"** >3<**"
 	}
 	">2<"
 	{
-		"chi"		"** **"
+		"chi"		"** >2<**"
 	}
 	">1<"
 	{
-		"chi"		"** **"
+		"chi"		"** >1<**"
 	}
 	"Go !"
 	{
-		"chi"		"** **"
+		"chi"		"** 走！**"
 	}
 	"**Rotating Wall Starts in...*"
 	{
-		"chi"		"** **"
+		"chi"		"** 旋转墙**"
 	}
 	"**Stand on the lighter textures - the darker ones fall**"
 	{
-		"chi"		"** **"
+		"chi"		"** 站在发光处，暗处将会掉落**"
 	}
 	"**5...*"
 	{
-		"chi"		"** **"
+		"chi"		"** 5...**"
 	}
 	"**4...*"
 	{
-		"chi"		"** **"
+		"chi"		"** 4...**"
 	}
 	"**3...*"
 	{
-		"chi"		"** **"
+		"chi"		"** 3...**"
 	}
 	"**2...*"
 	{
-		"chi"		"** **"
+		"chi"		"** 2...**"
 	}
 	"**1...*"
 	{
-		"chi"		"** **"
+		"chi"		"** 1...**"
 	}
 	"**Avoid the wall!*"
 	{
-		"chi"		"** **"
+		"chi"		"** 小心墙**"
 	}
 	"**Rotating Wall Speed Increasing**"
 	{
-		"chi"		"** **"
+		"chi"		"** 加速**"
 	}
 	"@[MAP] This map does not work with bots..."
 	{
-		"chi"		"** **"
+		"chi"		"** 地图在有bot时无法运行**"
 	}
 	"@[MAP] Map by [SG] Paul"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：[SG] Paul**"
 	}
 	"**Hard Mode Enabled**"
 	{
-		"chi"		"** **"
+		"chi"		"** 困难模式开启**"
 	}
 	"Timelimit Up!"
 	{
-		"chi"		"** **"
+		"chi"		"** 时间到！**"
 	}
 	"**Normal Mode Enabled**"
 	{
-		"chi"		"** **"
+		"chi"		"** 普通模式开启**"
 	}
 	"[Ported for SteamGamers by [SG] Punky]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图传输：[SG] Punky**"
 	}
 	"[Map made by Kirby]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Kirby**"
 	}
 	"**Rotating Wall Speed Increasing again**"
 	{
-		"chi"		"** **"
+		"chi"		"** 再次加速**"
 	}
 	"**You both got teleported at the same time - Knife it out**"
 	{
-		"chi"		"** **"
+		"chi"		"** 同时传送，刀！**"
 	}
 }
