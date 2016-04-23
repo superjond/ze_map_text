@@ -162,42 +162,42 @@
 	}
 	"***Map by DTK Development Team***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：DTK Development团队**"
 	}
 	"[Ported for SteamGamers by [SG] Punky]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图传输：[SG] Punky**"
 	}
 	"[Map made by Kirby]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Kirby**"
 	}
 	"@[MAP] This map does not work with bots..."
 	{
-		"chi"		"** **"
+		"chi"		"** 地图在有bot时无法运行**"
 	}
 	"@[MAP] Map by [SG] Paul"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：[SG] Paul**"
 	}
 	"Map made by Mathijs"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Mathijs**"
 	}
 	"Map ported by sG | Waffles"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图传输：sG | Waffles**"
 	}
 	"Map by Phoenix"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Phoenix**"
 	}
 	"BBS.93X.NeT"
 	{
-		"chi"		"** **"
+		"chi"		"** bbs.93x.net**"
 	}
 	"Music : M83 - Midnight city"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：M83 - Midnight city**"
 	}
 }
