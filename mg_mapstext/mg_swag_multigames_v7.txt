@@ -42,7 +42,7 @@
 	}
 	"@[MAP] SHOOTING RANGE"
 	{
-		"chi"		"**红方块集中营**"
+		"chi"		"**方块集中营**"
 	}
 	"@[MUSIC] Ed Sheeran - I See Fire (Kygo Remix)"
 	{
@@ -50,7 +50,7 @@
 	}
 	"@[MAP] SURVIVAL"
 	{
-		"chi"		"**生存游戏**"
+		"chi"		"**色盲终结者**"
 	}
 	"@[MAP] Game starting in 10 seconds.."
 	{
@@ -94,7 +94,7 @@
 	}
 	"@[MAP] SKEET"
 	{
-		"chi"		"**打鸭子**"
+		"chi"		"**打蚊子**"
 	}
 	"@[MUSIC] Kid Cudi - Pursuit Of Happiness ft. MGMT"
 	{
