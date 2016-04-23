@@ -2,10 +2,10 @@
 {
 	"Spawn Protection in 25 Seconds!!"
 	{
-		"chi"		"** **"
+		"chi"		"** 25秒内出生保护**"
 	}
 	"@Made by Kirby"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Kirby**"
 	}
 }
