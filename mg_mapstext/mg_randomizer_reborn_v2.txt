@@ -2,114 +2,114 @@
 {
 	"@[MUSIC] Vicetone - United We Dance"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Vicetone - United We Dance**"
 	}
 	"@[MAP] Guys on top have 75 seconds to kill the opposing team!"
 	{
-		"chi"		"** **"
+		"chi"		"** 在顶上的人有75秒击杀敌军**"
 	}
 	"@[MAP] Floor breaking in 10 seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"** 10秒后地板会破。**"
 	}
 	"@[MAP] TERRORIST'S WIN!"
 	{
-		"chi"		"** **"
+		"chi"		"** T胜利！**"
 	}
 	"@[MUSIC] Olly Murs - Wrapped Up ft. Travie McCoy"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐： Olly Murs - Wrapped Up ft. Travie McCoy**"
 	}
 	"@[MAP] Burn the blocks to win!"
 	{
-		"chi"		"** **"
+		"chi"		"** 烧毁方块来取得胜利**"
 	}
 	"@[MAP] COUNTER-TERRORIST'S WIN!"
 	{
-		"chi"		"** **"
+		"chi"		"** CT胜利！**"
 	}
 	"@[MUSIC] David Guetta feat. Sam Martin - Dangerous"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：David Guetta feat. Sam Martin - Dangerous**"
 	}
 	"@[MUSIC] Calvin Harris - Outside ft. Ellie Goulding"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Calvin Harris - Outside ft. Ellie Goulding**"
 	}
 	"@[MAP] Knifes enabled in 10 seconds..."
 	{
-		"chi"		"** **"
+		"chi"		"** 10秒后可使用刀。**"
 	}
 	"@[MUSIC] Watsky-The One - All You Can Do"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Watsky-The One - All You Can Do**"
 	}
 	"@[MUSIC] Dropout ft. Ryan Ellis - More"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Dropout ft. Ryan Ellis - More**"
 	}
 	"@[MUSIC] Earth, Wind & Fire - September"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Earth, Wind & Fire - September**"
 	}
 	"@[MAP] Healing trigger disabled!"
 	{
-		"chi"		"** **"
+		"chi"		"** 无法恢复开关**"
 	}
 	"@[MUSIC] Ed Sheeran - Don't"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Ed Sheeran - Don't**"
 	}
 	"@[MUSIC] Maroon 5 - Animals (Gryffin Remix)"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Maroon 5 - Animals (Gryffin Remix)**"
 	}
 	"@[MAP] COUINTER-TERRORISTS WIN!"
 	{
-		"chi"		"** **"
+		"chi"		"** CT胜利！**"
 	}
 	"@[MAP] Knifes enabled in 5 seconds..."
 	{
-		"chi"		"** **"
+		"chi"		"** 5秒后可使用刀**"
 	}
 	"@[MAP] Knifes enabled!"
 	{
-		"chi"		"** **"
+		"chi"		"** 可使用刀了！**"
 	}
 	"@[MAP] TERRORISTS WIN!"
 	{
-		"chi"		"** **"
+		"chi"		"** T胜利！**"
 	}
 	"@[MAP] Jousting starting in 5 seconds..."
 	{
-		"chi"		"** **"
+		"chi"		"** 5秒后比赛开始...**"
 	}
 	"@[MAP] DONT HIT THE CORNERS! You will take damage!"
 	{
-		"chi"		"** **"
+		"chi"		"** 不要打角落！你会受到伤害的！**"
 	}
 	"@[MAP] Push triggers disabled!"
 	{
-		"chi"		"** **"
+		"chi"		"** 无法推动开关**"
 	}
 	"@[MAP] Guns in 10 seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"** 10秒后获得枪**"
 	}
 	"@[MAP] Guns in 5 seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"** 5秒后获得枪**"
 	}
 	"@[MAP] Finish them off!"
 	{
-		"chi"		"** **"
+		"chi"		"** 上去就是干！**"
 	}
 	"@[MAP] Wall breaking in 10 seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"** 10秒后墙会破。**"
 	}
 	"@[MUSIC] Ed Sheeran - Dont"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Ed Sheeran - Don't**"
 	}
 }
