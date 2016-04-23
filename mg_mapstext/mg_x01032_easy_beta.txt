@@ -14,6 +14,6 @@
 	}
 	"AFK Killer in 30 Secends!"
 	{
-		"chi"		"** **"
+		"chi"		"** 30秒后挂机处死**"
 	}
 }
