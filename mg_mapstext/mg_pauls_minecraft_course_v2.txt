@@ -2,22 +2,22 @@
 {
 	"***Spawn Killer Activates in 45 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 挂机处死45秒后生效**"
 	}
 	"***Spawn Killer Activates in 10 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 挂机处死10秒后生效**"
 	}
 	"***Spawn Killer Activates in 5 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 挂机处死5秒后生效**"
 	}
 	"***Spawn Killer is now Active***"
 	{
-		"chi"		"** **"
+		"chi"		"** 挂机处死生效**"
 	}
 	"***QQ Corner Being Neutralised in 5 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"** 5秒平衡**"
 	}
 }
