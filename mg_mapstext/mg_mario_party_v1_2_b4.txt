@@ -266,11 +266,11 @@
 	}
 	"@[MAP] MASTER CHIEF MODE ENABLED"
 	{
-		"chi"		"** **"
+		"chi"		"** 管理员模式开启**"
 	}
 	"@[MAP] Admins can activate this by noclipping to the admin room."
 	{
-		"chi"		"** **"
+		"chi"		"** 管理员可使用穿墙指令进入管理室**"
 	}
 	"***Auto Kill Trigger in 30 seconds...***"
 	{
@@ -290,6 +290,6 @@
 	}
 	"By Im the new guy STEAM_0:1:14214794"
 	{
-		"chi"		"** **"
+		"chi"		"** 顺便 我是个新人 steam32位ID:STEAM_0:1:14214794**"
 	}
 }
