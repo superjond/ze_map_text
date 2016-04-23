@@ -206,7 +206,7 @@
 	}
 	"Music : Just Jack - Basement"
 	{
-		"chi"		"** **"
+		"chi"		"** 音乐：Just Jack - Basement**"
 	}
 	"@[Map] RandomGame..."
 	{
@@ -218,15 +218,15 @@
 	}
 	"[Ported for SteamGamers by [SG] Punky]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图传输：[SG] Punky**"
 	}
 	"[Map made by Kirby]"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Kirby**"
 	}
 	"**Map Made by [SG] Paul**"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：[SG] Paul**"
 	}
 	"**Remake by FreeDOM**"
 	{
@@ -234,18 +234,18 @@
 	}
 	"[LaoZhongYi]Thank UA and Kirby , HZM654321 and diaolingtyp"
 	{
-		"chi"		"** **"
+		"chi"		"** 老中医：感谢UA 和 Kirby , HZM654321 和 diaolingtyp**"
 	}
 	"[UA]If You Not Select Map I am Select In 30 sec"
 	{
-		"chi"		"** **"
+		"chi"		"** UA：如果你不选择我会在30秒内选择**"
 	}
 	"WebSite:BBS.93X.NeT"
 	{
-		"chi"		"** **"
+		"chi"		"** bbs.93x.net**"
 	}
 	"[LaoZhongYi]Fall Damage Disable"
 	{
-		"chi"		"** **"
+		"chi"		"** 老中医：掉落伤害关闭**"
 	}
 }
