@@ -3,7 +3,7 @@
 	"** ZE FFXII PARAMINA RIFT **"
 	{
 		"chi"		"**最终幻想12：帕拉米亚峡谷**"
-		"command"		"sm_g_cv_Money 16000"
+		"command"		"sm_g_cv_Money 10000"
 	}
 	"** [STAGE 1] PARAMINA RIFT **"
 	{
@@ -16,7 +16,6 @@
 	"** [DIFFICULTY] NORMAL **"
 	{
 		"chi"		"**难度：普通**"
-		"command"		"sm_cvar zr_infect_mzombie_ratio 8"
 	}
 	"** COLLECT 500 GIL BY FINDING TREASURE CHESTS OR BY DESTROYING TOWERS => REWARD - POTIONS IN STAGE 2"
 	{
@@ -583,7 +582,6 @@
 	"** [DIFFICULTY] INSANE **"
 	{
 		"chi"		"**难度：疯狂**"
-		"command"		"sm_cvar zr_infect_mzombie_ratio 7"
 	}
 	"** SHOOT THE SWARM BEFORE THEY CAN ATTACK **"
 	{
