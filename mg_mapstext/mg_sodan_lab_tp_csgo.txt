@@ -82,38 +82,38 @@
 	}
 	"GLaDos: ... and believe me I am still alive"
 	{
-		"chi"		"** **"
+		"chi"		"** GLaDos:相信我，我还活着**"
 	}
 	"GLaDos: STILL ALIVE"
 	{
-		"chi"		"** **"
+		"chi"		"** GLaDos:还活着**"
 	}
 	"Spawn Protection in 25 Seconds!!"
 	{
-		"chi"		"** **"
+		"chi"		"** 25秒内出生保护**"
 	}
 	">>Map made by Jenz and Onederp<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作：Jenz and Onederp 地图翻译：Ex_cKot**"
 	}
 	"GLaDOS: Ill be your overseer and you are the ingredients of science."
 	{
-		"chi"		"** **"
+		"chi"		"** GLaDos:我会成为你的监督人，你可是实验的一部分**"
 	}
 	"GLaDOS: What are you doing! Without you, the cake will never be finished. I hope youre happy."
 	{
-		"chi"		"** **"
+		"chi"		"** GLaDos:你在做什么！没了你，蛋糕就不会完成。我祝愿你会快乐的。**"
 	}
 	"GLaDOS: What are you doing! You wont find cake behind that door."
 	{
-		"chi"		"** **"
+		"chi"		"** GLaDos:你在做什么！你不会在门后找到蛋糕的。**"
 	}
 	"GLaDOS: Anyway this cake is great. Its so delicious and moist"
 	{
-		"chi"		"** **"
+		"chi"		"** GLaDos:无论如何，这蛋糕还是很不错的。这尝起来很美味多滋**"
 	}
 	"GLaDOS: Look at me still talking when theres sci..."
 	{
-		"chi"		"** **"
+		"chi"		"** GLaDos:看着我继续说话。。。**"
 	}
 }
