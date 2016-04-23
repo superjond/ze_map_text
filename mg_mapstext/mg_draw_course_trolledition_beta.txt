@@ -18,7 +18,7 @@
 	}
 	"@My steam offer : http:)oua.be)1nz9"
 	{
-		"chi"		"** 我的steam交易链接：http:))oua.be)1nz9 **"
+		"chi"		"** 我的steam交易链接：http:)oua.be)1nz9 **"
 	}
 	"@You are low BIATCH ! "
 	{
