@@ -112,4 +112,8 @@
 	{
 		"chi"		"** 音乐：Ed Sheeran - Don't**"
 	}
+	"@[MAP] COUNTER-TERRORISTS WIN!"
+	{
+		"chi"		"** **"
+	}
 }

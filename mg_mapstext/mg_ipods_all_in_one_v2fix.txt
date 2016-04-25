@@ -260,4 +260,20 @@
 	{
 		"chi"		"** GG CT胜利 所以T必须死**"
 	}
+	"***TS Have Scored A Point!!!***"
+	{
+		"chi"		"**T获得1分！**"
+	}
+	"***TS Get Ready To Serve In...***"
+	{
+		"chi"		"**T准备发球**"
+	}
+	"***CTS Have Scored A Point!!!***"
+	{
+		"chi"		"**CT获得1分**"
+	}
+	"***CTS Get Ready To Serve In...***"
+	{
+		"chi"		"**CT准备发球**"
+	}
 }

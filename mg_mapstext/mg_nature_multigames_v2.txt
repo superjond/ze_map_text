@@ -1,151 +1,103 @@
-地图制作："Console_T"
+"地图制作："
 {
-	"***Adjust the Music Volume in Your CS:GO Settings***"
-	{
-		"chi"		"**在你的CSGO设置中调整音量**"
-	}
 	"***Map by Punky***"
 	{
-		"chi"		"**地图制作：Punky 地图翻译：Ex_cKot**"
+		"chi"		"** **"
+	}
+	"***Adjust the Music Volume in Your CS:GO Settings***"
+	{
+		"chi"		"** **"
 	}
 	"***Waiting 5 Seconds To Prevent Levels From Breaking***"
 	{
-		"chi"		"**等待5秒防止关卡崩溃**"
-	}
-	"[Music: Pop Culture by Madeon]"
-	{
-		"chi"		"**音乐：PopCulture - Madeon**"
-	}
-	"[Skipping Rope]"
-	{
-		"chi"		"**跳绳**"
-	}
-	"***Enabling Rope Killer In 5 Seconds***"
-	{
-		"chi"		"**赌5毛，5秒后会死人**"
-	}
-	"[Waterski]"
-	{
-		"chi"		"**滑水【就是滑冰啦**"
-	}
-	"[Knife]"
-	{
-		"chi"		"**刀**"
-	}
-	"[Battle Slider]"
-	{
-		"chi"		"**滑行战争**"
-	}
-	"***Enabling Knives in 5 Seconds***"
-	{
-		"chi"		"**5秒后可使用刀**"
-	}
-	"***Enabling Shotguns in 5 Seconds***"
-	{
-		"chi"		"**5秒后可使用喷子**"
-	}
-	"[Music: Cool Kids (Gazzo & Two Friends Remix)]"
-	{
-		"chi"		"**音乐：Cool Kids - Gazzo & Two Friends Remix**"
-	}
-	"[Deathrun]"
-	{
-		"chi"		"**死亡奔跑**"
-	}
-	"***Everyone is Your Enemy, Even Your Teammates***"
-	{
-		"chi"		"**你的每一个队友，甚至你的队友**"
-	}
-	"***Killing AFKs In 5 Seconds***"
-	{
-		"chi"		"**5秒后挂机处死**"
-	}
-	"***Will you survive?.... Test your luck."
-	{
-		"chi"		"**你将会活下来嘛？...试试你的运气吧。**"
-	}
-	"[Music: La La La (White Panda X Gazzo Remix)]"
-	{
-		"chi"		"**音乐：La La La - White Panda X Gazzo Remix**"
-	}
-	"[Soccer]"
-	{
-		"chi"		"**足球**"
-	}
-	"[Picking Random Level]"
-	{
-		"chi"		"**选择随机关卡**"
-	}
-	"***You Have 20 Seconds To Exit The Zoo***"
-	{
-		"chi"		"**你有20秒离开动物园。**"
+		"chi"		"** **"
 	}
 	"[Music: Idols by Virutal Riot]"
 	{
-		"chi"		"**音乐：Idos - Virutal Riot**"
+		"chi"		"** **"
+	}
+	"[Knife]"
+	{
+		"chi"		"** **"
+	}
+	"[Music: Pop Culture by Madeon]"
+	{
+		"chi"		"** **"
+	}
+	"[Deathrun]"
+	{
+		"chi"		"** **"
+	}
+	"***Everyone is Your Enemy, Even Your Teammates***"
+	{
+		"chi"		"** **"
+	}
+	"***Killing AFKs In 5 Seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Will you survive?.... Test your luck."
+	{
+		"chi"		"** **"
+	}
+	"***You Have 20 Seconds To Exit The Zoo***"
+	{
+		"chi"		"** **"
+	}
+	"[Music: Cool Kids (Gazzo & Two Friends Remix)]"
+	{
+		"chi"		"** **"
 	}
 	"[Awp]"
 	{
-		"chi"		"**AWP**"
-	}
-	"***Teleporting Everyone In 15 Seconds***"
-	{
-		"chi"		"**15秒后传送所有人**"
-	}
-	"[Music: Always This Late (Illenium Remix) by ODESZA]"
-	{
-		"chi"		"**音乐：Always This Late(lllenium Remix) - ODESZA**"
-	}
-	"***GOAL!!!!***"
-	{
-		"chi"		"**进球！！！**"
-	}
-	"***T's Have Scored***"
-	{
-		"chi"		"**T得到分数！**"
-	}
-	"***CT's Have Scored***"
-	{
-		"chi"		"**CT得到分数！**"
+		"chi"		"** **"
 	}
 	"[Music: Die Young (Edit) by Ke$sha & Becky G]"
 	{
-		"chi"		"**音乐：Die Young(Edit) - Ke$sha & Becky G**"
+		"chi"		"** **"
 	}
-	"***Map By: Lt.| iPod***"
+	"[Music: Always This Late (Illenium Remix) by ODESZA]"
 	{
-		"chi"		"** 地图制作：Lt.| iPod**"
+		"chi"		"** **"
 	}
-	"***Music Must Be Picked Before You Can Choose A LvL***"
+	"[Battle Slider]"
 	{
-		"chi"		"** 音乐需要在关卡选择前选择**"
+		"chi"		"** **"
 	}
-	"Music : M83 - Midnight city"
+	"***Enabling Knives in 5 Seconds***"
 	{
-		"chi"		"** 音乐：M83 - Midnight city**"
+		"chi"		"** **"
 	}
-	"***Auto Select in 40 seconds***"
+	"***Enabling Shotguns in 5 Seconds***"
 	{
-		"chi"		"** 40秒后自动选择**"
+		"chi"		"** **"
 	}
-	"***Map by DTK Development Team***"
+	"[Waterski]"
 	{
-		"chi"		"** 地图制作：DTK Development团队**"
+		"chi"		"** **"
 	}
-	"BBS.93X.NeT"
+	"[Skipping Rope]"
 	{
-		"chi"		"**bbs.93x.net**"
+		"chi"		"** **"
 	}
-	"Music : Just Jack - Basement"
+	"***Enabling Rope Killer In 5 Seconds***"
 	{
-		"chi"		"** 音乐：Just Jack - Basement**"
+		"chi"		"** **"
 	}
-	"@[MAP] This map does not work with bots..."
+	"[Soccer]"
 	{
-		"chi"		"** 地图在有bot时无法运行**"
+		"chi"		"** **"
 	}
-	"@[MAP] Map by [SG] Paul"
+	"***GOAL!!!!***"
 	{
-		"chi"		"** 地图制作：[SG] Paul**"
+		"chi"		"** **"
+	}
+	"***CTs Have Scored***"
+	{
+		"chi"		"** **"
+	}
+	"[Music: La La La (White Panda X Gazzo Remix)]"
+	{
+		"chi"		"** **"
 	}
 }

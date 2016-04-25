@@ -50,7 +50,7 @@
 	}
 	"Low Gravity Negev War!"
 	{
-		"chi"		"** 低重力大菠萝大战**"
+		"chi"		"**干个痛快！**"
 	}
 	"awp"
 	{
@@ -98,7 +98,7 @@
 	}
 	"DeathRun"
 	{
-		"chi"		"** 死亡奔跑**"
+		"chi"		"**非洲人vs欧洲人（手残党的福利**"
 	}
 	"Deagles"
 	{
@@ -110,7 +110,7 @@
 	}
 	"Barrel Box Selected"
 	{
-		"chi"		"** 选择双枪**"
+		"chi"		"**炸桶进洞**"
 	}
 	"rifle"
 	{

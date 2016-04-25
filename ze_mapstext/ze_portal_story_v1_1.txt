@@ -200,4 +200,12 @@
 	{
 		"chi"		"** **"
 	}
+	">>> EXTREME MODE COMPLETED <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> MOVING BACK TO NORMAL MODE <<<"
+	{
+		"chi"		"** **"
+	}
 }
