@@ -2,7 +2,7 @@
 {
 	"*** Many buildsmodels have been realized by Kaemon ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 许多buildsmodels已经通过Kaemon实现了  **"
 	}
 	"*** WARMUP ROUND (50 sec) ***"
 	{
