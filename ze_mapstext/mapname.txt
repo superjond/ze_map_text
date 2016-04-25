@@ -820,11 +820,11 @@
 	{
 		"chi"		"黑暗之魂"
 	}
-	"ze_bathroom_v2_1"
+	"ze_bathroom_v2_3"
 	{
 		"chi"		"浴室逃亡"
 	}
-	"ze_serpentis_temple_b2"
+	"ze_serpentis_temple_b3"
 	{
 		"chi"		"美杜莎神庙"
 	}
