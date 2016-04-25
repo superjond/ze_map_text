@@ -100,4 +100,8 @@
 	{
 		"chi"		"** **"
 	}
+	"[Picking Random Level]"
+	{
+		"chi"		"** **"
+	}
 }
