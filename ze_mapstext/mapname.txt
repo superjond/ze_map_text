@@ -610,7 +610,7 @@
 	}
 	"ze_shroomforest2_b4_e7"
 	{
-		"chi"		"蘑菇森林（蘑菇房）2"
+		"chi"		"蘑菇森林2"
 	}
 	"ze_chemical_weapons_depot_v1_2"
 	{
@@ -630,7 +630,7 @@
 	}
 	"ze_shroomforest_v4_4fix_e6"
 	{
-		"chi"		"蘑菇森林（蘑菇房）1"
+		"chi"		"蘑菇森林1"
 	}
 	"ze_biohazard_manor_004_p4"
 	{
@@ -774,7 +774,7 @@
 	}
 	"ze_surf_vortex_v1_v2"
 	{
-		"chi"		"旋风滑翔"
+		"chi"		"漩涡滑翔"
 	}
 	"ze_boatescape5_csgo_b3"
 	{
@@ -806,11 +806,11 @@
 	}
 	"ze_atix_helicopter_p"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"直升机危机"
 	}
 	"ze_portal_story_v1_1"
 	{
-		"chi"		"门的故事"
+		"chi"		"传送门故事"
 	}
 	"ze_starwars_v1_1"
 	{
@@ -826,7 +826,7 @@
 	}
 	"ze_serpentis_temple_b2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"美杜莎神庙"
 	}
 	"ze_ffxii_westersand_v7_2_e2"
 	{

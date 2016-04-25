@@ -217,11 +217,11 @@
 	}
 	"BOSS USE RAGE. BACK BACK BACK!!!!!!"
 	{
-		"chi"		"**BOSS使用了原力狂怒，快往后退！！！！（贴紧墙壁）**"
+		"chi"		"**BOSS使用了原力狂怒，快贴墙！！**"
 	}
 	"get to the side GET TO THE SIDE"
 	{
-		"chi"		"**往侧边走！**"
+		"chi"		"**BOSS要砸飞船啦，快远离中间！**"
 	}
 	"*The droids will be killed in 20 seconds*"
 	{
@@ -292,7 +292,7 @@
 	}
 	"BOSS USE RAGE"
 	{
-		"chi"		"**BOSS使用了原力狂怒（快贴紧四周墙壁）**"
+		"chi"		"**BOSS使用了原力狂怒，快贴墙**"
 	}
 	"**The wall will explode in 30 second**"
 	{
