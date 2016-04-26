@@ -2,158 +2,158 @@
 {
 	"*** MAP BY PASS ***"
 	{
-		"chi"		"** **"
+		"chi"		"地图作者：PASS 地图翻译：葬花海"
 	}
 	">>> Hold until the City Doors Open! <<<"
 	{
-		"chi"		"** **"
+		"chi"		"一直守到城市的门打开
 	}
 	"*** Cover the windows until we find a way out of here ***"
 	{
-		"chi"		"** **"
+		"chi"		"直到我们找到一条出路"
 	}
 	"*** Both living room windows are broken! ***"
 	{
-		"chi"		"** **"
+		"chi"		"客厅窗户都破了！"
 	}
 	"*** RESIST ***"
 	{
-		"chi"		"** **"
+		"chi"		"防守"
 	}
 	"*** GET DOWN IN THE BASEMENT NOW ***"
 	{
-		"chi"		"** **"
+		"chi"		"到地下室去"
 	}
 	">>> Elevator Leaves in 10 seconds !! <<"
 	{
-		"chi"		"** **"
+		"chi"		"电梯还有10秒离开！！"
 	}
 	">>> Door Opens in 25 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"门还有25秒开"
 	}
 	">>> Door Opens in 15 seconds <<<"
 	{
-		"chi"		"** **"
+		"chi"		"门还有15秒开"
 	}
 	"*** Facility door opens in 25 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"设备门打开25秒"
 	}
 	"*** Door opens in 20 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"门还有20秒开"
 	}
 	"*** Silo doors open in 25 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"仓库门还有25秒开"
 	}
 	"*** STARTING THE REACTORS... ***"
 	{
-		"chi"		"** **"
+		"chi"		"启动反应堆"
 	}
 	"*** OH NO ***"
 	{
-		"chi"		"** **"
+		"chi"		"哦.不"
 	}
 	"*** THE REACTOR CORES ARE GOING UNSTABLE ***"
 	{
-		"chi"		"** **"
+		"chi"		"反应堆堆芯不稳定"
 	}
 	"*** TRY TO ESCAPE THROUGH THE CARGO AREA ***"
 	{
-		"chi"		"** **"
+		"chi"		"试着从货物的区域逃离"
 	}
 	"*** CARGO AREA DOOR SHOULD OPEN SOON! ***"
 	{
-		"chi"		"** **"
+		"chi"		"快去打开货舱门！"
 	}
 	"*** RESIST! ***"
 	{
-		"chi"		"** **"
+		"chi"		"防守"
 	}
 	"*** LAST TRAIN OUT OF HERE LEAVES IN 45 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"最后一列火车45后离开"
 	}
 	"*** THIS PLACE IS GOING TO BLOW UP IN 1 MINUTE ***"
 	{
-		"chi"		"** **"
+		"chi"		"这个地方要1分钟就要爆炸了"
 	}
 	"*** TRAIN IS LEAVING NOW ***"
 	{
-		"chi"		"** **"
+		"chi"		"火车正在离开"
 	}
 	"*** Living room and kitchen windows are broken! ***"
 	{
-		"chi"		"** **"
+		"chi"		"客厅和厨房的窗户都碎了！"
 	}
 	"*** YOU NEED TO MAKE YOUR WAY TO THE BUNKER BELOW SECTOR 1 ***"
 	{
-		"chi"		"** **"
+		"chi"		"你需要找到一扇门"
 	}
 	"*** SECTOR 1 DOORS SHOULD OPEN SOON! ***"
 	{
-		"chi"		"** **"
+		"chi"		"快点去开门！"
 	}
 	"*** THIS PLACE IS GOING TO BLOW UP IN 2 MINUTES ***"
 	{
-		"chi"		"** **"
+		"chi"		"这个地方要2分钟就要爆炸了"
 	}
 	"*** Bathroom and kitchen windows are broken! ***"
 	{
-		"chi"		"** **"
+		"chi"		"浴室和厨房的窗户被打破！"
 	}
 	"*** Door opens in 25 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"门将在25秒后开启"
 	}
 	"*** ELEVATOR DOORS OPEN IN 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"电梯门还有30秒开启"
 	}
 	"*** DOORS ARE OPENING ***"
 	{
-		"chi"		"** **"
+		"chi"		"门开了"
 	}
 	"*** ELEVATOR LEAVES IN 5 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"电梯5秒后离开"
 	}
 	"*** THAT DIDNT SOUND GOOD ***"
 	{
-		"chi"		"** **"
+		"chi"		"那个听起来不错"
 	}
 	"*** THE WHOLE UNDERGROUND COMPLEX SEEMS TO EXPLODE SOON ***"
 	{
-		"chi"		"** **"
+		"chi"		"地下似乎很快就要爆炸了"
 	}
 	"*** MAKE YOUR WAY TO THE AIRFIELD ***"
 	{
-		"chi"		"** **"
+		"chi"		"请前往飞机场"
 	}
 	"*** THERE SHOULD BE A PLANE LEAVING SOON ***"
 	{
-		"chi"		"** **"
+		"chi"		"应该有一架飞机不久就要离开了"
 	}
 	"*** IN 1 MINUTE THIS WHOLE PLACE BLOWS UP ***"
 	{
-		"chi"		"** **"
+		"chi"		"还有1分钟这个地方会爆炸"
 	}
 	"*** PLANE IS READY TO LEAVE ***"
 	{
-		"chi"		"** **"
+		"chi"		"飞机正准备离开"
 	}
 	"*** GET ON NOW ***"
 	{
-		"chi"		"** **"
+		"chi"		"现在就上"
 	}
 	"*** ZOMBIE ON THE PLANE ***"
 	{
-		"chi"		"** **"
+		"chi"		"飞机上的僵尸"
 	}
 	"*** INVALID VICTORY ***"
 	{
-		"chi"		"** **"
+		"chi"		"无效的胜利"
 	}
 }
