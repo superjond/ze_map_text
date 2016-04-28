@@ -2,50 +2,50 @@
 {
 	"*** MAP BY PASS ***"
 	{
-		"chi"		"** **"
+		"chi"		"地图作者：PASS"
 	}
 	"*** Door opens in 30 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"门30后开启"
 	}
 	"*** KEEP HOLDING***"
 	{
-		"chi"		"** **"
+		"chi"		"继续防守"
 	}
 	"*** DOOR IS OPENING***"
 	{
-		"chi"		"** **"
+		"chi"		"门开了"
 	}
 	"*** Elevator is powering up! ***"
 	{
-		"chi"		"** **"
+		"chi"		"电梯正在来"
 	}
 	"*** Elevator leaves in 5 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"电梯5秒后离开"
 	}
 	"*** Door should open soon! ***"
 	{
-		"chi"		"** **"
+		"chi"		"门正在打开"
 	}
 	"*** RESIST ***"
 	{
-		"chi"		"** **"
+		"chi"		"防守"
 	}
 	"*** Warehouse door opens in 30 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"30秒后打开仓库的门"
 	}
 	"*** DOOR IS OPENING ***"
 	{
-		"chi"		"** **"
+		"chi"		"门开了"
 	}
 	"*** This is the final hold ***"
 	{
-		"chi"		"** **"
+		"chi"		"这是最后的防守"
 	}
 	"*** The ship will leave soon! ***"
 	{
-		"chi"		"** **"
+		"chi"		"船很快就要离开了！"
 	}
 }
