@@ -6,7 +6,7 @@
 	}
 	"*** Map By P'a'ss and Kim ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图由P'a'ss和Kim制作**"
 	}
 	">>> mat_colorcorrection 1 IN CONSOLE FOR BETTER VISUALS <<<"
 	{
@@ -22,7 +22,7 @@
 	}
 	">>> When round starts you have small amount of time to pick an item before the zombies spawn <<<"
 	{
-		"chi"		"**每局尸变之前你会有一些时间去拿皮肤**"
+		"chi"		"**每局开始之后你会有一些时间去拿皮肤（不要在尸变前拿皮肤）**"
 	}
 	">>> AFTER PICKING UP AN ITEM YOU CAN USE THEIR ATTACKS WITH EITHER LEFT OR RIGHT MOUSE CLICK <<<"
 	{
@@ -34,7 +34,7 @@
 	}
 	">>> ONLY 1 OF EACH HUMAN ITEMS CAN BE TAKEN AT ONCE <<<"
 	{
-		"chi"		"**每个皮肤每局只有一个人人类能使用**"
+		"chi"		"**每个皮肤每局只有一个人类能使用**"
 	}
 	">> Stage 1 Helgen <<"
 	{
@@ -98,6 +98,7 @@
 	">> City door opens in 35 seconds! <<"
 	{
 		"chi"		"**城市大门将会在35s后打开**"
+		"DoorCountdown" "35"
 	}
 	">> We need to inform the Jarl of Whiterun that the dragons are attacking! <<"
 	{
@@ -182,7 +183,7 @@
 	"*** Hold the cave for 30 seconds ***"
 	{
 		"chi"		"**在洞穴前守住30s，门很快会打开**"
-		"DoorCountdown"		"25"
+		"DoorCountdown"		"30"
 	}
 	"*** Hold the bridges for 30 seconds *** "
 	{
@@ -213,6 +214,7 @@
 	"*** Hold for 25 seconds ***"
 	{
 		"chi"		"**在这守住25s**"
+		"DoorCountdown" "25"
 	}
 	"*** Door will open in 30 seconds ***"
 	{
@@ -364,42 +366,43 @@
 	}
 	"*** Map By Pass and Kim ***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图由Pass和Kim制作**"
 	}
 	">> You Have Defeated Alduin <<"
 	{
-		"chi"		"** **"
+		"chi"		"**你击败了奥杜因**"
 	}
 	">> Run for the Mead Hall <<"
 	{
-		"chi"		"** **"
+		"chi"		"**快跑到米德大厅**"
 	}
 	">> Kill the remaining Zombies! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**杀掉所有进门的僵尸**"
 	}
 	">> Defend the bridge dont let the zombies on the other side! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**在桥上且战且退，别让僵尸到另外一边**"
 	}
 	">> ITS A DRAGON! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**那是龙！**"
 	}
 	"*** Hold the bridges for 30 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住大桥30秒**"
+		"DoorCountdown" "30"
 	}
 	"** YOU HAVE BEATEN THE MAP CONGRATULATIONS !!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**你成功征服了这个地图，恭喜！**"
 	}
 	"** MAP BY PASS AND KIM !!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**地图由Pass和Kim制作**"
 	}
 	">> THE DRAGON IS GOING TO KILL US ALL !!! <<"
 	{
-		"chi"		"** **"
+		"chi"		"**奥杜因准备杀掉我们了！！！**"
 	}
 }
