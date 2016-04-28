@@ -6,7 +6,7 @@
 	}
 	"** Auto MAP **"
 	{
-		"chi"		"** 自动选择制图**"
+		"chi"		"**自动选择地图**"
 	}
 	"*** The mode selected: Aim Deagle - Knife ***"
 	{
@@ -150,7 +150,7 @@
 	}
 	"*** The mode selected: Taser Infinite ***"
 	{
-		"chi"		"** 模式选择：无限弹药**"
+		"chi"		"**模式选择：无限电击枪**"
 	}
 	"*** The mode selected: Infinite Life (Deagle) ***"
 	{
@@ -310,7 +310,7 @@
 	}
 	"*** The mode selected: Cars Crash ***"
 	{
-		"chi"		"** 模式选择：车**"
+		"chi"		"**模式选择：碰碰车(秋名山老司机**"
 	}
 	"*** The mode selected: Knife Lava 66hp ***"
 	{

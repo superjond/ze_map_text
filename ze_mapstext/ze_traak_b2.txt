@@ -7,6 +7,7 @@
 	"*** Door opens in 30 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"30"
 	}
 	"*** KEEP HOLDING***"
 	{
@@ -23,6 +24,7 @@
 	"*** Elevator leaves in 5 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"5"
 	}
 	"*** Door should open soon! ***"
 	{
@@ -35,8 +37,9 @@
 	"*** Warehouse door opens in 30 seconds ***"
 	{
 		"chi"		"** **"
+		"DoorCountdown"		"30"
 	}
-	"*** DOOR IS OPENING ***"
+	"*** Door is Opening ***"
 	{
 		"chi"		"** **"
 	}

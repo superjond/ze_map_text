@@ -108,4 +108,12 @@
 	{
 		"chi"		"** **"
 	}
+	"+++ PUSHGUN HAS BEEN TAKEN. PRESS E TO USE. +++"
+	{
+		"chi"		"** **"
+	}
+	"+++ 60 SECONDS OF COOLDOWN. +++"
+	{
+		"chi"		"** **"
+	}
 }

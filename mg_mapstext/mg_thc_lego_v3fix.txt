@@ -308,4 +308,8 @@
 	{
 		"chi"		"** CT获得武器**"
 	}
+	"[THC LEGO] Ts get Weapons."
+	{
+		"chi"		"** **"
+	}
 }

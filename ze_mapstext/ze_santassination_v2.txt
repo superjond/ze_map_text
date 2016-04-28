@@ -1180,4 +1180,12 @@
 	{
 		"chi"		"** **"
 	}
+	"^This fella is a silly-willy that everyone should point and laugh at!"
+	{
+		"chi"		"** **"
+	}
+	"..."
+	{
+		"chi"		"** **"
+	}
 }

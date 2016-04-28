@@ -96,4 +96,8 @@
 	{
 		"chi"		"** **"
 	}
+	"Blue Gem obtained"
+	{
+		"chi"		"** **"
+	}
 }

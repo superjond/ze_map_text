@@ -304,4 +304,28 @@
 	{
 		"chi"		"** **"
 	}
+	"** Were in one of the main warehouses... **"
+	{
+		"chi"		"** **"
+	}
+	"** Somethings wrong! There seems to be an fuel overload! **"
+	{
+		"chi"		"** **"
+	}
+	"** THE TOXINS ARE GETTING IN THE VENTILATION SYSTEM! WERE DOOMED! **"
+	{
+		"chi"		"** **"
+	}
+	"** GET GOING! ITS GETTING WORSE! **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD! THE ELEVATORS ENGINES ARE WARMING UP! **"
+	{
+		"chi"		"** **"
+	}
+	"** ZOMBIES DETECTED - MISSION FAILED! **"
+	{
+		"chi"		"** **"
+	}
 }

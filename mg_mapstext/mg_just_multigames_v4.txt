@@ -264,4 +264,12 @@
 	{
 		"chi"		"** 沙鹰**"
 	}
+	"@[Map] 30 Seconds"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] 30 SECONDS REMAINING"
+	{
+		"chi"		"** **"
+	}
 }

@@ -90,7 +90,7 @@
 	"*** A sacrifice is necessary to open the passage ***"
 	{
 		"chi"		"**需要一位玩家到中间献祭方可打开通道 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"*** The passage will be open in 10 seconds ***"
 	{
@@ -100,7 +100,7 @@
 	"*** SHOOT MEDUSA !!! ***"
 	{
 		"chi"		"**射击美杜莎! ! ! **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"*** DOOR CLOSE IN 5 SECONDS ! COVER ! ***"
 	{
@@ -139,7 +139,7 @@
 	"*** HOLD HERE ***"
 	{
 		"chi"		"**守住这里 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"*** CRYSTAL HAS BEEN ACTIVATED ***"
 	{
@@ -276,6 +276,22 @@
 	"*** Stay on the side ! Nuke explode in 10 seconds ***"
 	{
 		"chi"		"**跑到平台的边缘躲避核弹！核弹10秒后爆炸 **"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
+	}
+	"*** GO INTO THE TELEPORTER IN THE MIDDLE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE BRIDGE IS GOING TO BREAK IN 15 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GOOD JOB ! YOU DID IT ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FINAL STAGE IN DEVELOPMENT  ***"
+	{
+		"chi"		"** **"
 	}
 }

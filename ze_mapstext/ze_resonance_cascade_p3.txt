@@ -142,4 +142,12 @@
 	{
 		"chi"		"** **"
 	}
+	"* Humans have failed to escape Black Mesa! *"
+	{
+		"chi"		"** **"
+	}
+	"* Weapons desintegrated! The aliens are too strong! *"
+	{
+		"chi"		"** **"
+	}
 }
