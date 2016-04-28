@@ -118,7 +118,7 @@
 	}
 	"@[MAP] EXPLOSIVE BALLS"
 	{
-		"chi"		"**爆炸球**"
+		"chi"		"**球球博士（每一段时间召唤1至3个足球。警告：该足球随时可能爆炸）**"
 	}
 	"@[MAP] START!"
 	{
@@ -166,7 +166,7 @@
 	}
 	"@[MAP] KILLER BALLS"
 	{
-		"chi"		"**杀人足球**"
+		"chi"		"**带球撞人**"
 	}
 	"@[MAP] 3...."
 	{
@@ -182,7 +182,7 @@
 	}
 	"@[MAP] 1HP FOOTBALL"
 	{
-		"chi"		"**1学足球**"
+		"chi"		"**1血足球没有队友**"
 	}
 	"@[MAP] GOAL!!!!"
 	{
@@ -238,7 +238,7 @@
 	}
 	"@[MAP] KNIFE"
 	{
-		"chi"		"**刀战**"
+		"chi"		"**人类如风般的刀战**"
 	}
 	"@[MAP] Knife Damage Enabled In 10 Seconds"
 	{
