@@ -280,4 +280,120 @@
 	{
 		"chi"		"** **"
 	}
+	"*** Doors are opening! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Keep holding until the doors close! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Elevator descends in 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD THEM BACK  ***"
+	{
+		"chi"		"** **"
+	}
+	"*** One final hold! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** That thing? should leave soon! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE BOSS IS USING HIS ULTIMATE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SHOOT HIM NOW BEFORE HE WIPES US ALL ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Elevators leave in 25 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Elevators leave in 15 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Elevators leave in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Keep holding! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE BOSS IS DEAD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WAIT ITS DEAD RIGHT? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LOOKS LIKE THE PLATFORM IS BREAKING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GET IN THE MIDDLE NOW!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WAIT IT HAS TO BE DEAD NOW RIGHT? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE EVIL EYE IS DEAD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NOW IS THE TIME TO ESCAPE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold this position for 25 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold this position for 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** That thing? Leaves in 45 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 20 SECONDS LEFT ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 SECONDS LEFT ***"
+	{
+		"chi"		"** **"
+	}
+	"*** CONGRATULATIONS  YOU HAVE BEATEN THE MAP! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 more seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Heli leaves in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Heli leaves in 15 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Heli leaves in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
 }

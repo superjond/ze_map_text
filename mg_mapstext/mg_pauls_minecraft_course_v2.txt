@@ -18,6 +18,6 @@
 	}
 	"***QQ Corner Being Neutralised in 5 seconds***"
 	{
-		"chi"		"** 5秒平衡**"
+		"chi"		"**_(:зゝ∠)_**"
 	}
 }

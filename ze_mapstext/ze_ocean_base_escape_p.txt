@@ -224,4 +224,8 @@
 	{
 		"chi"		"** **"
 	}
+	"***Thank You for Playing!!***"
+	{
+		"chi"		"** **"
+	}
 }

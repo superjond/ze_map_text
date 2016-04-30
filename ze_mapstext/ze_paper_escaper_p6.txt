@@ -850,4 +850,8 @@
 	{
 		"chi"		"** **"
 	}
+	"** ITS TOO LATE!!! YOU NOOBZORZ ARE FAIL!!! **"
+	{
+		"chi"		"** **"
+	}
 }
