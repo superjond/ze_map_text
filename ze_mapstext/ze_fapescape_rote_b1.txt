@@ -1,0 +1,283 @@
+"Console_T"
+{
+	"*** Level 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"* Turning music on *"
+	{
+		"chi"		"** **"
+	}
+	"*** Player has picked up Pipe bombs ***"
+	{
+		"chi"		"** **"
+	}
+	"*** It has 5 uses ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Player has picked up EyeTech Cannon ***"
+	{
+		"chi"		"** **"
+	}
+	"*** It has unlimited uses ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Player has picked up Lego Maker ***"
+	{
+		"chi"		"** **"
+	}
+	"*** It has 10 uses ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Player has picked up Pushgun ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Player has picked up Heal ***"
+	{
+		"chi"		"** **"
+	}
+	"*** It has 1 use ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Player has picked up Ammo Box ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Player has picked up Electro gun ***"
+	{
+		"chi"		"** **"
+	}
+	"*** It has fuel for 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Player has picked up EyeTech Launcher ***"
+	{
+		"chi"		"** **"
+	}
+	"** Turning on:... **"
+	{
+		"chi"		"** **"
+	}
+	"** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **"
+	{
+		"chi"		"** **"
+	}
+	"*** Level 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Player has picked up Flamethrower ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Doors open in 35 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Doors open in 25 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Doors open in 10 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Doors are opening ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Bridge activates in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Bridge activates in 15 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold until the path is cleared ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FALL BACK NOW!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 25 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door is opening ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door should open quickly ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Keep holding ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold them back for 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FALL BACK ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold them back for a few more seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Just a little bit more! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Keep holding them back! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FALL BACK! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** This is the final hold point! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold them back for final 20 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 SECONDS LEFT ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombie at the end ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU FAIL! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Elevator leaves in 25 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Elevator leaves in 15 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Elevator leaves in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Level Completed! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Level 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Doors open in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Press both buttons at the same time to open the door! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Buttons pressed! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 30 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FALL BACK ****"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold until the path opens ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Final door opens in 25 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Almost at the end.. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Doors should open soon ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 15 seconds left ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THIS IS THE FINAL HOLD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold for 30 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 20 more seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 more seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 25 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Doors are opening in 25 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESIST ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Doors are opening in 15 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Doors are opening in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold a bit more! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Path will open shortly! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold this position for awhile! ***"
+	{
+		"chi"		"** **"
+	}
+}

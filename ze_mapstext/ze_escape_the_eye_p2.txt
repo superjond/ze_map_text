@@ -116,4 +116,12 @@
 	{
 		"chi"		"** **"
 	}
+	"++ FLAMETHROWER HAS BEEN PICKED. PRESS E TO USE ++"
+	{
+		"chi"		"** **"
+	}
+	"++ FUEL FOR 10 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
 }

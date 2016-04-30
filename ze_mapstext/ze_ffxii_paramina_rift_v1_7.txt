@@ -887,4 +887,8 @@
 	{
 		"chi"		"** **"
 	}
+	"** [ADMIN] LEVEL CHANGED TO STAGE 2 INSANE **"
+	{
+		"chi"		"** **"
+	}
 }

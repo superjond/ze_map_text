@@ -6,12 +6,8 @@
 	}
 	"*** Door opens in 30 seconds ***"
 	{
-<<<<<<< HEAD
-		"chi"		"** **"
 		"DoorCountdown"		"30"
-=======
 		"chi"		"门30后开启"
->>>>>>> d71816567ad15179a8f50e929fe8d59f2440d388
 	}
 	"*** KEEP HOLDING***"
 	{
@@ -27,12 +23,8 @@
 	}
 	"*** Elevator leaves in 5 seconds ***"
 	{
-<<<<<<< HEAD
-		"chi"		"** **"
 		"DoorCountdown"		"5"
-=======
 		"chi"		"电梯5秒后离开"
->>>>>>> d71816567ad15179a8f50e929fe8d59f2440d388
 	}
 	"*** Door should open soon! ***"
 	{
@@ -44,12 +36,8 @@
 	}
 	"*** Warehouse door opens in 30 seconds ***"
 	{
-<<<<<<< HEAD
-		"chi"		"** **"
 		"DoorCountdown"		"30"
-=======
 		"chi"		"30秒后打开仓库的门"
->>>>>>> d71816567ad15179a8f50e929fe8d59f2440d388
 	}
 	"*** Door is Opening ***"
 	{

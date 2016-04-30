@@ -160,4 +160,8 @@
 	{
 		"chi"		"** **"
 	}
+	"***Executing game reset****"
+	{
+		"chi"		"** **"
+	}
 }

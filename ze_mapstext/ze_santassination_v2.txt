@@ -756,7 +756,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***Thank you for playing***"
+	"***THANK YOU FOR PLAYING***"
 	{
 		"chi"		"** **"
 	}
@@ -1185,6 +1185,10 @@
 		"chi"		"** **"
 	}
 	"..."
+	{
+		"chi"		"** **"
+	}
+	"^That was the stupidest thing ive ever heard as a map"
 	{
 		"chi"		"** **"
 	}
