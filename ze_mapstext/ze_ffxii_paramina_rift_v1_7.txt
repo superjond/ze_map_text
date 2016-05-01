@@ -156,7 +156,7 @@
 	{
 		"chi"		"**还剩15秒！**"
 	}
-	"** 5 MORE SECONDS **"
+	"** 5 more seconds **"
 	{
 		"chi"		"**还剩5秒！**"
 	}
@@ -281,6 +281,7 @@
 	"** .. HOLD 10 MORE SECONDS **"
 	{
 		"chi"		"**继续防守10秒！**"
+		"DoorCountdown"		"10"
 	}
 	"** A WAY HAS BEEN OPENED **"
 	{
@@ -366,7 +367,7 @@
 		"chi"		"**大门25秒后打开！**"
 		"DoorCountdown"		"25"
 	}
-	"** NADES DO A LOT OF DAMAGE **"
+	"** Nades do a lot of damage **"
 	{
 		"chi"		"**手雷能造成巨大输出**"
 	}

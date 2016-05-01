@@ -83,7 +83,7 @@
 	{
 		"chi"		"继续防守！！！"
 	}
-	"** NADES DO A LOT OF DAMAGE **"
+	"** Nades do a lot of damage **"
 	{
 		"chi"		"手雷可以造成大量伤害"
 	}
@@ -257,8 +257,9 @@
 	"** Defend here for 30 seconds **"
 	{
 		"chi"		"**守住这里30秒**"
+		"DoorCountdown"		"30"
 	}
-	"** 5 MORE SECONDS **"
+	"** 5 more seconds **"
 	{
 		"chi"		"**还剩5秒**"
 	}
