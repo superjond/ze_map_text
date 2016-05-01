@@ -834,11 +834,11 @@
 	}
 	"ze_ffxii_paramina_rift_v1_7"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"最终幻想12：帕拉米娅"
 	}
 	"ze_christmas_b1_2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"圣诞节"
 	}
 	"ze_gris_a4_9_7"
 	{
@@ -846,10 +846,10 @@
 	}
 	"ze_Sit_Caelum_Paradisus_b6_2"
 	{
-		"chi"		"此地图暂无译名"
+		"chi"		"雕刻天堂"
 	}
 	"ze_fapescape_rote_b1"
 	{
-		"chi"		"乐高大逃亡-重生"
+		"chi"		"乐高大逃亡：噩梦陷阱"
 	}
 }
