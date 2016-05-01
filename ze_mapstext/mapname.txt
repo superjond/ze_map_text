@@ -592,10 +592,6 @@
 	{
 		"chi"		"生化危机：下水道"
 	}
-	"ze_santassination_v1"
-	{
-		"chi"		"此地图暂无译名"
-	}
 	"ze_destruction_of_exorath_v3_1"
 	{
 		"chi"		"破坏行动"
@@ -835,5 +831,25 @@
 	"ze_ffxiv_wanderers_palace_v1_4_fix2"
 	{
 		"chi"		"最终幻想14：流浪者宫殿"
+	}
+	"ze_ffxii_paramina_rift_v1_7"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_christmas_b1_2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_gris_a4_9_7"
+	{
+		"chi"		"创世E"
+	}
+	"ze_Sit_Caelum_Paradisus_b6_2"
+	{
+		"chi"		"此地图暂无译名"
+	}
+	"ze_fapescape_rote_b1"
+	{
+		"chi"		"乐高大逃亡-重生"
 	}
 }

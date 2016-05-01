@@ -1,0 +1,79 @@
+"Console_T"
+{
+	"** TAKE LEFT DOOR **"
+	{
+		"chi"		"** **"
+	}
+	"** ENTER THE CENTER OF HALL TO ACCESS SP ITEM ROOM **"
+	{
+		"chi"		"** **"
+	}
+	"** TRY TO USE THEM **"
+	{
+		"chi"		"** **"
+	}
+	"** ZE_SIT_CAELUM_PARADISUS **"
+	{
+		"chi"		"** **"
+	}
+	"** ROOT ONE **"
+	{
+		"chi"		"** **"
+	}
+	"** VENTUS SWORD HAS BEEN PICKED UP >WIND<**"
+	{
+		"chi"		"** **"
+	}
+	"** SANATIO SWORD HAS BEEN PICKED UP >HEAL AMMO< **"
+	{
+		"chi"		"** **"
+	}
+	"** GRACIES AXE HAS BEEN PICKED UP >ICE<**"
+	{
+		"chi"		"** **"
+	}
+	"** IGNIS SWORD HAS BEEN PICKED UP >FIRE<**"
+	{
+		"chi"		"** **"
+	}
+	"** TERRA JAVELIN HAS BEEN PICKED UP >WALL< **"
+	{
+		"chi"		"** **"
+	}
+	">>>DOOR BREAKING IN 20 SECS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>HOLD<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>DOOR BREAKING IN 25 SECS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>HHOOLLDD<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>HOLDDDD<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>DOOR BREAKING IN 30 SECS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>DOOR BREAKING IN 15 SECS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>DOOR OPENING 20 SECS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>DOOR OPENING IN 35 SECS<<<"
+	{
+		"chi"		"** **"
+	}
+}

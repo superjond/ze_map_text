@@ -92,7 +92,7 @@
 	{
 		"chi"		"** **"
 	}
-	"***DOOR OPENING IN 20 SECONDS***"
+	"***Door opening in 20 seconds***"
 	{
 		"chi"		"** **"
 	}
@@ -185,6 +185,58 @@
 		"chi"		"** **"
 	}
 	"***RUN FOR IT***"
+	{
+		"chi"		"** **"
+	}
+	"***THE STAIRS ARE BROKEN***"
+	{
+		"chi"		"** **"
+	}
+	"***GET UP ALL THE WAY TO THE MIDDLE SECTION ON TOP***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD THERE FOR AS LONG AS POSSIBLE BEFORE JUMPING ON THE TOASTER***"
+	{
+		"chi"		"** **"
+	}
+	"***FLY OUT WITH THE TOAST OR DIE***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***GET OUT OF THERE***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 4 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 3 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 2 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 1 SECOND***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS TOASTING TOAST***"
+	{
+		"chi"		"** **"
+	}
+	"***GET TOASTED!***"
 	{
 		"chi"		"** **"
 	}

@@ -507,4 +507,36 @@
 	{
 		"chi"		"** **"
 	}
+	"*** THAT DIDNT SOUND GOOD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE WHOLE UNDERGROUND COMPLEX SEEMS TO EXPLODE SOON ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MAKE YOUR WAY TO THE AIRFIELD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THERE SHOULD BE A PLANE LEAVING SOON ***"
+	{
+		"chi"		"** **"
+	}
+	"*** IN 1 MINUTE THIS WHOLE PLACE BLOWS UP ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Bathroom and kitchen windows are broken! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PLANE IS READY TO LEAVE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GET ON NOW ***"
+	{
+		"chi"		"** **"
+	}
 }

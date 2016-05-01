@@ -401,4 +401,8 @@
 	{
 		"chi"		"** **"
 	}
+	"* * * HASUL COMO HEL MAR HASUL * * *"
+	{
+		"chi"		"** **"
+	}
 }
