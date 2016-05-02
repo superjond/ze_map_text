@@ -1,0 +1,19 @@
+"Console_T"
+{
+	"**We got the Intelligence! Lets get out of here!**"
+	{
+		"chi"		"** **"
+	}
+	"**OBJECTIVE: Infiltrate and eliminate whoevers in charge!**"
+	{
+		"chi"		"** **"
+	}
+	"**Medkit has been acquired!**"
+	{
+		"chi"		"** **"
+	}
+	"**Weve waited long enough! GO!**"
+	{
+		"chi"		"** **"
+	}
+}

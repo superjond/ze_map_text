@@ -2,7 +2,7 @@
 {
 	"***DIFFICULTY --- NORMAL***"
 	{
-		"chi"		"**地图：铁血战士 *难度—普通*（坑爹的翻译和奇葩提示来自英语⑨级的恋恋）**"
+		"chi"		"**难度——普通**"
 	}
 	"***THE NUKE HAS EXPLODED***"
 	{
@@ -25,7 +25,7 @@
 	{
 		"chi"		"**撤退！**"
 	}
-	"***5 SECONDS LEFT***"
+	"***5 seconds left***"
 	{
 		"chi"		"** **"
 	}
@@ -93,7 +93,7 @@
 	{
 		"chi"		"**一名玩家建起了异形样本（形成火焰场加强版燃烧瓶）**"
 	}
-	"***HOLD FOR 30 seconds***"
+	"***Hold for 30 seconds***"
 	{
 		"chi"		"**守住30秒！**"
 		"DoorCountdown"		"30"
@@ -114,7 +114,7 @@
 	{
 		"chi"		"**还剩20秒！**"
 	}
-	"***10 seconds left***"
+	"***10 SECONDS LEFT***"
 	{
 		"chi"		"**还剩10秒！**"
 	}
