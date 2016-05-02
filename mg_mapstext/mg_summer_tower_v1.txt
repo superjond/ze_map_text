@@ -1,0 +1,11 @@
+"Console_T"
+{
+	"***MAP BY ZELEZOBETON***"
+	{
+		"chi"		"** **"
+	}
+	"Visit play.twse.cz:48010"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,7 @@
+"Console_T"
+{
+	">> SECRET MUSIC 1 PLAYING <<"
+	{
+		"chi"		"** **"
+	}
+}

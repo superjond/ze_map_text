@@ -396,4 +396,8 @@
 	{
 		"chi"		"** **"
 	}
+	"*** ZOMBIE ON BOARD YOU FAIL ***"
+	{
+		"chi"		"** **"
+	}
 }

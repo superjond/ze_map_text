@@ -76,4 +76,136 @@
 	{
 		"chi"		"** **"
 	}
+	">>>LAST HOLD 15 SECS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>WAIT FOR TELEPORT<<<"
+	{
+		"chi"		"** **"
+	}
+	"** WE SECURED ROOT ONE **"
+	{
+		"chi"		"** **"
+	}
+	">>>LETS GO ROOT TWO<<<"
+	{
+		"chi"		"** **"
+	}
+	"*** MAP BY SATOKA***"
+	{
+		"chi"		"** **"
+	}
+	"** ROOT TWO **"
+	{
+		"chi"		"** **"
+	}
+	"** TAKE RIGHT DOOR **"
+	{
+		"chi"		"** **"
+	}
+	">>>DOOR OPENING IN 20 SECS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>DOOR BREAKING IN 60 SECS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>HOLD THE LIBRARY<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>DOOR BREAKING IN 45 SECS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>DOOR BREAKING IN 50 SECS<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>RUN RUN RUN! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>>GUARDIAN OF THE RUIN AHEAD <<<"
+	{
+		"chi"		"** **"
+	}
+	">>>EXTRA VENTUS ACTIVATED<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>WELL DONE!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>THE GATE TO THE RUIN WILL OPEN SOON<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>DEFEND!!<<<"
+	{
+		"chi"		"** **"
+	}
+	"** WE SECURED ROOT TWO **"
+	{
+		"chi"		"** **"
+	}
+	">>>GO TO ROOT THREE<<<"
+	{
+		"chi"		"** **"
+	}
+	"** ROOT THREE **"
+	{
+		"chi"		"** **"
+	}
+	"** TAKE MIDDLE DOOR **"
+	{
+		"chi"		"** **"
+	}
+	">> DOOR OPENING IN 30 SECS <<"
+	{
+		"chi"		"** **"
+	}
+	">>> DOOR OPENING IN 40 SECS <<<"
+	{
+		"chi"		"** **"
+	}
+	">> DOOR OPENING IN 50 SECS <<"
+	{
+		"chi"		"** **"
+	}
+	">> DOOR OPENING IN 10 SECS <<"
+	{
+		"chi"		"** **"
+	}
+	"*** THE DRAGON NOTICED US ***"
+	{
+		"chi"		"** **"
+	}
+	">> KILL HIM!! <<"
+	{
+		"chi"		"** **"
+	}
+	"*** IGNIS !!!***"
+	{
+		"chi"		"** **"
+	}
+	"*** IGNIS !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** VENTUS !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** IGNIS WAVE !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HEAL !!!***"
+	{
+		"chi"		"** **"
+	}
 }
