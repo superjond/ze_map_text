@@ -1,0 +1,467 @@
+"Console_T"
+{
+	">>>Map will begin in 10 seconds<<<"
+	{
+		"chi"		"10秒后开始"
+	}
+	"***Special thanks to all 2K Studios***"
+	{
+		"chi"		"特别鸣谢：2K Studios"
+	}
+	"***Also thanks to Argento for the original CSGO port***"
+	{
+		"chi"		"同时感谢Argento的原生csgo移植"
+	}
+	">>>GATES ARE OPEN<<<"
+	{
+		"chi"		">>>大门已经打开<<<"
+	}
+	"* * Map by Mojonero * *"
+	{
+		"chi"		"地图作者 Mojonero   翻译by楯山文乃"
+	}
+	">>>You need to get out of here before the plane debris explodes!<<<"
+	{
+		"chi"		">>>你必须在飞机残骸爆炸前离开！！！<<<"
+	}
+	">>>Bathysphere is on its way!<<<"
+	{
+		"chi"		">>>潜水艇已经上路了<<<"
+	}
+	">>>ETA: 30 seconds!<<<"
+	{
+		"chi"		">>>到港时间：30秒！<<<"
+	}
+	">>>Bathysphere docking...<<<"
+	{
+		"chi"		">>>潜水艇快来了<<<"
+	}
+	">>>Bathysphere is ready. Get inside it!<<<"
+	{
+		"chi"		">>>潜水艇已经到了，快进去！<<<"
+	}
+	">>>All players prepare for departure for Rapture in 10 seconds<<<"
+	{
+		"chi"		">>>所有玩家准备在10秒后到达海底城<<<"
+	}
+	">>>EASY MODE ENABLED<<<"
+	{
+		"chi"		">>>简单模式开启<<<"
+	}
+	">>>Difficulty: EASY<<<"
+	{
+		"chi"		">>>难度：简单<<<"
+	}
+	">>>ATLAS: Hey boyo"
+	{
+		"chi"		">>>ATLAS：嘿，傍友！<<<"
+	}
+	">>>ATLAS: This place has gone to shit. I can get you out of here<<<"
+	{
+		"chi"		">>>ATLAS：这地方真是见鬼了，我能带你离开这里<<<"
+	}
+	">>>ATLAS: so long as you do as I say<<<"
+	{
+		"chi"		">>>ATLAS：只要你照我说的做<<<"
+	}
+	">>>ATLAS: So would you kindly head over to the Rapture Metro station<<<"
+	{
+		"chi"		"**>>>ATLAS：所以你会前往Rapture地铁站么？<<< **"
+	}
+	">>>Splicers are trying to hijack the door!<<<"
+	{
+		"chi"		">>>Splicers 正试图劫持住大门<<<"
+	}
+	">>>Splicers are through! RUN!<<<"
+	{
+		"chi"		">>>Splicers来了，快跑！<<<"
+	}
+	">>>Hold for 20 seconds<<<"
+	{
+		"chi"		"坚守20秒"
+	}
+	"***PLASMID: Electro Bolt obtained***"
+	{
+		"chi"		"PLASMID: 电磁螺栓已获取"
+	}
+	">>>ATLAS: The door is open. Get going!<<<"
+	{
+		"chi"		">>>ATLAS: 门开了，快跑！!<<<"
+	}
+	">>>Bulkhead door jammed. Override initialized<<<"
+	{
+		"chi"		">>>舱壁的门卡住了，重新打开中<<<"
+	}
+	">>>Override complete. Door opening<<<"
+	{
+		"chi"		">>>重新打开已经完成,门开了<<<"
+	}
+	">>>ATLAS: The METRO is upstairs. The stair or elevator will take you there<<<"
+	{
+		"chi"		">>>ATLAS: 地铁就在楼上.走楼梯或者坐电梯都能上去<<<"
+	}
+	">>>Elevators Called<<<"
+	{
+		"chi"		">>>已呼叫电梯<<<"
+	}
+	">>>AFK teleport in 5 seconds<<<"
+	{
+		"chi"		">>>闲置玩家将在5秒后传送<<<"
+	}
+	">>>Elevator 1 has arrived<<<"
+	{
+		"chi"		">>>一号电梯已经到达<<<"
+	}
+	">>>Elevator 1 leaving in 5 seconds<<<"
+	{
+		"chi"		">>>一号电梯5秒后离开<<<"
+	}
+	">>>Elevator 2 has arrived<<<"
+	{
+		"chi"		">>>二号电梯已经到达<<<"
+	}
+	">>>Elevator 2 leaving in 7 seconds<<<"
+	{
+		"chi"		">>>二号电梯将在7秒后离开<<<"
+	}
+	">>>Ladder access available in 5 seconds<<<"
+	{
+		"chi"		">>>梯子将在5秒后打开<<<"
+	}
+	">>>ATLAS: Ryan's jammed the door!<<<"
+	{
+		"chi"		">>>ATLAS: Ryan卡住了门!<<<"
+	}
+	">>>ATLAS: I can override it<<<"
+	{
+		"chi"		">>>ATLAS: 我能重启它<<<"
+	}
+	">>>ATLAS: Would you kindly hold them off until then!<<<"
+	{
+		"chi"		">>>ATLAS: 快帮忙坚守僵尸！<<<"
+	}
+	"***PLASMID: Insect Swarm obtained***"
+	{
+		"chi"		"PLASMID: Insect Swarm质粒已获得"
+	}
+	">>>ATLAS: Its open! Get outta there boyo!<<<"
+	{
+		"chi"		">>>ATLAS: 打开了！大兄弟快跑啊！!<<<"
+	}
+	"***PLASMID: Incinerate obtained***"
+	{
+		"chi"		"PLASMID: 欲火焚身已获得"
+	}
+	"***PLASMID: Sonic Boom obtained***"
+	{
+		"chi"		"PLASMID: Sonic Boom质粒已获得"
+	}
+	">>>ATLAS: Would you kindly call the Rapture Metro! You got get outta here<<<"
+	{
+		"chi"		">>>ATLAS: 快去呼叫地铁来！你得离开这里<<<"
+	}
+	">>>Rapture METRO inbound for: Rapture Terminal<<<"
+	{
+		"chi"		"地铁已进入Rapture站"
+	}
+	">>>Rapture METRO is now boarding<<<"
+	{
+		"chi"		">>>快上地铁，继续防守<<<"
+	}
+	">>>Rapture METRO is leaving. Last chance to board<<<"
+	{
+		"chi"		">>>地铁要离开了，再不上来就GG了<<<"
+	}
+	">>>ATLAS: Nice job boyo! We've got a long way to go yet though<<<"
+	{
+		"chi"		">>>ATLAS:干的不错！但前面还有很长一段路要走<<<"
+	}
+	">>>Elevator has been called<<<"
+	{
+		"chi"		">>>电梯已呼叫<<<"
+	}
+	">>>Elevator has Arrived<<<"
+	{
+		"chi"		">>>电梯已到达<<<"
+	}
+	">>>Elevator leaving in 15 seconds<<<"
+	{
+		"chi"		">>>电梯将在15秒后离开<<<"
+	}
+	">>>Elevator leaving in 5 seconds<<<"
+	{
+		"chi"		">>>电梯将在5秒后离开<<<"
+	}
+	">>>ATLAS: 30 seconds boyo!<<<"
+	{
+		"chi"		">>>ATLAS: 还有30秒！!<<<"
+	}
+	">>>ATLAS: Exit is open. Would you kindly get outta here while you can!<<<"
+	{
+		"chi"		">>>ATLAS: 出口已经打开，尽你所能快点离开<<<"
+	}
+	">>>Airlock Decompression initiated..<<<"
+	{
+		"chi"		">>>气闸减压已启动..<<<"
+	}
+	">>>Airlock closing<<<"
+	{
+		"chi"		">>>气闸已关闭..<<<"
+	}
+	">>>Security Alert. 60 second lockdown<<<"
+	{
+		"chi"		">>>安全警告：60秒后锁定<<<"
+	}
+	">>>ATLAS: Disable the security alert or wait it out<<<"
+	{
+		"chi"		">>>ATLAS: 关掉这个警告或者等它结束<<<"
+	}
+	">>>Security Lockdown overridden. Resetting...<<<"
+	{
+		"chi"		">>>警卫锁定重启..重新设置中..<<<"
+	}
+	">>>ATLAS: Security has been reset. Would you kindly get to the elevator!*<<<"
+	{
+		"chi"		">>>ATLAS: 警卫系统已被重启，你能赶到电梯里么<<<"
+	}
+	">>>Elevator to Fisheries' Deliveries leaving in 8 seconds<<<"
+	{
+		"chi"		"*>>>前往渔场的电梯将在8秒后启动<<<"
+	}
+	">>>ATLAS: They're right behind you boyo!<<"
+	{
+		"chi"		">>>ATLAS: 他们追的很♂紧哟，大兄弟<<"
+	}
+	">>>ATLAS: Would you kindly take my old goods lift up to Arcadia!<<<"
+	{
+		"chi"		">>>ATLAS: 你能把我的一些旧货带给Arcadia么？<<<"
+	}
+	">>>You failed! Splicers made it aboard!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Nice job boyo! Weve got a long way to go yet though<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Elevator to Fisheries Deliveries leaving in 8 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Theyre right behind you boyo!<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Door opens in 20 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Security has been reset. Would you kindly get to the elevator!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Door now open. Retreat!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Elevator preparing for departure<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Elevator is about to leave!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Great work. Lets move on!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Wait for the door to complete its unlock sequence<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>The door is open. Proceed<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Door opening in 30 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Security door is open!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Ryans jammed the door!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Storage has flooded. Access prohibited during draining...<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Storage has drained. Access granted<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Maintainance doors arent meanta be unlocked!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: I can override it. Itll take some time though<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS:  Would you kindly take care o things while I work!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Nearly there.. (10 seconds)<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: That got it! Would you kindly get moving again?!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Rapture METRO last call for boarding<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Rapture METRO is departing in 5 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Rapture METRO is leaving<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Nice work boyo. Im waiting for you in Hephaestus<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: We need  to overload the hephaestus core<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: In order to do that we need a bomb<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Find what we need and take it to Kyburz office<<<"
+	{
+		"chi"		"** **"
+	}
+	"*R-34 Fuse 1 of 3 added*"
+	{
+		"chi"		"** **"
+	}
+	"*R-34 Fuse 2 of 3 added*"
+	{
+		"chi"		"** **"
+	}
+	"*Nitroglycerine Obtained*"
+	{
+		"chi"		"** **"
+	}
+	">>>90 seconds left to build the bomb<<<"
+	{
+		"chi"		"** **"
+	}
+	"*All Nitroglycerine added*"
+	{
+		"chi"		"** **"
+	}
+	">>>60 seconds left to build the bomb<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>30 seconds left to build the bomb<<<"
+	{
+		"chi"		"** **"
+	}
+	"*Ionic Gel 1 of 4 added*"
+	{
+		"chi"		"** **"
+	}
+	">>>FAILURE: You were too slow to build the bomb<<<"
+	{
+		"chi"		"** **"
+	}
+	"*All R-34 Fuse Wires added*"
+	{
+		"chi"		"** **"
+	}
+	"*Ionic Gel 2 of 4 added*"
+	{
+		"chi"		"** **"
+	}
+	"*Ionic Gel 3 of 4 added*"
+	{
+		"chi"		"** **"
+	}
+	"*All Ionic Gel added*"
+	{
+		"chi"		"** **"
+	}
+	"*EMP Bomb ready for collection*"
+	{
+		"chi"		"** **"
+	}
+	">>>EMP Bomb obtained. Take it to Core#3!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: Would you kindly set that bomb!<<<"
+	{
+		"chi"		"** **"
+	}
+	"*EMP Bomb Placed*"
+	{
+		"chi"		"** **"
+	}
+	"*Sympthetic Overload in Harmonic Core #3 Triggered*"
+	{
+		"chi"		"** **"
+	}
+	"*Nice work boyo. Now head on up to Ryans office so we can meet in person*"
+	{
+		"chi"		"** **"
+	}
+	"*Andrew Ryans Office is now unlocked*"
+	{
+		"chi"		"** **"
+	}
+	"*Splicers freed*"
+	{
+		"chi"		"** **"
+	}
+	">>>Rapture Control: Elevator leaving in 15 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Rapture Control: Elevator leaving in 5 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	"*Fontaine is trying to drag you into the pit*"
+	{
+		"chi"		"**BOSS使用了万象天引！**"
+	}
+	"*Dont get knocked off the platform*"
+	{
+		"chi"		"**BOSS使用了神罗天征！**"
+	}
+	">>>Splicer has entered the core. Bomb must be placed within 60 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: FAILURE! You were too slow!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>ATLAS: You failed. Splicers made it into the core tower<<<"
+	{
+		"chi"		"** **"
+	}
+}
