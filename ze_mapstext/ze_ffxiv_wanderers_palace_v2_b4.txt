@@ -432,7 +432,7 @@
 	}
 	"***A player picked up Bird Armys Paeon***"
 	{
-		"chi"		"**一位玩家捡起了弓：军神之歌**"
+		"chi"		"**一位玩家捡起了游吟诗人：军神之歌**"
 		"ico"		"icon_fire"
 	}
 }
