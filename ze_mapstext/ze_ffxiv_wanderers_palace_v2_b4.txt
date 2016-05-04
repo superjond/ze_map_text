@@ -250,7 +250,7 @@
 	}
 	"***A player picked up White Mage Benediction***"
 	{
-		"chi"		"**一位玩家拾取了白魔法治疗**"
+		"chi"		"**一位玩家拾取了白魔法：天赐祝福**"
 		"ico"		"icon_fire"
 	}
 	"***Recast 90s***"
@@ -259,7 +259,7 @@
 	}
 	"***A player picked up Black Mage Flare***"
 	{
-		"chi"		"**一位玩家拾取了黑魔法核爆**"
+		"chi"		"**一位玩家拾取了黑魔法：核爆**"
 		"ico"		"icon_fire"
 	}
 	"***Recast 45s***"
@@ -273,7 +273,7 @@
 	}
 	"***A player picked up Paladin Shild Oath"
 	{
-		"chi"		"**一位玩家拾取了圣骑士忠义之盾**"
+		"chi"		"**一位玩家拾取了骑士：忠义之盾**"
 		"ico"		"icon_fire"
 	}
 	"***Recast 70s***"
@@ -432,7 +432,7 @@
 	}
 	"***A player picked up Bird Armys Paeon***"
 	{
-		"chi"		"**一位玩家捡起了军神之歌**"
+		"chi"		"**一位玩家捡起了弓：军神之歌**"
 		"ico"		"icon_fire"
 	}
 }
