@@ -464,4 +464,40 @@
 	{
 		"chi"		"** **"
 	}
+	"***Round will begin in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Special thanks to 2K Boston and 2K Games***"
+	{
+		"chi"		"** **"
+	}
+	"***Doors are open. LETS GO!***"
+	{
+		"chi"		"** **"
+	}
+	"***You need to get out of here before the plane debris explodes!***"
+	{
+		"chi"		"** **"
+	}
+	"***Bathysphere is on its way!***"
+	{
+		"chi"		"** **"
+	}
+	"***ETA: 30 seconds!***"
+	{
+		"chi"		"** **"
+	}
+	"***Bathysphere docking...***"
+	{
+		"chi"		"** **"
+	}
+	"***Bathysphere is ready. Get inside it!***"
+	{
+		"chi"		"** **"
+	}
+	"***All players prepare for depature for Rapture in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
 }

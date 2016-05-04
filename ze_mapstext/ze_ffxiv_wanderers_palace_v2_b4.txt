@@ -80,22 +80,22 @@
 	"***Look for RED,YELLOW,GREEN Nymian Devices***"
 	{
 		"chi"		"**出门左拐激活红色尼米安装置，右拐激活黄色，绿色尼米安装置**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"***Activated GREEN Nymian Device***"
 	{
 		"chi"		"**激活绿色尼米安装置**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"***Activated YELLOW Nymian Device***"
 	{
 		"chi"		"**激活黄色尼米安装置**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"***Activated RED Nymian Device***"
 	{
 		"chi"		"**激活红色尼米安装置**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"***10 seconds to Active Nymian Device***"
 	{
@@ -174,17 +174,17 @@
 	"*** Cauterize***"
 	{
 		"chi"		"**炙炎（面对BOSS前面有箱子躲到后方白光位置，没箱子躲到左下角白光位置）**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"*** Electro***"
 	{
 		"chi"		"**电（跳到左右两边箱子准备跳刀）**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"***ADS died***"
 	{
 		"chi"		"**ADS被击败**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"***45 seconds to MAP CLEAR***"
 	{
@@ -210,7 +210,7 @@
 	"*** Heavens Fall***"
 	{
 		"chi"		"**天坠（看头上柱子，降到地板的时候按W防推，0,3,6,9点方向准备跳刀）**"
-		"ico"   "icon_fire"
+		"ico"		"icon_fire"
 	}
 	"***10seconds to Mega Flare***"
 	{
@@ -233,6 +233,174 @@
 		"chi"		"** **"
 	}
 	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Level A Realm Reborn***"
+	{
+		"chi"		"** **"
+	}
+	"***Skill Unlocked***"
+	{
+		"chi"		"** **"
+	}
+	"***Level:A Realm Reborn***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up White Mage Benediction***"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 90s***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Black Mage Flare***"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 45s***"
+	{
+		"chi"		"** **"
+	}
+	"***Wait for 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Paladin Shild Oath"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 70s***"
+	{
+		"chi"		"** **"
+	}
+	"***30 seconds to Active Nymian Device***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold this position 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold this position 60 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Heavens Fall***"
+	{
+		"chi"		"** **"
+	}
+	"***Go to the Escape Elevator Tower***"
+	{
+		"chi"		"** **"
+	}
+	"***20 seconds to Active Nymian Device***"
+	{
+		"chi"		"** **"
+	}
+	"***30 seconds to Activate Escape Elevator***"
+	{
+		"chi"		"** **"
+	}
+	"***Ravana Used Stop***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Level:Heavens Ward***"
+	{
+		"chi"		"** **"
+	}
+	"***Level:Heavens Ward***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold this position 40 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***20 seconds to Activate Elevator"
+	{
+		"chi"		"** **"
+	}
+	"***30 seconds to Activate Elevator***"
+	{
+		"chi"		"** **"
+	}
+	"***30 seconds to Break Wall***"
+	{
+		"chi"		"** **"
+	}
+	"***40 seconds to Activate Telepoter"
+	{
+		"chi"		"** **"
+	}
+	"***Bahamut Prime appeared***"
+	{
+		"chi"		"** **"
+	}
+	"***Bahamut Prime has casting now***"
+	{
+		"chi"		"** **"
+	}
+	"***Akh Morn***"
+	{
+		"chi"		"** **"
+	}
+	"*** 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"***ADS Attack***"
+	{
+		"chi"		"** **"
+	}
+	"***shoot ADS and Zombies***"
+	{
+		"chi"		"** **"
+	}
+	"***Tempest Wing***"
+	{
+		"chi"		"** **"
+	}
+	"***Flare***"
+	{
+		"chi"		"** **"
+	}
+	"***Earth Shaker***"
+	{
+		"chi"		"** **"
+	}
+	"***Bahamut Prime died***"
+	{
+		"chi"		"** **"
+	}
+	"***Go to the Escape Elevator***"
+	{
+		"chi"		"** **"
+	}
+	"***Elevator Gravity ON***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold this position to 15 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Jump!***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Bird Armys Paeon***"
 	{
 		"chi"		"** **"
 	}
