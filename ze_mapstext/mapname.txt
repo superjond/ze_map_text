@@ -748,17 +748,9 @@
 	{
 		"chi"		"工业循环"
 	}
-	"ze_gris_a4_9_6"
-	{
-		"chi"		"创世E"
-	}
 	"ze_noir_p1"
 	{
 		"chi"		"黑暗工厂"
-	}
-	"ze_reloaded_v1_e10"
-	{
-		"chi"		"合金装备"
 	}
 	"ze_sorrento_escape_v1"
 	{
@@ -828,10 +820,6 @@
 	{
 		"chi"		"最终幻想12：西沙"
 	}
-	"ze_ffxiv_wanderers_palace_v1_4_fix2"
-	{
-		"chi"		"最终幻想14：流浪者宫殿"
-	}
 	"ze_ffxii_paramina_rift_v1_7"
 	{
 		"chi"		"最终幻想12：帕拉米娅"
@@ -840,7 +828,7 @@
 	{
 		"chi"		"圣诞节"
 	}
-	"ze_gris_a4_9_7"
+	"ze_gris_a4_9_8"
 	{
 		"chi"		"创世E"
 	}
@@ -848,8 +836,20 @@
 	{
 		"chi"		"雕刻天堂"
 	}
-	"ze_fapescape_rote_b1"
+	"ze_fapescape_rote_b2"
 	{
 		"chi"		"乐高大逃亡：噩梦陷阱"
+	}
+	"ze_ffxiv_wanderers_palace_v2_b6"
+	{
+		"chi"		"最终幻想14：流浪者宫殿"
+	}
+	"ze_bioshock_v1_6_1"
+	{
+		"chi"		"生化奇兵"
+	}
+	"ze_reloaded_v1_e7"
+	{
+		"chi"		"合金装备"
 	}
 }
