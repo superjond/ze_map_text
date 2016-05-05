@@ -252,11 +252,11 @@
 	}
 	"***A player picked up Summoner Shadow Flare***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拾取了学者：暗影核爆**"
 	}
 	"***Recast 60s***"
 	{
-		"chi"		"** **"
+		"chi"		"**冷却60秒**"
 	}
 	"***A player picked up Black Mage Flare***"
 	{
@@ -288,11 +288,11 @@
 	}
 	"***A player picked up Mount Night Mare***"
 	{
-		"chi"		"** **"
+		"chi"		"**一位玩家拾取了坐骑：夜魇 **"
 	}
 	"***Recast 50s***"
 	{
-		"chi"		"** **"
+		"chi"		"**50秒冷却**"
 	}
 	"***30 seconds to Active Nymian Device***"
 	{
