@@ -115,7 +115,6 @@
 	{
 		"chi"		"**20秒后门开启**"
 		"DoorCountdown"		"20"
-		
 	}
 	">>>DOOR BREAKING IN 60 SECS<<<"
 	{
@@ -223,5 +222,41 @@
 	"*** HEAL !!!***"
 	{
 		"chi"		"**治疗！！！**"
+	}
+	">>> NICELY DONE !! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> NOW GET THE HELL OUT OF HERE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> RUN TO THE FINAL ROOM <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> AND DEFEND UNTIL TELEPORT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 90 SECS LEFT !!! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 30 SECS LEFT !!! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> 10 SECS LEFT !!! <<<"
+	{
+		"chi"		"** **"
+	}
+	"** WE SECURED ROOT THREE **"
+	{
+		"chi"		"** **"
+	}
+	">>>BACK TO ROOT ONE<<<"
+	{
+		"chi"		"** **"
 	}
 }

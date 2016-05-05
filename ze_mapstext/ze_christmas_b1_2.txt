@@ -4,4 +4,32 @@
 	{
 		"chi"		"** **"
 	}
+	">> Map by Taskuvaras  Fixed with Moltard <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: 1 <<"
+	{
+		"chi"		"** **"
+	}
+	"***Door opening in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold here for 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***The train is stuck and wont start***"
+	{
+		"chi"		"** **"
+	}
+	"***Take the left path***"
+	{
+		"chi"		"** **"
+	}
+	"***Defend until we open the gate***"
+	{
+		"chi"		"** **"
+	}
 }

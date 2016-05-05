@@ -892,7 +892,7 @@
 	{
 		"chi"		"** **"
 	}
-	"*** 5 seconds left ***"
+	"*** 5 SECONDS LEFT ***"
 	{
 		"chi"		"** **"
 	}
@@ -1101,6 +1101,14 @@
 		"chi"		"** **"
 	}
 	"*** HE ISNT HERE...?***"
+	{
+		"chi"		"** **"
+	}
+	"CRASHER : You cant kill me forever !!!!"
+	{
+		"chi"		"** **"
+	}
+	"*** CRASHER HEALED 70 HP ***"
 	{
 		"chi"		"** **"
 	}
