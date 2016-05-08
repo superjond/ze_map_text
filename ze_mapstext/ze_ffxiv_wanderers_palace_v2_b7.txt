@@ -1,0 +1,195 @@
+"Console_T"
+{
+	"***10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Level A Realm Reborn***"
+	{
+		"chi"		"** **"
+	}
+	"***Skill Unlocked***"
+	{
+		"chi"		"** **"
+	}
+	"***Level:A Realm Reborn***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Summoner Shadow Flare***"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 60s***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Black Mage Flare***"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 45s***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Bird Armys Paeon***"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 90s***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Paladin Shild Oath"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 70s***"
+	{
+		"chi"		"** **"
+	}
+	"***Wait for 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up Mount Night Mare***"
+	{
+		"chi"		"** **"
+	}
+	"***Recast 50s***"
+	{
+		"chi"		"** **"
+	}
+	"***30 seconds to Active Nymian Device***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold this position 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold this position 60 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Heavens Fall***"
+	{
+		"chi"		"** **"
+	}
+	"***Go to the Escape Elevator Tower***"
+	{
+		"chi"		"** **"
+	}
+	"***20 seconds to Active Nymian Device***"
+	{
+		"chi"		"** **"
+	}
+	"***30 seconds to Activate Escape Elevator***"
+	{
+		"chi"		"** **"
+	}
+	"***Ravana Used Stop***"
+	{
+		"chi"		"** **"
+	}
+	"***Next Level:Heavens Ward***"
+	{
+		"chi"		"** **"
+	}
+	"***Level:Heavens Ward***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold this position 40 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***20 seconds to Activate Elevator"
+	{
+		"chi"		"** **"
+	}
+	"***30 seconds to Activate Elevator***"
+	{
+		"chi"		"** **"
+	}
+	"***30 seconds to Break Wall***"
+	{
+		"chi"		"** **"
+	}
+	"***40 seconds to Activate Telepoter"
+	{
+		"chi"		"** **"
+	}
+	"***A player picked up White Mage Benediction***"
+	{
+		"chi"		"** **"
+	}
+	"***Bahamut Prime appeared***"
+	{
+		"chi"		"** **"
+	}
+	"***Bahamut Prime has casting now***"
+	{
+		"chi"		"** **"
+	}
+	"***Akh Morn***"
+	{
+		"chi"		"** **"
+	}
+	"*** 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"***Tempest Wing***"
+	{
+		"chi"		"** **"
+	}
+	"***ADS Attack***"
+	{
+		"chi"		"** **"
+	}
+	"***shoot ADS and Zombies***"
+	{
+		"chi"		"** **"
+	}
+	"***Earth Shaker***"
+	{
+		"chi"		"** **"
+	}
+	"***Bahamut Prime died***"
+	{
+		"chi"		"** **"
+	}
+	"***Go to the Escape Elevator***"
+	{
+		"chi"		"** **"
+	}
+	"***Elevator Gravity ON***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold this position to 15 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Jump!***"
+	{
+		"chi"		"** **"
+	}
+	"***Flare***"
+	{
+		"chi"		"** **"
+	}
+	"***The Wanderers Palace Clear to 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+}

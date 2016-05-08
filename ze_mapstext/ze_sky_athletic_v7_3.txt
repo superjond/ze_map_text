@@ -1112,4 +1112,80 @@
 	{
 		"chi"		"** **"
 	}
+	"CRASHER :HAHAHA!!! Whats the taste of this !!!?!?!?!"
+	{
+		"chi"		"** **"
+	}
+	"CRASHER :Its over !!!!!!!!!!!!! HAHAHAHAHAHHAHHHHHH !!!!!!"
+	{
+		"chi"		"** **"
+	}
+	"????? :That you wont !!!"
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :Dont take hand for them !!"
+	{
+		"chi"		"** **"
+	}
+	"CRASHER :HAHAHA !!! You cant kill me whatever you do anything !!!!!!"
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :I dont forgot this thing. See you again...."
+	{
+		"chi"		"** **"
+	}
+	"*** Anti bhop DISABLED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Screen trigger ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TIME UP !! Someone go to the goal !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** You have 10 seconds to select the level ***"
+	{
+		"chi"		"** **"
+	}
+	"*** All kill in 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** All kill in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Stage3 button PRESSED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Marathon mode button PRESSED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Stage2 button PRESSED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Stage1 button PRESSED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Stage2:EXTREME button PRESSED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Stage3: EXTREME button PRESSED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Stage1:EXTREME button PRESSED ***"
+	{
+		"chi"		"** **"
+	}
 }

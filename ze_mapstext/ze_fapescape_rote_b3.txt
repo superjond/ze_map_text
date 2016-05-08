@@ -1,0 +1,7 @@
+"Console_T"
+{
+	"*** It has 8 uses ***"
+	{
+		"chi"		"** **"
+	}
+}

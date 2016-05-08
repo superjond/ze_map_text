@@ -63,7 +63,7 @@
 	">>>Left-Lock closing in 5 seconds<<<"
 	{
 		"chi"		"**左边的大门 5 秒后关闭**腿短的还不快切刀跑。**"
-                "DoorCountdown"                "15"
+		"DoorCountdown"		"15"
 	}
 	">>>Right-Lock closing in 5 seconds<<<"
 	{
@@ -80,7 +80,7 @@
 	">>>Lambda-shuttle departing in 15 seconds<<<"
 	{
 		"chi"		"**λ穿梭机将于 15 秒后起飞**"
-                "DoorCountdown"                "15"
+		"DoorCountdown"		"15"
 	}
 	">>>!3!<<<"
 	{
@@ -102,5 +102,8 @@
 	{
 		"chi"		"**死星将于 5 秒后爆炸！**"
 	}
-
+	">>>May the force be with you!<<<"
+	{
+		"chi"		"** **"
+	}
 }

@@ -114,6 +114,6 @@
 	}
 	"@[MAP] COUNTER-TERRORISTS WIN!"
 	{
-		"chi"		"** **"
+		"chi"		"**CT胜利**"
 	}
 }

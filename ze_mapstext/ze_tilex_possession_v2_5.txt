@@ -134,4 +134,8 @@
 	{
 		"chi"		"** **"
 	}
+	"Admin pressed rtv button"
+	{
+		"chi"		"** **"
+	}
 }

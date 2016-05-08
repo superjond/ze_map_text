@@ -144,4 +144,8 @@
 	{
 		"chi"		"** **"
 	}
+	"**Zombies got onboard! You have lost!**"
+	{
+		"chi"		"** **"
+	}
 }

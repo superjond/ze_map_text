@@ -280,4 +280,8 @@
 	{
 		"chi"		"** **"
 	}
+	"*** ZOMBIES DETECTED ON THE BALLOON - INVALID VICTORY!!! ***"
+	{
+		"chi"		"** **"
+	}
 }

@@ -4,7 +4,6 @@
 	{
 		"chi"		"**原文：超级马里奥64库巴在火海 **"
 	}
-	
 	"*** WARNING : This map was ported from CS:S ***"
 	{
 		"chi"		"**警告:这张地图从CS:S移植 **"
@@ -97,7 +96,6 @@
 	{
 		"chi"		"** **"
 	}
-	
 	"*** WARNING : This map was ported from CS:S ***"
 	{
 		"chi"		"**警告:这张地图从CS:S移植 **"
@@ -170,8 +168,88 @@
 	{
 		"chi"		"**正常模式完成 **"
 	}
-	
-	
+	"*** DIFFICULTY: INSANE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LOOK AT THE SKY !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THIS IS THE PURPLE LIGHT !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** IT WILL INCREASE BOWSERS SOME ABILITIES... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIES LIFT LEAVES IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THREE PERSON NEED TO PRESS THE LIFT BUTTON ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD THEM !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NICE JOB !! ALL BUTTON ARE PRESSED BY HUMANS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LIFT WILL LEAVE IN 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LIFT WILL LEAVE IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DONT GO !!!!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TELEPORTER IS NOT ACTIVATING !!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ACTIVATING.... YOU MUST DEFENCE FOR 30 SECONDS !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TELEPORTER WILL ACTIVE IN 5 SECONDS... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO !! GO !! YOU CAN TELEPORT NOW !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** !? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OH NO !! BOWSER IS GETTING POWER FROM PURPLE LIGHT !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BOWSER IS POWERED UP !! BE CAREFUL !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RED LIGHT COMPLETED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** POWER STAR APPEARD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** A PLAYER HAS PICKED UP THE POWER STAR ***"
+	{
+		"chi"		"** **"
+	}
 }
-
-
