@@ -32,7 +32,7 @@
 	}
 	"***HOLD THE CAVE!!!!***"
 	{
-		"chi"		"**在山洞里面撑住！小心滚石！**"
+		"chi"		"**山洞里很危险！尤其要小心滚石！**"
 	}
 	"***TNT EXPLODING IN 20 SECONDS***"
 	{
@@ -52,7 +52,7 @@
 	}
 	"***AFK TELE TO CAGE IN 15 SECONDS**"
 	{
-		"chi"		"**等待 15 秒**"
+		"chi"		"**挂机的玩家将在 15 秒后关进牢笼**"
 	}
 	"***PUMPKIN HEAD HAS BEEN PICKED UP***"
 	{
@@ -89,15 +89,16 @@
 	}
 	"***TROLL FACE HAS BEEN PICKED UP***"
 	{
-		"chi"		"**吸引仇恨的头被捡起来了。（你看他那副表情你没有想揍他的冲动？）**"
+		"chi"		"**吸引仇恨的头被捡起来了。**开启嘲讽模式**"
 	}
 	"***YOU BE TROLL'IN***"
 	{
-		"chi"		"**你是欠揍的。**"
+		"chi"		"**你正在吸引仇恨**"
 	}
 	"***DEFEND FOR 35 SECONDS***"
 	{
 		"chi"		"**防守 35 秒直至矿车抵达。**"
+                "DoorCountdown"		"35"
 	}
 	"***MINE CARTS ARRIVE IN 30 SECONDS***"
 	{
@@ -125,7 +126,7 @@
 	}
 	"***GET ON TOP OF THE MINE CARTS***"
 	{
-		"chi"		"**上快车！快上矿车！对僵尸的防守不要松懈。**"
+		"chi"		"**该上车了伙计们！快上车！**"
 	}
 	"***BUNKER HAS BEEN REACHED***"
 	{
@@ -138,7 +139,7 @@
 	}
 	"***DEFEND THE RAILWAY TRACK***"
 	{
-		"chi"		"**守住铁轨，不要让僵尸冲过来，手雷扔起来。**"
+		"chi"		"**守住这条轨道**此处应有诱饵弹**"
 	}
 	"***BUNKER DOOR OPENING IN 15 SECONDS***"
 	{
@@ -170,23 +171,23 @@
 	}
 	"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND*** "
 	{
-		"chi"		"**钻石剑的所有材料已收集完毕。**"
+		"chi"		"**打造钻石剑所需要的材料已收集完毕。**"
 	}
 	"***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT*** "
 	{
-		"chi"		"**对TNT旁边的工作台按 E E**"
+		"chi"		"**使用山洞里TNT旁边的工作台来打造钻石剑**对工作台按 E 操作**"
 	}
 	"***THIS WILL CRAFT THE SWORD*** "
 	{
-		"chi"		"**将会制造出钻石剑**"
+		"chi"		"**钻石剑已经被成功打造。**"
 	}
 	"***THE SWORD HAS BEEN PICKED UP***"
 	{
-		"chi"		"**钻石剑被捡起来了。**"
+		"chi"		"**钻石剑被拾起。**击退**"
 	}
 	"***SWORD READY***"
 	{
-		"chi"		"**钻石剑准备好了。**"
+		"chi"		"**钻石剑CD恢复完毕。**"
 	}
 	"***CREEPER HEAD HAS BEEN PICKED UP***"
 	{
@@ -194,30 +195,30 @@
 	}
 	"***THE BOW HAS BEEN PICKED UP***"
 	{
-		"chi"		"** **"
+		"chi"		"**弓箭被拾起。**高伤害**"
 	}
 	"***YOU BE TROLLIN***"
 	{
-		"chi"		"** **"
+		"chi"		"**仇恨不断吸引中**"
 	}
 	"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND***"
 	{
-		"chi"		"** **"
+		"chi"		"**打造钻石剑所需要的材料已收集完毕。**"
 	}
 	"***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT***"
 	{
-		"chi"		"** **"
+		"chi"		"**使用山洞里TNT旁边的工作台来打造钻石剑**对工作台按 E 操作**"
 	}
 	"***THIS WILL CRAFT THE SWORD***"
 	{
-		"chi"		"** **"
+		"chi"		"**钻石剑已经被成功打造。**"
 	}
 	"***ZOMBIE HAVE BEEN DETECTED IN THE BOAT***"
 	{
-		"chi"		"** **"
+		"chi"		"**检测到木船上存在僵尸**"
 	}
 	"***BOAT SELF DESTRUCT!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**木船自毁装置启动**笑看各位孙杨附体**"
 	}
 }
