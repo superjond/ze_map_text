@@ -2,7 +2,7 @@
 {
 	"*** CURRENT STAGE IS 1: Overworld ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 关卡 1 ：上界 **"
 	}
 	"*** DEFEND 25 SECONDS ***"
 	{
@@ -152,6 +152,7 @@
 	"*** 20 SECONDS REMAINING ***"
 	{
 		"chi"		"** 剩余 20 秒 **"
+                "DoorCountdown"                "20"
 	}
 	"*** 10 SECONDS REMAINING ***"
 	{
@@ -201,7 +202,7 @@
 	}
 	"*** WELL DONE! NEXT DOOR IS OPENING IN 30SEC ***"
 	{
-		"chi"		"** 干的漂亮！墙壁将在 30 秒后破碎，在这之前继续蹂躏僵尸！ **(门开以后，新手推荐下楼右拐！）"
+		"chi"		"** 干的漂亮！墙壁将在 30 秒后破裂，在这之前继续蹂躏僵尸！ **(门开以后，新手推荐下楼右拐！）"
 		"DoorCountdown"		"30"
 	}
 	"*** NEXT DOOR OPENS IN 20 SECONDS ***"
@@ -212,7 +213,7 @@
 	}
 	"*** FIND A WAY TO OPEN THIS DOOR ***"
 	{
-		"chi"		"** 寻找一种打开这个门的办法 **（打烂大门左右两边铁块正对着的墙壁，丢掉手枪去拿红石火把，再将红石火把丢在铁块上，最好3个全拿走）"
+		"chi"		"** 寻找一种打开这个门的办法 **（打烂大门左右两边铁块正对着的墙壁，丢手枪拿火把，将红石火把丢在铁块上，最好3个全拿走）"
 	}
 	"*** THIS SHOULD WORK ***"
 	{
@@ -220,7 +221,7 @@
 	}
 	"*** FIND REDSTONE TORCHES AND PUT THEM IN PLACE TO OPEN THE DOOR ***"
 	{
-		"chi"		"** 找到红石火把，继续将它们放在铁块上 **（不要尝试去拿平台上的那手枪，其他人接着防守僵尸）"
+		"chi"		"** 找到红石火把，继续将它们放在铁块上 **（不要尝试去拿平台上的那手枪，因为地板会塌）"
 	}
 	"*** Door is Opening ***"
 	{
@@ -281,7 +282,7 @@
 	}
 	"*** RUN INTO DESERT AND RESIST FOR A WHILE ***"
 	{
-		"chi"		"** 进入沙漠并防守一段时间 **（推荐沿着河岸走）"
+		"chi"		"** 进入沙漠并防守一段时间 **（上山丘防守）"
 	}
 	"Eye of ender fell into ocean! We better go and explore caves beneath ugly looking spanish house."
 	{
@@ -289,11 +290,11 @@
 	}
 	"*** RUN INTO HOUSE ***"
 	{
-		"chi"		"** 进入那个小屋 **（小屋楼上有神器）"
+		"chi"		"** 进入那个小屋 **（小屋3楼需要防守）"
 	}
 	"*** RESIST FOR 30 SECONDS ***"
 	{
-		"chi"		"** 防守 30 秒 **（不要上楼）"
+		"chi"		"** 防守 30 秒 **（逃生路线在1楼）"
 		"DoorCountdown"		"30"
 	}
 	"*** FALL BACK 5 SECONDS REMAINING ***"
@@ -342,11 +343,11 @@
 	}
 	"*** HEROBRINE! KILL HIM! ***"
 	{
-		"chi"		"** 是Herobrine！快杀了他！**（逗你玩）"
+		"chi"		"** 是Herobrine！快杀了他！**"
 	}
 	"*** HE'S RUNNING AWAY! ***"
 	{
-		"chi"		"** Herobrine正在逃跑！**（接着逗你玩）"
+		"chi"		"** Herobrine正在逃跑！**"
 	}
 	"*** CONGRATULATIONS YOU HAVE BEATEN THE MAP ***"
 	{
@@ -358,30 +359,32 @@
 	}
 	"*** Thanks for playing! ***"
 	{
-		"chi"		"** 感谢您的试玩 **"
+		"chi"		"** 感谢您的体验 **"
 	}
 	"*** RESIST 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 抵抗 30 秒 **"
+                "DoorCountdown"                "30"
 	}
 	"*** KILL ZOMBIES ON TOP!  ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 开枪打僵尸不要停！ **"
 	}
 	"*** WELL DONE! NEXT DOOR OPENS IN 5 SEC ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 干得漂亮！下一道门将在 5 秒后打开 **"
+                "DoorCountdown"                "5"
 	}
 	"Hes watching you..."
 	{
-		"chi"		"** **"
+		"chi"		"** 他正在看着你...**"
 	}
 	"*** HES RUNNING AWAY! ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 他正在逃跑！ **"
 	}
 	"*** Map made by Cuniczek ***"
 	{
-		"chi"		"** **"
+		"chi"		"** 地图制作 by Cuniczek 地图翻译 by 色狼领袖 **"
 	}
 }
