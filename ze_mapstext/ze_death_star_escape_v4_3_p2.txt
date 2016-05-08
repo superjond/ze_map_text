@@ -104,6 +104,6 @@
 	}
 	">>>May the force be with you!<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**愿上帝与你同在！**"
 	}
 }
