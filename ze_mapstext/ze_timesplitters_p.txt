@@ -2,15 +2,16 @@
 {
 	"## Doors Will Open in 30 Seconds ##"
 	{
-		"chi"		"**将在 30 秒后打开大门    不要贴边！**"
+		"chi"		"**将在 30 秒后打开大门**不要贴边！**"
+                "DoorCountdown"                "30"
 	}
 	"## Doors Will Open in 10 Seconds ##"
 	{
-		"chi"		"**将在 10 秒后打开大门   对僵尸的防御不要松懈！不要贴边！**"
+		"chi"		"**将在 10 秒后打开大门**对僵尸的防御不要松懈！不要贴边！**"
 	}
 	"## Doors Will Open in 5 Seconds ##"
 	{
-		"chi"		"**将在 5 秒后打开大门    坚持！僵尸即将传送！**"
+		"chi"		"**将在 5 秒后打开大门**坚持！僵尸即将传送！**"
 	}
 	"## Doors Open RUN ##"
 	{
@@ -18,7 +19,8 @@
 	}
 	"## Lift Leaving in 30 Seconds ##"
 	{
-		"chi"		"**电梯 30 秒后启动！**"
+		"chi"		"**电梯 30 秒后启动！**" 
+                "DoorCountdown"                "30"
 	}
 	"## Lift Leaving in 10 Seconds ##"
 	{
@@ -26,7 +28,7 @@
 	}
 	"## Lift Leaving in 5 Seconds ##"
 	{
-		"chi"		"**电梯 5 秒后启动！        不要勉强去拿神器！**"
+		"chi"		"**电梯 5 秒后启动!**技术不行不要勉强去拿神器！**"
 	}
 	"## Lift Leaving ##"
 	{
@@ -34,15 +36,16 @@
 	}
 	"## Careful of the collapsing Floor! ##"
 	{
-		"chi"		"**小心地板崩裂！！掩护掉下去的队友！**"
+		"chi"		"**小心地板崩裂！！**掩护掉下去的队友！**"
 	}
 	"## Trap Door Opening in 30 Seconds ##"
 	{
-		"chi"		"**地洞将在 30 秒后打开！   不要踩到淡蓝色地板！**"
+		"chi"		"**地洞将在 30 秒后打开！**踩到淡蓝色地板将会被传送**"
+                "DoorCountdown"                "30"
 	}
 	"## Trap Door Opening in 10 Seconds ##"
 	{
-		"chi"		"**地洞将在 10 秒后打开！   对僵尸的防守不要松懈！**"
+		"chi"		"**地洞将在 10 秒后打开！**对僵尸的防守不要松懈！**"
 	}
 	"## Trap Door Opening in 5 Seconds ##"
 	{
@@ -55,6 +58,7 @@
 	"##Door Opens 40 Seconds##"
 	{
 		"chi"		"**玻璃墙将在 40 秒后消失！**"
+                "DoorCountdown"                "40"
 	}
 	"##Each Block will turn red when a zombie is in the corridor##"
 	{
@@ -71,6 +75,7 @@
 	"##Door Opens 20 Seconds##"
 	{
 		"chi"		"**玻璃墙将在 20 秒后消失！**"
+                "DoorCountdown"                "20"
 	}
 	"##Door Opens 10 Seconds##"
 	{
@@ -78,19 +83,20 @@
 	}
 	"##Door Open RUNNN##"
 	{
-		"chi"		"**玻璃墙消失！！撤退！    僵尸有空气墙挡着放心跑！**"
+		"chi"		"**玻璃墙消失！！撤退！**僵尸有空气墙挡着放心跑！**"
 	}
 	"##Door Opening in 25 Seconds Defend!##"
 	{
-		"chi"		"**大门将于 25 秒后打开！         注意跳跃缺口！**"
+		"chi"		"**大门将于 25 秒后打开！**注意跳跃缺口！**" 
+                "DoorCountdown"                "25"
 	}
 	"##Door Opening in 10 Seconds Defend!##"
 	{
-		"chi"		"**大门将于 10 秒后打开！        防守僵尸不要让僵尸跳过来!**"
+		"chi"		"**大门将于 10 秒后打开！**防守僵尸不要让僵尸跳过来!**"
 	}
 	"##Door Open FALL BACK##"
 	{
-		"chi"		"**大门开启！           撤退到里面小口防守！！小心密道僵尸！**"
+		"chi"		"**大门开启!**撤退到里面小口防守！！小心密道僵尸！**"
 	}
 	"## Final Door Opening 40 Seconds ##"
 	{
@@ -115,11 +121,11 @@
 	}
 	"## Door Open Run ##"
 	{
-		"chi"		"**最后的大门开启！      快进去防守！！火力不要松懈！**"
+		"chi"		"**最后的大门开启！**快进去防守！！火力不要松懈！**"
 	}
 	"## Boss Room Door Closing 10 Seconds ##"
 	{
-		"chi"		"**Boss房间的大门将于 10 秒后关闭！保持活力！**"
+		"chi"		"**Boss房间的大门将于 10 秒后关闭！保持火力！**"
 	}
 	"## All Players if not in the boss room will be teleported ##"
 	{
@@ -127,11 +133,10 @@
 	}
 	"## Boss Room Door Closing 5 Seconds ##"
 	{
-		"chi"		"**Boss房间的大门将于 5 秒后关闭！       不要站在房间内有红光的区域！**"
+		"chi"		"**Boss房间的大门将于 5 秒后关闭！**不要站在房间内有红光的区域！**"
 	}
 	"## Boss Room Door Closed...Prepare for BATTLE ##"
-	{
-		"chi"		"**Boss房间的大门关闭！...准备战斗！     拿出你们的手雷再出闪电时朝闪电丢去！**"
+		"chi"		"**Boss房间的大门关闭！...准备战斗！**拿出你们的手雷在出闪电时朝闪电丢去！**"
 	}
 	"## REAPER SPLITTER KILL IT ##"
 	{
@@ -143,7 +148,7 @@
 	}
 	"## Reaper Splitter Killed ESCAPE ##"
 	{
-		"chi"		"**杀掉了Boss准备逃脱！       进入闪电！进入闪电后松开 W ，注意脚下！**"
+		"chi"		"**杀掉了Boss准备逃脱！** 进入闪电后松开 W ，看清楚脚下的路！**"
 	}
 	"## Zombies will be released in 10 Seconds ##"
 	{
@@ -151,18 +156,18 @@
 	}
 	"## 15 Seconds to reach SafeZone ##"
 	{
-		"chi"		"** 15 秒后处死Boss房间的所有玩家！      注意防守僵尸！**"
+		"chi"		"** 15 秒后处死Boss房间的所有玩家！**一大波僵尸正在袭来！**"
 	}
 	"## 5 Seconds to reach SafeZone ##"
 	{
-		"chi"		"** 5 秒后处死Boss房间的所有玩家！         将僵尸打到水下！**"
+		"chi"		"** 5 秒后处死Boss房间的所有玩家！**将僵尸打到水下！**"
 	}
 	"## END GAME ##"
 	{
-		"chi"		"**游戏结束！    地图制作 by         地图翻译 by 色狼领袖**"
+		"chi"		"**游戏结束！**地图翻译 by 色狼领袖**"
 	}
 	"##You Lost##"
 	{
-		"chi"		"** **"
+		"chi"		"**你们失败了！**"
 	}
 }
