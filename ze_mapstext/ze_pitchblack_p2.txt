@@ -7,6 +7,7 @@
 	"*** Defend for 30s. ***"
 	{
 		"chi"		"** 防守 30 秒 **"
+		"DoorCountdown"		"30"
 	}
 	"***You must reach the skiff to escape the planet!! stay near the flares to help avoid being picked off***"
 	{
@@ -15,10 +16,12 @@
 	"***Outpost Door opens in 20s***"
 	{
 		"chi"		"** 大门将在 20 秒后开启 **"
+		"DoorCountdown"		"20"
 	}
 	"*** Hold here for 30s ***"
 	{
 		"chi"		"** 坚守 30 秒 **"
+		"DoorCountdown"		"30"
 	}
 	"***Cowards board the skiff... HEROS STAY BEHIND TO FIGHT TO THE DEATH :D!!!***"
 	{
