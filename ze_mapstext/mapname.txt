@@ -836,11 +836,11 @@
 	{
 		"chi"		"雕刻天堂"
 	}
-	"ze_fapescape_rote_b2"
+	"ze_fapescape_rote_v1"
 	{
 		"chi"		"乐高大逃亡：噩梦陷阱"
 	}
-	"ze_ffxiv_wanderers_palace_v2_b6"
+	"ze_ffxiv_wanderers_palace_v2_b7"
 	{
 		"chi"		"最终幻想14：流浪者宫殿"
 	}
@@ -852,4 +852,11 @@
 	{
 		"chi"		"合金装备"
 	}
+	"ze_mountain_escape_snow_v1"
+	{
+		"chi"		"爬山"
+	}
+	
+	
+	
 }
