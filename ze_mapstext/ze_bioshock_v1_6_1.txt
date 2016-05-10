@@ -756,4 +756,88 @@
 	{
 		"chi"		"** **"
 	}
+	"*ATLAS: We need  to overload the hephaestus core*"
+	{
+		"chi"		"** **"
+	}
+	"*ATLAS: In order to do that we need a bomb*"
+	{
+		"chi"		"** **"
+	}
+	"*ATLAS: We need:*"
+	{
+		"chi"		"** **"
+	}
+	"*3x R-34 Wires from Bouncer corpses*"
+	{
+		"chi"		"** **"
+	}
+	"*4x Ionic Gel Canisters*"
+	{
+		"chi"		"** **"
+	}
+	"*1x Nitroglycerine module*"
+	{
+		"chi"		"** **"
+	}
+	"*ATLAS: Find what we need and take it to Kyburz office*"
+	{
+		"chi"		"** **"
+	}
+	"***90 seconds left to build the bomb***"
+	{
+		"chi"		"** **"
+	}
+	"***60 seconds left to build the bomb***"
+	{
+		"chi"		"** **"
+	}
+	"*Bomb is ready! Take it to the core!*"
+	{
+		"chi"		"** **"
+	}
+	"*Bomb ready for collection*"
+	{
+		"chi"		"** **"
+	}
+	"***Bomb obtained. Take it to the core!***"
+	{
+		"chi"		"** **"
+	}
+	"***30 seconds left to build the bomb***"
+	{
+		"chi"		"** **"
+	}
+	"***ATLAS: Would you kindly set that bomb!***"
+	{
+		"chi"		"** **"
+	}
+	"*Ryans Office is now unlocked*"
+	{
+		"chi"		"** **"
+	}
+	"***Rapture Control: Elevator leaving in 15 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Rapture Control: Elevator leaving in 5 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Splicers are free!***"
+	{
+		"chi"		"** **"
+	}
+	"***Bathysphere door opens in 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***This is it! Defend the bathysphere for 40 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***FAILURE: You were too slow to build the bomb***"
+	{
+		"chi"		"** **"
+	}
 }

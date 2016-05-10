@@ -3,7 +3,7 @@
 	"## Doors Will Open in 30 Seconds ##"
 	{
 		"chi"		"**将在 30 秒后打开大门**不要贴边！**"
-                "DoorCountdown"                "30"
+		"DoorCountdown"		"30"
 	}
 	"## Doors Will Open in 10 Seconds ##"
 	{
@@ -19,8 +19,8 @@
 	}
 	"## Lift Leaving in 30 Seconds ##"
 	{
-		"chi"		"**电梯 30 秒后启动！**" 
-                "DoorCountdown"                "30"
+		"chi"		"**电梯 30 秒后启动！**"
+		"DoorCountdown"		"30"
 	}
 	"## Lift Leaving in 10 Seconds ##"
 	{
@@ -41,7 +41,7 @@
 	"## Trap Door Opening in 30 Seconds ##"
 	{
 		"chi"		"**地洞将在 30 秒后打开！**踩到淡蓝色地板将会被传送**"
-                "DoorCountdown"                "30"
+		"DoorCountdown"		"30"
 	}
 	"## Trap Door Opening in 10 Seconds ##"
 	{
@@ -58,7 +58,7 @@
 	"##Door Opens 40 Seconds##"
 	{
 		"chi"		"**玻璃墙将在 40 秒后消失！**"
-                "DoorCountdown"                "40"
+		"DoorCountdown"		"40"
 	}
 	"##Each Block will turn red when a zombie is in the corridor##"
 	{
@@ -75,7 +75,7 @@
 	"##Door Opens 20 Seconds##"
 	{
 		"chi"		"**玻璃墙将在 20 秒后消失！**"
-                "DoorCountdown"                "20"
+		"DoorCountdown"		"20"
 	}
 	"##Door Opens 10 Seconds##"
 	{
@@ -87,8 +87,8 @@
 	}
 	"##Door Opening in 25 Seconds Defend!##"
 	{
-		"chi"		"**大门将于 25 秒后打开！**注意跳跃缺口！**" 
-                "DoorCountdown"                "25"
+		"chi"		"**大门将于 25 秒后打开！**注意跳跃缺口！**"
+		"DoorCountdown"		"25"
 	}
 	"##Door Opening in 10 Seconds Defend!##"
 	{
@@ -135,39 +135,37 @@
 	{
 		"chi"		"**Boss房间的大门将于 5 秒后关闭！**不要站在房间内有红光的区域！**"
 	}
-	"## Boss Room Door Closed...Prepare for BATTLE ##"
-		"chi"		"**Boss房间的大门关闭！...准备战斗！**拿出你们的手雷在出闪电时朝闪电丢去！**"
-	}
+	"## Boss Room Door Closed...Prepare for BATTLE ##"		"chi"
 	"## REAPER SPLITTER KILL IT ##"
 	{
-		"chi"		"**杀死Boss -- 人头收割机**"
+		"chi"		"** **"
 	}
 	"## You have 2minutes till the boss room explodes! Kill it Quick! ##"
 	{
-		"chi"		"**你们有 120 秒的时间在Boss的房间爆炸前杀死它！**"
-	}
-	"## Reaper Splitter Killed ESCAPE ##"
-	{
-		"chi"		"**杀掉了Boss准备逃脱！** 进入闪电后松开 W ，看清楚脚下的路！**"
-	}
-	"## Zombies will be released in 10 Seconds ##"
-	{
-		"chi"		"**僵尸将在 10 秒后解放！**"
-	}
-	"## 15 Seconds to reach SafeZone ##"
-	{
-		"chi"		"** 15 秒后处死Boss房间的所有玩家！**一大波僵尸正在袭来！**"
-	}
-	"## 5 Seconds to reach SafeZone ##"
-	{
-		"chi"		"** 5 秒后处死Boss房间的所有玩家！**将僵尸打到水下！**"
-	}
-	"## END GAME ##"
-	{
-		"chi"		"**游戏结束！**地图翻译 by 色狼领袖**"
+		"chi"		"** **"
 	}
 	"##You Lost##"
 	{
-		"chi"		"**你们失败了！**"
+		"chi"		"** **"
+	}
+	"## Reaper Splitter Killed ESCAPE ##"
+	{
+		"chi"		"** **"
+	}
+	"## 15 Seconds to reach SafeZone ##"
+	{
+		"chi"		"** **"
+	}
+	"## Zombies will be released in 10 Seconds ##"
+	{
+		"chi"		"** **"
+	}
+	"## 5 Seconds to reach SafeZone ##"
+	{
+		"chi"		"** **"
+	}
+	"## END GAME ##"
+	{
+		"chi"		"** **"
 	}
 }

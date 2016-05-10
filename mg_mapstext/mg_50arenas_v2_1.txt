@@ -388,4 +388,60 @@
 	{
 		"chi"		"** **"
 	}
+	"@ ARENA  [ 1 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 26 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS CZ75A"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 5 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SUPER POWER [ REVERSE MOTION ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS GLOCK"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS KNIFE"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 48 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 46 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T3 S2 E6 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 44 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S1 E4 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS REVOLVER"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 34 ]"
+	{
+		"chi"		"** **"
+	}
 }
