@@ -194,38 +194,38 @@
 	}
 	"***Path clear. Make your way to the other end of the base before its too late!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 传送了！寻找一条路通往潜艇！这个基地已经快不行了！ **条条大路通潜艇"
 	}
 	"***Swim to the wrecked ship. Well have to go through the hole in the hull.***"
 	{
-		"chi"		"** **"
+		"chi"		"**  游到失事的轮船上去。我们必须穿过船体上的所有洞穴.**"
 	}
 	"***Make your way to the other end of the ballroom! Theres a hole in the railing to can use to make it to the second floor!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 去舞厅的另外一端！护栏上有个洞，可以利用它到达 2 楼！**（说明说现在处于 3 楼）"
 	}
 	"***RUN! Get into the Submarine! Zombie cant get in!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 跑！进入潜水艇！僵尸无法进入！**"
 	}
 	"***We cant let them reach the surface!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 我们不能让它们到达地面！ **"
 	}
 	"***Break the glass and make your way across the ships hull.***"
 	{
-		"chi"		"** **"
+		"chi"		"** 打碎玻璃然后寻找一条通往潜艇的路 **"
 	}
 	"***The lift is out of power. Well have to go through the hole in the hull.***"
 	{
-		"chi"		"** **"
+		"chi"		"** 这个电梯已经停止运转.我们需要穿过底下的洞口. **"
 	}
 	"***If we break the weak glass we cant make it back into the base.***"
 	{
-		"chi"		"** **"
+		"chi"		"** 打破中间那扇玻璃！往前冲！**"
 	}
 	"***Thank You for Playing!!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 感谢试玩本地图！！ **"
 	}
 }
