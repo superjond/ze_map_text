@@ -22,7 +22,7 @@
 	}
 	"*** It has unlimited uses ***"
 	{
-		"chi"		"**这玩意有着无限的弹药**"
+		"chi"		"**它可以被使用无数次**"
 	}
 	"*** Player has picked up Lego Maker ***"
 	{
@@ -30,7 +30,7 @@
 	}
 	"*** It has 10 uses ***"
 	{
-		"chi"		"**乐高墙只有10个，它能抵御10次僵尸攻击**"
+		"chi"		"**它可以被使用10次**"
 	}
 	"*** Player has picked up Pushgun ***"
 	{
@@ -421,11 +421,11 @@
 	}
 	"*** ZOMBIE ON BOARD YOU FAIL ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸上来啦，你输啦**"
 	}
 	"*** ZOMBIES ON BOARD YOU FAIL! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸上来啦，你输啦**"
 	}
 	"*** It has 8 uses ***"
 	{
