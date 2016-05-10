@@ -14,15 +14,15 @@
 	}
 	"***3***"
 	{
-		"chi"		"** **"
+		"chi"		"** 3 **"
 	}
 	"***2***"
 	{
-		"chi"		"** **"
+		"chi"		"** 2 **"
 	}
 	"***1***"
 	{
-		"chi"		"** **"
+		"chi"		"** 1 **"
 	}
 	"***Good Luck!!***"
 	{
@@ -135,7 +135,7 @@
 	}
 	"***Beware K.'s SlenderMan!*** "
 	{
-		"chi"		"**小心无脸男！**"
+		"chi"		"** 小心Slender Man！ ** 出自恐怖游戏《瘦长鬼影》**"
 	}
 	"***LEVEL -- INTERSTELLAR ESCAPE 9***"
 	{
@@ -350,7 +350,7 @@
 	}
 	"***JUMP OFF!***"
 	{
-		"chi"		"**跳！！ **（别跳僵尸堆里去了...）"
+		"chi"		"** 跳！！ **（别跳僵尸堆里去了...）"
 	}
 	"***Shoot it before your knocked off!!***"
 	{
@@ -370,7 +370,7 @@
 	}
 	"***CT's will have to jump off and activate the switches!***"
 	{
-		"chi"		"** *人类你们需要勇士跳下去并到达四个角落激活机关！**"
+		"chi"		"** 人类你们需要勇士跳下去并到达四个角落激活机关！**"
 	}
 	"***Turn on all 4 to FINISH IT OFF and activate the Orb Teleport!***"
 	{
@@ -427,7 +427,7 @@
 	}
 	"***CONGRATULATIONS -- THANK YOU FOR PLAYING!!***"
 	{
-		"chi"		"** 恭喜通关 -- 谢谢你畅玩本地图！！ **（卧槽？？厉害！厉害！！）"
+		"chi"		"** 恭喜通关 -- 谢谢你试玩本地图！！ **（卧槽？？厉害！厉害！！）"
 	}
 	"***CONGRATULATIONS -- ...Wait...F---!!***"
 	{
@@ -435,62 +435,62 @@
 	}
 	"***Map by SonicTheHitManHogRelaxingWalls***"
 	{
-		"chi"		"**地图制作 By Beware K.'s SlenderMan! 翻译 By 色狼领袖**"
+		"chi"		"**地图制作 By SonicTheHitManHogRelaxingWalls 翻译 By 色狼领袖**"
 	}
 	"***Beware K.'s SlenderMan!***"
 	{
-		"chi"		"**地图制作 By Beware K.'s SlenderMan! 翻译 By 色狼领袖**"
+		"chi"		"** 小心Slender Man！ ** 出自恐怖游戏《瘦长鬼影》"
 	}
 	"***Hold off as the zombies spawn until youre teleport to 1 of the 9 maps!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 拖住僵尸，直到你传送1到9随机一张地图！**"
 	}
 	"***CTs have 120secs to escape as the temples curse spreads!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 人类有 120 秒的时间从这个被诅咒的寺庙里面逃脱！**"
 	}
 	"***The curse has reached spawn!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 诅咒正在开始蔓延！**"
 	}
 	"***Dont Delay!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 不要拖延！**"
 	}
 	"***CTs have 15secs to escape!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 人类还有 15 秒的时间逃脱！**"
 	}
 	"***Wait here till everyone else makes it!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 在这等待别人触发诅咒！**"
 	}
 	"***The curse has reached the dual arch!***"
 	{
-		"chi"		"** **"
+		"chi"		"**诅咒已经蔓延到了那两扇拱门！仔细看地板！**"
 	}
 	"***The curse has reached Monas Hallway!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 诅咒已经蔓延到了莫娜的走廊！小心那副巨大的画像！**"
 	}
 	"***Beware K.s SlenderMan!***"
 	{
-		"chi"		"** **"
+		"chi"		"** 小心Slender Man！ ** 出自恐怖游戏《瘦长鬼影》"
 	}
 	"***If the world is going to end at least youll have a warm seat!***"
 	{
-		"chi"		"** **"
+		"chi"		"**如果世界末日来临，你至少会有一个温暖的座位！**"
 	}
 	"***Take the Carpet and make your way to the escape door!***"
 	{
-		"chi"		"** **"
+		"chi"		"**乘坐魔毯到达逃生的大门！**"
 	}
 	"***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!***"
 	{
-		"chi"		"** **"
+		"chi"		"**分开两边或者聚集在一边！控制僵尸在中间的水池直到两边的水阀解锁！！**"
 	}
 	"***CTs will have to jump off and activate the switches!***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类你们需要勇士跳下去并到达四个角落激活机关！**你要相信你的队友……嗯！**"
 	}
 }
