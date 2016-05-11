@@ -1,0 +1,163 @@
+"Console_T"
+{
+	"***CURRENT MODE >>>CUSTOM<<<***"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT MODE >>>SOFA<<<***"
+	{
+		"chi"		"** **"
+	}
+	"***Break all walls and boxes with sofa***"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT MODE >>>NORMAL<<<***"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT MODE >>>BOSS<<<***"
+	{
+		"chi"		"** **"
+	}
+	"***Modified by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"***Special thanks to Bbo & Mentalspin***"
+	{
+		"chi"		"** **"
+	}
+	"***Wind picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Wind Used***"
+	{
+		"chi"		"** **"
+	}
+	"***Ice picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Ice Used***"
+	{
+		"chi"		"** **"
+	}
+	"***Barrel picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Barrel Used***"
+	{
+		"chi"		"** **"
+	}
+	"***Player picked up Radio***"
+	{
+		"chi"		"** **"
+	}
+	"***Nuke launched***"
+	{
+		"chi"		"** **"
+	}
+	"***30 seconds left***"
+	{
+		"chi"		"** **"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***5***"
+	{
+		"chi"		"** **"
+	}
+	"***4***"
+	{
+		"chi"		"** **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***Nuke impact***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport activates in few seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie teleport in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Speed Picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Break the box***"
+	{
+		"chi"		"** **"
+	}
+	"***Gate opening in 45 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***A Train is coming...***"
+	{
+		"chi"		"** **"
+	}
+	"***Train aboarded***"
+	{
+		"chi"		"** **"
+	}
+	"***5 seconds left***"
+	{
+		"chi"		"** **"
+	}
+	"***Grenade makes more damage***"
+	{
+		"chi"		"** **"
+	}
+	"***Go Back to teleport place***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport activates in 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Run!***"
+	{
+		"chi"		"** **"
+	}
+	"***You clear boss mode***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie aboarded! Failed!***"
+	{
+		"chi"		"** **"
+	}
+	"***Level Failed***"
+	{
+		"chi"		"** **"
+	}
+	"***All Boxes are broken***"
+	{
+		"chi"		"** **"
+	}
+	"***Resist for 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+}

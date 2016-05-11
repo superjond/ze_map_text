@@ -444,4 +444,68 @@
 	{
 		"chi"		"** **"
 	}
+	"@ EFFECT [ T2 S1 E3 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S1 E1 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T2 S1 E2 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S1 E2 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 47 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS HKP2000"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 45 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S2 E6 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS M4A1S"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 23 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T3 S1 E7 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T1 S1 E5 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 31 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ ARENA  [ 41 ]"
+	{
+		"chi"		"** **"
+	}
+	"@ SIMON SAYS SAWEDOFF"
+	{
+		"chi"		"** **"
+	}
+	"@ EFFECT [ T2 S2 E1 ]"
+	{
+		"chi"		"** **"
+	}
 }
