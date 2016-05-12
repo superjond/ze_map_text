@@ -604,7 +604,7 @@
 	{
 		"chi"		"日光"
 	}
-	"ze_shroomforest2_b4_e7"
+	"ze_shroomforest2_b5_e1"
 	{
 		"chi"		"蘑菇森林2"
 	}
@@ -796,7 +796,7 @@
 	{
 		"chi"		"直升机危机"
 	}
-	"ze_portal_story_v1_1"
+	"ze_portal_story_v1_2"
 	{
 		"chi"		"传送门故事"
 	}
@@ -836,11 +836,11 @@
 	{
 		"chi"		"雕刻天堂"
 	}
-	"ze_fapescape_rote_v1"
+	"ze_fapescape_rote_v1_1"
 	{
 		"chi"		"乐高大逃亡：噩梦陷阱"
 	}
-	"ze_ffxiv_wanderers_palace_v2_b7"
+	"ze_ffxiv_wanderers_palace_v2_2"
 	{
 		"chi"		"最终幻想14：流浪者宫殿"
 	}

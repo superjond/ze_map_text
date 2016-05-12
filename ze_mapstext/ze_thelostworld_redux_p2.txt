@@ -65,4 +65,8 @@
 	{
 		"chi"		"** **"
 	}
+	"** Mobile Command Center has crashed **"
+	{
+		"chi"		"** **"
+	}
 }

@@ -854,4 +854,8 @@
 	{
 		"chi"		"** **"
 	}
+	"*Hes going to use his more powerfull attack and wipe us out!*"
+	{
+		"chi"		"** **"
+	}
 }

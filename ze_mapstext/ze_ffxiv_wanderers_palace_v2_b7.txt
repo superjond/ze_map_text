@@ -384,4 +384,12 @@
 	{
 		"chi"		"** **"
 	}
+	"***10 seconds to attack of the boss***"
+	{
+		"chi"		"** **"
+	}
+	"***Attack of the boss***"
+	{
+		"chi"		"** **"
+	}
 }

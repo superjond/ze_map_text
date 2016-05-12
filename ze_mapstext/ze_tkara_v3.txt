@@ -1,4 +1,151 @@
 "Console_T"
 {
-
+	"*** Cover the windows until we find a way out of here ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Living room and kitchen windows are broken! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESIST ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GET DOWN IN THE BASEMENT NOW ***"
+	{
+		"chi"		"** **"
+	}
+	">>> Elevator Leaves in 10 seconds !! <<"
+	{
+		"chi"		"** **"
+	}
+	">>> Door Opens in 25 seconds <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> Door Opens in 15 seconds <<<"
+	{
+		"chi"		"** **"
+	}
+	"*** Facility door opens in 25 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 25 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR DOORS OPEN IN 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Doors are opening ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Elevator leaves in 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Silo doors open in 25 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STARTING THE REACTORS... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OH NO ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE REACTOR CORES ARE GOING UNSTABLE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU NEED TO MAKE YOUR WAY TO THE BUNKER BELOW SECTOR 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SECTOR 1 DOORS SHOULD OPEN SOON! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** RESIST! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THIS PLACE IS GOING TO BLOW UP IN 2 MINUTES ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TRY TO ESCAPE THROUGH THE CARGO AREA ***"
+	{
+		"chi"		"** **"
+	}
+	"*** CARGO AREA DOOR SHOULD OPEN SOON! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LAST TRAIN OUT OF HERE LEAVES IN 45 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THIS PLACE IS GOING TO BLOW UP IN 1 MINUTE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TRAIN IS LEAVING NOW ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HUMANS LOSE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIE ON THE TRAIN ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Both living room windows are broken! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THAT DIDNT SOUND GOOD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE WHOLE UNDERGROUND COMPLEX SEEMS TO EXPLODE SOON ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MAKE YOUR WAY TO THE AIRFIELD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THERE SHOULD BE A PLANE LEAVING SOON ***"
+	{
+		"chi"		"** **"
+	}
+	"*** IN 1 MINUTE THIS WHOLE PLACE BLOWS UP ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Bathroom and kitchen windows are broken! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PLANE IS READY TO LEAVE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GET ON NOW ***"
+	{
+		"chi"		"** **"
+	}
 }

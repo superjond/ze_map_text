@@ -272,4 +272,12 @@
 	{
 		"chi"		"** **"
 	}
+	"@[Map] 10 SECONDS REMAINING"
+	{
+		"chi"		"** **"
+	}
+	"@[Map] ERROR Give weapon CT&T"
+	{
+		"chi"		"** **"
+	}
 }

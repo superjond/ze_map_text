@@ -2,7 +2,7 @@
 {
 	"** MAP BY SLAYERDRAGON **"
 	{
-		"chi"		"**地图作者：SLAYERDRAGON 感谢：和平修复bug**"
+		"chi"		"**作者：SLAYERDRAGON  修复：和平**"
 	}
 	"** Map Ported By www.dashijie.es **"
 	{
@@ -39,7 +39,7 @@
 	}
 	"** A player has learned Electro magick. **"
 	{
-		"chi"		"**一名玩家捡起了闪电权杖（释放十万伏特超强电流在原地，对经过僵尸造成超强（弱）的减速）**"
+		"chi"		"**一名玩家捡起了闪电权杖**"
 	}
 	"** Cover here till the rock explodes **"
 	{
@@ -48,7 +48,7 @@
 	}
 	"** A player has learned Earth magick. **"
 	{
-		"chi"		"**一名玩家捡起了大地权杖（有使用难度萌新不要坑人，一言不合就盖人会被BAN哦）**"
+		"chi"		"**一名玩家捡起了大地权杖**"
 	}
 	"** A player has learned Fire magick. **"
 	{
@@ -56,7 +56,7 @@
 	}
 	"** A player has learned Water magick. **"
 	{
-		"chi"		"**一名玩家捡起了水花权杖（召唤一滩水.....对僵尸造成减速，表在意翻译你们懂就行）**"
+		"chi"		"**一名玩家捡起了水花权杖**"
 	}
 	"** A player has learned Heal magick. **"
 	{
@@ -141,7 +141,7 @@
 	}
 	"** A player has learned Holy magick. **"
 	{
-		"chi"		"**一名玩家捡起了holy权杖（你们对力量一无所知！毁灭吧！）**"
+		"chi"		"**一名玩家捡起了神圣权杖（你们对力量一无所知！）**"
 	}
 	"** FIRE NOVA INBOUND **"
 	{
@@ -179,7 +179,7 @@
 	}
 	"** Zombies Have Escaped **"
 	{
-		"chi"		"为什么逃脱的是僵尸"
+		"chi"		"**僵尸来袭**"
 	}
 	"[ADMIN] Selected [EPIC MODE] for next round. Restarting round in 5 seconds."
 	{
@@ -289,7 +289,7 @@
 	}
 	"** THANKS FOR PLAYING **"
 	{
-		"chi"		"**总之感谢你们的参与**"
+		"chi"		"**感谢你们参与本图**"
 	}
 	"[ZOMBIE MODE]"
 	{
@@ -323,5 +323,9 @@
 	"[ADMIN] Selected [ZOMBIE MODE] for next round. Restarting round in 5 seconds."
 	{
 		"chi"		"**管理员开启了ZM模式 5秒后开启下一轮**"
+	}
+	"[WINNER] Selected [NORMAL MODE] for next round"
+	{
+		"chi"		"** **"
 	}
 }

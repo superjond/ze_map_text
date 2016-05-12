@@ -160,4 +160,8 @@
 	{
 		"chi"		"** **"
 	}
+	"***You clear sofa mode***"
+	{
+		"chi"		"** **"
+	}
 }

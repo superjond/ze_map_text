@@ -36,7 +36,7 @@
 	{
 		"chi"		"**剩余10秒**"
 	}
-	"***5 SECONDS LEFT***"
+	"***5 seconds left***"
 	{
 		"chi"		"**剩余5秒**"
 	}
@@ -44,7 +44,7 @@
 	{
 		"chi"		"** 僵尸从梯子上爬上去！**"
 	}
-	"***Door Opening In 20 seconds***"
+	"***Door opening in 20 seconds***"
 	{
 		"chi"		"** 门将于20秒后打开**"
 	}
@@ -89,6 +89,14 @@
 		"chi"		"**升降机正在来的路上！**"
 	}
 	"***YOU MUST ACTIVATE ALL 3 BOMBS BEFORE MOVING ON***"
+	{
+		"chi"		"** **"
+	}
+	"***THE CARGO LIFT IS HERE***"
+	{
+		"chi"		"** **"
+	}
+	"***GET IN NUMBNUTS!***"
 	{
 		"chi"		"** **"
 	}
