@@ -1,5 +1,21 @@
 "Console_T"
 {
+	">> Map by Taskuvaras <<"
+	{
+		"chi"		"**地图制作：Taskuvaras 地图完整翻译：银月筱瑶 **"
+	}
+	">> Finished by Moltard <<"
+	{
+		"chi"		"**细节完善：Moltard **"
+	}
+	">>Map ported by www.dashijie.es<<"
+	{
+		"chi"		"** **"
+	}
+	"***地图由大世界移植***"
+	{
+		"chi"		"** **"
+	}
 	">> WARMUP ROUND <<"
 	{
 		"chi"		"**热身赛**"
@@ -658,6 +674,7 @@
 	}	
 	"1010 Painting Found"
 	{
-		"chi"		"**[10/10]十号绘画被发现（集齐所有触发可减缓BOSS攻击） **"		
+		"chi"		"**[10/10]十号绘画被发现（集齐所有触发可减缓BOSS攻击） **"
+	}		
 }
-}
+
