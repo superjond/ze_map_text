@@ -328,4 +328,8 @@
 	{
 		"chi"		"** **"
 	}
+	"[WINNER] Selected [GOD MODE] for next round"
+	{
+		"chi"		"** **"
+	}
 }
