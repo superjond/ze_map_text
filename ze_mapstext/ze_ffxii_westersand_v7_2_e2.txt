@@ -2,11 +2,11 @@
 {
 	"** MAP BY SLAYERDRAGON **"
 	{
-		"chi"		"**作者：SLAYERDRAGON  修复：和平**"
+		"chi"		"**作者：SLAYERDRAGON  修复：和平 移植：上古&單純**"
 	}
 	"** Map Ported By www.dashijie.es **"
 	{
-		"chi"		"**由www.dashijie.es移植 翻译by楯山文乃 修改by恋恋**"
+		"chi"		"**翻译:楯山文乃 修改:恋恋&SuperJond**"
 	}
 	"[NORMAL MODE]"
 	{
@@ -22,7 +22,7 @@
 	}
 	"** A player has learned Wind magick. **"
 	{
-		"chi"		"**一名玩家捡起了飓风权杖（召唤飓风环绕保护玩家，跟随法杖移动）**"
+		"chi"		"**一名玩家捡起了旋风权杖**"
 	}
 	"** Defend 25 seconds untill the guards open the hallway. **"
 	{
@@ -39,7 +39,7 @@
 	}
 	"** A player has learned Electro magick. **"
 	{
-		"chi"		"**一名玩家捡起了闪电权杖**"
+		"chi"		"**一名玩家捡起了雷电权杖**"
 	}
 	"** Cover here till the rock explodes **"
 	{
@@ -52,15 +52,15 @@
 	}
 	"** A player has learned Fire magick. **"
 	{
-		"chi"		"**一名玩家捡起了烈焰权杖（召唤红莲业火惩罚异性恋FFF）**"
+		"chi"		"**一名玩家捡起了烈焰权杖**"
 	}
 	"** A player has learned Water magick. **"
 	{
-		"chi"		"**一名玩家捡起了水花权杖**"
+		"chi"		"**一名玩家捡起了流水权杖**"
 	}
 	"** A player has learned Heal magick. **"
 	{
-		"chi"		"**一名玩家捡起了治疗权杖（召唤一处圣光，将队友奶成250）**"
+		"chi"		"**一名玩家捡起了治愈权杖**"
 	}
 	"** The elevator will leave in 20 seconds **"
 	{
@@ -105,7 +105,7 @@
 	}
 	"** Go to the end of the road! **"
 	{
-		"chi"		"一路跑到路的末端"
+		"chi"		"向路的尽头前进"
 	}
 	"** 50 SECS REMAINING **"
 	{
@@ -141,7 +141,7 @@
 	}
 	"** A player has learned Holy magick. **"
 	{
-		"chi"		"**一名玩家捡起了神圣权杖（你们对力量一无所知！）**"
+		"chi"		"**一名玩家捡起了神圣权杖**"
 	}
 	"** FIRE NOVA INBOUND **"
 	{
@@ -149,7 +149,7 @@
 	}
 	"** USE WATER TO DODGE IT  **"
 	{
-		"chi"		"**使用水来解决或用奶来抵抗**"
+		"chi"		"**使用水魔法来解决或用治愈魔法来抵抗**"
 	}
 	"** Cover 20 seconds till the rock explodes **"
 	{
@@ -166,7 +166,7 @@
 	}
 	"[EXTREME MODE]"
 	{
-		"chi"		"极难难度"
+		"chi"		"极难难度[EXTREME]"
 	}
 	"** Cover 30 seconds till the rock explodes **"
 	{
@@ -179,7 +179,7 @@
 	}
 	"** Zombies Have Escaped **"
 	{
-		"chi"		"**僵尸来袭**"
+		"chi"		"**你们输了**"
 	}
 	"[ADMIN] Selected [EPIC MODE] for next round. Restarting round in 5 seconds."
 	{
@@ -207,28 +207,28 @@
 	}
 	"** ZM JAIL OPEN **"
 	{
-		"chi"		"**僵尸出笼！！！**"
+		"chi"		"**僵尸牢笼解放**"
 	}
 	"** Teleporter will be ready in 20 seconds! **"
 	{
-		"chi"		"**20喵后开启传送**"
+		"chi"		"**20秒后传送至利维坦战舰**"
 		"DoorCountdown"		"20"
 	}
 	"** Teleporter will be ready in 5 seconds! **"
 	{
-		"chi"		"**5喵后开启传送**"
+		"chi"		"**5秒后传送至利维坦战舰**"
 	}
 	"** Door will open in 5 seconds **"
 	{
-		"chi"		"**大门五秒后开启**"
+		"chi"		"**大门5秒后开启**"
 	}
 	"** Second door will open in 10 seconds **"
 	{
-		"chi"		"**第二道门10喵后开启**"
+		"chi"		"**第二道门10秒后开启**"
 	}
 	"** Hold 10 more seconds!! **"
 	{
-		"chi"		"**多坚持一会！**"
+		"chi"		"**防守直到门关闭**"
 	}
 	"** Nades do more damage **"
 	{
@@ -236,19 +236,19 @@
 	}
 	"** The guardians are dead!! Run back to the entrance!! **"
 	{
-		"chi"		"**守护者已被击败从入口处返回**"
+		"chi"		"**[帝國軍士兵]已被击败，原路返回**"
 	}
 	"** The healer is down!! **"
 	{
-		"chi"		"**医疗守卫已倒下**"
+		"chi"		"**医疗卫兵已击败**"
 	}
 	"** The battlemage is down!! **"
 	{
-		"chi"		"**战斗法师已倒下**"
+		"chi"		"**战场法师已击败**"
 	}
 	"[3 WINS IN A ROW] Easteregg unlocked!"
 	{
-		"chi"		"**恭喜！条件达成。彩蛋开启！**"
+		"chi"		"**[三连胜]恭喜！条件达成，彩蛋开启**"
 	}
 	"** Congratulations - u won [EXTREME] **"
 	{
@@ -265,15 +265,15 @@
 	}
 	"** The airship reactors are going to explode!! **"
 	{
-		"chi"		"**空艇的反应堆即将爆炸**"
+		"chi"		"**利维坦战舰即将爆炸**"
 	}
 	"** CHAOS is using a deathwall - RUN FASTER!! **"
 	{
-		"chi"		"**轮回王开启了死墙，你们要加油fast!！**"
+		"chi"		"**輪廻王发动亡命之墙，往前跑**"
 	}
 	"** Chaos has been defeated - RUN !!!!! **"
 	{
-		"chi"		"**你们已经击败轮回王！**"
+		"chi"		"**人类已经击败輪廻王**"
 	}
 	"** Congratulations - u won [EPIC] **"
 	{
@@ -281,15 +281,15 @@
 	}
 	"** The dragon has been defeated! GOGOGO **"
 	{
-		"chi"		"**巨龙已被打败，GOGOGO!跳刀去！**"
+		"chi"		"**巨龙已击败**"
 	}
 	"** Congratulations - u won [GODMODE] **"
 	{
-		"chi"		"**恭喜通关GOD模式的玩家（请问有人SOLO吗,不SOLO不叫通关西沙哦）**"
+		"chi"		"**[今日送君戰沙場，明日侯君錦衣還]GOD难度 突破!**"
 	}
 	"** THANKS FOR PLAYING **"
 	{
-		"chi"		"**感谢你们参与本图**"
+		"chi"		"**感谢你们在本服务器对本图的不离不弃**"
 	}
 	"[ZOMBIE MODE]"
 	{
@@ -306,11 +306,11 @@
 	}
 	"** TELEPORTING EVERYONE TO CHOCOBORACE **"
 	{
-		"chi"		"**传送玩家到陆行鸟跑道跑道终点可获得蓝白条纹胖次一枚（其实只是能调关而已）**"
+		"chi"		"**传送开启**"
 	}
 	"** ZOMBIES RELEASED IN 2 SECS **"
 	{
-		"chi"		"**两秒僵尸释放**"
+		"chi"		"**两秒后释放僵尸**"
 	}
 	"** NUKE IN 20 SECONDS **"
 	{
@@ -326,10 +326,6 @@
 	}
 	"[WINNER] Selected [NORMAL MODE] for next round"
 	{
-		"chi"		"** **"
-	}
-	"[WINNER] Selected [GOD MODE] for next round"
-	{
-		"chi"		"** **"
+		"chi"		"**[胜利者]选择了[普通难度]作为下一轮**"
 	}
 }
